@@ -1,1 +1,125 @@
-{"sl_translate":"description,descriptionPlain,category","id":226383,"slug":"red-widow","name":"Red Widow","subtitle":null,"symbol":"Rwd","category":"Hybrid","description":"\u003cp\u003eRed Widow is a hybrid cross of \u003ca href=\"https://www.leafly.com/hybrid/red-dragon\"\u003eRed Dragon\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/hybrid/white-widow\"\u003eWhite Widow\u003c/a\u003e that produces an uplifting, euphoric high and sweet fruity aromas.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Red Widow is a hybrid cross of Red Dragon and White Widow that produces an uplifting, euphoric high and sweet fruity aromas.\u0026nbsp;\n","aka":null,"rating":3.22,"highlightedReviews":[{"id":1288755,"username":"BlackWidowWitch","text":"One of my top five all time faves. Distinctive terpine profile and smooth high. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png"},{"id":1358732,"username":"MurdafaceTexas","text":"I really like how this cannabis breaks up. A grinder really isn\u0027t necessary. Just squeeze a couple nice fluffy buds, and it breaks up perfectly to roll or load a bowl. The buds have A LOT of crystals, and I was lucky enough to of got the pick of the litter when it came to my supply, resulting in LARGE, well manicured Nuggs. More of a Sativa High, in my opinion. Lasting usually 2-3 hours. Sweet smelling bud with earthy undertones. Light green to Dark green buds with deep red/orange hairs throughout. Nice overall smoke, tasting earthy, with a lil diesel, yet sweet.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":9,"flavors":[{"name":"Tropical","score":2.2727272727272729},{"name":"Skunk","score":2.2727272727272729},{"name":"Butter","score":2.2727272727272729}],"effects":[{"name":"Happy","score":9.0909090909090917},{"name":"Uplifted","score":4.5454545454545459},{"name":"Energetic","score":4.5454545454545459},{"name":"Focused","score":4.5454545454545459},{"name":"Giggly","score":4.5454545454545459}],"symptoms":[],"conditions":[{"name":"ADD/ADHD","score":2.2727272727272729},{"name":"Anxiety","score":2.2727272727272729}],"negatives":[{"name":"Paranoid","score":2.2727272727272729}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/red-widow","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/3.22222222222222/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Red Dragon","subtitle":null,"slug":"red-dragon","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/red-dragon","symbol":"Red","applink":"leafly://strain/red-dragon"},{"name":"White Widow","subtitle":null,"slug":"white-widow","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/white-widow","symbol":"Ww","applink":"leafly://strain/white-widow"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "ADD/ADHD",
+            "score": 2.272727272727273
+        },
+        {
+            "name": "Anxiety",
+            "score": 2.272727272727273
+        }
+    ],
+    "description": "<p>Red Widow is a hybrid cross of <a href=\"https://www.leafly.com/hybrid/red-dragon\">Red Dragon</a> and <a href=\"https://www.leafly.com/hybrid/white-widow\">White Widow</a> that produces an uplifting, euphoric high and sweet fruity aromas.&nbsp;</p>\n",
+    "descriptionPlain": "Red Widow is a hybrid cross of Red Dragon and White Widow that produces an uplifting, euphoric high and sweet fruity aromas.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Happy",
+            "score": 9.090909090909092
+        },
+        {
+            "name": "Uplifted",
+            "score": 4.545454545454546
+        },
+        {
+            "name": "Energetic",
+            "score": 4.545454545454546
+        },
+        {
+            "name": "Focused",
+            "score": 4.545454545454546
+        },
+        {
+            "name": "Giggly",
+            "score": 4.545454545454546
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Tropical",
+            "score": 2.272727272727273
+        },
+        {
+            "name": "Skunk",
+            "score": 2.272727272727273
+        },
+        {
+            "name": "Butter",
+            "score": 2.272727272727273
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png",
+            "id": 1288755,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "One of my top five all time faves. Distinctive terpine profile and smooth high. ",
+            "username": "BlackWidowWitch"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1358732,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "I really like how this cannabis breaks up. A grinder really isn't necessary. Just squeeze a couple nice fluffy buds, and it breaks up perfectly to roll or load a bowl. The buds have A LOT of crystals, and I was lucky enough to of got the pick of the litter when it came to my supply, resulting in LARGE, well manicured Nuggs. More of a Sativa High, in my opinion. Lasting usually 2-3 hours. Sweet smelling bud with earthy undertones. Light green to Dark green buds with deep red/orange hairs throughout. Nice overall smoke, tasting earthy, with a lil diesel, yet sweet.",
+            "username": "MurdafaceTexas"
+        }
+    ],
+    "id": 226383,
+    "name": "Red Widow",
+    "negatives": [
+        {
+            "name": "Paranoid",
+            "score": 2.272727272727273
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/red-dragon",
+            "category": "Hybrid",
+            "name": "Red Dragon",
+            "permalink": "https://mobileapi.leafly.com/hybrid/red-dragon",
+            "slug": "red-dragon",
+            "subtitle": null,
+            "symbol": "Red"
+        },
+        {
+            "applink": "leafly://strain/white-widow",
+            "category": "Hybrid",
+            "name": "White Widow",
+            "permalink": "https://mobileapi.leafly.com/hybrid/white-widow",
+            "slug": "white-widow",
+            "subtitle": null,
+            "symbol": "Ww"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/red-widow",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 3.22,
+    "relatedStrains": [],
+    "reviewCount": 9,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "red-widow",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/3.22222222222222/240",
+    "subtitle": null,
+    "symbol": "Rwd",
+    "symptoms": [],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

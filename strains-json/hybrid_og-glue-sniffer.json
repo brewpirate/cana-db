@@ -1,1 +1,122 @@
-{"sl_translate":"description,descriptionPlain,category","id":284463,"slug":"og-glue-sniffer","name":"OG Glue Sniffer","subtitle":null,"symbol":"Gsf","category":"Hybrid","description":"\u003cp\u003eOG Glue Sniffer is an award-winning hybrid from Matanuska Thunder Seeds. Winning 1st place at the 2016 Anchorage Cannabis Classic for Best Hybrid, OG Glue Sniffer incorporates the generous \u003ca href=\"https://www.leafly.com/news/cannabis-101/what-are-trichomes-on-cannabis\"\u003etrichome\u003c/a\u003e production and pungent aroma of \u003ca href=\"https://www.leafly.com/hybrid/gorilla-glue-4\"\u003eGorilla Glue #4\u003c/a\u003e with the OG and Cookie funk of its Grateful Breath father. This loud genetic synthesis infuses the limbs with waves of warm relaxation while stimulating a strong euphoric buzz between the ears. \u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"OG Glue Sniffer is an award-winning hybrid from Matanuska Thunder Seeds. Winning 1st place at the 2016 Anchorage Cannabis Classic for Best Hybrid, OG Glue Sniffer incorporates the generous trichome production and pungent aroma of Gorilla Glue #4 with the OG and Cookie funk of its Grateful Breath father. This loud genetic synthesis infuses the limbs with waves of warm relaxation while stimulating a strong euphoric buzz between the ears. \u0026nbsp;\n","aka":null,"rating":5,"highlightedReviews":[{"id":1383076,"username":"jackatt12","text":"Definitely a strain I would smoke after work!!! It\u0027s a relaxed feeling","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png"},{"id":1612241,"username":"DabKing254","text":"Excellent high and produces heavy amounts is Rosin ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":5,"flavors":[{"name":"Pungent","score":14.285714285714285},{"name":"Diesel","score":7.1428571428571423},{"name":"Sweet","score":7.1428571428571423},{"name":"Blueberry","score":7.1428571428571423},{"name":"Strawberry","score":7.1428571428571423}],"effects":[{"name":"Sleepy","score":107.14285714285714},{"name":"Relaxed","score":107.14285714285714},{"name":"Uplifted","score":7.1428571428571423}],"symptoms":[{"name":"Insomnia","score":50},{"name":"Stress","score":50}],"conditions":[{"name":"ADD/ADHD","score":7.1428571428571423}],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Detroit, MI","Ann Arbor, MI","Burnaby, BC","Las Vegas, NV","Vancouver, BC"],"permalink":"https://mobileapi.leafly.com/hybrid/og-glue-sniffer","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Gorilla Glue #4","subtitle":null,"slug":"gorilla-glue-4","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/gorilla-glue-4","symbol":"Gg4","applink":"leafly://strain/gorilla-glue-4"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "ADD/ADHD",
+            "score": 7.142857142857142
+        }
+    ],
+    "description": "<p>OG Glue Sniffer is an award-winning hybrid from Matanuska Thunder Seeds. Winning 1st place at the 2016 Anchorage Cannabis Classic for Best Hybrid, OG Glue Sniffer incorporates the generous <a href=\"https://www.leafly.com/news/cannabis-101/what-are-trichomes-on-cannabis\">trichome</a> production and pungent aroma of <a href=\"https://www.leafly.com/hybrid/gorilla-glue-4\">Gorilla Glue #4</a> with the OG and Cookie funk of its Grateful Breath father. This loud genetic synthesis infuses the limbs with waves of warm relaxation while stimulating a strong euphoric buzz between the ears. &nbsp;</p>\n",
+    "descriptionPlain": "OG Glue Sniffer is an award-winning hybrid from Matanuska Thunder Seeds. Winning 1st place at the 2016 Anchorage Cannabis Classic for Best Hybrid, OG Glue Sniffer incorporates the generous trichome production and pungent aroma of Gorilla Glue #4 with the OG and Cookie funk of its Grateful Breath father. This loud genetic synthesis infuses the limbs with waves of warm relaxation while stimulating a strong euphoric buzz between the ears. &nbsp;\n",
+    "effects": [
+        {
+            "name": "Sleepy",
+            "score": 107.14285714285714
+        },
+        {
+            "name": "Relaxed",
+            "score": 107.14285714285714
+        },
+        {
+            "name": "Uplifted",
+            "score": 7.142857142857142
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Pungent",
+            "score": 14.285714285714285
+        },
+        {
+            "name": "Diesel",
+            "score": 7.142857142857142
+        },
+        {
+            "name": "Sweet",
+            "score": 7.142857142857142
+        },
+        {
+            "name": "Blueberry",
+            "score": 7.142857142857142
+        },
+        {
+            "name": "Strawberry",
+            "score": 7.142857142857142
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png",
+            "id": 1383076,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Definitely a strain I would smoke after work!!! It's a relaxed feeling",
+            "username": "jackatt12"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png",
+            "id": 1612241,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Excellent high and produces heavy amounts is Rosin ",
+            "username": "DabKing254"
+        }
+    ],
+    "id": 284463,
+    "name": "OG Glue Sniffer",
+    "negatives": [],
+    "parents": [
+        {
+            "applink": "leafly://strain/gorilla-glue-4",
+            "category": "Hybrid",
+            "name": "Gorilla Glue #4",
+            "permalink": "https://mobileapi.leafly.com/hybrid/gorilla-glue-4",
+            "slug": "gorilla-glue-4",
+            "subtitle": null,
+            "symbol": "Gg4"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/og-glue-sniffer",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Detroit, MI",
+        "Ann Arbor, MI",
+        "Burnaby, BC",
+        "Las Vegas, NV",
+        "Vancouver, BC"
+    ],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 5,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "og-glue-sniffer",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Gsf",
+    "symptoms": [
+        {
+            "name": "Insomnia",
+            "score": 50
+        },
+        {
+            "name": "Stress",
+            "score": 50
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

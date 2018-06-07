@@ -1,1 +1,191 @@
-{"sl_translate":"description,descriptionPlain,category","id":346,"slug":"thai-tanic","name":"Thai-Tanic","subtitle":null,"symbol":"Tt","category":"Sativa","description":"\u003cp\u003eThai-Tanic\u0026nbsp;is a very compact sativa variety\u0026nbsp;with that\u0026nbsp;classic chocolate \u003ca href=\"http://leafly.com/sativa/thai\"\u003eThai\u003c/a\u003e smell and taste. The \u003ca href=\"https://www.leafly.com/hybrid/skunk-1\"\u003eSkunk\u003c/a\u003e father dominates only in fast maturation, high yields, and general vigor. This strain from Dutch seed bank Flying Dutchmen is a heavy resin producer with an extremely potent and\u0026nbsp;trippy cerebral high.\u003c/p\u003e\n","descriptionPlain":"Thai-Tanic\u0026nbsp;is a very compact sativa variety\u0026nbsp;with that\u0026nbsp;classic chocolate Thai smell and taste. The Skunk father dominates only in fast maturation, high yields, and general vigor. This strain from Dutch seed bank Flying Dutchmen is a heavy resin producer with an extremely potent and\u0026nbsp;trippy cerebral high.\n","aka":"Thai Tanic","rating":4,"highlightedReviews":[{"id":1356657,"username":"parismichael","text":"Chocolaty taste \u0026 smell, dark in color. Super head high. Great for not doing much.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/3/240","avatar":"https://ddd33q3967xhi.cloudfront.net/lJ2VY3JcKjYut_50Yn5tnVlftCU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fGkYePhpuTiO6OltZh89O_wide-brim-purple.png"},{"id":1283769,"username":"rudierules","text":"Very nice head high, a bit jittery with morning coffee, but gets you into a focused  work mode and keeps you there for a long while. A classic sativa with lots of punch, great pain control and clarity.\n","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":13,"flavors":[{"name":"Sweet","score":2.1739130434782608},{"name":"Earthy","score":2.1739130434782608},{"name":"Woody","score":2.1739130434782608},{"name":"Spicy/Herbal","score":1.0869565217391304},{"name":"Mint","score":1.0869565217391304}],"effects":[{"name":"Uplifted","score":10.869565217391305},{"name":"Happy","score":9.7826086956521738},{"name":"Focused","score":8.695652173913043},{"name":"Euphoric","score":6.5217391304347823},{"name":"Creative","score":5.4347826086956523}],"symptoms":[{"name":"Stress","score":4.3478260869565215},{"name":"Pain","score":3.2608695652173911},{"name":"Insomnia","score":2.1739130434782608},{"name":"Fatigue","score":1.0869565217391304},{"name":"Nausea","score":1.0869565217391304}],"conditions":[{"name":"Anxiety","score":3.2608695652173911},{"name":"Migraines","score":1.0869565217391304}],"negatives":[{"name":"Dry Mouth","score":9.7826086956521738},{"name":"Dry Eyes","score":5.4347826086956523},{"name":"Paranoid","score":3.2608695652173911},{"name":"Anxious","score":2.1739130434782608},{"name":"Dizzy","score":1.0869565217391304}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/thai-tanic_100x100_c4ee.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/50934/b/thai-tanic_825x550_8044.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/thai-tanic_100x100_b575.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/19178/b/thai-tanic_825x550_86f2.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/Thai-Tanic_100x100_fikjwguz.iaz.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/2189/b/thai-tanic_825x550_oi1l3iva.smk.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/Thai-Tanic_100x100_oncxyudc.mfl.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/2183/b/thai-tanic_825x550_jkm5cgor.log.jpg"}],"photoTotalCount":4,"popularCities":[],"permalink":"https://mobileapi.leafly.com/sativa/thai-tanic","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Thai","subtitle":null,"slug":"thai","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/thai","symbol":"Tha","applink":"leafly://strain/thai"},{"name":"Skunk No. 1","subtitle":null,"slug":"skunk-1","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/skunk-1","symbol":"Sk1","applink":"leafly://strain/skunk-1"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": "Thai Tanic",
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Sativa",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 3.260869565217391
+        },
+        {
+            "name": "Migraines",
+            "score": 1.0869565217391304
+        }
+    ],
+    "description": "<p>Thai-Tanic&nbsp;is a very compact sativa variety&nbsp;with that&nbsp;classic chocolate <a href=\"http://leafly.com/sativa/thai\">Thai</a> smell and taste. The <a href=\"https://www.leafly.com/hybrid/skunk-1\">Skunk</a> father dominates only in fast maturation, high yields, and general vigor. This strain from Dutch seed bank Flying Dutchmen is a heavy resin producer with an extremely potent and&nbsp;trippy cerebral high.</p>\n",
+    "descriptionPlain": "Thai-Tanic&nbsp;is a very compact sativa variety&nbsp;with that&nbsp;classic chocolate Thai smell and taste. The Skunk father dominates only in fast maturation, high yields, and general vigor. This strain from Dutch seed bank Flying Dutchmen is a heavy resin producer with an extremely potent and&nbsp;trippy cerebral high.\n",
+    "effects": [
+        {
+            "name": "Uplifted",
+            "score": 10.869565217391305
+        },
+        {
+            "name": "Happy",
+            "score": 9.782608695652174
+        },
+        {
+            "name": "Focused",
+            "score": 8.695652173913043
+        },
+        {
+            "name": "Euphoric",
+            "score": 6.521739130434782
+        },
+        {
+            "name": "Creative",
+            "score": 5.434782608695652
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Sweet",
+            "score": 2.1739130434782608
+        },
+        {
+            "name": "Earthy",
+            "score": 2.1739130434782608
+        },
+        {
+            "name": "Woody",
+            "score": 2.1739130434782608
+        },
+        {
+            "name": "Spicy/Herbal",
+            "score": 1.0869565217391304
+        },
+        {
+            "name": "Mint",
+            "score": 1.0869565217391304
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/lJ2VY3JcKjYut_50Yn5tnVlftCU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fGkYePhpuTiO6OltZh89O_wide-brim-purple.png",
+            "id": 1356657,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/3/240",
+            "text": "Chocolaty taste & smell, dark in color. Super head high. Great for not doing much.",
+            "username": "parismichael"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png",
+            "id": 1283769,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Very nice head high, a bit jittery with morning coffee, but gets you into a focused  work mode and keeps you there for a long while. A classic sativa with lots of punch, great pain control and clarity.\n",
+            "username": "rudierules"
+        }
+    ],
+    "id": 346,
+    "name": "Thai-Tanic",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 9.782608695652174
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 5.434782608695652
+        },
+        {
+            "name": "Paranoid",
+            "score": 3.260869565217391
+        },
+        {
+            "name": "Anxious",
+            "score": 2.1739130434782608
+        },
+        {
+            "name": "Dizzy",
+            "score": 1.0869565217391304
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/thai",
+            "category": "Sativa",
+            "name": "Thai",
+            "permalink": "https://mobileapi.leafly.com/sativa/thai",
+            "slug": "thai",
+            "subtitle": null,
+            "symbol": "Tha"
+        },
+        {
+            "applink": "leafly://strain/skunk-1",
+            "category": "Hybrid",
+            "name": "Skunk No. 1",
+            "permalink": "https://mobileapi.leafly.com/hybrid/skunk-1",
+            "slug": "skunk-1",
+            "subtitle": null,
+            "symbol": "Sk1"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/sativa/thai-tanic",
+    "photoTotalCount": 4,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/50934/b/thai-tanic_825x550_8044.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/thai-tanic_100x100_c4ee.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/19178/b/thai-tanic_825x550_86f2.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/thai-tanic_100x100_b575.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/2189/b/thai-tanic_825x550_oi1l3iva.smk.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/Thai-Tanic_100x100_fikjwguz.iaz.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/2183/b/thai-tanic_825x550_jkm5cgor.log.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/Thai-Tanic_100x100_oncxyudc.mfl.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [],
+    "rating": 4,
+    "relatedStrains": [],
+    "reviewCount": 13,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "thai-tanic",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+    "subtitle": null,
+    "symbol": "Tt",
+    "symptoms": [
+        {
+            "name": "Stress",
+            "score": 4.3478260869565215
+        },
+        {
+            "name": "Pain",
+            "score": 3.260869565217391
+        },
+        {
+            "name": "Insomnia",
+            "score": 2.1739130434782608
+        },
+        {
+            "name": "Fatigue",
+            "score": 1.0869565217391304
+        },
+        {
+            "name": "Nausea",
+            "score": 1.0869565217391304
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

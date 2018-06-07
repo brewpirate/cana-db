@@ -1,1 +1,196 @@
-{"sl_translate":"description,descriptionPlain,category","id":233583,"slug":"darkside-og","name":"Darkside OG","subtitle":null,"symbol":"Dsd","category":"Indica","description":"\u003cp\u003eDarkside OG is a heavy-hitting Kush combo from \u003ca href=\"https://coloradoseedinc.com/\"\u003eColorado Seed Inc.\u003c/a\u003e With the OG parentage of \u003ca href=\"https://www.leafly.com/indica/dark-star\"\u003eDark Star\u003c/a\u003e OG x \u003ca href=\"https://www.leafly.com/hybrid/rug-burn-og\"\u003eRug Burn OG\u003c/a\u003e, this strain is a useful and sedating option. The dark, frosted buds emanate an earthy, floral aroma that lingers in the air. Enjoy this strain before bed, as Darkside OG locks the consumer\u0026nbsp;to the couch and envelopes the body in warm, calming haze.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Darkside OG is a heavy-hitting Kush combo from Colorado Seed Inc. With the OG parentage of Dark Star OG x Rug Burn OG, this strain is a useful and sedating option. The dark, frosted buds emanate an earthy, floral aroma that lingers in the air. Enjoy this strain before bed, as Darkside OG locks the consumer\u0026nbsp;to the couch and envelopes the body in warm, calming haze.\u0026nbsp;\n","aka":null,"rating":4.56,"highlightedReviews":[{"id":1398613,"username":"CheetahRider","text":"Don\u0027t let the name fool you; this strain will lift you and only take you to happy places. Perfect strain for after a long stress filled day at work. Pleasing aroma and taste are an added bonus to the overall effect of the strain. It starts off with a normal enough buzz and before you know it, you are one with the couch. As I became more and more mellow, fewer and fewer negative thoughts came to mind. Great relaxation herb. Highly recommended for those with anxiety, depression and insomnia. Come to Darkside, we have cookies.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png"},{"id":1446451,"username":"BigcuzzoJaymac","text":"1st time trying this strain was last night. Loved the high. Previous ratings hit it right on the nose. Great relaxation smoke..with a great earthly, citrus taste. Sneaks up on you \u0026 mellows you out like no other.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/tAHHcVjF5EvieYWgrsxPA0WBCr8=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fRAbBXkNBSHOIMMxhio7k_wide-brim-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":9,"flavors":[{"name":"Lemon","score":63.333333333333329},{"name":"Citrus","score":53.333333333333329},{"name":"Skunk","score":43.333333333333329},{"name":"Earthy","score":25},{"name":"Sweet","score":15}],"effects":[{"name":"Sleepy","score":78.333333333333329},{"name":"Relaxed","score":73.333333333333329},{"name":"Euphoric","score":37.5},{"name":"Hungry","score":22.5},{"name":"Happy","score":15}],"symptoms":[{"name":"Insomnia","score":45.833333333333329},{"name":"Stress","score":45.833333333333329},{"name":"Depression","score":43.333333333333329},{"name":"Lack of Appetite","score":43.333333333333329},{"name":"Fatigue","score":15}],"conditions":[{"name":"Anxiety","score":15},{"name":"Arthritis","score":12.5},{"name":"Fibromyalgia","score":12.5},{"name":"Migraines","score":12.5},{"name":"ADD/ADHD","score":10}],"negatives":[{"name":"Dry Mouth","score":55.833333333333329},{"name":"Dry Eyes","score":53.333333333333329},{"name":"Dizzy","score":48.333333333333329}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/darkside-og_100x100_d854.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/571756/b/darkside-og__primary_de4b.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/darkside-og_100x100_3d36.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/571788/b/darkside-og__primary_08b2.jpg"}],"photoTotalCount":2,"popularCities":["Montréal, QC","Vancouver, BC","Barrie, ON","Brampton, ON","Calgary, AB","Coquitlam, BC","Edmonton, AB","Fredericton, NB","Halifax, NS","Hamilton, ON"],"permalink":"https://mobileapi.leafly.com/indica/darkside-og","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.55555555555556/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Dark Star","subtitle":null,"slug":"dark-star","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/dark-star","symbol":"Dks","applink":"leafly://strain/dark-star"},{"name":"Rug Burn OG","subtitle":null,"slug":"rug-burn-og","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/rug-burn-og","symbol":"Rbo","applink":"leafly://strain/rug-burn-og"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 15
+        },
+        {
+            "name": "Arthritis",
+            "score": 12.5
+        },
+        {
+            "name": "Fibromyalgia",
+            "score": 12.5
+        },
+        {
+            "name": "Migraines",
+            "score": 12.5
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 10
+        }
+    ],
+    "description": "<p>Darkside OG is a heavy-hitting Kush combo from <a href=\"https://coloradoseedinc.com/\">Colorado Seed Inc.</a> With the OG parentage of <a href=\"https://www.leafly.com/indica/dark-star\">Dark Star</a> OG x <a href=\"https://www.leafly.com/hybrid/rug-burn-og\">Rug Burn OG</a>, this strain is a useful and sedating option. The dark, frosted buds emanate an earthy, floral aroma that lingers in the air. Enjoy this strain before bed, as Darkside OG locks the consumer&nbsp;to the couch and envelopes the body in warm, calming haze.&nbsp;</p>\n",
+    "descriptionPlain": "Darkside OG is a heavy-hitting Kush combo from Colorado Seed Inc. With the OG parentage of Dark Star OG x Rug Burn OG, this strain is a useful and sedating option. The dark, frosted buds emanate an earthy, floral aroma that lingers in the air. Enjoy this strain before bed, as Darkside OG locks the consumer&nbsp;to the couch and envelopes the body in warm, calming haze.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Sleepy",
+            "score": 78.33333333333333
+        },
+        {
+            "name": "Relaxed",
+            "score": 73.33333333333333
+        },
+        {
+            "name": "Euphoric",
+            "score": 37.5
+        },
+        {
+            "name": "Hungry",
+            "score": 22.5
+        },
+        {
+            "name": "Happy",
+            "score": 15
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Lemon",
+            "score": 63.33333333333333
+        },
+        {
+            "name": "Citrus",
+            "score": 53.33333333333333
+        },
+        {
+            "name": "Skunk",
+            "score": 43.33333333333333
+        },
+        {
+            "name": "Earthy",
+            "score": 25
+        },
+        {
+            "name": "Sweet",
+            "score": 15
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png",
+            "id": 1398613,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Don't let the name fool you; this strain will lift you and only take you to happy places. Perfect strain for after a long stress filled day at work. Pleasing aroma and taste are an added bonus to the overall effect of the strain. It starts off with a normal enough buzz and before you know it, you are one with the couch. As I became more and more mellow, fewer and fewer negative thoughts came to mind. Great relaxation herb. Highly recommended for those with anxiety, depression and insomnia. Come to Darkside, we have cookies.",
+            "username": "CheetahRider"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/tAHHcVjF5EvieYWgrsxPA0WBCr8=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fRAbBXkNBSHOIMMxhio7k_wide-brim-red.png",
+            "id": 1446451,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "1st time trying this strain was last night. Loved the high. Previous ratings hit it right on the nose. Great relaxation smoke..with a great earthly, citrus taste. Sneaks up on you & mellows you out like no other.",
+            "username": "BigcuzzoJaymac"
+        }
+    ],
+    "id": 233583,
+    "name": "Darkside OG",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 55.83333333333333
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 53.33333333333333
+        },
+        {
+            "name": "Dizzy",
+            "score": 48.33333333333333
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/dark-star",
+            "category": "Indica",
+            "name": "Dark Star",
+            "permalink": "https://mobileapi.leafly.com/indica/dark-star",
+            "slug": "dark-star",
+            "subtitle": null,
+            "symbol": "Dks"
+        },
+        {
+            "applink": "leafly://strain/rug-burn-og",
+            "category": "Hybrid",
+            "name": "Rug Burn OG",
+            "permalink": "https://mobileapi.leafly.com/hybrid/rug-burn-og",
+            "slug": "rug-burn-og",
+            "subtitle": null,
+            "symbol": "Rbo"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/darkside-og",
+    "photoTotalCount": 2,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/571756/b/darkside-og__primary_de4b.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/darkside-og_100x100_d854.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/571788/b/darkside-og__primary_08b2.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/darkside-og_100x100_3d36.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Montr\u00e9al, QC",
+        "Vancouver, BC",
+        "Barrie, ON",
+        "Brampton, ON",
+        "Calgary, AB",
+        "Coquitlam, BC",
+        "Edmonton, AB",
+        "Fredericton, NB",
+        "Halifax, NS",
+        "Hamilton, ON"
+    ],
+    "rating": 4.56,
+    "relatedStrains": [],
+    "reviewCount": 9,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "darkside-og",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.55555555555556/240",
+    "subtitle": null,
+    "symbol": "Dsd",
+    "symptoms": [
+        {
+            "name": "Insomnia",
+            "score": 45.83333333333333
+        },
+        {
+            "name": "Stress",
+            "score": 45.83333333333333
+        },
+        {
+            "name": "Depression",
+            "score": 43.33333333333333
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 43.33333333333333
+        },
+        {
+            "name": "Fatigue",
+            "score": 15
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

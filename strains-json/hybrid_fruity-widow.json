@@ -1,1 +1,156 @@
-{"sl_translate":"description,descriptionPlain,category","id":251184,"slug":"fruity-widow","name":"Fruity Widow","subtitle":null,"symbol":"Ftw","category":"Hybrid","description":"\u003cp\u003eFruity Widow by 710 Genetics is a coupling of classic \u003ca href=\"https://www.leafly.com/news/cannabis-101/cannabis-genotypes-and-phenotypes-what-makes-a-strain-unique\"\u003ephenotypes\u003c/a\u003e to create a potent union of sweet \u003ca href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\"\u003eterpenes\u003c/a\u003e and hybridized effects. 710 Genetics combined the flavorful \u003ca href=\"https://www.leafly.com/indica/blueberry\"\u003eBlueberry\u003c/a\u003e and the well-balanced, resinous \u003ca href=\"https://www.leafly.com/hybrid/white-widow\"\u003eWhite Widow\u003c/a\u003e to create an instant classic. Enjoy Fruity Widow throughout the day to enhance mood, combat depression, and spur creativity. \u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Fruity Widow by 710 Genetics is a coupling of classic phenotypes to create a potent union of sweet terpenes and hybridized effects. 710 Genetics combined the flavorful Blueberry and the well-balanced, resinous White Widow to create an instant classic. Enjoy Fruity Widow throughout the day to enhance mood, combat depression, and spur creativity. \u0026nbsp;\n","aka":null,"rating":4.88,"highlightedReviews":[{"id":1368022,"username":"mommabearskulls","text":"Nice couch melt that makes you smile while easing pain and stress. A happy go to for a movie and then sleep. Went back for more.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/8AEOnyObscLzPEdm7ERjYOUx4RU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fP4YFTRznSDCEVP7Fycg7_nerd-red.png"},{"id":1368025,"username":"Monsterkinz","text":"Very Strong, yummy strain. Keeps you feeling relaxed, happy and sharp. This is probably my new favorite.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":8,"flavors":[{"name":"Sweet","score":2.5},{"name":"Blueberry","score":2.5}],"effects":[{"name":"Relaxed","score":10},{"name":"Sleepy","score":5},{"name":"Happy","score":5},{"name":"Hungry","score":5},{"name":"Talkative","score":2.5}],"symptoms":[{"name":"Stress","score":7.5},{"name":"Lack of Appetite","score":5},{"name":"Pain","score":5},{"name":"Depression","score":2.5},{"name":"Headaches","score":2.5}],"conditions":[{"name":"ADD/ADHD","score":2.5},{"name":"Anxiety","score":2.5},{"name":"Tourette\u0027s Syndrome","score":2.5}],"negatives":[{"name":"Dry Eyes","score":2.5},{"name":"Dry Mouth","score":2.5}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/fruity-widow_100x100_347d.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/1003226/b/fruity-widow__primary_2791.jpg"}],"photoTotalCount":1,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/fruity-widow","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.875/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Blueberry","subtitle":null,"slug":"blueberry","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/blueberry","symbol":"Bry","applink":"leafly://strain/blueberry"},{"name":"White Widow","subtitle":null,"slug":"white-widow","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/white-widow","symbol":"Ww","applink":"leafly://strain/white-widow"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "ADD/ADHD",
+            "score": 2.5
+        },
+        {
+            "name": "Anxiety",
+            "score": 2.5
+        },
+        {
+            "name": "Tourette's Syndrome",
+            "score": 2.5
+        }
+    ],
+    "description": "<p>Fruity Widow by 710 Genetics is a coupling of classic <a href=\"https://www.leafly.com/news/cannabis-101/cannabis-genotypes-and-phenotypes-what-makes-a-strain-unique\">phenotypes</a> to create a potent union of sweet <a href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\">terpenes</a> and hybridized effects. 710 Genetics combined the flavorful <a href=\"https://www.leafly.com/indica/blueberry\">Blueberry</a> and the well-balanced, resinous <a href=\"https://www.leafly.com/hybrid/white-widow\">White Widow</a> to create an instant classic. Enjoy Fruity Widow throughout the day to enhance mood, combat depression, and spur creativity. &nbsp;</p>\n",
+    "descriptionPlain": "Fruity Widow by 710 Genetics is a coupling of classic phenotypes to create a potent union of sweet terpenes and hybridized effects. 710 Genetics combined the flavorful Blueberry and the well-balanced, resinous White Widow to create an instant classic. Enjoy Fruity Widow throughout the day to enhance mood, combat depression, and spur creativity. &nbsp;\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 10
+        },
+        {
+            "name": "Sleepy",
+            "score": 5
+        },
+        {
+            "name": "Happy",
+            "score": 5
+        },
+        {
+            "name": "Hungry",
+            "score": 5
+        },
+        {
+            "name": "Talkative",
+            "score": 2.5
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Sweet",
+            "score": 2.5
+        },
+        {
+            "name": "Blueberry",
+            "score": 2.5
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/8AEOnyObscLzPEdm7ERjYOUx4RU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fP4YFTRznSDCEVP7Fycg7_nerd-red.png",
+            "id": 1368022,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Nice couch melt that makes you smile while easing pain and stress. A happy go to for a movie and then sleep. Went back for more.",
+            "username": "mommabearskulls"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1368025,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Very Strong, yummy strain. Keeps you feeling relaxed, happy and sharp. This is probably my new favorite.",
+            "username": "Monsterkinz"
+        }
+    ],
+    "id": 251184,
+    "name": "Fruity Widow",
+    "negatives": [
+        {
+            "name": "Dry Eyes",
+            "score": 2.5
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 2.5
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/blueberry",
+            "category": "Indica",
+            "name": "Blueberry",
+            "permalink": "https://mobileapi.leafly.com/indica/blueberry",
+            "slug": "blueberry",
+            "subtitle": null,
+            "symbol": "Bry"
+        },
+        {
+            "applink": "leafly://strain/white-widow",
+            "category": "Hybrid",
+            "name": "White Widow",
+            "permalink": "https://mobileapi.leafly.com/hybrid/white-widow",
+            "slug": "white-widow",
+            "subtitle": null,
+            "symbol": "Ww"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/fruity-widow",
+    "photoTotalCount": 1,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/1003226/b/fruity-widow__primary_2791.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/fruity-widow_100x100_347d.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [],
+    "rating": 4.88,
+    "relatedStrains": [],
+    "reviewCount": 8,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "fruity-widow",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.875/240",
+    "subtitle": null,
+    "symbol": "Ftw",
+    "symptoms": [
+        {
+            "name": "Stress",
+            "score": 7.5
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 5
+        },
+        {
+            "name": "Pain",
+            "score": 5
+        },
+        {
+            "name": "Depression",
+            "score": 2.5
+        },
+        {
+            "name": "Headaches",
+            "score": 2.5
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

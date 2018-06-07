@@ -1,1 +1,122 @@
-{"sl_translate":"description,descriptionPlain,category","id":159855,"slug":"the-sheriff","name":"The Sheriff","subtitle":null,"symbol":"She","category":"Hybrid","description":"\u003cp\u003eThe Sheriff is a sativa-dominant hybrid cross between \u003ca href=\"https://www.leafly.com/hybrid/chemdawg-91\"\u003eChemdawg 91\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/indica/sfv-og-kush\"\u003eSFV OG Kush\u003c/a\u003e, two classic staples known for their potent cerebral euphoria. Taking after its parents, The Sheriff\u0026rsquo;s uplifting effects shake creativity and happiness awake while lending a physical relaxation conducive to rest or meditation.\u003c/p\u003e\n","descriptionPlain":"The Sheriff is a sativa-dominant hybrid cross between Chemdawg 91 and SFV OG Kush, two classic staples known for their potent cerebral euphoria. Taking after its parents, The Sheriff\u0026rsquo;s uplifting effects shake creativity and happiness awake while lending a physical relaxation conducive to rest or meditation.\n","aka":"She","rating":4,"highlightedReviews":[{"id":1187514,"username":"lescook317","text":"Clean hit, a bit of a harsh aftertaste. overall taste is good. great body high that leaves you with energy to do some around the house stuff, but prefer to relax. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/8AEOnyObscLzPEdm7ERjYOUx4RU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fP4YFTRznSDCEVP7Fycg7_nerd-red.png"},{"id":1187514,"username":"lescook317","text":"Clean hit, a bit of a harsh aftertaste. overall taste is good. great body high that leaves you with energy to do some around the house stuff, but prefer to relax. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/8AEOnyObscLzPEdm7ERjYOUx4RU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fP4YFTRznSDCEVP7Fycg7_nerd-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":1,"flavors":[{"name":"Earthy","score":6.25},{"name":"Woody","score":6.25}],"effects":[{"name":"Sleepy","score":6.25},{"name":"Uplifted","score":6.25},{"name":"Relaxed","score":6.25}],"symptoms":[{"name":"Eye Pressure","score":6.25}],"conditions":[{"name":"ADD/ADHD","score":6.25},{"name":"PTSD","score":6.25},{"name":"Bipolar Disorder","score":6.25}],"negatives":[{"name":"Dry Eyes","score":6.25}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/the-sheriff","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Chemdawg 91","subtitle":null,"slug":"chemdawg-91","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/chemdawg-91","symbol":"C91","applink":"leafly://strain/chemdawg-91"},{"name":"SFV OG Kush","subtitle":null,"slug":"sfv-og-kush","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/sfv-og-kush","symbol":"Sfk","applink":"leafly://strain/sfv-og-kush"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": "She",
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "ADD/ADHD",
+            "score": 6.25
+        },
+        {
+            "name": "PTSD",
+            "score": 6.25
+        },
+        {
+            "name": "Bipolar Disorder",
+            "score": 6.25
+        }
+    ],
+    "description": "<p>The Sheriff is a sativa-dominant hybrid cross between <a href=\"https://www.leafly.com/hybrid/chemdawg-91\">Chemdawg 91</a> and <a href=\"https://www.leafly.com/indica/sfv-og-kush\">SFV OG Kush</a>, two classic staples known for their potent cerebral euphoria. Taking after its parents, The Sheriff&rsquo;s uplifting effects shake creativity and happiness awake while lending a physical relaxation conducive to rest or meditation.</p>\n",
+    "descriptionPlain": "The Sheriff is a sativa-dominant hybrid cross between Chemdawg 91 and SFV OG Kush, two classic staples known for their potent cerebral euphoria. Taking after its parents, The Sheriff&rsquo;s uplifting effects shake creativity and happiness awake while lending a physical relaxation conducive to rest or meditation.\n",
+    "effects": [
+        {
+            "name": "Sleepy",
+            "score": 6.25
+        },
+        {
+            "name": "Uplifted",
+            "score": 6.25
+        },
+        {
+            "name": "Relaxed",
+            "score": 6.25
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Earthy",
+            "score": 6.25
+        },
+        {
+            "name": "Woody",
+            "score": 6.25
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/8AEOnyObscLzPEdm7ERjYOUx4RU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fP4YFTRznSDCEVP7Fycg7_nerd-red.png",
+            "id": 1187514,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Clean hit, a bit of a harsh aftertaste. overall taste is good. great body high that leaves you with energy to do some around the house stuff, but prefer to relax. ",
+            "username": "lescook317"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/8AEOnyObscLzPEdm7ERjYOUx4RU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fP4YFTRznSDCEVP7Fycg7_nerd-red.png",
+            "id": 1187514,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Clean hit, a bit of a harsh aftertaste. overall taste is good. great body high that leaves you with energy to do some around the house stuff, but prefer to relax. ",
+            "username": "lescook317"
+        }
+    ],
+    "id": 159855,
+    "name": "The Sheriff",
+    "negatives": [
+        {
+            "name": "Dry Eyes",
+            "score": 6.25
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/chemdawg-91",
+            "category": "Hybrid",
+            "name": "Chemdawg 91",
+            "permalink": "https://mobileapi.leafly.com/hybrid/chemdawg-91",
+            "slug": "chemdawg-91",
+            "subtitle": null,
+            "symbol": "C91"
+        },
+        {
+            "applink": "leafly://strain/sfv-og-kush",
+            "category": "Indica",
+            "name": "SFV OG Kush",
+            "permalink": "https://mobileapi.leafly.com/indica/sfv-og-kush",
+            "slug": "sfv-og-kush",
+            "subtitle": null,
+            "symbol": "Sfk"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/the-sheriff",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 4,
+    "relatedStrains": [],
+    "reviewCount": 1,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "the-sheriff",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+    "subtitle": null,
+    "symbol": "She",
+    "symptoms": [
+        {
+            "name": "Eye Pressure",
+            "score": 6.25
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

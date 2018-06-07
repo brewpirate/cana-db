@@ -1,1 +1,140 @@
-{"sl_translate":"description,descriptionPlain,category","id":276623,"slug":"honey-rock","name":"Honey Rock","subtitle":null,"symbol":"Hrk","category":"Hybrid","description":"\u003cp\u003eHoney Rock by Sumo Seeds is the product of selective breeding and the pursuit of exceptional cannabis. By crossing Super Widow (\u003ca href=\"https://www.leafly.com/hybrid/white-widow\"\u003eWhite Widow\u003c/a\u003e x \u003ca href=\"https://www.leafly.com/indica/super-skunk\"\u003eSuper Skunk\u003c/a\u003e) with Swazi Poison (Swazi x \u003ca href=\"https://www.leafly.com/sativa/durban-poison\"\u003eDurban Poison\u003c/a\u003e), Sumo Seeds created a rock-hard indica-dominant hybrid that combines landrace genetics with refined hybrids. Honey Rock\u0026rsquo;s effects are deeply soothing, offering stoney sedation and relief from aches and pains. This is not a daytime strain; the eclectic \u003ca href=\"https://www.leafly.com/news/cannabis-101/cannabinoids-101-what-makes-cannabis-medicine\"\u003ecannabinoid profile\u003c/a\u003e and overall potency make this strain one of Sumo\u0026rsquo;s heaviest.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Honey Rock by Sumo Seeds is the product of selective breeding and the pursuit of exceptional cannabis. By crossing Super Widow (White Widow x Super Skunk) with Swazi Poison (Swazi x Durban Poison), Sumo Seeds created a rock-hard indica-dominant hybrid that combines landrace genetics with refined hybrids. Honey Rock\u0026rsquo;s effects are deeply soothing, offering stoney sedation and relief from aches and pains. This is not a daytime strain; the eclectic cannabinoid profile and overall potency make this strain one of Sumo\u0026rsquo;s heaviest.\u0026nbsp;\n","aka":null,"rating":4,"highlightedReviews":[{"id":1416450,"username":"HIM916","text":"As with most Honey strains I found this hybrid to be Indica leaning,  it\u0027s a pleasant high to just relax with. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/bn1HUI7tvLyn0Fkk1dLIMSCvROQ=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fUxAMHptTuuQR3BjlU2Hc_nerd-purple.png"},{"id":1416450,"username":"HIM916","text":"As with most Honey strains I found this hybrid to be Indica leaning,  it\u0027s a pleasant high to just relax with. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/bn1HUI7tvLyn0Fkk1dLIMSCvROQ=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fUxAMHptTuuQR3BjlU2Hc_nerd-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":1,"flavors":[{"name":"Honey","score":25}],"effects":[{"name":"Hungry","score":50},{"name":"Relaxed","score":50},{"name":"Sleepy","score":25},{"name":"Tingly","score":25},{"name":"Euphoric","score":25}],"symptoms":[{"name":"Fatigue","score":50},{"name":"Eye Pressure","score":25},{"name":"Headaches","score":25},{"name":"Inflammation","score":25},{"name":"Insomnia","score":25}],"conditions":[{"name":"Anxiety","score":50}],"negatives":[{"name":"Dizzy","score":50},{"name":"Dry Mouth","score":50},{"name":"Anxious","score":25}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/honey-rock_100x100_cd1c.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/635117/b/honey-rock__primary_cc19.jpg"}],"photoTotalCount":1,"popularCities":["Montréal, QC","Vancouver, BC","Barrie, ON","Brampton, ON","Calgary, AB","Coquitlam, BC","Detroit, MI","Edmonton, AB","Fredericton, NB","Halifax, NS"],"permalink":"https://mobileapi.leafly.com/hybrid/honey-rock","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 50
+        }
+    ],
+    "description": "<p>Honey Rock by Sumo Seeds is the product of selective breeding and the pursuit of exceptional cannabis. By crossing Super Widow (<a href=\"https://www.leafly.com/hybrid/white-widow\">White Widow</a> x <a href=\"https://www.leafly.com/indica/super-skunk\">Super Skunk</a>) with Swazi Poison (Swazi x <a href=\"https://www.leafly.com/sativa/durban-poison\">Durban Poison</a>), Sumo Seeds created a rock-hard indica-dominant hybrid that combines landrace genetics with refined hybrids. Honey Rock&rsquo;s effects are deeply soothing, offering stoney sedation and relief from aches and pains. This is not a daytime strain; the eclectic <a href=\"https://www.leafly.com/news/cannabis-101/cannabinoids-101-what-makes-cannabis-medicine\">cannabinoid profile</a> and overall potency make this strain one of Sumo&rsquo;s heaviest.&nbsp;</p>\n",
+    "descriptionPlain": "Honey Rock by Sumo Seeds is the product of selective breeding and the pursuit of exceptional cannabis. By crossing Super Widow (White Widow x Super Skunk) with Swazi Poison (Swazi x Durban Poison), Sumo Seeds created a rock-hard indica-dominant hybrid that combines landrace genetics with refined hybrids. Honey Rock&rsquo;s effects are deeply soothing, offering stoney sedation and relief from aches and pains. This is not a daytime strain; the eclectic cannabinoid profile and overall potency make this strain one of Sumo&rsquo;s heaviest.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Hungry",
+            "score": 50
+        },
+        {
+            "name": "Relaxed",
+            "score": 50
+        },
+        {
+            "name": "Sleepy",
+            "score": 25
+        },
+        {
+            "name": "Tingly",
+            "score": 25
+        },
+        {
+            "name": "Euphoric",
+            "score": 25
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Honey",
+            "score": 25
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/bn1HUI7tvLyn0Fkk1dLIMSCvROQ=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fUxAMHptTuuQR3BjlU2Hc_nerd-purple.png",
+            "id": 1416450,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "As with most Honey strains I found this hybrid to be Indica leaning,  it's a pleasant high to just relax with. ",
+            "username": "HIM916"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/bn1HUI7tvLyn0Fkk1dLIMSCvROQ=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fUxAMHptTuuQR3BjlU2Hc_nerd-purple.png",
+            "id": 1416450,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "As with most Honey strains I found this hybrid to be Indica leaning,  it's a pleasant high to just relax with. ",
+            "username": "HIM916"
+        }
+    ],
+    "id": 276623,
+    "name": "Honey Rock",
+    "negatives": [
+        {
+            "name": "Dizzy",
+            "score": 50
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 50
+        },
+        {
+            "name": "Anxious",
+            "score": 25
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/hybrid/honey-rock",
+    "photoTotalCount": 1,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/635117/b/honey-rock__primary_cc19.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/honey-rock_100x100_cd1c.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Montr\u00e9al, QC",
+        "Vancouver, BC",
+        "Barrie, ON",
+        "Brampton, ON",
+        "Calgary, AB",
+        "Coquitlam, BC",
+        "Detroit, MI",
+        "Edmonton, AB",
+        "Fredericton, NB",
+        "Halifax, NS"
+    ],
+    "rating": 4,
+    "relatedStrains": [],
+    "reviewCount": 1,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "honey-rock",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+    "subtitle": null,
+    "symbol": "Hrk",
+    "symptoms": [
+        {
+            "name": "Fatigue",
+            "score": 50
+        },
+        {
+            "name": "Eye Pressure",
+            "score": 25
+        },
+        {
+            "name": "Headaches",
+            "score": 25
+        },
+        {
+            "name": "Inflammation",
+            "score": 25
+        },
+        {
+            "name": "Insomnia",
+            "score": 25
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

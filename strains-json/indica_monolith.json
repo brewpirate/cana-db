@@ -1,1 +1,140 @@
-{"sl_translate":"description,descriptionPlain,category","id":253839,"slug":"monolith","name":"Monolith","subtitle":null,"symbol":"Mnl","category":"Indica","description":"\u003cp\u003eMonolith is an indica-dominant strain with Afghan roots that stretch back to the 1980s. This indica exhibits a pungent aroma that has an earthy, herbaceous core glazed with stinky-sweet \u003ca href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\"\u003eterpenes\u003c/a\u003e powerful enough to clear a room. The onset of Monolith is surprisingly uplifting, making the consumer smile and laugh while banishing stress and anxiety from the mind. Monolith stimulates the appetite and infuses the limbs with a warm, tingly sensation. Enjoy this indica to nullify stress, curb minor physical pain, and encourage rest and relaxation. \u0026nbsp; \u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Monolith is an indica-dominant strain with Afghan roots that stretch back to the 1980s. This indica exhibits a pungent aroma that has an earthy, herbaceous core glazed with stinky-sweet terpenes powerful enough to clear a room. The onset of Monolith is surprisingly uplifting, making the consumer smile and laugh while banishing stress and anxiety from the mind. Monolith stimulates the appetite and infuses the limbs with a warm, tingly sensation. Enjoy this indica to nullify stress, curb minor physical pain, and encourage rest and relaxation. \u0026nbsp; \u0026nbsp;\n","aka":null,"rating":5,"highlightedReviews":[{"id":1385112,"username":"Josh135","text":"This is one of the few strains I know will give me a fighting shot at sleep. You would think from the smell it would be the strongest medicine ever grown. Very very pungent and not an easy smoke to hide if you have too. This is happy uplifting smoke with a great body high. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png"},{"id":1506454,"username":"patricktheindicastar","text":"It is a very good strain. The buds aren\u0027t the best or have the highest thc content but it makes one feel amazing and have a super vivid imagination. Its very relaxing but with an excitement for things. Its also not too bad of a couch glue stick for an indica. One can still get up and have fun yet be relaxed. Its not a well known strain but its a good one.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/XRYqzYK3o4q7eiqa4tRKs0rwo7Q=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fW7fVX5AQLmXra7zAGlYf_wayfarers-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":4,"flavors":[{"name":"Pungent","score":7.5},{"name":"Earthy","score":5},{"name":"Pine","score":5},{"name":"Berry","score":2.5}],"effects":[{"name":"Relaxed","score":10},{"name":"Sleepy","score":7.5},{"name":"Tingly","score":5},{"name":"Euphoric","score":5},{"name":"Focused","score":5}],"symptoms":[{"name":"Insomnia","score":5},{"name":"Lack of Appetite","score":5},{"name":"Pain","score":5},{"name":"Stress","score":5},{"name":"Depression","score":2.5}],"conditions":[{"name":"Anxiety","score":5},{"name":"ADD/ADHD","score":2.5},{"name":"Asthma","score":2.5},{"name":"Fibromyalgia","score":2.5},{"name":"Multiple Sclerosis","score":2.5}],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Pullman, WA"],"permalink":"https://mobileapi.leafly.com/indica/monolith","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 5
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 2.5
+        },
+        {
+            "name": "Asthma",
+            "score": 2.5
+        },
+        {
+            "name": "Fibromyalgia",
+            "score": 2.5
+        },
+        {
+            "name": "Multiple Sclerosis",
+            "score": 2.5
+        }
+    ],
+    "description": "<p>Monolith is an indica-dominant strain with Afghan roots that stretch back to the 1980s. This indica exhibits a pungent aroma that has an earthy, herbaceous core glazed with stinky-sweet <a href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\">terpenes</a> powerful enough to clear a room. The onset of Monolith is surprisingly uplifting, making the consumer smile and laugh while banishing stress and anxiety from the mind. Monolith stimulates the appetite and infuses the limbs with a warm, tingly sensation. Enjoy this indica to nullify stress, curb minor physical pain, and encourage rest and relaxation. &nbsp; &nbsp;</p>\n",
+    "descriptionPlain": "Monolith is an indica-dominant strain with Afghan roots that stretch back to the 1980s. This indica exhibits a pungent aroma that has an earthy, herbaceous core glazed with stinky-sweet terpenes powerful enough to clear a room. The onset of Monolith is surprisingly uplifting, making the consumer smile and laugh while banishing stress and anxiety from the mind. Monolith stimulates the appetite and infuses the limbs with a warm, tingly sensation. Enjoy this indica to nullify stress, curb minor physical pain, and encourage rest and relaxation. &nbsp; &nbsp;\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 10
+        },
+        {
+            "name": "Sleepy",
+            "score": 7.5
+        },
+        {
+            "name": "Tingly",
+            "score": 5
+        },
+        {
+            "name": "Euphoric",
+            "score": 5
+        },
+        {
+            "name": "Focused",
+            "score": 5
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Pungent",
+            "score": 7.5
+        },
+        {
+            "name": "Earthy",
+            "score": 5
+        },
+        {
+            "name": "Pine",
+            "score": 5
+        },
+        {
+            "name": "Berry",
+            "score": 2.5
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png",
+            "id": 1385112,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "This is one of the few strains I know will give me a fighting shot at sleep. You would think from the smell it would be the strongest medicine ever grown. Very very pungent and not an easy smoke to hide if you have too. This is happy uplifting smoke with a great body high. ",
+            "username": "Josh135"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/XRYqzYK3o4q7eiqa4tRKs0rwo7Q=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fW7fVX5AQLmXra7zAGlYf_wayfarers-red.png",
+            "id": 1506454,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "It is a very good strain. The buds aren't the best or have the highest thc content but it makes one feel amazing and have a super vivid imagination. Its very relaxing but with an excitement for things. Its also not too bad of a couch glue stick for an indica. One can still get up and have fun yet be relaxed. Its not a well known strain but its a good one.",
+            "username": "patricktheindicastar"
+        }
+    ],
+    "id": 253839,
+    "name": "Monolith",
+    "negatives": [],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/indica/monolith",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Pullman, WA"
+    ],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 4,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "monolith",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Mnl",
+    "symptoms": [
+        {
+            "name": "Insomnia",
+            "score": 5
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 5
+        },
+        {
+            "name": "Pain",
+            "score": 5
+        },
+        {
+            "name": "Stress",
+            "score": 5
+        },
+        {
+            "name": "Depression",
+            "score": 2.5
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

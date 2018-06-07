@@ -1,1 +1,68 @@
-{"sl_translate":"description,descriptionPlain,category","id":301391,"slug":"bubba-hash","name":"Bubba Hash","subtitle":null,"symbol":"Bhh","category":"Indica","description":"\u003cp\u003eBubba Hash by Ace Seeds is a stout indica-dominant cross of famous and familiar genetics. This strain\u0026rsquo;s spear-like \u003ca href=\"https://www.leafly.com/news/cannabis-101/cannabis-anatomy-the-parts-of-the-plant\"\u003ecolas\u003c/a\u003e and dense morphology make it ideal for indoor growers with limited space. A cross between \u003ca href=\"https://www.leafly.com/indica/katsu-bubba-kush\"\u003eKatsu Bubba\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/indica/hash-plant\"\u003eHash Plant\u003c/a\u003e, this pungent strain offers consumers a unique bouquet of hash, coffee, and petrichor alongside notes of skunk and fuel. Bubba Hash has surprisingly clear mental effects while smoothing out anxiety, pain, and restlessness.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Bubba Hash by Ace Seeds is a stout indica-dominant cross of famous and familiar genetics. This strain\u0026rsquo;s spear-like colas and dense morphology make it ideal for indoor growers with limited space. A cross between Katsu Bubba and Hash Plant, this pungent strain offers consumers a unique bouquet of hash, coffee, and petrichor alongside notes of skunk and fuel. Bubba Hash has surprisingly clear mental effects while smoothing out anxiety, pain, and restlessness.\u0026nbsp;\n","aka":null,"rating":0,"highlightedReviews":[],"relatedStrains":[],"articles":[],"reviewCount":0,"flavors":[],"effects":[],"symptoms":[],"conditions":[],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Spokane, WA","Los Angeles, CA","Newport, OR","Portland, OR","Washington, DC"],"permalink":"https://mobileapi.leafly.com/indica/bubba-hash","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/0/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Katsu Bubba Kush","subtitle":null,"slug":"katsu-bubba-kush","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/katsu-bubba-kush","symbol":"Kbk","applink":"leafly://strain/katsu-bubba-kush"},{"name":"Hash Plant","subtitle":null,"slug":"hash-plant","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/hash-plant","symbol":"Hp","applink":"leafly://strain/hash-plant"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [],
+    "description": "<p>Bubba Hash by Ace Seeds is a stout indica-dominant cross of famous and familiar genetics. This strain&rsquo;s spear-like <a href=\"https://www.leafly.com/news/cannabis-101/cannabis-anatomy-the-parts-of-the-plant\">colas</a> and dense morphology make it ideal for indoor growers with limited space. A cross between <a href=\"https://www.leafly.com/indica/katsu-bubba-kush\">Katsu Bubba</a> and <a href=\"https://www.leafly.com/indica/hash-plant\">Hash Plant</a>, this pungent strain offers consumers a unique bouquet of hash, coffee, and petrichor alongside notes of skunk and fuel. Bubba Hash has surprisingly clear mental effects while smoothing out anxiety, pain, and restlessness.&nbsp;</p>\n",
+    "descriptionPlain": "Bubba Hash by Ace Seeds is a stout indica-dominant cross of famous and familiar genetics. This strain&rsquo;s spear-like colas and dense morphology make it ideal for indoor growers with limited space. A cross between Katsu Bubba and Hash Plant, this pungent strain offers consumers a unique bouquet of hash, coffee, and petrichor alongside notes of skunk and fuel. Bubba Hash has surprisingly clear mental effects while smoothing out anxiety, pain, and restlessness.&nbsp;\n",
+    "effects": [],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [],
+    "id": 301391,
+    "name": "Bubba Hash",
+    "negatives": [],
+    "parents": [
+        {
+            "applink": "leafly://strain/katsu-bubba-kush",
+            "category": "Indica",
+            "name": "Katsu Bubba Kush",
+            "permalink": "https://mobileapi.leafly.com/indica/katsu-bubba-kush",
+            "slug": "katsu-bubba-kush",
+            "subtitle": null,
+            "symbol": "Kbk"
+        },
+        {
+            "applink": "leafly://strain/hash-plant",
+            "category": "Indica",
+            "name": "Hash Plant",
+            "permalink": "https://mobileapi.leafly.com/indica/hash-plant",
+            "slug": "hash-plant",
+            "subtitle": null,
+            "symbol": "Hp"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/bubba-hash",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Spokane, WA",
+        "Los Angeles, CA",
+        "Newport, OR",
+        "Portland, OR",
+        "Washington, DC"
+    ],
+    "rating": 0,
+    "relatedStrains": [],
+    "reviewCount": 0,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "bubba-hash",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/0/240",
+    "subtitle": null,
+    "symbol": "Bhh",
+    "symptoms": [],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

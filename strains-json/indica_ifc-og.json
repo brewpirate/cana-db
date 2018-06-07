@@ -1,1 +1,53 @@
-{"sl_translate":"description,descriptionPlain,category","id":284498,"slug":"ifc-og","name":"IFC OG","subtitle":null,"symbol":"Ifc","category":"Indica","description":"\u003cp\u003eIFC OG by Intergalatikz is a frosty indica strain with pungent terpenes and pleasantly sedating effects. Created by crossing Stardust OG and \u003ca href=\"https://www.leafly.com/hybrid/og-kush\"\u003eOG Kush\u003c/a\u003e, IFC OG\u0026rsquo;s light green foliage and skunky, chemical-filled aroma speak to the strain\u0026rsquo;s lineage and relaxing body effects. Noted for having a THC content between 20-27%, IFC OG\u0026rsquo;s potent indica genetics make this strain an ideal companion for lazy days.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"IFC OG by Intergalatikz is a frosty indica strain with pungent terpenes and pleasantly sedating effects. Created by crossing Stardust OG and OG Kush, IFC OG\u0026rsquo;s light green foliage and skunky, chemical-filled aroma speak to the strain\u0026rsquo;s lineage and relaxing body effects. Noted for having a THC content between 20-27%, IFC OG\u0026rsquo;s potent indica genetics make this strain an ideal companion for lazy days.\u0026nbsp;\n","aka":null,"rating":0,"highlightedReviews":[],"relatedStrains":[],"articles":[],"reviewCount":0,"flavors":[],"effects":[],"symptoms":[],"conditions":[],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/indica/ifc-og","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/0/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"OG Kush","subtitle":null,"slug":"og-kush","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/og-kush","symbol":"Ogk","applink":"leafly://strain/og-kush"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [],
+    "description": "<p>IFC OG by Intergalatikz is a frosty indica strain with pungent terpenes and pleasantly sedating effects. Created by crossing Stardust OG and <a href=\"https://www.leafly.com/hybrid/og-kush\">OG Kush</a>, IFC OG&rsquo;s light green foliage and skunky, chemical-filled aroma speak to the strain&rsquo;s lineage and relaxing body effects. Noted for having a THC content between 20-27%, IFC OG&rsquo;s potent indica genetics make this strain an ideal companion for lazy days.&nbsp;</p>\n",
+    "descriptionPlain": "IFC OG by Intergalatikz is a frosty indica strain with pungent terpenes and pleasantly sedating effects. Created by crossing Stardust OG and OG Kush, IFC OG&rsquo;s light green foliage and skunky, chemical-filled aroma speak to the strain&rsquo;s lineage and relaxing body effects. Noted for having a THC content between 20-27%, IFC OG&rsquo;s potent indica genetics make this strain an ideal companion for lazy days.&nbsp;\n",
+    "effects": [],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [],
+    "id": 284498,
+    "name": "IFC OG",
+    "negatives": [],
+    "parents": [
+        {
+            "applink": "leafly://strain/og-kush",
+            "category": "Hybrid",
+            "name": "OG Kush",
+            "permalink": "https://mobileapi.leafly.com/hybrid/og-kush",
+            "slug": "og-kush",
+            "subtitle": null,
+            "symbol": "Ogk"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/ifc-og",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 0,
+    "relatedStrains": [],
+    "reviewCount": 0,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "ifc-og",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/0/240",
+    "subtitle": null,
+    "symbol": "Ifc",
+    "symptoms": [],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

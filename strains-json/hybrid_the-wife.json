@@ -1,1 +1,154 @@
-{"sl_translate":"description,descriptionPlain,category","id":250193,"slug":"the-wife","name":"The Wife","subtitle":null,"symbol":"Twf","category":"Hybrid","description":"\u003cp\u003eThe Wife by Terrapin Care Station is a robust CBD hybrid with a nearly 20:1 \u003ca href=\"https://www.leafly.com/news/science-tech/cbd-vs-thc-cbd-not-psychoactive\"\u003eCBD/THC ratio\u003c/a\u003e. While the genetics remain unknown, The Wife delivers traditional CBD-rich elements including the flavor of fresh cherries and soothing physical effects without psychoactivity. Enjoy this strain to curb a variety of physical ailments such as nausea, chronic pain, migraines, and chemotherapy side effects.\u003c/p\u003e\n","descriptionPlain":"The Wife by Terrapin Care Station is a robust CBD hybrid with a nearly 20:1 CBD/THC ratio. While the genetics remain unknown, The Wife delivers traditional CBD-rich elements including the flavor of fresh cherries and soothing physical effects without psychoactivity. Enjoy this strain to curb a variety of physical ailments such as nausea, chronic pain, migraines, and chemotherapy side effects.\n","aka":null,"rating":4.93,"highlightedReviews":[{"id":1416363,"username":"alpinent","text":"This is my first (nearly) pure CBD strain. Rich, slightly sweet smell and taste. It truly gave me a deep body high—warm, relaxed, tingling—with zero head high. An incredible option for those seeking to capitalize on the medical benefits of cannabis while keeping a crystal clear mind.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png"},{"id":1525520,"username":"Koopday","text":"I\u0027ve tried a few CBD strains and this is the one I have ended up finding the most pain relieving. As a matter of fact, it is top notch pain killer when smoked; direct, no psycho activity due to not even 1% thc, it is highly relaxing due to immediate onset of magical CBD! I have bad back spasms and cramps since a second serious car wreck, years ago, and this is the most affective solution for mild-chronic pain... and it is quite literally relaxing when used in even minor quantities.  Very recommended! I know other people who have praised this specific strain for its ailments.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":14,"flavors":[{"name":"Earthy","score":18.589743589743588},{"name":"Lemon","score":16.666666666666664},{"name":"Flowery","score":16.666666666666664},{"name":"Tree Fruit","score":12.179487179487179},{"name":"Mint","score":8.3333333333333321}],"effects":[{"name":"Relaxed","score":47.435897435897438},{"name":"Uplifted","score":37.179487179487175},{"name":"Happy","score":28.846153846153847},{"name":"Tingly","score":18.589743589743588},{"name":"Euphoric","score":18.589743589743588}],"symptoms":[{"name":"Pain","score":39.102564102564095},{"name":"Inflammation","score":37.179487179487175},{"name":"Muscle Spasms","score":28.846153846153847},{"name":"Insomnia","score":26.923076923076923},{"name":"Stress","score":26.923076923076923}],"conditions":[{"name":"Arthritis","score":26.923076923076923},{"name":"Anxiety","score":16.666666666666664},{"name":"Fibromyalgia","score":16.666666666666664},{"name":"Gastrointestinal Disorder","score":16.666666666666664},{"name":"Hypertension","score":16.666666666666664}],"negatives":[{"name":"Dry Eyes","score":8.3333333333333321}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Portland, OR","Boulder, CO","Central City, CO","Denver, CO","Edwardsville, PA","Newberg, OR"],"permalink":"https://mobileapi.leafly.com/hybrid/the-wife","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.92857142857143/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Arthritis",
+            "score": 26.923076923076923
+        },
+        {
+            "name": "Anxiety",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Fibromyalgia",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Gastrointestinal Disorder",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Hypertension",
+            "score": 16.666666666666664
+        }
+    ],
+    "description": "<p>The Wife by Terrapin Care Station is a robust CBD hybrid with a nearly 20:1 <a href=\"https://www.leafly.com/news/science-tech/cbd-vs-thc-cbd-not-psychoactive\">CBD/THC ratio</a>. While the genetics remain unknown, The Wife delivers traditional CBD-rich elements including the flavor of fresh cherries and soothing physical effects without psychoactivity. Enjoy this strain to curb a variety of physical ailments such as nausea, chronic pain, migraines, and chemotherapy side effects.</p>\n",
+    "descriptionPlain": "The Wife by Terrapin Care Station is a robust CBD hybrid with a nearly 20:1 CBD/THC ratio. While the genetics remain unknown, The Wife delivers traditional CBD-rich elements including the flavor of fresh cherries and soothing physical effects without psychoactivity. Enjoy this strain to curb a variety of physical ailments such as nausea, chronic pain, migraines, and chemotherapy side effects.\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 47.43589743589744
+        },
+        {
+            "name": "Uplifted",
+            "score": 37.179487179487175
+        },
+        {
+            "name": "Happy",
+            "score": 28.846153846153847
+        },
+        {
+            "name": "Tingly",
+            "score": 18.589743589743588
+        },
+        {
+            "name": "Euphoric",
+            "score": 18.589743589743588
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Earthy",
+            "score": 18.589743589743588
+        },
+        {
+            "name": "Lemon",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Flowery",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Tree Fruit",
+            "score": 12.179487179487179
+        },
+        {
+            "name": "Mint",
+            "score": 8.333333333333332
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png",
+            "id": 1416363,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "This is my first (nearly) pure CBD strain. Rich, slightly sweet smell and taste. It truly gave me a deep body high\u2014warm, relaxed, tingling\u2014with zero head high. An incredible option for those seeking to capitalize on the medical benefits of cannabis while keeping a crystal clear mind.",
+            "username": "alpinent"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1525520,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "I've tried a few CBD strains and this is the one I have ended up finding the most pain relieving. As a matter of fact, it is top notch pain killer when smoked; direct, no psycho activity due to not even 1% thc, it is highly relaxing due to immediate onset of magical CBD! I have bad back spasms and cramps since a second serious car wreck, years ago, and this is the most affective solution for mild-chronic pain... and it is quite literally relaxing when used in even minor quantities.  Very recommended! I know other people who have praised this specific strain for its ailments.",
+            "username": "Koopday"
+        }
+    ],
+    "id": 250193,
+    "name": "The Wife",
+    "negatives": [
+        {
+            "name": "Dry Eyes",
+            "score": 8.333333333333332
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/hybrid/the-wife",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Portland, OR",
+        "Boulder, CO",
+        "Central City, CO",
+        "Denver, CO",
+        "Edwardsville, PA",
+        "Newberg, OR"
+    ],
+    "rating": 4.93,
+    "relatedStrains": [],
+    "reviewCount": 14,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "the-wife",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.92857142857143/240",
+    "subtitle": null,
+    "symbol": "Twf",
+    "symptoms": [
+        {
+            "name": "Pain",
+            "score": 39.102564102564095
+        },
+        {
+            "name": "Inflammation",
+            "score": 37.179487179487175
+        },
+        {
+            "name": "Muscle Spasms",
+            "score": 28.846153846153847
+        },
+        {
+            "name": "Insomnia",
+            "score": 26.923076923076923
+        },
+        {
+            "name": "Stress",
+            "score": 26.923076923076923
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

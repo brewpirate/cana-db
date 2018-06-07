@@ -1,1 +1,144 @@
-{"sl_translate":"description,descriptionPlain,category","id":268721,"slug":"intergalactic","name":"Intergalactic","subtitle":null,"symbol":"Int","category":"Hybrid","description":"\u003cp\u003eIntergalactic is an extremely potent hybrid strain. With a \u003ca href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\"\u003eterpene profile\u003c/a\u003e rich in pine and earth, and dense, frosted nugs that twinkle like the night sky, Intergalactic delivers a rush of euphoria and energy, making it ideal for mood elevation. But beware, this high-THC strain can give unseasoned consumers anxiety and significantly stimulate the appetite. Intergalactic is an uplifting strain that can be consumed any time of the day, but for best results, mind your dosage. This strain is a perfect companion for getting creative and active. \u0026nbsp;\u003c/p\u003e\n\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Intergalactic is an extremely potent hybrid strain. With a terpene profile rich in pine and earth, and dense, frosted nugs that twinkle like the night sky, Intergalactic delivers a rush of euphoria and energy, making it ideal for mood elevation. But beware, this high-THC strain can give unseasoned consumers anxiety and significantly stimulate the appetite. Intergalactic is an uplifting strain that can be consumed any time of the day, but for best results, mind your dosage. This strain is a perfect companion for getting creative and active. \u0026nbsp;\n\n\u0026nbsp;\n","aka":null,"rating":5,"highlightedReviews":[{"id":1612140,"username":"jcrowley420","text":"Wow it\u0027s a Power House High Very similar if not and yea I\u0027m saying it better than Alot of Gorrila Glue and it has a parent of GG#4 maybe more potent didn\u0027t have anything sent out but if u can Get your Hands on some of this Fire Don\u0027t think Twice and get double what you wanted Official Top Shelf ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"},{"id":1639275,"username":"Bigred291","text":"So picked this lovely gem from a buddy in Colorado and my oh my was I not ready. As soon as you smell the sweet pine you already know your in for a treat, triched out frosty. Hits like a Mac truck beginners take it slow as for the veterans it’s going to leave you relaxed hungry and happy. Def would get again top shelf quality. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/EsB9lXCri57tN17h49dVOnCDkFI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fTBeeQQk0TGeLYj4SjC6Z_old-school-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":2,"flavors":[{"name":"Pine","score":100},{"name":"Diesel","score":50},{"name":"Sweet","score":50},{"name":"Citrus","score":50},{"name":"Flowery","score":50}],"effects":[{"name":"Happy","score":137.5},{"name":"Relaxed","score":112.5},{"name":"Hungry","score":100},{"name":"Uplifted","score":75},{"name":"Giggly","score":62.5}],"symptoms":[{"name":"Depression","score":50},{"name":"Fatigue","score":50},{"name":"Insomnia","score":50},{"name":"Lack of Appetite","score":50},{"name":"Stress","score":50}],"conditions":[{"name":"ADD/ADHD","score":50},{"name":"Anxiety","score":50},{"name":"Epilepsy","score":50}],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/intergalactic","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Gorilla Glue #4","subtitle":null,"slug":"gorilla-glue-4","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/gorilla-glue-4","symbol":"Gg4","applink":"leafly://strain/gorilla-glue-4"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "ADD/ADHD",
+            "score": 50
+        },
+        {
+            "name": "Anxiety",
+            "score": 50
+        },
+        {
+            "name": "Epilepsy",
+            "score": 50
+        }
+    ],
+    "description": "<p>Intergalactic is an extremely potent hybrid strain. With a <a href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\">terpene profile</a> rich in pine and earth, and dense, frosted nugs that twinkle like the night sky, Intergalactic delivers a rush of euphoria and energy, making it ideal for mood elevation. But beware, this high-THC strain can give unseasoned consumers anxiety and significantly stimulate the appetite. Intergalactic is an uplifting strain that can be consumed any time of the day, but for best results, mind your dosage. This strain is a perfect companion for getting creative and active. &nbsp;</p>\n\n<p>&nbsp;</p>\n",
+    "descriptionPlain": "Intergalactic is an extremely potent hybrid strain. With a terpene profile rich in pine and earth, and dense, frosted nugs that twinkle like the night sky, Intergalactic delivers a rush of euphoria and energy, making it ideal for mood elevation. But beware, this high-THC strain can give unseasoned consumers anxiety and significantly stimulate the appetite. Intergalactic is an uplifting strain that can be consumed any time of the day, but for best results, mind your dosage. This strain is a perfect companion for getting creative and active. &nbsp;\n\n&nbsp;\n",
+    "effects": [
+        {
+            "name": "Happy",
+            "score": 137.5
+        },
+        {
+            "name": "Relaxed",
+            "score": 112.5
+        },
+        {
+            "name": "Hungry",
+            "score": 100
+        },
+        {
+            "name": "Uplifted",
+            "score": 75
+        },
+        {
+            "name": "Giggly",
+            "score": 62.5
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Pine",
+            "score": 100
+        },
+        {
+            "name": "Diesel",
+            "score": 50
+        },
+        {
+            "name": "Sweet",
+            "score": 50
+        },
+        {
+            "name": "Citrus",
+            "score": 50
+        },
+        {
+            "name": "Flowery",
+            "score": 50
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1612140,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Wow it's a Power House High Very similar if not and yea I'm saying it better than Alot of Gorrila Glue and it has a parent of GG#4 maybe more potent didn't have anything sent out but if u can Get your Hands on some of this Fire Don't think Twice and get double what you wanted Official Top Shelf ",
+            "username": "jcrowley420"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/EsB9lXCri57tN17h49dVOnCDkFI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fTBeeQQk0TGeLYj4SjC6Z_old-school-red.png",
+            "id": 1639275,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "So picked this lovely gem from a buddy in Colorado and my oh my was I not ready. As soon as you smell the sweet pine you already know your in for a treat, triched out frosty. Hits like a Mac truck beginners take it slow as for the veterans it\u2019s going to leave you relaxed hungry and happy. Def would get again top shelf quality. ",
+            "username": "Bigred291"
+        }
+    ],
+    "id": 268721,
+    "name": "Intergalactic",
+    "negatives": [],
+    "parents": [
+        {
+            "applink": "leafly://strain/gorilla-glue-4",
+            "category": "Hybrid",
+            "name": "Gorilla Glue #4",
+            "permalink": "https://mobileapi.leafly.com/hybrid/gorilla-glue-4",
+            "slug": "gorilla-glue-4",
+            "subtitle": null,
+            "symbol": "Gg4"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/intergalactic",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 2,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "intergalactic",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Int",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 50
+        },
+        {
+            "name": "Fatigue",
+            "score": 50
+        },
+        {
+            "name": "Insomnia",
+            "score": 50
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 50
+        },
+        {
+            "name": "Stress",
+            "score": 50
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

@@ -1,1 +1,157 @@
-{"sl_translate":"description,descriptionPlain,category","id":290383,"slug":"las-vegas-purple-kush-bx","name":"Las Vegas Purple Kush BX","subtitle":null,"symbol":"Vpk","category":"Indica","description":"\u003cp\u003eLas Vegas Purple Kush BX is a clone-only strain released in 2013 and has been described as Alphakronik Gene\u0026rsquo;s most potent indica. This backcross consists of Las Vegas Purple Kush and \u003ca href=\"https://www.leafly.com/indica/sin-city-kush\"\u003eSin City Kush\u003c/a\u003e genetics, creating a similar experience and aroma to \u003ca href=\"https://www.leafly.com/indica/pre-98-bubba-kush\"\u003ePre-98 Bubba Kush\u003c/a\u003e without the coffee smell and with a slightly sweeter aroma. This strain has been known to help with an array of ailments associated with physical pain and gastrointestinal issues.\u003c/p\u003e\n","descriptionPlain":"Las Vegas Purple Kush BX is a clone-only strain released in 2013 and has been described as Alphakronik Gene\u0026rsquo;s most potent indica. This backcross consists of Las Vegas Purple Kush and Sin City Kush genetics, creating a similar experience and aroma to Pre-98 Bubba Kush without the coffee smell and with a slightly sweeter aroma. This strain has been known to help with an array of ailments associated with physical pain and gastrointestinal issues.\n","aka":null,"rating":4.75,"highlightedReviews":[{"id":1431862,"username":"Missamanda367","text":"My experience with this strain was that it wowed me with its aroma, smoothness, intense purple, and jelly bean flavour. Hands down the best cannabis I\u0027ve ever seen. \nThe location mine came from was Vancouver Island, home of the finest cannabis lineages in Canada.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"},{"id":1594412,"username":"bc7110","text":"Euphoric start to my buzz, beginning to yawn and feel tired. Extremely excellent chronic and hip pain relief then have me a ravenous case of the munchies.  This high made me happy and feeling uplifted. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":4,"flavors":[{"name":"Sweet","score":100},{"name":"Spicy/Herbal","score":33.333333333333329},{"name":"Berry","score":33.333333333333329},{"name":"Grape","score":33.333333333333329},{"name":"Pungent","score":33.333333333333329}],"effects":[{"name":"Happy","score":91.666666666666657},{"name":"Sleepy","score":58.333333333333329},{"name":"Relaxed","score":58.333333333333329},{"name":"Uplifted","score":33.333333333333329},{"name":"Euphoric","score":33.333333333333329}],"symptoms":[{"name":"Stress","score":66.666666666666657},{"name":"Headaches","score":45.833333333333329},{"name":"Inflammation","score":33.333333333333329},{"name":"Insomnia","score":33.333333333333329},{"name":"Lack of Appetite","score":33.333333333333329}],"conditions":[{"name":"Anxiety","score":33.333333333333329},{"name":"Arthritis","score":33.333333333333329},{"name":"Spinal Cord Injury","score":33.333333333333329}],"negatives":[{"name":"Dry Eyes","score":12.5},{"name":"Dry Mouth","score":12.5}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Detroit, MI","Lincoln City, OR","Portland, OR"],"permalink":"https://mobileapi.leafly.com/indica/las-vegas-purple-kush-bx","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.75/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Sin City Kush","subtitle":null,"slug":"sin-city-kush","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/sin-city-kush","symbol":"Sin","applink":"leafly://strain/sin-city-kush"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Arthritis",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Spinal Cord Injury",
+            "score": 33.33333333333333
+        }
+    ],
+    "description": "<p>Las Vegas Purple Kush BX is a clone-only strain released in 2013 and has been described as Alphakronik Gene&rsquo;s most potent indica. This backcross consists of Las Vegas Purple Kush and <a href=\"https://www.leafly.com/indica/sin-city-kush\">Sin City Kush</a> genetics, creating a similar experience and aroma to <a href=\"https://www.leafly.com/indica/pre-98-bubba-kush\">Pre-98 Bubba Kush</a> without the coffee smell and with a slightly sweeter aroma. This strain has been known to help with an array of ailments associated with physical pain and gastrointestinal issues.</p>\n",
+    "descriptionPlain": "Las Vegas Purple Kush BX is a clone-only strain released in 2013 and has been described as Alphakronik Gene&rsquo;s most potent indica. This backcross consists of Las Vegas Purple Kush and Sin City Kush genetics, creating a similar experience and aroma to Pre-98 Bubba Kush without the coffee smell and with a slightly sweeter aroma. This strain has been known to help with an array of ailments associated with physical pain and gastrointestinal issues.\n",
+    "effects": [
+        {
+            "name": "Happy",
+            "score": 91.66666666666666
+        },
+        {
+            "name": "Sleepy",
+            "score": 58.33333333333333
+        },
+        {
+            "name": "Relaxed",
+            "score": 58.33333333333333
+        },
+        {
+            "name": "Uplifted",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Euphoric",
+            "score": 33.33333333333333
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Sweet",
+            "score": 100
+        },
+        {
+            "name": "Spicy/Herbal",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Berry",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Grape",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Pungent",
+            "score": 33.33333333333333
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1431862,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "My experience with this strain was that it wowed me with its aroma, smoothness, intense purple, and jelly bean flavour. Hands down the best cannabis I've ever seen. \nThe location mine came from was Vancouver Island, home of the finest cannabis lineages in Canada.",
+            "username": "Missamanda367"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1594412,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Euphoric start to my buzz, beginning to yawn and feel tired. Extremely excellent chronic and hip pain relief then have me a ravenous case of the munchies.  This high made me happy and feeling uplifted. ",
+            "username": "bc7110"
+        }
+    ],
+    "id": 290383,
+    "name": "Las Vegas Purple Kush BX",
+    "negatives": [
+        {
+            "name": "Dry Eyes",
+            "score": 12.5
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 12.5
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/sin-city-kush",
+            "category": "Indica",
+            "name": "Sin City Kush",
+            "permalink": "https://mobileapi.leafly.com/indica/sin-city-kush",
+            "slug": "sin-city-kush",
+            "subtitle": null,
+            "symbol": "Sin"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/las-vegas-purple-kush-bx",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Detroit, MI",
+        "Lincoln City, OR",
+        "Portland, OR"
+    ],
+    "rating": 4.75,
+    "relatedStrains": [],
+    "reviewCount": 4,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "las-vegas-purple-kush-bx",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.75/240",
+    "subtitle": null,
+    "symbol": "Vpk",
+    "symptoms": [
+        {
+            "name": "Stress",
+            "score": 66.66666666666666
+        },
+        {
+            "name": "Headaches",
+            "score": 45.83333333333333
+        },
+        {
+            "name": "Inflammation",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Insomnia",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 33.33333333333333
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

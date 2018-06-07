@@ -1,1 +1,185 @@
-{"sl_translate":"description,descriptionPlain,category","id":197713,"slug":"madcow","name":"Madcow","subtitle":null,"symbol":"Mcw","category":"Sativa","description":"\u003cp\u003eMadcow descends from two \u003ca href=\"https://www.leafly.com/explore/tags-energetic\"\u003ehigh-energy\u003c/a\u003e \u003ca href=\"https://www.leafly.com/explore/category-sativa\"\u003esativas\u003c/a\u003e, \u003ca href=\"https://www.leafly.com/sativa/durban-poison\"\u003eDurban Poison\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/sativa/purple-cow\"\u003ePurple Cow\u003c/a\u003e. With a heavy blanket of crystal resin, this strain is a solid choice for veteran consumers and for making \u003ca href=\"https://www.leafly.com/news/cannabis-101/the-great-wide-world-of-cannabis-concentrates\"\u003econcentrates\u003c/a\u003e. This pure-blooded sativa will hit you with weightless cerebral effects and induce fits of laughter. Smooth yet spicy, this flower releases a flavor similar to that of butterscotch.\u003c/p\u003e\n","descriptionPlain":"Madcow descends from two high-energy sativas, Durban Poison and Purple Cow. With a heavy blanket of crystal resin, this strain is a solid choice for veteran consumers and for making concentrates. This pure-blooded sativa will hit you with weightless cerebral effects and induce fits of laughter. Smooth yet spicy, this flower releases a flavor similar to that of butterscotch.\n","aka":null,"rating":3.33,"highlightedReviews":[{"id":1261538,"username":"itsAllperceptions","text":"Co2 oil from Root,  sativa.  Works like a nice indica for me.  White widow like.  Relaxed  amd tasty.  A dab will do ya","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png"},{"id":1593623,"username":"justaddmorebutter","text":"This is the first time I’ve ever smoked a strain and literally felt myself sober up. It was so bizarre. Mostly heavy, chill feeling with interest in Netflix and obsessing over whether or not to take a nap. Would recommend for an afternoon at the beach or park. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/3/240","avatar":"https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":6,"flavors":[{"name":"Sweet","score":7.1428571428571423},{"name":"Earthy","score":7.1428571428571423},{"name":"Ammonia","score":3.5714285714285712},{"name":"Mint","score":3.5714285714285712},{"name":"Berry","score":3.5714285714285712}],"effects":[{"name":"Sleepy","score":110.71428571428571},{"name":"Relaxed","score":110.71428571428571},{"name":"Uplifted","score":10.714285714285714},{"name":"Energetic","score":10.714285714285714},{"name":"Talkative","score":7.1428571428571423}],"symptoms":[{"name":"Stress","score":107.14285714285714},{"name":"Insomnia","score":103.57142857142857},{"name":"Lack of Appetite","score":100},{"name":"Cramps","score":7.1428571428571423},{"name":"Depression","score":7.1428571428571423}],"conditions":[{"name":"ADD/ADHD","score":7.1428571428571423},{"name":"Anorexia","score":3.5714285714285712},{"name":"Fibromyalgia","score":3.5714285714285712},{"name":"PTSD","score":3.5714285714285712},{"name":"Bipolar Disorder","score":3.5714285714285712}],"negatives":[{"name":"Dry Mouth","score":107.14285714285714},{"name":"Dry Eyes","score":3.5714285714285712},{"name":"Anxious","score":3.5714285714285712}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/madcow_100x100_d09c.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/660630/b/madcow__primary_1c55.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/madcow_100x100_0fe0.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/420142/b/madcow__primary_f387.jpg"}],"photoTotalCount":2,"popularCities":[],"permalink":"https://mobileapi.leafly.com/sativa/madcow","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/3.33333333333333/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Durban Poison","subtitle":null,"slug":"durban-poison","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/durban-poison","symbol":"Dp","applink":"leafly://strain/durban-poison"},{"name":"Purple Cow","subtitle":null,"slug":"purple-cow","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/purple-cow","symbol":"Pcw","applink":"leafly://strain/purple-cow"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Sativa",
+    "conditions": [
+        {
+            "name": "ADD/ADHD",
+            "score": 7.142857142857142
+        },
+        {
+            "name": "Anorexia",
+            "score": 3.571428571428571
+        },
+        {
+            "name": "Fibromyalgia",
+            "score": 3.571428571428571
+        },
+        {
+            "name": "PTSD",
+            "score": 3.571428571428571
+        },
+        {
+            "name": "Bipolar Disorder",
+            "score": 3.571428571428571
+        }
+    ],
+    "description": "<p>Madcow descends from two <a href=\"https://www.leafly.com/explore/tags-energetic\">high-energy</a> <a href=\"https://www.leafly.com/explore/category-sativa\">sativas</a>, <a href=\"https://www.leafly.com/sativa/durban-poison\">Durban Poison</a> and <a href=\"https://www.leafly.com/sativa/purple-cow\">Purple Cow</a>. With a heavy blanket of crystal resin, this strain is a solid choice for veteran consumers and for making <a href=\"https://www.leafly.com/news/cannabis-101/the-great-wide-world-of-cannabis-concentrates\">concentrates</a>. This pure-blooded sativa will hit you with weightless cerebral effects and induce fits of laughter. Smooth yet spicy, this flower releases a flavor similar to that of butterscotch.</p>\n",
+    "descriptionPlain": "Madcow descends from two high-energy sativas, Durban Poison and Purple Cow. With a heavy blanket of crystal resin, this strain is a solid choice for veteran consumers and for making concentrates. This pure-blooded sativa will hit you with weightless cerebral effects and induce fits of laughter. Smooth yet spicy, this flower releases a flavor similar to that of butterscotch.\n",
+    "effects": [
+        {
+            "name": "Sleepy",
+            "score": 110.71428571428571
+        },
+        {
+            "name": "Relaxed",
+            "score": 110.71428571428571
+        },
+        {
+            "name": "Uplifted",
+            "score": 10.714285714285714
+        },
+        {
+            "name": "Energetic",
+            "score": 10.714285714285714
+        },
+        {
+            "name": "Talkative",
+            "score": 7.142857142857142
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Sweet",
+            "score": 7.142857142857142
+        },
+        {
+            "name": "Earthy",
+            "score": 7.142857142857142
+        },
+        {
+            "name": "Ammonia",
+            "score": 3.571428571428571
+        },
+        {
+            "name": "Mint",
+            "score": 3.571428571428571
+        },
+        {
+            "name": "Berry",
+            "score": 3.571428571428571
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png",
+            "id": 1261538,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Co2 oil from Root,  sativa.  Works like a nice indica for me.  White widow like.  Relaxed  amd tasty.  A dab will do ya",
+            "username": "itsAllperceptions"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png",
+            "id": 1593623,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/3/240",
+            "text": "This is the first time I\u2019ve ever smoked a strain and literally felt myself sober up. It was so bizarre. Mostly heavy, chill feeling with interest in Netflix and obsessing over whether or not to take a nap. Would recommend for an afternoon at the beach or park. ",
+            "username": "justaddmorebutter"
+        }
+    ],
+    "id": 197713,
+    "name": "Madcow",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 107.14285714285714
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 3.571428571428571
+        },
+        {
+            "name": "Anxious",
+            "score": 3.571428571428571
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/durban-poison",
+            "category": "Sativa",
+            "name": "Durban Poison",
+            "permalink": "https://mobileapi.leafly.com/sativa/durban-poison",
+            "slug": "durban-poison",
+            "subtitle": null,
+            "symbol": "Dp"
+        },
+        {
+            "applink": "leafly://strain/purple-cow",
+            "category": "Sativa",
+            "name": "Purple Cow",
+            "permalink": "https://mobileapi.leafly.com/sativa/purple-cow",
+            "slug": "purple-cow",
+            "subtitle": null,
+            "symbol": "Pcw"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/sativa/madcow",
+    "photoTotalCount": 2,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/660630/b/madcow__primary_1c55.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/madcow_100x100_d09c.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/420142/b/madcow__primary_f387.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/madcow_100x100_0fe0.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [],
+    "rating": 3.33,
+    "relatedStrains": [],
+    "reviewCount": 6,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "madcow",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/3.33333333333333/240",
+    "subtitle": null,
+    "symbol": "Mcw",
+    "symptoms": [
+        {
+            "name": "Stress",
+            "score": 107.14285714285714
+        },
+        {
+            "name": "Insomnia",
+            "score": 103.57142857142857
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 100
+        },
+        {
+            "name": "Cramps",
+            "score": 7.142857142857142
+        },
+        {
+            "name": "Depression",
+            "score": 7.142857142857142
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

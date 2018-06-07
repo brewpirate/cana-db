@@ -1,1 +1,197 @@
-{"sl_translate":"description,descriptionPlain,category","id":239602,"slug":"blackberry-chem-og","name":"Blackberry Chem OG","subtitle":null,"symbol":"Bkc","category":"Hybrid","description":"\u003cp\u003eBlackberry Chem OG is a hybrid strain that combines the fruity, mid-level sedation of \u003ca href=\"https://www.leafly.com/hybrid/blackberry\"\u003eBlackberry\u003c/a\u003e with the gently stimulating\u0026nbsp;but overall subdued \u003ca href=\"https://www.leafly.com/hybrid/chemdawg\"\u003eChemdawg\u003c/a\u003e. This strain\u0026rsquo;s unique aroma of tart chemicals and sweet fruit makes it a favorite for consumers with diverse palates. The effects are moderate on the physical and mental front, showing up as a warm haze in the mind and lightness in the body. Blackberry Chem OG lends itself to curbing minor physical discomfort and numbing the mind to repetitive tasks. \u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Blackberry Chem OG is a hybrid strain that combines the fruity, mid-level sedation of Blackberry with the gently stimulating\u0026nbsp;but overall subdued Chemdawg. This strain\u0026rsquo;s unique aroma of tart chemicals and sweet fruit makes it a favorite for consumers with diverse palates. The effects are moderate on the physical and mental front, showing up as a warm haze in the mind and lightness in the body. Blackberry Chem OG lends itself to curbing minor physical discomfort and numbing the mind to repetitive tasks. \u0026nbsp;\n","aka":null,"rating":4.21,"highlightedReviews":[{"id":1368688,"username":"MicahBrewer","text":"This stuff is awesome, I haven\u0027t smoked anything like it in a long time. it\u0027s just an all around great feeling, very, very calming and relaxing, boosts your mood and it\u0027s not an overwhelming head high","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png"},{"id":1568837,"username":"pantherstealth","text":"3 stars because it\u0027s \"pretty good\" and not spectacular like some top shelf strains.  Medium in the bod, medium in the head.  I have severe generalized anxiety disorder and major depressive disorder naturally and this strain helps me feel a bit better.  Plus it helps alleviate some of my back pain.  The negative effects on here show it may cause full anxiety but I seriously doubt it.  If you\u0027re not looking for top shelf god weed but want just some all around goody good, here you go.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/3/240","avatar":"https://ddd33q3967xhi.cloudfront.net/5DsWrIpoq-56NpD59UXAqpoVN88=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fqSLuo6zNRCeIia1paBYS_wayfarers-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":14,"flavors":[{"name":"Citrus","score":100},{"name":"Tree Fruit","score":100},{"name":"Earthy","score":100},{"name":"Woody","score":100},{"name":"Pine","score":100}],"effects":[{"name":"Talkative","score":128.33333333333334},{"name":"Focused","score":126.66666666666667},{"name":"Relaxed","score":110},{"name":"Euphoric","score":108.33333333333333},{"name":"Creative","score":26.666666666666668}],"symptoms":[{"name":"Depression","score":103.33333333333333},{"name":"Stress","score":103.33333333333333},{"name":"Pain","score":101.66666666666667},{"name":"Muscle Spasms","score":100}],"conditions":[{"name":"Anxiety","score":101.66666666666667},{"name":"Anorexia","score":100},{"name":"Asthma","score":100},{"name":"Gastrointestinal Disorder","score":100},{"name":"Migraines","score":100}],"negatives":[{"name":"Dry Eyes","score":100},{"name":"Paranoid","score":1.6666666666666667},{"name":"Anxious","score":1.6666666666666667}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/blackberry-chem-og_100x100_0807.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/707210/b/blackberry-chem-og__primary_c0d3.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/blackberry-chem-og_100x100_9101.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/569936/b/blackberry-chem-og__primary_e497.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/blackberry-chem-og_100x100_63c5.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/559379/b/blackberry-chem-og__primary_bef2.jpg"}],"photoTotalCount":3,"popularCities":["Seattle, WA","Shoreline, WA","Tacoma, WA","Arlington, WA","Bellevue, WA","Bothell, WA","Bremerton, WA","Everett, WA","Freeland, WA","Gold Bar, WA"],"permalink":"https://mobileapi.leafly.com/hybrid/blackberry-chem-og","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.21428571428571/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Blackberry","subtitle":null,"slug":"blackberry","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/blackberry","symbol":"Bbr","applink":"leafly://strain/blackberry"},{"name":"Chemdawg","subtitle":null,"slug":"chemdawg","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/chemdawg","symbol":"Cd","applink":"leafly://strain/chemdawg"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 101.66666666666667
+        },
+        {
+            "name": "Anorexia",
+            "score": 100
+        },
+        {
+            "name": "Asthma",
+            "score": 100
+        },
+        {
+            "name": "Gastrointestinal Disorder",
+            "score": 100
+        },
+        {
+            "name": "Migraines",
+            "score": 100
+        }
+    ],
+    "description": "<p>Blackberry Chem OG is a hybrid strain that combines the fruity, mid-level sedation of <a href=\"https://www.leafly.com/hybrid/blackberry\">Blackberry</a> with the gently stimulating&nbsp;but overall subdued <a href=\"https://www.leafly.com/hybrid/chemdawg\">Chemdawg</a>. This strain&rsquo;s unique aroma of tart chemicals and sweet fruit makes it a favorite for consumers with diverse palates. The effects are moderate on the physical and mental front, showing up as a warm haze in the mind and lightness in the body. Blackberry Chem OG lends itself to curbing minor physical discomfort and numbing the mind to repetitive tasks. &nbsp;</p>\n",
+    "descriptionPlain": "Blackberry Chem OG is a hybrid strain that combines the fruity, mid-level sedation of Blackberry with the gently stimulating&nbsp;but overall subdued Chemdawg. This strain&rsquo;s unique aroma of tart chemicals and sweet fruit makes it a favorite for consumers with diverse palates. The effects are moderate on the physical and mental front, showing up as a warm haze in the mind and lightness in the body. Blackberry Chem OG lends itself to curbing minor physical discomfort and numbing the mind to repetitive tasks. &nbsp;\n",
+    "effects": [
+        {
+            "name": "Talkative",
+            "score": 128.33333333333334
+        },
+        {
+            "name": "Focused",
+            "score": 126.66666666666667
+        },
+        {
+            "name": "Relaxed",
+            "score": 110
+        },
+        {
+            "name": "Euphoric",
+            "score": 108.33333333333333
+        },
+        {
+            "name": "Creative",
+            "score": 26.666666666666668
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Citrus",
+            "score": 100
+        },
+        {
+            "name": "Tree Fruit",
+            "score": 100
+        },
+        {
+            "name": "Earthy",
+            "score": 100
+        },
+        {
+            "name": "Woody",
+            "score": 100
+        },
+        {
+            "name": "Pine",
+            "score": 100
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png",
+            "id": 1368688,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "This stuff is awesome, I haven't smoked anything like it in a long time. it's just an all around great feeling, very, very calming and relaxing, boosts your mood and it's not an overwhelming head high",
+            "username": "MicahBrewer"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/5DsWrIpoq-56NpD59UXAqpoVN88=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fqSLuo6zNRCeIia1paBYS_wayfarers-purple.png",
+            "id": 1568837,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/3/240",
+            "text": "3 stars because it's \"pretty good\" and not spectacular like some top shelf strains.  Medium in the bod, medium in the head.  I have severe generalized anxiety disorder and major depressive disorder naturally and this strain helps me feel a bit better.  Plus it helps alleviate some of my back pain.  The negative effects on here show it may cause full anxiety but I seriously doubt it.  If you're not looking for top shelf god weed but want just some all around goody good, here you go.",
+            "username": "pantherstealth"
+        }
+    ],
+    "id": 239602,
+    "name": "Blackberry Chem OG",
+    "negatives": [
+        {
+            "name": "Dry Eyes",
+            "score": 100
+        },
+        {
+            "name": "Paranoid",
+            "score": 1.6666666666666667
+        },
+        {
+            "name": "Anxious",
+            "score": 1.6666666666666667
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/blackberry",
+            "category": "Hybrid",
+            "name": "Blackberry",
+            "permalink": "https://mobileapi.leafly.com/hybrid/blackberry",
+            "slug": "blackberry",
+            "subtitle": null,
+            "symbol": "Bbr"
+        },
+        {
+            "applink": "leafly://strain/chemdawg",
+            "category": "Hybrid",
+            "name": "Chemdawg",
+            "permalink": "https://mobileapi.leafly.com/hybrid/chemdawg",
+            "slug": "chemdawg",
+            "subtitle": null,
+            "symbol": "Cd"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/blackberry-chem-og",
+    "photoTotalCount": 3,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/707210/b/blackberry-chem-og__primary_c0d3.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/blackberry-chem-og_100x100_0807.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/569936/b/blackberry-chem-og__primary_e497.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/blackberry-chem-og_100x100_9101.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/559379/b/blackberry-chem-og__primary_bef2.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/blackberry-chem-og_100x100_63c5.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Seattle, WA",
+        "Shoreline, WA",
+        "Tacoma, WA",
+        "Arlington, WA",
+        "Bellevue, WA",
+        "Bothell, WA",
+        "Bremerton, WA",
+        "Everett, WA",
+        "Freeland, WA",
+        "Gold Bar, WA"
+    ],
+    "rating": 4.21,
+    "relatedStrains": [],
+    "reviewCount": 14,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "blackberry-chem-og",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.21428571428571/240",
+    "subtitle": null,
+    "symbol": "Bkc",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 103.33333333333333
+        },
+        {
+            "name": "Stress",
+            "score": 103.33333333333333
+        },
+        {
+            "name": "Pain",
+            "score": 101.66666666666667
+        },
+        {
+            "name": "Muscle Spasms",
+            "score": 100
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

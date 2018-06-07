@@ -1,1 +1,216 @@
-{"sl_translate":"description,descriptionPlain,category","id":65557,"slug":"cherry-kola","name":"Cherry Kola","subtitle":null,"symbol":"Cka","category":"Indica","description":"\u003cp class=\"p1\"\u003eCherry Kola is an indica strain that competed in the \u003ca href=\"http://www.leafly.com/news/events/come-find-leafly-at-the-los-angeles-cannabis-cup\"\u003e\u003cspan class=\"s1\"\u003e2014 L.A. Cannabis Cup\u003c/span\u003e\u003c/a\u003e.\u003c/p\u003e\n","descriptionPlain":"Cherry Kola is an indica strain that competed in the 2014 L.A. Cannabis Cup.\n","aka":"Cherry Cola","rating":4.66,"highlightedReviews":[{"id":1387001,"username":"LegitLogic","text":"Extremely Kiefed out very nice nugs and smells and tastes amazing! This is a great indica definitely nighttime use, but at the same time definitely a must try especially for Depression, PTSD, Anxiety, Insomnia and such, works great! This is my first time with this strain and I\u0027m glad I got such a dank batch, all enjoy!","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/8AEOnyObscLzPEdm7ERjYOUx4RU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fP4YFTRznSDCEVP7Fycg7_nerd-red.png"},{"id":1617443,"username":"HybridQueen21","text":"Nice relaxing Indica! Smoked a bowl of it after a rough day at work and all of the aches went away, muscle pain, headache, all of it. Not too sleepy, but still a great bedtime strain. Nice flavor as well!!","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":56,"flavors":[{"name":"Berry","score":54.241071428571431},{"name":"Sweet","score":46.316964285714285},{"name":"Pungent","score":36.830357142857139},{"name":"Earthy","score":28.125},{"name":"Tropical","score":26.171875}],"effects":[{"name":"Euphoric","score":89.508928571428569},{"name":"Relaxed","score":85.100446428571431},{"name":"Happy","score":63.727678571428569},{"name":"Focused","score":59.877232142857139},{"name":"Tingly","score":51.116071428571431}],"symptoms":[{"name":"Stress","score":62.165178571428569},{"name":"Headaches","score":43.191964285714285},{"name":"Fatigue","score":28.515625},{"name":"Pain","score":21.707589285714285},{"name":"Lack of Appetite","score":20.926339285714285}],"conditions":[{"name":"Anxiety","score":47.488839285714285},{"name":"PMS","score":15.066964285714285},{"name":"Migraines","score":10.267857142857142},{"name":"Arthritis","score":9.0959821428571423},{"name":"Spinal Cord Injury","score":7.5334821428571423}],"negatives":[{"name":"Dry Mouth","score":53.90625},{"name":"Dry Eyes","score":51.953125},{"name":"Dizzy","score":26.171875},{"name":"Paranoid","score":26.171875},{"name":"Anxious","score":25.78125}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(1397952000000)\/","thumb":"https://d3ix816x6wuc0d.cloudfront.net/indica/cherry-kola/primary?width=200","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/indica/cherry-kola/primary?width=1024"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-kola_100x100_0034.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/1002739/b/cherry-kola__primary_878e.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-kola_100x100_aedd.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/630907/b/cherry-kola__primary_7fd7.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-kola_100x100_72e1.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/522779/b/cherry-kola__primary_2d25.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-kola_100x100_fbfc.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/521562/b/cherry-kola__primary_08df.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-kola_100x100_5a19.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/411356/b/cherry-kola__primary_c8e4.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-kola_100x100_3200.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/394708/b/cherry-kola__primary_5ff3.jpg"}],"photoTotalCount":14,"popularCities":["San Francisco, CA","Arcata, CA","Daly City, CA","San Andreas, CA","South San Francisco, CA","Vallejo, CA"],"permalink":"https://mobileapi.leafly.com/indica/cherry-kola","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.66071428571429/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Afghani","subtitle":null,"slug":"afghani","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/afghani","symbol":"Afg","applink":"leafly://strain/afghani"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": "Cherry Cola",
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 47.488839285714285
+        },
+        {
+            "name": "PMS",
+            "score": 15.066964285714285
+        },
+        {
+            "name": "Migraines",
+            "score": 10.267857142857142
+        },
+        {
+            "name": "Arthritis",
+            "score": 9.095982142857142
+        },
+        {
+            "name": "Spinal Cord Injury",
+            "score": 7.533482142857142
+        }
+    ],
+    "description": "<p class=\"p1\">Cherry Kola is an indica strain that competed in the <a href=\"http://www.leafly.com/news/events/come-find-leafly-at-the-los-angeles-cannabis-cup\"><span class=\"s1\">2014 L.A. Cannabis Cup</span></a>.</p>\n",
+    "descriptionPlain": "Cherry Kola is an indica strain that competed in the 2014 L.A. Cannabis Cup.\n",
+    "effects": [
+        {
+            "name": "Euphoric",
+            "score": 89.50892857142857
+        },
+        {
+            "name": "Relaxed",
+            "score": 85.10044642857143
+        },
+        {
+            "name": "Happy",
+            "score": 63.72767857142857
+        },
+        {
+            "name": "Focused",
+            "score": 59.87723214285714
+        },
+        {
+            "name": "Tingly",
+            "score": 51.11607142857143
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Berry",
+            "score": 54.24107142857143
+        },
+        {
+            "name": "Sweet",
+            "score": 46.316964285714285
+        },
+        {
+            "name": "Pungent",
+            "score": 36.83035714285714
+        },
+        {
+            "name": "Earthy",
+            "score": 28.125
+        },
+        {
+            "name": "Tropical",
+            "score": 26.171875
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/8AEOnyObscLzPEdm7ERjYOUx4RU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fP4YFTRznSDCEVP7Fycg7_nerd-red.png",
+            "id": 1387001,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Extremely Kiefed out very nice nugs and smells and tastes amazing! This is a great indica definitely nighttime use, but at the same time definitely a must try especially for Depression, PTSD, Anxiety, Insomnia and such, works great! This is my first time with this strain and I'm glad I got such a dank batch, all enjoy!",
+            "username": "LegitLogic"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1617443,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Nice relaxing Indica! Smoked a bowl of it after a rough day at work and all of the aches went away, muscle pain, headache, all of it. Not too sleepy, but still a great bedtime strain. Nice flavor as well!!",
+            "username": "HybridQueen21"
+        }
+    ],
+    "id": 65557,
+    "name": "Cherry Kola",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 53.90625
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 51.953125
+        },
+        {
+            "name": "Dizzy",
+            "score": 26.171875
+        },
+        {
+            "name": "Paranoid",
+            "score": 26.171875
+        },
+        {
+            "name": "Anxious",
+            "score": 25.78125
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/afghani",
+            "category": "Indica",
+            "name": "Afghani",
+            "permalink": "https://mobileapi.leafly.com/indica/afghani",
+            "slug": "afghani",
+            "subtitle": null,
+            "symbol": "Afg"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/cherry-kola",
+    "photoTotalCount": 14,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/indica/cherry-kola/primary?width=1024",
+            "thumb": "https://d3ix816x6wuc0d.cloudfront.net/indica/cherry-kola/primary?width=200",
+            "uploaded": "/Date(1397952000000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/1002739/b/cherry-kola__primary_878e.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-kola_100x100_0034.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/630907/b/cherry-kola__primary_7fd7.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-kola_100x100_aedd.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/522779/b/cherry-kola__primary_2d25.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-kola_100x100_72e1.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/521562/b/cherry-kola__primary_08df.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-kola_100x100_fbfc.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/411356/b/cherry-kola__primary_c8e4.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-kola_100x100_5a19.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/394708/b/cherry-kola__primary_5ff3.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-kola_100x100_3200.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "San Francisco, CA",
+        "Arcata, CA",
+        "Daly City, CA",
+        "San Andreas, CA",
+        "South San Francisco, CA",
+        "Vallejo, CA"
+    ],
+    "rating": 4.66,
+    "relatedStrains": [],
+    "reviewCount": 56,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "cherry-kola",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.66071428571429/240",
+    "subtitle": null,
+    "symbol": "Cka",
+    "symptoms": [
+        {
+            "name": "Stress",
+            "score": 62.16517857142857
+        },
+        {
+            "name": "Headaches",
+            "score": 43.191964285714285
+        },
+        {
+            "name": "Fatigue",
+            "score": 28.515625
+        },
+        {
+            "name": "Pain",
+            "score": 21.707589285714285
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 20.926339285714285
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

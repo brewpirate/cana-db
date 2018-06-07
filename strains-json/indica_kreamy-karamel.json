@@ -1,1 +1,71 @@
-{"sl_translate":"description,descriptionPlain,category","id":500828,"slug":"kreamy-karamel","name":"Kreamy Karamel","subtitle":null,"symbol":"Kre","category":"Indica","description":"\u003cp\u003eKreamy Karamel by Kannabia Seed Company is a full indica with potent medicinal benefits. This flower sprouts dense, rock-hard buds coated in resin that emit a spicy, sweet aroma of melting sugar. Like many of Kannabia\u0026rsquo;s flowers, Kreamy Karamel is easy to grow and fast to flower, making it ideal for novice gardeners looking for international genetics. Kreamy Karamel was created by crossing an \u003ca href=\"https://www.leafly.com/indica/afghani\"\u003eAfghani\u003c/a\u003e\u0026nbsp;x \u003ca href=\"https://www.leafly.com/indica/black-domina\"\u003eBlack Domina\u003c/a\u003e x \u003ca href=\"https://www.leafly.com/indica/maple-leaf-indica\"\u003eMaple Leaf\u003c/a\u003e. Utilize this strain to tend to pain, anxiety, and PTSD.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Kreamy Karamel by Kannabia Seed Company is a full indica with potent medicinal benefits. This flower sprouts dense, rock-hard buds coated in resin that emit a spicy, sweet aroma of melting sugar. Like many of Kannabia\u0026rsquo;s flowers, Kreamy Karamel is easy to grow and fast to flower, making it ideal for novice gardeners looking for international genetics. Kreamy Karamel was created by crossing an Afghani\u0026nbsp;x Black Domina x Maple Leaf. Utilize this strain to tend to pain, anxiety, and PTSD.\u0026nbsp;\n","aka":null,"rating":0,"highlightedReviews":[],"relatedStrains":[],"articles":[],"reviewCount":0,"flavors":[],"effects":[],"symptoms":[],"conditions":[],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/indica/kreamy-karamel","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/0/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Afghani","subtitle":null,"slug":"afghani","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/afghani","symbol":"Afg","applink":"leafly://strain/afghani"},{"name":"Black Domina","subtitle":null,"slug":"black-domina","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/black-domina","symbol":"Bdm","applink":"leafly://strain/black-domina"},{"name":"Maple Leaf Indica","subtitle":null,"slug":"maple-leaf-indica","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/maple-leaf-indica","symbol":"Ml","applink":"leafly://strain/maple-leaf-indica"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [],
+    "description": "<p>Kreamy Karamel by Kannabia Seed Company is a full indica with potent medicinal benefits. This flower sprouts dense, rock-hard buds coated in resin that emit a spicy, sweet aroma of melting sugar. Like many of Kannabia&rsquo;s flowers, Kreamy Karamel is easy to grow and fast to flower, making it ideal for novice gardeners looking for international genetics. Kreamy Karamel was created by crossing an <a href=\"https://www.leafly.com/indica/afghani\">Afghani</a>&nbsp;x <a href=\"https://www.leafly.com/indica/black-domina\">Black Domina</a> x <a href=\"https://www.leafly.com/indica/maple-leaf-indica\">Maple Leaf</a>. Utilize this strain to tend to pain, anxiety, and PTSD.&nbsp;</p>\n",
+    "descriptionPlain": "Kreamy Karamel by Kannabia Seed Company is a full indica with potent medicinal benefits. This flower sprouts dense, rock-hard buds coated in resin that emit a spicy, sweet aroma of melting sugar. Like many of Kannabia&rsquo;s flowers, Kreamy Karamel is easy to grow and fast to flower, making it ideal for novice gardeners looking for international genetics. Kreamy Karamel was created by crossing an Afghani&nbsp;x Black Domina x Maple Leaf. Utilize this strain to tend to pain, anxiety, and PTSD.&nbsp;\n",
+    "effects": [],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [],
+    "id": 500828,
+    "name": "Kreamy Karamel",
+    "negatives": [],
+    "parents": [
+        {
+            "applink": "leafly://strain/afghani",
+            "category": "Indica",
+            "name": "Afghani",
+            "permalink": "https://mobileapi.leafly.com/indica/afghani",
+            "slug": "afghani",
+            "subtitle": null,
+            "symbol": "Afg"
+        },
+        {
+            "applink": "leafly://strain/black-domina",
+            "category": "Indica",
+            "name": "Black Domina",
+            "permalink": "https://mobileapi.leafly.com/indica/black-domina",
+            "slug": "black-domina",
+            "subtitle": null,
+            "symbol": "Bdm"
+        },
+        {
+            "applink": "leafly://strain/maple-leaf-indica",
+            "category": "Indica",
+            "name": "Maple Leaf Indica",
+            "permalink": "https://mobileapi.leafly.com/indica/maple-leaf-indica",
+            "slug": "maple-leaf-indica",
+            "subtitle": null,
+            "symbol": "Ml"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/kreamy-karamel",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 0,
+    "relatedStrains": [],
+    "reviewCount": 0,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "kreamy-karamel",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/0/240",
+    "subtitle": null,
+    "symbol": "Kre",
+    "symptoms": [],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

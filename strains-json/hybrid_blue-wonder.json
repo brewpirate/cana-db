@@ -1,1 +1,120 @@
-{"sl_translate":"description,descriptionPlain,category","id":248560,"slug":"blue-wonder","name":"Blue Wonder","subtitle":null,"symbol":"Bwo","category":"Hybrid","description":"\u003cp\u003eBlue Wonder is a sativa-dominant hybrid originating from California as a distinct descendant of \u003ca href=\"https://www.leafly.com/hybrid/blue-dream\"\u003eBlue Dream\u003c/a\u003e. Originally bred from\u003ca href=\"https://www.leafly.com/indica/blueberry\"\u003e Blueberry\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/sativa/super-silver-haze\"\u003eSuper Silver Haze\u003c/a\u003e, Blue Wonder exhibits a profound level of cerebral invigoration while maintaining a classic Blue Dream body buzz. With a traditional Blueberry aroma, Blue Wonder delivers gentle euphoria and swift relief for patients treating pain, depression, and nausea.\u003c/p\u003e\n","descriptionPlain":"Blue Wonder is a sativa-dominant hybrid originating from California as a distinct descendant of Blue Dream. Originally bred from Blueberry and Super Silver Haze, Blue Wonder exhibits a profound level of cerebral invigoration while maintaining a classic Blue Dream body buzz. With a traditional Blueberry aroma, Blue Wonder delivers gentle euphoria and swift relief for patients treating pain, depression, and nausea.\n","aka":null,"rating":5,"highlightedReviews":[{"id":1392506,"username":"Greenwill84","text":"I picked up a couple of buds of this because it\u0027s base is the Blueberry; which is my favorite all time strain. But when mixed with this particular sativa  strain the effects are amazing. After medicating with this I think I found a new favorite. It was able to greatly relieve my anxiety and depression without giving me lethargic feeling that comes from some high THC Indicas. The joy was there and I was still able to stay productive.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png"},{"id":1392506,"username":"Greenwill84","text":"I picked up a couple of buds of this because it\u0027s base is the Blueberry; which is my favorite all time strain. But when mixed with this particular sativa  strain the effects are amazing. After medicating with this I think I found a new favorite. It was able to greatly relieve my anxiety and depression without giving me lethargic feeling that comes from some high THC Indicas. The joy was there and I was still able to stay productive.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":2,"flavors":[{"name":"Blueberry","score":10}],"effects":[{"name":"Uplifted","score":10},{"name":"Happy","score":10},{"name":"Euphoric","score":5},{"name":"Focused","score":5},{"name":"Relaxed","score":5}],"symptoms":[{"name":"Depression","score":5},{"name":"Spasticity","score":5}],"conditions":[{"name":"Anxiety","score":5}],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Berkeley, CA","Los Angeles, CA"],"permalink":"https://mobileapi.leafly.com/hybrid/blue-wonder","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Blueberry","subtitle":null,"slug":"blueberry","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/blueberry","symbol":"Bry","applink":"leafly://strain/blueberry"},{"name":"Super Silver Haze","subtitle":null,"slug":"super-silver-haze","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/super-silver-haze","symbol":"Ss","applink":"leafly://strain/super-silver-haze"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 5
+        }
+    ],
+    "description": "<p>Blue Wonder is a sativa-dominant hybrid originating from California as a distinct descendant of <a href=\"https://www.leafly.com/hybrid/blue-dream\">Blue Dream</a>. Originally bred from<a href=\"https://www.leafly.com/indica/blueberry\"> Blueberry</a> and <a href=\"https://www.leafly.com/sativa/super-silver-haze\">Super Silver Haze</a>, Blue Wonder exhibits a profound level of cerebral invigoration while maintaining a classic Blue Dream body buzz. With a traditional Blueberry aroma, Blue Wonder delivers gentle euphoria and swift relief for patients treating pain, depression, and nausea.</p>\n",
+    "descriptionPlain": "Blue Wonder is a sativa-dominant hybrid originating from California as a distinct descendant of Blue Dream. Originally bred from Blueberry and Super Silver Haze, Blue Wonder exhibits a profound level of cerebral invigoration while maintaining a classic Blue Dream body buzz. With a traditional Blueberry aroma, Blue Wonder delivers gentle euphoria and swift relief for patients treating pain, depression, and nausea.\n",
+    "effects": [
+        {
+            "name": "Uplifted",
+            "score": 10
+        },
+        {
+            "name": "Happy",
+            "score": 10
+        },
+        {
+            "name": "Euphoric",
+            "score": 5
+        },
+        {
+            "name": "Focused",
+            "score": 5
+        },
+        {
+            "name": "Relaxed",
+            "score": 5
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Blueberry",
+            "score": 10
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png",
+            "id": 1392506,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "I picked up a couple of buds of this because it's base is the Blueberry; which is my favorite all time strain. But when mixed with this particular sativa  strain the effects are amazing. After medicating with this I think I found a new favorite. It was able to greatly relieve my anxiety and depression without giving me lethargic feeling that comes from some high THC Indicas. The joy was there and I was still able to stay productive.",
+            "username": "Greenwill84"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png",
+            "id": 1392506,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "I picked up a couple of buds of this because it's base is the Blueberry; which is my favorite all time strain. But when mixed with this particular sativa  strain the effects are amazing. After medicating with this I think I found a new favorite. It was able to greatly relieve my anxiety and depression without giving me lethargic feeling that comes from some high THC Indicas. The joy was there and I was still able to stay productive.",
+            "username": "Greenwill84"
+        }
+    ],
+    "id": 248560,
+    "name": "Blue Wonder",
+    "negatives": [],
+    "parents": [
+        {
+            "applink": "leafly://strain/blueberry",
+            "category": "Indica",
+            "name": "Blueberry",
+            "permalink": "https://mobileapi.leafly.com/indica/blueberry",
+            "slug": "blueberry",
+            "subtitle": null,
+            "symbol": "Bry"
+        },
+        {
+            "applink": "leafly://strain/super-silver-haze",
+            "category": "Sativa",
+            "name": "Super Silver Haze",
+            "permalink": "https://mobileapi.leafly.com/sativa/super-silver-haze",
+            "slug": "super-silver-haze",
+            "subtitle": null,
+            "symbol": "Ss"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/blue-wonder",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Berkeley, CA",
+        "Los Angeles, CA"
+    ],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 2,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "blue-wonder",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Bwo",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 5
+        },
+        {
+            "name": "Spasticity",
+            "score": 5
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

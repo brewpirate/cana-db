@@ -1,1 +1,178 @@
-{"sl_translate":"description,descriptionPlain,category","id":260592,"slug":"true-x","name":"True X","subtitle":null,"symbol":"Tx","category":"Indica","description":"\u003cp\u003eTrue X by Royal Choice Farms is an indica-dominant strain built for relaxation. Created by crossing \u003ca href=\"https://www.leafly.com/hybrid/c4\"\u003eC4\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/indica/true-og\"\u003eTrue OG\u003c/a\u003e, True X is a sweet OG cross that offers traditional Kush effects that settle nicely on the body while percolating a warm, welcoming euphoria between the ears. Utilize this strain during the evening to relax the body and prepare for sleep. True X\u0026rsquo;s sweet and spicy \u003ca href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\"\u003eterpenes\u003c/a\u003e make for a flavorful nightcap after a long day.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"True X by Royal Choice Farms is an indica-dominant strain built for relaxation. Created by crossing C4 and True OG, True X is a sweet OG cross that offers traditional Kush effects that settle nicely on the body while percolating a warm, welcoming euphoria between the ears. Utilize this strain during the evening to relax the body and prepare for sleep. True X\u0026rsquo;s sweet and spicy terpenes make for a flavorful nightcap after a long day.\u0026nbsp;\n","aka":null,"rating":3,"highlightedReviews":[{"id":1385634,"username":"Recannaissance","text":"I\u0027ve just acquired this strain, so my findings are limited, but very positive. \n\nWhen smoked mid-afternoon, I felt the euphoria and a pleasant pressure or release behind my eyes. I didn\u0027t feel groggy, just very chilled, and while I was enjoying being sat on the couch, I could\u0027ve gotten up. I did have the giggles, but it was genuine laughter. A very nice mood enhancer after work, for sure.\n\nIn the nighttime, I intended to smoke like an hour before bed. By the time I\u0027d finished the bowl, I\u0027d added multiple layers of fluffy clothing and was wrapped up like a baked potato in bed. It was like being back in the womb....\n\nSlept a straight 8 hours, waking up two hours earlier than usual fresh as a daisy.\n\nSmells nice, and my bud looks decent and all, but the smoke was harsh from a spoon since it was pretty dry. Easily fixed, though.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png"},{"id":1446121,"username":"jenifer44","text":"I bought this to help me sleep and it did the opposite. Made me very anxious, not a relaxing or enjoyable strain in my books. So many good strains. I don\u0027t know why they would even sell this.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/1/240","avatar":"https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":4,"flavors":[{"name":"Earthy","score":33.333333333333329},{"name":"Woody","score":16.666666666666664},{"name":"Pine","score":16.666666666666664},{"name":"Tea","score":16.666666666666664},{"name":"Tobacco","score":16.666666666666664}],"effects":[{"name":"Uplifted","score":33.333333333333329},{"name":"Focused","score":33.333333333333329},{"name":"Sleepy","score":29.166666666666664},{"name":"Relaxed","score":29.166666666666664},{"name":"Tingly","score":16.666666666666664}],"symptoms":[{"name":"Stress","score":45.833333333333329},{"name":"Depression","score":33.333333333333329},{"name":"Fatigue","score":33.333333333333329},{"name":"Insomnia","score":29.166666666666664},{"name":"Eye Pressure","score":12.5}],"conditions":[{"name":"Anxiety","score":45.833333333333329},{"name":"ADD/ADHD","score":33.333333333333329},{"name":"PTSD","score":33.333333333333329},{"name":"Arthritis","score":12.5},{"name":"Cancer","score":12.5}],"negatives":[{"name":"Dizzy","score":16.666666666666664},{"name":"Dry Mouth","score":16.666666666666664},{"name":"Paranoid","score":16.666666666666664},{"name":"Anxious","score":16.666666666666664}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/indica/true-x","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/3/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"True OG","subtitle":null,"slug":"true-og","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/true-og","symbol":"Tru","applink":"leafly://strain/true-og"},{"name":"C4","subtitle":null,"slug":"c4","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/c4","symbol":"C4","applink":"leafly://strain/c4"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 45.83333333333333
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "PTSD",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Arthritis",
+            "score": 12.5
+        },
+        {
+            "name": "Cancer",
+            "score": 12.5
+        }
+    ],
+    "description": "<p>True X by Royal Choice Farms is an indica-dominant strain built for relaxation. Created by crossing <a href=\"https://www.leafly.com/hybrid/c4\">C4</a> and <a href=\"https://www.leafly.com/indica/true-og\">True OG</a>, True X is a sweet OG cross that offers traditional Kush effects that settle nicely on the body while percolating a warm, welcoming euphoria between the ears. Utilize this strain during the evening to relax the body and prepare for sleep. True X&rsquo;s sweet and spicy <a href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\">terpenes</a> make for a flavorful nightcap after a long day.&nbsp;</p>\n",
+    "descriptionPlain": "True X by Royal Choice Farms is an indica-dominant strain built for relaxation. Created by crossing C4 and True OG, True X is a sweet OG cross that offers traditional Kush effects that settle nicely on the body while percolating a warm, welcoming euphoria between the ears. Utilize this strain during the evening to relax the body and prepare for sleep. True X&rsquo;s sweet and spicy terpenes make for a flavorful nightcap after a long day.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Uplifted",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Focused",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Sleepy",
+            "score": 29.166666666666664
+        },
+        {
+            "name": "Relaxed",
+            "score": 29.166666666666664
+        },
+        {
+            "name": "Tingly",
+            "score": 16.666666666666664
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Earthy",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Woody",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Pine",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Tea",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Tobacco",
+            "score": 16.666666666666664
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png",
+            "id": 1385634,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "I've just acquired this strain, so my findings are limited, but very positive. \n\nWhen smoked mid-afternoon, I felt the euphoria and a pleasant pressure or release behind my eyes. I didn't feel groggy, just very chilled, and while I was enjoying being sat on the couch, I could've gotten up. I did have the giggles, but it was genuine laughter. A very nice mood enhancer after work, for sure.\n\nIn the nighttime, I intended to smoke like an hour before bed. By the time I'd finished the bowl, I'd added multiple layers of fluffy clothing and was wrapped up like a baked potato in bed. It was like being back in the womb....\n\nSlept a straight 8 hours, waking up two hours earlier than usual fresh as a daisy.\n\nSmells nice, and my bud looks decent and all, but the smoke was harsh from a spoon since it was pretty dry. Easily fixed, though.",
+            "username": "Recannaissance"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png",
+            "id": 1446121,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/1/240",
+            "text": "I bought this to help me sleep and it did the opposite. Made me very anxious, not a relaxing or enjoyable strain in my books. So many good strains. I don't know why they would even sell this.",
+            "username": "jenifer44"
+        }
+    ],
+    "id": 260592,
+    "name": "True X",
+    "negatives": [
+        {
+            "name": "Dizzy",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Paranoid",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Anxious",
+            "score": 16.666666666666664
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/true-og",
+            "category": "Indica",
+            "name": "True OG",
+            "permalink": "https://mobileapi.leafly.com/indica/true-og",
+            "slug": "true-og",
+            "subtitle": null,
+            "symbol": "Tru"
+        },
+        {
+            "applink": "leafly://strain/c4",
+            "category": "Hybrid",
+            "name": "C4",
+            "permalink": "https://mobileapi.leafly.com/hybrid/c4",
+            "slug": "c4",
+            "subtitle": null,
+            "symbol": "C4"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/true-x",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 3,
+    "relatedStrains": [],
+    "reviewCount": 4,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "true-x",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/3/240",
+    "subtitle": null,
+    "symbol": "Tx",
+    "symptoms": [
+        {
+            "name": "Stress",
+            "score": 45.83333333333333
+        },
+        {
+            "name": "Depression",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Fatigue",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Insomnia",
+            "score": 29.166666666666664
+        },
+        {
+            "name": "Eye Pressure",
+            "score": 12.5
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

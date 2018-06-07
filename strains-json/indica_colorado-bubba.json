@@ -1,1 +1,187 @@
-{"sl_translate":"description,descriptionPlain,category","id":120847,"slug":"colorado-bubba","name":"Colorado Bubba","subtitle":null,"symbol":"Cbb","category":"Indica","description":"\u003cp\u003e\u003cspan style=\"line-height: 20.7999992370605px;\"\u003eColorado Bubba from\u0026nbsp;Vault Genetics took\u003c/span\u003e\u003cspan style=\"line-height: 20.7999992370605px;\"\u003e\u0026nbsp;1\u003c/span\u003e\u003cspan style=\"line-height: 1.6em;\"\u003est place\u0026nbsp;\u003c/span\u003e\u003cspan style=\"line-height: 1.6em;\"\u003ein\u0026nbsp;\u003c/span\u003e\u003cem style=\"line-height: 1.6em;\"\u003eHigh Times\u003c/em\u003e\u003cspan style=\"line-height: 1.6em;\"\u003e\u0026#39; 2014 Amsterdam Cannabis Cup in the\u0026nbsp;\u003c/span\u003e\u003cspan style=\"line-height: 20.7999992370605px;\"\u003e\u0026quot;Best Indica\u0026quot; category. A cross between\u0026nbsp;\u003ca href=\"https://www.leafly.com/indica/northern-lights--5\"\u003eNorthern Lights #5\u003c/a\u003e and \u0026#39;92 OG, this hybrid has a subtle floral aroma and powerfully sedating effects that encourage rest and relaxation.\u003c/span\u003e\u003c/p\u003e\n","descriptionPlain":"Colorado Bubba from\u0026nbsp;Vault Genetics took\u0026nbsp;1st place\u0026nbsp;in\u0026nbsp;High Times\u0026#39; 2014 Amsterdam Cannabis Cup in the\u0026nbsp;\u0026quot;Best Indica\u0026quot; category. A cross between\u0026nbsp;Northern Lights #5 and \u0026#39;92 OG, this hybrid has a subtle floral aroma and powerfully sedating effects that encourage rest and relaxation.\n","aka":"Colorado Bubba Kush, CO Bubba","rating":4.56,"highlightedReviews":[{"id":1216902,"username":"jerrell","text":"I am Kind of Digging this Strain, GREAT BIG BUDS, beautiful smell of Kush, Fantastic bag appeal,  Wonderful long lasting cerebral High, Lots of pain relief, I would grab it again anytime","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/8AEOnyObscLzPEdm7ERjYOUx4RU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fP4YFTRznSDCEVP7Fycg7_nerd-red.png"},{"id":1372302,"username":"SahDude207","text":"Definitely something that\u0027s a tasty treat and gives food so much flavor","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":9,"flavors":[{"name":"Pineapple","score":25},{"name":"Mango","score":25},{"name":"Pine","score":4.5454545454545459},{"name":"Nutty","score":4.5454545454545459},{"name":"Pepper","score":2.2727272727272729}],"effects":[{"name":"Relaxed","score":59.090909090909093},{"name":"Happy","score":31.818181818181817},{"name":"Sleepy","score":29.545454545454547},{"name":"Uplifted","score":27.272727272727273},{"name":"Creative","score":25}],"symptoms":[{"name":"Depression","score":9.0909090909090917},{"name":"Muscle Spasms","score":6.8181818181818175},{"name":"Pain","score":6.8181818181818175},{"name":"Stress","score":6.8181818181818175},{"name":"Lack of Appetite","score":4.5454545454545459}],"conditions":[{"name":"PTSD","score":4.5454545454545459},{"name":"ADD/ADHD","score":2.2727272727272729},{"name":"Anxiety","score":2.2727272727272729},{"name":"Fibromyalgia","score":2.2727272727272729},{"name":"PMS","score":2.2727272727272729}],"negatives":[{"name":"Dry Mouth","score":29.545454545454547},{"name":"Anxious","score":25},{"name":"Dry Eyes","score":2.2727272727272729}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/colorado-bubba_100x100_269a.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/249460/b/colorado-bubba__primary_ffa7.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/colorado-bubba_100x100_6b04.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/233517/b/colorado-bubba__primary_db7c.jpg"}],"photoTotalCount":2,"popularCities":["Pueblo, CO"],"permalink":"https://mobileapi.leafly.com/indica/colorado-bubba","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.55555555555556/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Northern Lights #5","subtitle":null,"slug":"northern-lights--5","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/northern-lights--5","symbol":"N5","applink":"leafly://strain/northern-lights--5"},{"name":"OG Kush","subtitle":null,"slug":"og-kush","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/og-kush","symbol":"Ogk","applink":"leafly://strain/og-kush"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": "Colorado Bubba Kush, CO Bubba",
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "PTSD",
+            "score": 4.545454545454546
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 2.272727272727273
+        },
+        {
+            "name": "Anxiety",
+            "score": 2.272727272727273
+        },
+        {
+            "name": "Fibromyalgia",
+            "score": 2.272727272727273
+        },
+        {
+            "name": "PMS",
+            "score": 2.272727272727273
+        }
+    ],
+    "description": "<p><span style=\"line-height: 20.7999992370605px;\">Colorado Bubba from&nbsp;Vault Genetics took</span><span style=\"line-height: 20.7999992370605px;\">&nbsp;1</span><span style=\"line-height: 1.6em;\">st place&nbsp;</span><span style=\"line-height: 1.6em;\">in&nbsp;</span><em style=\"line-height: 1.6em;\">High Times</em><span style=\"line-height: 1.6em;\">&#39; 2014 Amsterdam Cannabis Cup in the&nbsp;</span><span style=\"line-height: 20.7999992370605px;\">&quot;Best Indica&quot; category. A cross between&nbsp;<a href=\"https://www.leafly.com/indica/northern-lights--5\">Northern Lights #5</a> and &#39;92 OG, this hybrid has a subtle floral aroma and powerfully sedating effects that encourage rest and relaxation.</span></p>\n",
+    "descriptionPlain": "Colorado Bubba from&nbsp;Vault Genetics took&nbsp;1st place&nbsp;in&nbsp;High Times&#39; 2014 Amsterdam Cannabis Cup in the&nbsp;&quot;Best Indica&quot; category. A cross between&nbsp;Northern Lights #5 and &#39;92 OG, this hybrid has a subtle floral aroma and powerfully sedating effects that encourage rest and relaxation.\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 59.09090909090909
+        },
+        {
+            "name": "Happy",
+            "score": 31.818181818181817
+        },
+        {
+            "name": "Sleepy",
+            "score": 29.545454545454547
+        },
+        {
+            "name": "Uplifted",
+            "score": 27.272727272727273
+        },
+        {
+            "name": "Creative",
+            "score": 25
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Pineapple",
+            "score": 25
+        },
+        {
+            "name": "Mango",
+            "score": 25
+        },
+        {
+            "name": "Pine",
+            "score": 4.545454545454546
+        },
+        {
+            "name": "Nutty",
+            "score": 4.545454545454546
+        },
+        {
+            "name": "Pepper",
+            "score": 2.272727272727273
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/8AEOnyObscLzPEdm7ERjYOUx4RU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fP4YFTRznSDCEVP7Fycg7_nerd-red.png",
+            "id": 1216902,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "I am Kind of Digging this Strain, GREAT BIG BUDS, beautiful smell of Kush, Fantastic bag appeal,  Wonderful long lasting cerebral High, Lots of pain relief, I would grab it again anytime",
+            "username": "jerrell"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png",
+            "id": 1372302,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Definitely something that's a tasty treat and gives food so much flavor",
+            "username": "SahDude207"
+        }
+    ],
+    "id": 120847,
+    "name": "Colorado Bubba",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 29.545454545454547
+        },
+        {
+            "name": "Anxious",
+            "score": 25
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 2.272727272727273
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/northern-lights--5",
+            "category": "Indica",
+            "name": "Northern Lights #5",
+            "permalink": "https://mobileapi.leafly.com/indica/northern-lights--5",
+            "slug": "northern-lights--5",
+            "subtitle": null,
+            "symbol": "N5"
+        },
+        {
+            "applink": "leafly://strain/og-kush",
+            "category": "Hybrid",
+            "name": "OG Kush",
+            "permalink": "https://mobileapi.leafly.com/hybrid/og-kush",
+            "slug": "og-kush",
+            "subtitle": null,
+            "symbol": "Ogk"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/colorado-bubba",
+    "photoTotalCount": 2,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/249460/b/colorado-bubba__primary_ffa7.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/colorado-bubba_100x100_269a.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/233517/b/colorado-bubba__primary_db7c.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/colorado-bubba_100x100_6b04.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Pueblo, CO"
+    ],
+    "rating": 4.56,
+    "relatedStrains": [],
+    "reviewCount": 9,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "colorado-bubba",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.55555555555556/240",
+    "subtitle": null,
+    "symbol": "Cbb",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 9.090909090909092
+        },
+        {
+            "name": "Muscle Spasms",
+            "score": 6.8181818181818175
+        },
+        {
+            "name": "Pain",
+            "score": 6.8181818181818175
+        },
+        {
+            "name": "Stress",
+            "score": 6.8181818181818175
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 4.545454545454546
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

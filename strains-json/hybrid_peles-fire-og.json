@@ -1,1 +1,112 @@
-{"sl_translate":"description,descriptionPlain,category","id":259731,"slug":"peles-fire-og","name":"Pele\u0027s Fire OG","subtitle":null,"symbol":"Pef","category":"Hybrid","description":"\u003cp\u003ePele\u0026rsquo;s Fire OG by Pua Mana Pakalōlō puts the volcanic flames of the Hawaiian goddess Pele into this \u003ca href=\"https://www.leafly.com/hybrid/fire-og\"\u003eFire OG\u003c/a\u003e backcross. The talented Pua Mana Ohana bred their finest Fire OG male with their most \u0026lsquo;ono (delicious) wahine (female) to create a strain worthy of Pele. The strain expresses classic OG aromas of citrus and earth while delivering euphoric mental effects that settle into the limbs as pleasant warmth.\u003c/p\u003e\n","descriptionPlain":"Pele\u0026rsquo;s Fire OG by Pua Mana Pakalōlō puts the volcanic flames of the Hawaiian goddess Pele into this Fire OG backcross. The talented Pua Mana Ohana bred their finest Fire OG male with their most \u0026lsquo;ono (delicious) wahine (female) to create a strain worthy of Pele. The strain expresses classic OG aromas of citrus and earth while delivering euphoric mental effects that settle into the limbs as pleasant warmth.\n","aka":null,"rating":5,"highlightedReviews":[{"id":1335291,"username":"Aloha808kine","text":"The seeds look like miniature Velociraptor eggs until they erupt out of the shell like the volcanic Hawaiian Goddess Pele whom this strain is named for - Next comes the vigorous growth of the most insane OG I have ever grown, mind blown and coo-coo\u0027s nest flown - The aroma is uncontrollable stank earthy diesel fruit that is impossible to contain like an escaped Jurassic Park raptor, why try to capture just let her be free to be in her THC rapture - Blissful pain relief is here and the coast is clear for patients with a tolerance to average strength meds, beware of the heat from Pele\u0027s fire - Her molten healing is the real thing - Mahalo Pua Mana \u0027Ohana for this champion Hawaiian Fire OG and Mahalo to Leafly for listing my favorite OG!","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"},{"id":1387511,"username":"PuaManaPakalolo","text":"A high yielding dome knocking Hawaiian OG to refine even the heartiest stoners head pieces in the volcanic flames of Pele","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":3,"flavors":[{"name":"Diesel","score":18.75},{"name":"Earthy","score":18.75},{"name":"Pungent","score":18.75},{"name":"Citrus","score":6.25},{"name":"Skunk","score":6.25}],"effects":[{"name":"Aroused","score":12.5},{"name":"Uplifted","score":12.5},{"name":"Energetic","score":12.5},{"name":"Sleepy","score":6.25},{"name":"Tingly","score":6.25}],"symptoms":[],"conditions":[],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Eugene, OR"],"permalink":"https://mobileapi.leafly.com/hybrid/peles-fire-og","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Fire OG","subtitle":null,"slug":"fire-og","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/fire-og","symbol":"Fog","applink":"leafly://strain/fire-og"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [],
+    "description": "<p>Pele&rsquo;s Fire OG by Pua Mana Pakal\u014dl\u014d puts the volcanic flames of the Hawaiian goddess Pele into this <a href=\"https://www.leafly.com/hybrid/fire-og\">Fire OG</a> backcross. The talented Pua Mana Ohana bred their finest Fire OG male with their most &lsquo;ono (delicious) wahine (female) to create a strain worthy of Pele. The strain expresses classic OG aromas of citrus and earth while delivering euphoric mental effects that settle into the limbs as pleasant warmth.</p>\n",
+    "descriptionPlain": "Pele&rsquo;s Fire OG by Pua Mana Pakal\u014dl\u014d puts the volcanic flames of the Hawaiian goddess Pele into this Fire OG backcross. The talented Pua Mana Ohana bred their finest Fire OG male with their most &lsquo;ono (delicious) wahine (female) to create a strain worthy of Pele. The strain expresses classic OG aromas of citrus and earth while delivering euphoric mental effects that settle into the limbs as pleasant warmth.\n",
+    "effects": [
+        {
+            "name": "Aroused",
+            "score": 12.5
+        },
+        {
+            "name": "Uplifted",
+            "score": 12.5
+        },
+        {
+            "name": "Energetic",
+            "score": 12.5
+        },
+        {
+            "name": "Sleepy",
+            "score": 6.25
+        },
+        {
+            "name": "Tingly",
+            "score": 6.25
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Diesel",
+            "score": 18.75
+        },
+        {
+            "name": "Earthy",
+            "score": 18.75
+        },
+        {
+            "name": "Pungent",
+            "score": 18.75
+        },
+        {
+            "name": "Citrus",
+            "score": 6.25
+        },
+        {
+            "name": "Skunk",
+            "score": 6.25
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1335291,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "The seeds look like miniature Velociraptor eggs until they erupt out of the shell like the volcanic Hawaiian Goddess Pele whom this strain is named for - Next comes the vigorous growth of the most insane OG I have ever grown, mind blown and coo-coo's nest flown - The aroma is uncontrollable stank earthy diesel fruit that is impossible to contain like an escaped Jurassic Park raptor, why try to capture just let her be free to be in her THC rapture - Blissful pain relief is here and the coast is clear for patients with a tolerance to average strength meds, beware of the heat from Pele's fire - Her molten healing is the real thing - Mahalo Pua Mana 'Ohana for this champion Hawaiian Fire OG and Mahalo to Leafly for listing my favorite OG!",
+            "username": "Aloha808kine"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png",
+            "id": 1387511,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "A high yielding dome knocking Hawaiian OG to refine even the heartiest stoners head pieces in the volcanic flames of Pele",
+            "username": "PuaManaPakalolo"
+        }
+    ],
+    "id": 259731,
+    "name": "Pele's Fire OG",
+    "negatives": [],
+    "parents": [
+        {
+            "applink": "leafly://strain/fire-og",
+            "category": "Hybrid",
+            "name": "Fire OG",
+            "permalink": "https://mobileapi.leafly.com/hybrid/fire-og",
+            "slug": "fire-og",
+            "subtitle": null,
+            "symbol": "Fog"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/peles-fire-og",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Eugene, OR"
+    ],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 3,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "peles-fire-og",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Pef",
+    "symptoms": [],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

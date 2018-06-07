@@ -1,1 +1,53 @@
-{"sl_translate":"description,descriptionPlain,category","id":501305,"slug":"chem-beyond-diesel-cbd","name":"Chem Beyond Diesel CBD","subtitle":null,"symbol":"Cbe","category":"Hybrid","description":"\u003cp\u003eChem Beyond Diesel CBD by Sweet Seeds is a \u003ca href=\"https://www.leafly.com/news/science-tech/what-does-cbd-do\"\u003eCBD-rich\u003c/a\u003e strain that was created by blending \u003ca href=\"https://www.leafly.com/hybrid/chemdawg\"\u003eChemdawg \u003c/a\u003eand a European ancestor of Diesel. This genetic pairing resulted in a solid 1:1 CBD/THC ratio alongside a woody aroma with a touch of lemon, pepper, and spices. Chem Beyond Diesel CBD has an 8-week flowering cycle and has been known to produce ample amounts of resin, making it ideal for extraction.\u0026nbsp;\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Chem Beyond Diesel CBD by Sweet Seeds is a CBD-rich strain that was created by blending Chemdawg and a European ancestor of Diesel. This genetic pairing resulted in a solid 1:1 CBD/THC ratio alongside a woody aroma with a touch of lemon, pepper, and spices. Chem Beyond Diesel CBD has an 8-week flowering cycle and has been known to produce ample amounts of resin, making it ideal for extraction.\u0026nbsp;\u0026nbsp;\n","aka":null,"rating":0,"highlightedReviews":[],"relatedStrains":[],"articles":[],"reviewCount":0,"flavors":[],"effects":[],"symptoms":[],"conditions":[],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/chem-beyond-diesel-cbd","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/0/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Chemdawg","subtitle":null,"slug":"chemdawg","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/chemdawg","symbol":"Cd","applink":"leafly://strain/chemdawg"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":56,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [],
+    "description": "<p>Chem Beyond Diesel CBD by Sweet Seeds is a <a href=\"https://www.leafly.com/news/science-tech/what-does-cbd-do\">CBD-rich</a> strain that was created by blending <a href=\"https://www.leafly.com/hybrid/chemdawg\">Chemdawg </a>and a European ancestor of Diesel. This genetic pairing resulted in a solid 1:1 CBD/THC ratio alongside a woody aroma with a touch of lemon, pepper, and spices. Chem Beyond Diesel CBD has an 8-week flowering cycle and has been known to produce ample amounts of resin, making it ideal for extraction.&nbsp;&nbsp;</p>\n",
+    "descriptionPlain": "Chem Beyond Diesel CBD by Sweet Seeds is a CBD-rich strain that was created by blending Chemdawg and a European ancestor of Diesel. This genetic pairing resulted in a solid 1:1 CBD/THC ratio alongside a woody aroma with a touch of lemon, pepper, and spices. Chem Beyond Diesel CBD has an 8-week flowering cycle and has been known to produce ample amounts of resin, making it ideal for extraction.&nbsp;&nbsp;\n",
+    "effects": [],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 56,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [],
+    "id": 501305,
+    "name": "Chem Beyond Diesel CBD",
+    "negatives": [],
+    "parents": [
+        {
+            "applink": "leafly://strain/chemdawg",
+            "category": "Hybrid",
+            "name": "Chemdawg",
+            "permalink": "https://mobileapi.leafly.com/hybrid/chemdawg",
+            "slug": "chemdawg",
+            "subtitle": null,
+            "symbol": "Cd"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/chem-beyond-diesel-cbd",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 0,
+    "relatedStrains": [],
+    "reviewCount": 0,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "chem-beyond-diesel-cbd",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/0/240",
+    "subtitle": null,
+    "symbol": "Cbe",
+    "symptoms": [],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

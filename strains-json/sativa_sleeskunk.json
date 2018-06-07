@@ -1,1 +1,185 @@
-{"sl_translate":"description,descriptionPlain,category","id":161935,"slug":"sleeskunk","name":"SleeSkunk","subtitle":null,"symbol":"Sls","category":"Sativa","description":"\u003cp\u003eSleeSkunk is a\u0026nbsp;\u003ca href=\"http://www.leafly.com/explore/category-hybrid\"\u003ehybrid\u003c/a\u003e bred by DNA Genetics that crosses \u003ca href=\"https://www.leafly.com/sativa/sleestack\"\u003eSleeStack\u003c/a\u003e with \u003ca href=\"https://www.leafly.com/hybrid/skunk-1\"\u003eSkunk #1\u003c/a\u003e. The result is a resinous, \u003ca href=\"http://www.leafly.com/explore/category-sativa\"\u003esativa\u003c/a\u003e-dominant cross that produces clear, \u003ca href=\"http://www.leafly.com/explore/tags-uplifted\"\u003euplifting\u003c/a\u003e effects focused in the head. Many appreciate SleeSkunk for its \u003ca href=\"http://www.leafly.com/explore/flavors-skunk\"\u003eskunky\u003c/a\u003e, \u003ca href=\"http://www.leafly.com/explore/flavors-citrus\"\u003ecitrus\u003c/a\u003e flavors, and prefer it for daytime use.\u003c/p\u003e\n","descriptionPlain":"SleeSkunk is a\u0026nbsp;hybrid bred by DNA Genetics that crosses SleeStack with Skunk #1. The result is a resinous, sativa-dominant cross that produces clear, uplifting effects focused in the head. Many appreciate SleeSkunk for its skunky, citrus flavors, and prefer it for daytime use.\n","aka":null,"rating":4.25,"highlightedReviews":[{"id":1389828,"username":"EggplantKush","text":"Amazing! bought it at GreyArea in Amsterdam, one of the best strains in this city. it just lifts you up, physically and mentally. even if you feel tired or sick- this strain will bring the color back to your life and you\u0027ll feel absolutely great and giggly. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"},{"id":1603523,"username":"Magicrow","text":"I lived on opioid pain management, along with muscle relaxers and anxiety medication, for 12 years. Being born with arthritis and having spinal meningitis as as child has left me in a state of chronic pain most of my life. I \"happened\" across this strain as a plant. There was a male just beginning to flower that I cut, cured and smoked. Even though it was a male, I felt as If God has smiled down on me! The pain, the muscle spasms, nerve spasms, IBS, anxiety, ADHD were All gone! For the first time in Years i actually felt 🤔 ...  Normal! AMAZING!!!","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/EsB9lXCri57tN17h49dVOnCDkFI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fTBeeQQk0TGeLYj4SjC6Z_old-school-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":12,"flavors":[{"name":"Skunk","score":107.69230769230769},{"name":"Pine","score":107.69230769230769},{"name":"Spicy/Herbal","score":103.84615384615384},{"name":"Citrus","score":103.84615384615384},{"name":"Earthy","score":103.84615384615384}],"effects":[{"name":"Creative","score":109.61538461538461},{"name":"Euphoric","score":109.61538461538461},{"name":"Tingly","score":107.69230769230769},{"name":"Uplifted","score":107.69230769230769},{"name":"Energetic","score":107.69230769230769}],"symptoms":[{"name":"Nausea","score":109.61538461538461},{"name":"Stress","score":109.61538461538461},{"name":"Depression","score":105.76923076923077},{"name":"Fatigue","score":105.76923076923077},{"name":"Headaches","score":105.76923076923077}],"conditions":[{"name":"Anxiety","score":7.6923076923076925},{"name":"Tinnitus","score":7.6923076923076925},{"name":"Crohn\u0027s Disease","score":5.7692307692307692},{"name":"Gastrointestinal Disorder","score":5.7692307692307692},{"name":"Glaucoma","score":5.7692307692307692}],"negatives":[{"name":"Dry Mouth","score":5.7692307692307692},{"name":"Dry Eyes","score":1.9230769230769231},{"name":"Paranoid","score":1.9230769230769231}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/sleeskunk_100x100_bdb8.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/397197/b/sleeskunk__primary_4d53.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/sleeskunk_100x100_7737.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/378035/b/sleeskunk__primary_18bc.jpg"}],"photoTotalCount":2,"popularCities":[],"permalink":"https://mobileapi.leafly.com/sativa/sleeskunk","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.25/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"SleeStack","subtitle":null,"slug":"sleestack","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/sleestack","symbol":"Sle","applink":"leafly://strain/sleestack"},{"name":"Skunk No. 1","subtitle":null,"slug":"skunk-1","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/skunk-1","symbol":"Sk1","applink":"leafly://strain/skunk-1"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":60,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":"\n\tYield: 450-500 g/m\u0026sup2;\n\n"}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Sativa",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 7.6923076923076925
+        },
+        {
+            "name": "Tinnitus",
+            "score": 7.6923076923076925
+        },
+        {
+            "name": "Crohn's Disease",
+            "score": 5.769230769230769
+        },
+        {
+            "name": "Gastrointestinal Disorder",
+            "score": 5.769230769230769
+        },
+        {
+            "name": "Glaucoma",
+            "score": 5.769230769230769
+        }
+    ],
+    "description": "<p>SleeSkunk is a&nbsp;<a href=\"http://www.leafly.com/explore/category-hybrid\">hybrid</a> bred by DNA Genetics that crosses <a href=\"https://www.leafly.com/sativa/sleestack\">SleeStack</a> with <a href=\"https://www.leafly.com/hybrid/skunk-1\">Skunk #1</a>. The result is a resinous, <a href=\"http://www.leafly.com/explore/category-sativa\">sativa</a>-dominant cross that produces clear, <a href=\"http://www.leafly.com/explore/tags-uplifted\">uplifting</a> effects focused in the head. Many appreciate SleeSkunk for its <a href=\"http://www.leafly.com/explore/flavors-skunk\">skunky</a>, <a href=\"http://www.leafly.com/explore/flavors-citrus\">citrus</a> flavors, and prefer it for daytime use.</p>\n",
+    "descriptionPlain": "SleeSkunk is a&nbsp;hybrid bred by DNA Genetics that crosses SleeStack with Skunk #1. The result is a resinous, sativa-dominant cross that produces clear, uplifting effects focused in the head. Many appreciate SleeSkunk for its skunky, citrus flavors, and prefer it for daytime use.\n",
+    "effects": [
+        {
+            "name": "Creative",
+            "score": 109.61538461538461
+        },
+        {
+            "name": "Euphoric",
+            "score": 109.61538461538461
+        },
+        {
+            "name": "Tingly",
+            "score": 107.6923076923077
+        },
+        {
+            "name": "Uplifted",
+            "score": 107.6923076923077
+        },
+        {
+            "name": "Energetic",
+            "score": 107.6923076923077
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Skunk",
+            "score": 107.6923076923077
+        },
+        {
+            "name": "Pine",
+            "score": 107.6923076923077
+        },
+        {
+            "name": "Spicy/Herbal",
+            "score": 103.84615384615384
+        },
+        {
+            "name": "Citrus",
+            "score": 103.84615384615384
+        },
+        {
+            "name": "Earthy",
+            "score": 103.84615384615384
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 60,
+        "growNotes": "\n\tYield: 450-500 g/m&sup2;\n\n",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1389828,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Amazing! bought it at GreyArea in Amsterdam, one of the best strains in this city. it just lifts you up, physically and mentally. even if you feel tired or sick- this strain will bring the color back to your life and you'll feel absolutely great and giggly. ",
+            "username": "EggplantKush"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/EsB9lXCri57tN17h49dVOnCDkFI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fTBeeQQk0TGeLYj4SjC6Z_old-school-red.png",
+            "id": 1603523,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "I lived on opioid pain management, along with muscle relaxers and anxiety medication, for 12 years. Being born with arthritis and having spinal meningitis as as child has left me in a state of chronic pain most of my life. I \"happened\" across this strain as a plant. There was a male just beginning to flower that I cut, cured and smoked. Even though it was a male, I felt as If God has smiled down on me! The pain, the muscle spasms, nerve spasms, IBS, anxiety, ADHD were All gone! For the first time in Years i actually felt \ud83e\udd14 ...  Normal! AMAZING!!!",
+            "username": "Magicrow"
+        }
+    ],
+    "id": 161935,
+    "name": "SleeSkunk",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 5.769230769230769
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 1.9230769230769231
+        },
+        {
+            "name": "Paranoid",
+            "score": 1.9230769230769231
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/sleestack",
+            "category": "Sativa",
+            "name": "SleeStack",
+            "permalink": "https://mobileapi.leafly.com/sativa/sleestack",
+            "slug": "sleestack",
+            "subtitle": null,
+            "symbol": "Sle"
+        },
+        {
+            "applink": "leafly://strain/skunk-1",
+            "category": "Hybrid",
+            "name": "Skunk No. 1",
+            "permalink": "https://mobileapi.leafly.com/hybrid/skunk-1",
+            "slug": "skunk-1",
+            "subtitle": null,
+            "symbol": "Sk1"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/sativa/sleeskunk",
+    "photoTotalCount": 2,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/397197/b/sleeskunk__primary_4d53.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/sleeskunk_100x100_bdb8.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/378035/b/sleeskunk__primary_18bc.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/sleeskunk_100x100_7737.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [],
+    "rating": 4.25,
+    "relatedStrains": [],
+    "reviewCount": 12,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "sleeskunk",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.25/240",
+    "subtitle": null,
+    "symbol": "Sls",
+    "symptoms": [
+        {
+            "name": "Nausea",
+            "score": 109.61538461538461
+        },
+        {
+            "name": "Stress",
+            "score": 109.61538461538461
+        },
+        {
+            "name": "Depression",
+            "score": 105.76923076923077
+        },
+        {
+            "name": "Fatigue",
+            "score": 105.76923076923077
+        },
+        {
+            "name": "Headaches",
+            "score": 105.76923076923077
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

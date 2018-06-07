@@ -1,1 +1,188 @@
-{"sl_translate":"description,descriptionPlain,category","id":248655,"slug":"wmd","name":"WMD","subtitle":null,"symbol":"Wmd","category":"Indica","description":"\u003cp\u003eWMD by Vancouver Island Seed Company is a high-yielding indica with potent Canadian roots. It exhibits a unique aroma of sweet berry, musk, and hashy spice that remains earthy on the palate after exhaling. The effects are initially cerebral, but they later settle down into the body to relax and soothe limbs. This cross of \u003ca href=\"https://www.leafly.com/indica/big-bud\"\u003eBig Bud\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/indica/fucking-incredible\"\u003eFucking Incredible\u003c/a\u003e may offer relief from depression, minor physical pain, and migraines\u003c/p\u003e\n","descriptionPlain":"WMD by Vancouver Island Seed Company is a high-yielding indica with potent Canadian roots. It exhibits a unique aroma of sweet berry, musk, and hashy spice that remains earthy on the palate after exhaling. The effects are initially cerebral, but they later settle down into the body to relax and soothe limbs. This cross of Big Bud and Fucking Incredible may offer relief from depression, minor physical pain, and migraines\n","aka":null,"rating":4.88,"highlightedReviews":[{"id":1353773,"username":"irishtobias","text":"A fine sleep aid, appetite stimulant and all around gnarly indica. Grabbed this a few times from Canna Clinic in Kensington market, Toronto and would rank it among the best I\u0027ve purchased there. The flavour is very enjoyable but somewhat hard to describe. Not especially functional, but great for relaxation.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"},{"id":1491670,"username":"Cronjaman","text":"Extremely flavourful !!! Love this flower all around very nice great flavour great buds great high very cerebral and euphoric almost dumb founded lol eight out of ten all around","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":17,"flavors":[{"name":"Earthy","score":13.095238095238095},{"name":"Berry","score":10.714285714285714},{"name":"Pungent","score":10.714285714285714},{"name":"Diesel","score":8.3333333333333321},{"name":"Sweet","score":2.3809523809523809}],"effects":[{"name":"Relaxed","score":33.333333333333329},{"name":"Happy","score":22.619047619047617},{"name":"Euphoric","score":14.285714285714285},{"name":"Sleepy","score":11.904761904761903},{"name":"Tingly","score":11.904761904761903}],"symptoms":[{"name":"Stress","score":32.142857142857139},{"name":"Pain","score":30.952380952380953},{"name":"Insomnia","score":17.857142857142854},{"name":"Depression","score":14.285714285714285},{"name":"Headaches","score":11.904761904761903}],"conditions":[{"name":"Anxiety","score":11.904761904761903},{"name":"Anorexia","score":1.1904761904761905},{"name":"Cancer","score":1.1904761904761905},{"name":"Epilepsy","score":1.1904761904761905},{"name":"Fibromyalgia","score":1.1904761904761905}],"negatives":[{"name":"Dry Eyes","score":2.3809523809523809},{"name":"Dry Mouth","score":2.3809523809523809}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/wmd_100x100_5e09.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/630250/b/wmd__primary_81a1.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/wmd_100x100_2761.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/616462/b/wmd__primary_13bf.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/wmd_100x100_3e67.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/595220/b/wmd__primary_843e.jpg"}],"photoTotalCount":3,"popularCities":["Vancouver, BC"],"permalink":"https://mobileapi.leafly.com/indica/wmd","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.88235294117647/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Big Bud","subtitle":null,"slug":"big-bud","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/big-bud","symbol":"Bb","applink":"leafly://strain/big-bud"},{"name":"Fucking Incredible","subtitle":null,"slug":"fucking-incredible","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/fucking-incredible","symbol":"Fck","applink":"leafly://strain/fucking-incredible"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 11.904761904761903
+        },
+        {
+            "name": "Anorexia",
+            "score": 1.1904761904761905
+        },
+        {
+            "name": "Cancer",
+            "score": 1.1904761904761905
+        },
+        {
+            "name": "Epilepsy",
+            "score": 1.1904761904761905
+        },
+        {
+            "name": "Fibromyalgia",
+            "score": 1.1904761904761905
+        }
+    ],
+    "description": "<p>WMD by Vancouver Island Seed Company is a high-yielding indica with potent Canadian roots. It exhibits a unique aroma of sweet berry, musk, and hashy spice that remains earthy on the palate after exhaling. The effects are initially cerebral, but they later settle down into the body to relax and soothe limbs. This cross of <a href=\"https://www.leafly.com/indica/big-bud\">Big Bud</a> and <a href=\"https://www.leafly.com/indica/fucking-incredible\">Fucking Incredible</a> may offer relief from depression, minor physical pain, and migraines</p>\n",
+    "descriptionPlain": "WMD by Vancouver Island Seed Company is a high-yielding indica with potent Canadian roots. It exhibits a unique aroma of sweet berry, musk, and hashy spice that remains earthy on the palate after exhaling. The effects are initially cerebral, but they later settle down into the body to relax and soothe limbs. This cross of Big Bud and Fucking Incredible may offer relief from depression, minor physical pain, and migraines\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Happy",
+            "score": 22.619047619047617
+        },
+        {
+            "name": "Euphoric",
+            "score": 14.285714285714285
+        },
+        {
+            "name": "Sleepy",
+            "score": 11.904761904761903
+        },
+        {
+            "name": "Tingly",
+            "score": 11.904761904761903
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Earthy",
+            "score": 13.095238095238095
+        },
+        {
+            "name": "Berry",
+            "score": 10.714285714285714
+        },
+        {
+            "name": "Pungent",
+            "score": 10.714285714285714
+        },
+        {
+            "name": "Diesel",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Sweet",
+            "score": 2.380952380952381
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1353773,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "A fine sleep aid, appetite stimulant and all around gnarly indica. Grabbed this a few times from Canna Clinic in Kensington market, Toronto and would rank it among the best I've purchased there. The flavour is very enjoyable but somewhat hard to describe. Not especially functional, but great for relaxation.",
+            "username": "irishtobias"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1491670,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Extremely flavourful !!! Love this flower all around very nice great flavour great buds great high very cerebral and euphoric almost dumb founded lol eight out of ten all around",
+            "username": "Cronjaman"
+        }
+    ],
+    "id": 248655,
+    "name": "WMD",
+    "negatives": [
+        {
+            "name": "Dry Eyes",
+            "score": 2.380952380952381
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 2.380952380952381
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/big-bud",
+            "category": "Indica",
+            "name": "Big Bud",
+            "permalink": "https://mobileapi.leafly.com/indica/big-bud",
+            "slug": "big-bud",
+            "subtitle": null,
+            "symbol": "Bb"
+        },
+        {
+            "applink": "leafly://strain/fucking-incredible",
+            "category": "Indica",
+            "name": "Fucking Incredible",
+            "permalink": "https://mobileapi.leafly.com/indica/fucking-incredible",
+            "slug": "fucking-incredible",
+            "subtitle": null,
+            "symbol": "Fck"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/wmd",
+    "photoTotalCount": 3,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/630250/b/wmd__primary_81a1.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/wmd_100x100_5e09.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/616462/b/wmd__primary_13bf.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/wmd_100x100_2761.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/595220/b/wmd__primary_843e.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/wmd_100x100_3e67.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Vancouver, BC"
+    ],
+    "rating": 4.88,
+    "relatedStrains": [],
+    "reviewCount": 17,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "wmd",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.88235294117647/240",
+    "subtitle": null,
+    "symbol": "Wmd",
+    "symptoms": [
+        {
+            "name": "Stress",
+            "score": 32.14285714285714
+        },
+        {
+            "name": "Pain",
+            "score": 30.952380952380953
+        },
+        {
+            "name": "Insomnia",
+            "score": 17.857142857142854
+        },
+        {
+            "name": "Depression",
+            "score": 14.285714285714285
+        },
+        {
+            "name": "Headaches",
+            "score": 11.904761904761903
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

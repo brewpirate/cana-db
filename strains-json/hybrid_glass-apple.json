@@ -1,1 +1,200 @@
-{"sl_translate":"description,descriptionPlain,category","id":285359,"slug":"glass-apple","name":"Glass Apple","subtitle":null,"symbol":"Gap","category":"Hybrid","description":"\u003cp\u003eGlass Apple is an award-winning strain from The Dandelion Co. out of Boulder, CO. This cross of \u003ca href=\"https://www.leafly.com/hybrid/pineapple-express\"\u003ePineapple Express\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/hybrid/glass-slipper\"\u003eGlass Slipper\u003c/a\u003e won Best Hybrid at the 2013 Rooster Classic. Having the aroma of freshly-cut Granny Smith apples and offering well-rounded sativa-dominant effects, Glass Apple firmly lands in a sweet spot for consumers seeking a functional buzz while boosting energy and \u003ca href=\"https://www.leafly.com/news/cannabis-101/cannabinoids-101-what-makes-cannabis-medicine\"\u003ecannabinoid\u003c/a\u003e intake.\u003c/p\u003e\n","descriptionPlain":"Glass Apple is an award-winning strain from The Dandelion Co. out of Boulder, CO. This cross of Pineapple Express and Glass Slipper won Best Hybrid at the 2013 Rooster Classic. Having the aroma of freshly-cut Granny Smith apples and offering well-rounded sativa-dominant effects, Glass Apple firmly lands in a sweet spot for consumers seeking a functional buzz while boosting energy and cannabinoid intake.\n","aka":null,"rating":4.53,"highlightedReviews":[{"id":1410370,"username":"MellowSmoove","text":"Just picked this up about 40 minutes ago from Native roots. I got a joint and this is a great day time strain. I am a lot more energetic \u0026 happy. \"uplifting\" is the word I\u0027m looking for. As we speak I am high af and can function very well. I actually don\u0027t mind small talk with my customers. \n\nI don\u0027t recommend smoking this at night if you\u0027re trying to get some sleep. It is definitely a more adventurous type of smoke. Unless you like to go to the woods at night, that would be dope. \n\n10/10 would smoke again. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"},{"id":1624056,"username":"Mojicaleaf","text":"Amazing apple flavor! I am always super happy after a bowl of Glass Apple.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/l49rROieEnGxDmnRIuYmk6p9orw=/fit-in/300x300/https%3a%2f%2fddd33q3967xhi.cloudfront.net%2fg9cyk2VlIRbT8Dfqjy26lMt5jOk%3d%2f120x120%2fhttps%253A%252F%252Fddd33q3967xhi.cloudfront.net%252F6IGaltgTSBg-mIhCYilcfpRL73Y%253D%252F120x120%252Fhttps%25253A%25252F%25252Fs3.amazonaws.com%25252Fleafly%25252Fbin%25252FP4YFTRznSDCEVP7Fycg7_nerd-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":17,"flavors":[{"name":"Apple","score":75},{"name":"Flowery","score":62.5},{"name":"Citrus","score":42.5},{"name":"Sweet","score":25},{"name":"Tropical","score":22.5}],"effects":[{"name":"Happy","score":107.5},{"name":"Uplifted","score":82.5},{"name":"Energetic","score":65},{"name":"Talkative","score":55},{"name":"Euphoric","score":55}],"symptoms":[{"name":"Stress","score":47.5},{"name":"Depression","score":45},{"name":"Pain","score":42.5},{"name":"Fatigue","score":27.5},{"name":"Inflammation","score":20}],"conditions":[{"name":"Anxiety","score":40},{"name":"Migraines","score":25},{"name":"ADD/ADHD","score":20},{"name":"Arthritis","score":20},{"name":"Epilepsy","score":20}],"negatives":[{"name":"Dry Mouth","score":25},{"name":"Dry Eyes","score":22.5},{"name":"Paranoid","score":20},{"name":"Anxious","score":2.5}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/glass-apple_100x100_4ecb.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/660810/b/glass-apple__primary_5cc9.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/glass-apple_100x100_bd40.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/660778/b/glass-apple__primary_6e8a.jpg"}],"photoTotalCount":2,"popularCities":["Colorado Springs, CO","Denver, CO","Boulder, CO","Cathedral City, CA","Edgewater, CO","Frisco, CO","Littleton, CO","Longmont, CO","Silverthorne, CO","Spokane, WA"],"permalink":"https://mobileapi.leafly.com/hybrid/glass-apple","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.52941176470588/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Pineapple Express","subtitle":null,"slug":"pineapple-express","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/pineapple-express","symbol":"Pex","applink":"leafly://strain/pineapple-express"},{"name":"Glass Slipper","subtitle":null,"slug":"glass-slipper","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/glass-slipper","symbol":"Gls","applink":"leafly://strain/glass-slipper"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 40
+        },
+        {
+            "name": "Migraines",
+            "score": 25
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 20
+        },
+        {
+            "name": "Arthritis",
+            "score": 20
+        },
+        {
+            "name": "Epilepsy",
+            "score": 20
+        }
+    ],
+    "description": "<p>Glass Apple is an award-winning strain from The Dandelion Co. out of Boulder, CO. This cross of <a href=\"https://www.leafly.com/hybrid/pineapple-express\">Pineapple Express</a> and <a href=\"https://www.leafly.com/hybrid/glass-slipper\">Glass Slipper</a> won Best Hybrid at the 2013 Rooster Classic. Having the aroma of freshly-cut Granny Smith apples and offering well-rounded sativa-dominant effects, Glass Apple firmly lands in a sweet spot for consumers seeking a functional buzz while boosting energy and <a href=\"https://www.leafly.com/news/cannabis-101/cannabinoids-101-what-makes-cannabis-medicine\">cannabinoid</a> intake.</p>\n",
+    "descriptionPlain": "Glass Apple is an award-winning strain from The Dandelion Co. out of Boulder, CO. This cross of Pineapple Express and Glass Slipper won Best Hybrid at the 2013 Rooster Classic. Having the aroma of freshly-cut Granny Smith apples and offering well-rounded sativa-dominant effects, Glass Apple firmly lands in a sweet spot for consumers seeking a functional buzz while boosting energy and cannabinoid intake.\n",
+    "effects": [
+        {
+            "name": "Happy",
+            "score": 107.5
+        },
+        {
+            "name": "Uplifted",
+            "score": 82.5
+        },
+        {
+            "name": "Energetic",
+            "score": 65
+        },
+        {
+            "name": "Talkative",
+            "score": 55
+        },
+        {
+            "name": "Euphoric",
+            "score": 55
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Apple",
+            "score": 75
+        },
+        {
+            "name": "Flowery",
+            "score": 62.5
+        },
+        {
+            "name": "Citrus",
+            "score": 42.5
+        },
+        {
+            "name": "Sweet",
+            "score": 25
+        },
+        {
+            "name": "Tropical",
+            "score": 22.5
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1410370,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Just picked this up about 40 minutes ago from Native roots. I got a joint and this is a great day time strain. I am a lot more energetic & happy. \"uplifting\" is the word I'm looking for. As we speak I am high af and can function very well. I actually don't mind small talk with my customers. \n\nI don't recommend smoking this at night if you're trying to get some sleep. It is definitely a more adventurous type of smoke. Unless you like to go to the woods at night, that would be dope. \n\n10/10 would smoke again. ",
+            "username": "MellowSmoove"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/l49rROieEnGxDmnRIuYmk6p9orw=/fit-in/300x300/https%3a%2f%2fddd33q3967xhi.cloudfront.net%2fg9cyk2VlIRbT8Dfqjy26lMt5jOk%3d%2f120x120%2fhttps%253A%252F%252Fddd33q3967xhi.cloudfront.net%252F6IGaltgTSBg-mIhCYilcfpRL73Y%253D%252F120x120%252Fhttps%25253A%25252F%25252Fs3.amazonaws.com%25252Fleafly%25252Fbin%25252FP4YFTRznSDCEVP7Fycg7_nerd-red.png",
+            "id": 1624056,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Amazing apple flavor! I am always super happy after a bowl of Glass Apple.",
+            "username": "Mojicaleaf"
+        }
+    ],
+    "id": 285359,
+    "name": "Glass Apple",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 25
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 22.5
+        },
+        {
+            "name": "Paranoid",
+            "score": 20
+        },
+        {
+            "name": "Anxious",
+            "score": 2.5
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/pineapple-express",
+            "category": "Hybrid",
+            "name": "Pineapple Express",
+            "permalink": "https://mobileapi.leafly.com/hybrid/pineapple-express",
+            "slug": "pineapple-express",
+            "subtitle": null,
+            "symbol": "Pex"
+        },
+        {
+            "applink": "leafly://strain/glass-slipper",
+            "category": "Hybrid",
+            "name": "Glass Slipper",
+            "permalink": "https://mobileapi.leafly.com/hybrid/glass-slipper",
+            "slug": "glass-slipper",
+            "subtitle": null,
+            "symbol": "Gls"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/glass-apple",
+    "photoTotalCount": 2,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/660810/b/glass-apple__primary_5cc9.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/glass-apple_100x100_4ecb.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/660778/b/glass-apple__primary_6e8a.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/glass-apple_100x100_bd40.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Colorado Springs, CO",
+        "Denver, CO",
+        "Boulder, CO",
+        "Cathedral City, CA",
+        "Edgewater, CO",
+        "Frisco, CO",
+        "Littleton, CO",
+        "Longmont, CO",
+        "Silverthorne, CO",
+        "Spokane, WA"
+    ],
+    "rating": 4.53,
+    "relatedStrains": [],
+    "reviewCount": 17,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "glass-apple",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.52941176470588/240",
+    "subtitle": null,
+    "symbol": "Gap",
+    "symptoms": [
+        {
+            "name": "Stress",
+            "score": 47.5
+        },
+        {
+            "name": "Depression",
+            "score": 45
+        },
+        {
+            "name": "Pain",
+            "score": 42.5
+        },
+        {
+            "name": "Fatigue",
+            "score": 27.5
+        },
+        {
+            "name": "Inflammation",
+            "score": 20
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

@@ -1,1 +1,179 @@
-{"sl_translate":"description,descriptionPlain,category","id":159,"slug":"hawaiian-delight","name":"Hawaiian Delight","subtitle":null,"symbol":"Hd","category":"Indica","description":"\u003cp\u003eHawaiian Delight has a strong and musky aroma, hashy finish with a pleasant after taste.\u003c/p\u003e","descriptionPlain":"Hawaiian Delight has a strong and musky aroma, hashy finish with a pleasant after taste.","aka":null,"rating":3.78,"highlightedReviews":[{"id":1184850,"username":"whomemf","text":"Cross of Afghan/Skunk/Hawaiian\r\nTHC level is high.\r\nIncredible Afghani Hash smell!!","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"},{"id":1304689,"username":"imreaching4starz","text":"Smells great!! Does wonders for pain and does not give a paranoid feeling!!","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":9,"flavors":[{"name":"Diesel","score":2.7777777777777777},{"name":"Flowery","score":2.7777777777777777},{"name":"Earthy","score":2.7777777777777777},{"name":"Pungent","score":2.7777777777777777},{"name":"Sweet","score":1.3888888888888888}],"effects":[{"name":"Uplifted","score":9.7222222222222232},{"name":"Happy","score":9.7222222222222232},{"name":"Relaxed","score":9.7222222222222232},{"name":"Euphoric","score":8.3333333333333321},{"name":"Creative","score":5.5555555555555554}],"symptoms":[{"name":"Pain","score":6.9444444444444446},{"name":"Stress","score":6.9444444444444446},{"name":"Nausea","score":5.5555555555555554},{"name":"Depression","score":4.1666666666666661},{"name":"Fatigue","score":4.1666666666666661}],"conditions":[{"name":"Anxiety","score":6.9444444444444446},{"name":"ADD/ADHD","score":5.5555555555555554},{"name":"Bipolar Disorder","score":2.7777777777777777},{"name":"Asthma","score":1.3888888888888888},{"name":"Migraines","score":1.3888888888888888}],"negatives":[{"name":"Dry Mouth","score":5.5555555555555554},{"name":"Dry Eyes","score":2.7777777777777777},{"name":"Headache","score":2.7777777777777777},{"name":"Paranoid","score":2.7777777777777777},{"name":"Dizzy","score":1.3888888888888888}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/hawaiian-delight_100x100_b781.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/389209/b/hawaiian-delight__primary_e5b5.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/hawaiian-delight_100x100_57ef.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/24705/b/hawaiian-delight_825x550_b60f.jpg"}],"photoTotalCount":2,"popularCities":["Detroit, MI","Portland, OR","Prosser, WA","Tigard, OR"],"permalink":"https://mobileapi.leafly.com/indica/hawaiian-delight","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/3.77777777777778/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 6.944444444444445
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 5.555555555555555
+        },
+        {
+            "name": "Bipolar Disorder",
+            "score": 2.7777777777777777
+        },
+        {
+            "name": "Asthma",
+            "score": 1.3888888888888888
+        },
+        {
+            "name": "Migraines",
+            "score": 1.3888888888888888
+        }
+    ],
+    "description": "<p>Hawaiian Delight has a strong and musky aroma, hashy finish with a pleasant after taste.</p>",
+    "descriptionPlain": "Hawaiian Delight has a strong and musky aroma, hashy finish with a pleasant after taste.",
+    "effects": [
+        {
+            "name": "Uplifted",
+            "score": 9.722222222222223
+        },
+        {
+            "name": "Happy",
+            "score": 9.722222222222223
+        },
+        {
+            "name": "Relaxed",
+            "score": 9.722222222222223
+        },
+        {
+            "name": "Euphoric",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Creative",
+            "score": 5.555555555555555
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Diesel",
+            "score": 2.7777777777777777
+        },
+        {
+            "name": "Flowery",
+            "score": 2.7777777777777777
+        },
+        {
+            "name": "Earthy",
+            "score": 2.7777777777777777
+        },
+        {
+            "name": "Pungent",
+            "score": 2.7777777777777777
+        },
+        {
+            "name": "Sweet",
+            "score": 1.3888888888888888
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1184850,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Cross of Afghan/Skunk/Hawaiian\r\nTHC level is high.\r\nIncredible Afghani Hash smell!!",
+            "username": "whomemf"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png",
+            "id": 1304689,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Smells great!! Does wonders for pain and does not give a paranoid feeling!!",
+            "username": "imreaching4starz"
+        }
+    ],
+    "id": 159,
+    "name": "Hawaiian Delight",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 5.555555555555555
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 2.7777777777777777
+        },
+        {
+            "name": "Headache",
+            "score": 2.7777777777777777
+        },
+        {
+            "name": "Paranoid",
+            "score": 2.7777777777777777
+        },
+        {
+            "name": "Dizzy",
+            "score": 1.3888888888888888
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/indica/hawaiian-delight",
+    "photoTotalCount": 2,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/389209/b/hawaiian-delight__primary_e5b5.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/hawaiian-delight_100x100_b781.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/24705/b/hawaiian-delight_825x550_b60f.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/hawaiian-delight_100x100_57ef.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Detroit, MI",
+        "Portland, OR",
+        "Prosser, WA",
+        "Tigard, OR"
+    ],
+    "rating": 3.78,
+    "relatedStrains": [],
+    "reviewCount": 9,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "hawaiian-delight",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/3.77777777777778/240",
+    "subtitle": null,
+    "symbol": "Hd",
+    "symptoms": [
+        {
+            "name": "Pain",
+            "score": 6.944444444444445
+        },
+        {
+            "name": "Stress",
+            "score": 6.944444444444445
+        },
+        {
+            "name": "Nausea",
+            "score": 5.555555555555555
+        },
+        {
+            "name": "Depression",
+            "score": 4.166666666666666
+        },
+        {
+            "name": "Fatigue",
+            "score": 4.166666666666666
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

@@ -1,1 +1,87 @@
-{"sl_translate":"description,descriptionPlain,category","id":288817,"slug":"murkle","name":"Murkle","subtitle":null,"symbol":"Mur","category":"Indica","description":"\u003cp\u003eMurkle by OBSoul is the accidental genetic pairing of an \u003ca href=\"https://www.leafly.com/indica/m-39\"\u003eM-39\u003c/a\u003e mother and a \u003ca href=\"https://www.leafly.com/indica/purple-urkle\"\u003ePurple Urkle\u003c/a\u003e father. OBSoul noted the strain\u0026rsquo;s fast vegetation cycle and an abundance of rock-hard colas mature over the plant\u0026rsquo;s lifecycle. Murkle\u0026rsquo;s aroma and flavor are that of grape candy, speaking to its paternal genetics, even though this phenotype does not share that strain\u0026rsquo;s purple hue. Enjoy Murkle later in the day to maximize its indica-dominant effects.\u0026nbsp;\u003c/p\u003e\n\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Murkle by OBSoul is the accidental genetic pairing of an M-39 mother and a Purple Urkle father. OBSoul noted the strain\u0026rsquo;s fast vegetation cycle and an abundance of rock-hard colas mature over the plant\u0026rsquo;s lifecycle. Murkle\u0026rsquo;s aroma and flavor are that of grape candy, speaking to its paternal genetics, even though this phenotype does not share that strain\u0026rsquo;s purple hue. Enjoy Murkle later in the day to maximize its indica-dominant effects.\u0026nbsp;\n\n\u0026nbsp;\n","aka":null,"rating":2,"highlightedReviews":[{"id":1411333,"username":"SpazRex","text":"Dull smell and taste. The high only last about 30-40 mins before dissipating, Thats after smoking 2-3 bowls.  A mind high with no lasting effects definitely does not work for sleep or pain.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/2/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png"},{"id":1411333,"username":"SpazRex","text":"Dull smell and taste. The high only last about 30-40 mins before dissipating, Thats after smoking 2-3 bowls.  A mind high with no lasting effects definitely does not work for sleep or pain.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/2/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":1,"flavors":[],"effects":[{"name":"Giggly","score":50}],"symptoms":[],"conditions":[],"negatives":[{"name":"Dry Mouth","score":50}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/indica/murkle","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/2/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"M-39","subtitle":null,"slug":"m-39","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/m-39","symbol":"M39","applink":"leafly://strain/m-39"},{"name":"Purple Urkle","subtitle":null,"slug":"purple-urkle","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/purple-urkle","symbol":"Pu","applink":"leafly://strain/purple-urkle"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [],
+    "description": "<p>Murkle by OBSoul is the accidental genetic pairing of an <a href=\"https://www.leafly.com/indica/m-39\">M-39</a> mother and a <a href=\"https://www.leafly.com/indica/purple-urkle\">Purple Urkle</a> father. OBSoul noted the strain&rsquo;s fast vegetation cycle and an abundance of rock-hard colas mature over the plant&rsquo;s lifecycle. Murkle&rsquo;s aroma and flavor are that of grape candy, speaking to its paternal genetics, even though this phenotype does not share that strain&rsquo;s purple hue. Enjoy Murkle later in the day to maximize its indica-dominant effects.&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+    "descriptionPlain": "Murkle by OBSoul is the accidental genetic pairing of an M-39 mother and a Purple Urkle father. OBSoul noted the strain&rsquo;s fast vegetation cycle and an abundance of rock-hard colas mature over the plant&rsquo;s lifecycle. Murkle&rsquo;s aroma and flavor are that of grape candy, speaking to its paternal genetics, even though this phenotype does not share that strain&rsquo;s purple hue. Enjoy Murkle later in the day to maximize its indica-dominant effects.&nbsp;\n\n&nbsp;\n",
+    "effects": [
+        {
+            "name": "Giggly",
+            "score": 50
+        }
+    ],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png",
+            "id": 1411333,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/2/240",
+            "text": "Dull smell and taste. The high only last about 30-40 mins before dissipating, Thats after smoking 2-3 bowls.  A mind high with no lasting effects definitely does not work for sleep or pain.",
+            "username": "SpazRex"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png",
+            "id": 1411333,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/2/240",
+            "text": "Dull smell and taste. The high only last about 30-40 mins before dissipating, Thats after smoking 2-3 bowls.  A mind high with no lasting effects definitely does not work for sleep or pain.",
+            "username": "SpazRex"
+        }
+    ],
+    "id": 288817,
+    "name": "Murkle",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 50
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/m-39",
+            "category": "Indica",
+            "name": "M-39",
+            "permalink": "https://mobileapi.leafly.com/indica/m-39",
+            "slug": "m-39",
+            "subtitle": null,
+            "symbol": "M39"
+        },
+        {
+            "applink": "leafly://strain/purple-urkle",
+            "category": "Indica",
+            "name": "Purple Urkle",
+            "permalink": "https://mobileapi.leafly.com/indica/purple-urkle",
+            "slug": "purple-urkle",
+            "subtitle": null,
+            "symbol": "Pu"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/murkle",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 2,
+    "relatedStrains": [],
+    "reviewCount": 1,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "murkle",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/2/240",
+    "subtitle": null,
+    "symbol": "Mur",
+    "symptoms": [],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

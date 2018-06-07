@@ -1,1 +1,78 @@
-{"sl_translate":"description,descriptionPlain,category","id":294993,"slug":"chocoholic","name":"Chocoholic","subtitle":null,"symbol":"Ccc","category":"Hybrid","description":"\u003cp\u003eChocoholic by Mighty Irish Seeds is a flavorful hybrid with rich colors. This strain is a cross of Chocolope SkunkBerry and DaluxBerry, and carries an earthy, sweet aroma that stinks of a Dutch coffee shop. The effects creep up on the body, weighing the consumer down with continued consumption. Chocoholic develops into a medium-sized plant with an average yield and above-average potency.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Chocoholic by Mighty Irish Seeds is a flavorful hybrid with rich colors. This strain is a cross of Chocolope SkunkBerry and DaluxBerry, and carries an earthy, sweet aroma that stinks of a Dutch coffee shop. The effects creep up on the body, weighing the consumer down with continued consumption. Chocoholic develops into a medium-sized plant with an average yield and above-average potency.\u0026nbsp;\n","aka":null,"rating":0,"highlightedReviews":[],"relatedStrains":[],"articles":[],"reviewCount":0,"flavors":[{"name":"Vanilla","score":50}],"effects":[{"name":"Aroused","score":50},{"name":"Sleepy","score":50},{"name":"Tingly","score":50},{"name":"Uplifted","score":50},{"name":"Euphoric","score":50}],"symptoms":[],"conditions":[],"negatives":[{"name":"Dry Eyes","score":50},{"name":"Dry Mouth","score":50}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/chocoholic","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/0/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [],
+    "description": "<p>Chocoholic by Mighty Irish Seeds is a flavorful hybrid with rich colors. This strain is a cross of Chocolope SkunkBerry and DaluxBerry, and carries an earthy, sweet aroma that stinks of a Dutch coffee shop. The effects creep up on the body, weighing the consumer down with continued consumption. Chocoholic develops into a medium-sized plant with an average yield and above-average potency.&nbsp;</p>\n",
+    "descriptionPlain": "Chocoholic by Mighty Irish Seeds is a flavorful hybrid with rich colors. This strain is a cross of Chocolope SkunkBerry and DaluxBerry, and carries an earthy, sweet aroma that stinks of a Dutch coffee shop. The effects creep up on the body, weighing the consumer down with continued consumption. Chocoholic develops into a medium-sized plant with an average yield and above-average potency.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Aroused",
+            "score": 50
+        },
+        {
+            "name": "Sleepy",
+            "score": 50
+        },
+        {
+            "name": "Tingly",
+            "score": 50
+        },
+        {
+            "name": "Uplifted",
+            "score": 50
+        },
+        {
+            "name": "Euphoric",
+            "score": 50
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Vanilla",
+            "score": 50
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [],
+    "id": 294993,
+    "name": "Chocoholic",
+    "negatives": [
+        {
+            "name": "Dry Eyes",
+            "score": 50
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 50
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/hybrid/chocoholic",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 0,
+    "relatedStrains": [],
+    "reviewCount": 0,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "chocoholic",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/0/240",
+    "subtitle": null,
+    "symbol": "Ccc",
+    "symptoms": [],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

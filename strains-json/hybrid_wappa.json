@@ -1,1 +1,205 @@
-{"sl_translate":"description,descriptionPlain,category","id":96943,"slug":"wappa","name":"Wappa","subtitle":null,"symbol":"Wpa","category":"Hybrid","description":"\u003cp\u003eWappa is a 60% indica-dominant hybrid bred by Paradise Seeds that delivers happy, uplifting effects alongside an intense fruity flavor.\u003c/p\u003e\n","descriptionPlain":"Wappa is a 60% indica-dominant hybrid bred by Paradise Seeds that delivers happy, uplifting effects alongside an intense fruity flavor.\n","aka":null,"rating":4.36,"highlightedReviews":[{"id":1398366,"username":"JerZBoY031","text":"The wappa grown from Compassionate ATC in south JerZ is legit.  Very dense, heady, strong and clean all the way through. Consistently a light green bud with frosty tips and orange hairs.  Strongest bud they have THCA is like 26 I think.  Has a clean weed taste.  Not a gimmicky flavor just a nice full bodied herb.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png"},{"id":1638100,"username":"nationoffunk","text":"Very euphoric and relaxing.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":102,"flavors":[{"name":"Sweet","score":35.370433595083647},{"name":"Citrus","score":25.048366905656078},{"name":"Flowery","score":24.314327984522588},{"name":"Peach","score":17.161716171617158},{"name":"Earthy","score":15.733469898714008}],"effects":[{"name":"Relaxed","score":97.712529873677028},{"name":"Giggly","score":76.820871742346654},{"name":"Happy","score":50.65722089450324},{"name":"Uplifted","score":43.991123250256052},{"name":"Aroused","score":41.962558324797989}],"symptoms":[{"name":"Depression","score":53.018663935359058},{"name":"Stress","score":43.00955957664732},{"name":"Pain","score":35.609423011266642},{"name":"Lack of Appetite","score":29.933424376920449},{"name":"Insomnia","score":25.056902241948329}],"conditions":[{"name":"Anxiety","score":46.161943780584949},{"name":"PTSD","score":14.256856720154772},{"name":"ADD/ADHD","score":9.0759075907590745},{"name":"Cancer","score":8.580858085808579},{"name":"Multiple Sclerosis","score":8.580858085808579}],"negatives":[{"name":"Dry Mouth","score":42.713667918515981},{"name":"Dry Eyes","score":27.714236940935475},{"name":"Paranoid","score":18.885854102651642},{"name":"Anxious","score":17.161716171617158},{"name":"Dizzy","score":0.74257425742574257}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/wappa_100x100_fc6c.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/589386/b/wappa__primary_b187.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/wappa_100x100_e0b0.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/580431/b/wappa__primary_d16f.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/wappa_100x100_3de1.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/574570/b/wappa__primary_28f7.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/wappa_100x100_aa91.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/574508/b/wappa__primary_3d54.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/wappa_100x100_45a3.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/574507/b/wappa__primary_5a64.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/wappa_100x100_6a82.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/569711/b/wappa__primary_9de2.jpg"}],"photoTotalCount":25,"popularCities":["Portland, OR","Bend, OR","Seattle, WA","Eugene, OR","Las Vegas, NV","Medford, OR","Beaverton, OR","Bellmawr, NJ","Bothell, WA","Boulder, CO"],"permalink":"https://mobileapi.leafly.com/hybrid/wappa","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.36274509803922/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":57,"outdoorFinish":"Early October","height":"Short","averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 46.16194378058495
+        },
+        {
+            "name": "PTSD",
+            "score": 14.256856720154772
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 9.075907590759074
+        },
+        {
+            "name": "Cancer",
+            "score": 8.580858085808579
+        },
+        {
+            "name": "Multiple Sclerosis",
+            "score": 8.580858085808579
+        }
+    ],
+    "description": "<p>Wappa is a 60% indica-dominant hybrid bred by Paradise Seeds that delivers happy, uplifting effects alongside an intense fruity flavor.</p>\n",
+    "descriptionPlain": "Wappa is a 60% indica-dominant hybrid bred by Paradise Seeds that delivers happy, uplifting effects alongside an intense fruity flavor.\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 97.71252987367703
+        },
+        {
+            "name": "Giggly",
+            "score": 76.82087174234665
+        },
+        {
+            "name": "Happy",
+            "score": 50.65722089450324
+        },
+        {
+            "name": "Uplifted",
+            "score": 43.99112325025605
+        },
+        {
+            "name": "Aroused",
+            "score": 41.96255832479799
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Sweet",
+            "score": 35.37043359508365
+        },
+        {
+            "name": "Citrus",
+            "score": 25.048366905656078
+        },
+        {
+            "name": "Flowery",
+            "score": 24.31432798452259
+        },
+        {
+            "name": "Peach",
+            "score": 17.161716171617158
+        },
+        {
+            "name": "Earthy",
+            "score": 15.733469898714008
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 57,
+        "growNotes": "",
+        "height": "Short",
+        "outdoorFinish": "Early October",
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png",
+            "id": 1398366,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "The wappa grown from Compassionate ATC in south JerZ is legit.  Very dense, heady, strong and clean all the way through. Consistently a light green bud with frosty tips and orange hairs.  Strongest bud they have THCA is like 26 I think.  Has a clean weed taste.  Not a gimmicky flavor just a nice full bodied herb.",
+            "username": "JerZBoY031"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png",
+            "id": 1638100,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Very euphoric and relaxing.",
+            "username": "nationoffunk"
+        }
+    ],
+    "id": 96943,
+    "name": "Wappa",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 42.71366791851598
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 27.714236940935475
+        },
+        {
+            "name": "Paranoid",
+            "score": 18.885854102651642
+        },
+        {
+            "name": "Anxious",
+            "score": 17.161716171617158
+        },
+        {
+            "name": "Dizzy",
+            "score": 0.7425742574257426
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/hybrid/wappa",
+    "photoTotalCount": 25,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/589386/b/wappa__primary_b187.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/wappa_100x100_fc6c.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/580431/b/wappa__primary_d16f.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/wappa_100x100_e0b0.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/574570/b/wappa__primary_28f7.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/wappa_100x100_3de1.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/574508/b/wappa__primary_3d54.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/wappa_100x100_aa91.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/574507/b/wappa__primary_5a64.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/wappa_100x100_45a3.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/569711/b/wappa__primary_9de2.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/wappa_100x100_6a82.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Portland, OR",
+        "Bend, OR",
+        "Seattle, WA",
+        "Eugene, OR",
+        "Las Vegas, NV",
+        "Medford, OR",
+        "Beaverton, OR",
+        "Bellmawr, NJ",
+        "Bothell, WA",
+        "Boulder, CO"
+    ],
+    "rating": 4.36,
+    "relatedStrains": [],
+    "reviewCount": 102,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "wappa",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.36274509803922/240",
+    "subtitle": null,
+    "symbol": "Wpa",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 53.01866393535906
+        },
+        {
+            "name": "Stress",
+            "score": 43.00955957664732
+        },
+        {
+            "name": "Pain",
+            "score": 35.60942301126664
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 29.93342437692045
+        },
+        {
+            "name": "Insomnia",
+            "score": 25.05690224194833
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

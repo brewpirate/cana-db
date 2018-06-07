@@ -1,1 +1,144 @@
-{"sl_translate":"description,descriptionPlain,category","id":148851,"slug":"x-tra-chz","name":"X-tra Chz","subtitle":null,"symbol":"Xch","category":"Hybrid","description":"\u003cp\u003eX-tra Chz, bred by MTG Seeds, is a \u003ca href=\"http://www.leafly.com/explore/category-hybrid\"\u003ehybrid\u003c/a\u003e cross between \u003ca href=\"http://www.leafly.com/hybrid/cheese\"\u003eCheese #1\u003c/a\u003e and Cheese Bomb. Like its parent strains, X-tra Chz takes on a \u003ca href=\"http://www.leafly.com/explore/flavors-pungent\"\u003epungent\u003c/a\u003e aroma and a dark purple-blue coloration. The upbeat effects feed \u003ca href=\"http://www.leafly.com/explore/tags-creative\"\u003ecreativity\u003c/a\u003e and \u003ca href=\"http://www.leafly.com/explore/tags-talkative\"\u003esocial\u003c/a\u003e energy, making this strain a good choice for those wishing to stay active and productive.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"X-tra Chz, bred by MTG Seeds, is a hybrid cross between Cheese #1 and Cheese Bomb. Like its parent strains, X-tra Chz takes on a pungent aroma and a dark purple-blue coloration. The upbeat effects feed creativity and social energy, making this strain a good choice for those wishing to stay active and productive.\u0026nbsp;\n","aka":"Xtra Chz, X-tra Cheese, X-tra Cheese, Extra Cheese, Extra Chz","rating":4,"highlightedReviews":[{"id":1398665,"username":"karmastrong","text":"X-TRA CHZ is one of my favorite strains but I tend to like anything Cheese related. ;) Smoked a fat bowl of this and proceeded to stare at the wall for a little longer than expected. Caution!","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"},{"id":1398665,"username":"karmastrong","text":"X-TRA CHZ is one of my favorite strains but I tend to like anything Cheese related. ;) Smoked a fat bowl of this and proceeded to stare at the wall for a little longer than expected. Caution!","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":2,"flavors":[{"name":"Pungent","score":6.25},{"name":"Skunk","score":6.25},{"name":"Blue Cheese","score":6.25},{"name":"Cheese","score":6.25},{"name":"Woody","score":6.25}],"effects":[{"name":"Sleepy","score":6.25},{"name":"Uplifted","score":6.25},{"name":"Euphoric","score":6.25},{"name":"Happy","score":6.25},{"name":"Hungry","score":6.25}],"symptoms":[{"name":"Depression","score":6.25},{"name":"Eye Pressure","score":6.25},{"name":"Headaches","score":6.25},{"name":"Lack of Appetite","score":6.25},{"name":"Pain","score":6.25}],"conditions":[],"negatives":[{"name":"Dizzy","score":6.25},{"name":"Dry Mouth","score":6.25},{"name":"Headache","score":6.25}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/x-tra-chz","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Cheese","subtitle":null,"slug":"cheese","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/cheese","symbol":"Che","applink":"leafly://strain/cheese"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":67,"outdoorFinish":"Late October","height":"Medium","averageYield":"High","environment":null,"growNotes":""}}
+{
+    "aka": "Xtra Chz, X-tra Cheese, X-tra Cheese, Extra Cheese, Extra Chz",
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [],
+    "description": "<p>X-tra Chz, bred by MTG Seeds, is a <a href=\"http://www.leafly.com/explore/category-hybrid\">hybrid</a> cross between <a href=\"http://www.leafly.com/hybrid/cheese\">Cheese #1</a> and Cheese Bomb. Like its parent strains, X-tra Chz takes on a <a href=\"http://www.leafly.com/explore/flavors-pungent\">pungent</a> aroma and a dark purple-blue coloration. The upbeat effects feed <a href=\"http://www.leafly.com/explore/tags-creative\">creativity</a> and <a href=\"http://www.leafly.com/explore/tags-talkative\">social</a> energy, making this strain a good choice for those wishing to stay active and productive.&nbsp;</p>\n",
+    "descriptionPlain": "X-tra Chz, bred by MTG Seeds, is a hybrid cross between Cheese #1 and Cheese Bomb. Like its parent strains, X-tra Chz takes on a pungent aroma and a dark purple-blue coloration. The upbeat effects feed creativity and social energy, making this strain a good choice for those wishing to stay active and productive.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Sleepy",
+            "score": 6.25
+        },
+        {
+            "name": "Uplifted",
+            "score": 6.25
+        },
+        {
+            "name": "Euphoric",
+            "score": 6.25
+        },
+        {
+            "name": "Happy",
+            "score": 6.25
+        },
+        {
+            "name": "Hungry",
+            "score": 6.25
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Pungent",
+            "score": 6.25
+        },
+        {
+            "name": "Skunk",
+            "score": 6.25
+        },
+        {
+            "name": "Blue Cheese",
+            "score": 6.25
+        },
+        {
+            "name": "Cheese",
+            "score": 6.25
+        },
+        {
+            "name": "Woody",
+            "score": 6.25
+        }
+    ],
+    "growInfo": {
+        "averageYield": "High",
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 67,
+        "growNotes": "",
+        "height": "Medium",
+        "outdoorFinish": "Late October",
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1398665,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "X-TRA CHZ is one of my favorite strains but I tend to like anything Cheese related. ;) Smoked a fat bowl of this and proceeded to stare at the wall for a little longer than expected. Caution!",
+            "username": "karmastrong"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1398665,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "X-TRA CHZ is one of my favorite strains but I tend to like anything Cheese related. ;) Smoked a fat bowl of this and proceeded to stare at the wall for a little longer than expected. Caution!",
+            "username": "karmastrong"
+        }
+    ],
+    "id": 148851,
+    "name": "X-tra Chz",
+    "negatives": [
+        {
+            "name": "Dizzy",
+            "score": 6.25
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 6.25
+        },
+        {
+            "name": "Headache",
+            "score": 6.25
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/cheese",
+            "category": "Hybrid",
+            "name": "Cheese",
+            "permalink": "https://mobileapi.leafly.com/hybrid/cheese",
+            "slug": "cheese",
+            "subtitle": null,
+            "symbol": "Che"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/x-tra-chz",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 4,
+    "relatedStrains": [],
+    "reviewCount": 2,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "x-tra-chz",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+    "subtitle": null,
+    "symbol": "Xch",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 6.25
+        },
+        {
+            "name": "Eye Pressure",
+            "score": 6.25
+        },
+        {
+            "name": "Headaches",
+            "score": 6.25
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 6.25
+        },
+        {
+            "name": "Pain",
+            "score": 6.25
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

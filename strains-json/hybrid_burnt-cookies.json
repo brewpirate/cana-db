@@ -1,1 +1,102 @@
-{"sl_translate":"description,descriptionPlain,category","id":500615,"slug":"burnt-cookies","name":"Burnt Cookies","subtitle":null,"symbol":"Buc","category":"Hybrid","description":"\u003cp\u003eBurnt Cookies is another flavorful Cookies cross from Rebel Spirit Cannabis of Oregon. This strain is a cross of \u003ca href=\"https://www.leafly.com/hybrid/fire-og\"\u003eFire OG\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/hybrid/girl-scout-cookie\"\u003eGirl Scout Cookies\u003c/a\u003e that expresses tight, vibrant flowers frosted in delicious \u003ca href=\"https://www.leafly.com/news/cannabis-101/what-are-trichomes-on-cannabis\"\u003etrichomes\u003c/a\u003e. Burnt Cookies has a pleasant and unique aroma of citrus, mint, and ginger which translates nicely to the bud\u0026rsquo;s flavor. It prefers to grow indoors and yields tight, dense nugs that speak to the strain\u0026rsquo;s GSC lineage. This strain\u0026rsquo;s buzz is functionally cerebral and easy on the body, making it an enjoyable and flavorful choice for all day consumption.\u0026nbsp;\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Burnt Cookies is another flavorful Cookies cross from Rebel Spirit Cannabis of Oregon. This strain is a cross of Fire OG and Girl Scout Cookies that expresses tight, vibrant flowers frosted in delicious trichomes. Burnt Cookies has a pleasant and unique aroma of citrus, mint, and ginger which translates nicely to the bud\u0026rsquo;s flavor. It prefers to grow indoors and yields tight, dense nugs that speak to the strain\u0026rsquo;s GSC lineage. This strain\u0026rsquo;s buzz is functionally cerebral and easy on the body, making it an enjoyable and flavorful choice for all day consumption.\u0026nbsp;\u0026nbsp;\n","aka":null,"rating":4.67,"highlightedReviews":[{"id":1551903,"username":"koemylo17","text":"Love that this strain keeps you uplifted. I feel focused. My wife though the bud puts her to sleep 🤷🏻‍♂️","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png"},{"id":1583689,"username":"deliop187","text":"A nice uplifted mellow high.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":3,"flavors":[],"effects":[{"name":"Talkative","score":16.666666666666664},{"name":"Uplifted","score":16.666666666666664},{"name":"Happy","score":16.666666666666664},{"name":"Relaxed","score":16.666666666666664}],"symptoms":[],"conditions":[],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Corvallis, OR","Detroit, MI","Eugene, OR","Lincoln City, OR","Portland, OR","Rainier, OR","Springfield, OR"],"permalink":"https://mobileapi.leafly.com/hybrid/burnt-cookies","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.66666666666667/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Fire OG","subtitle":null,"slug":"fire-og","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/fire-og","symbol":"Fog","applink":"leafly://strain/fire-og"},{"name":"Girl Scout Cookies","subtitle":null,"slug":"girl-scout-cookie","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/girl-scout-cookie","symbol":"Gsc","applink":"leafly://strain/girl-scout-cookie"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [],
+    "description": "<p>Burnt Cookies is another flavorful Cookies cross from Rebel Spirit Cannabis of Oregon. This strain is a cross of <a href=\"https://www.leafly.com/hybrid/fire-og\">Fire OG</a> and <a href=\"https://www.leafly.com/hybrid/girl-scout-cookie\">Girl Scout Cookies</a> that expresses tight, vibrant flowers frosted in delicious <a href=\"https://www.leafly.com/news/cannabis-101/what-are-trichomes-on-cannabis\">trichomes</a>. Burnt Cookies has a pleasant and unique aroma of citrus, mint, and ginger which translates nicely to the bud&rsquo;s flavor. It prefers to grow indoors and yields tight, dense nugs that speak to the strain&rsquo;s GSC lineage. This strain&rsquo;s buzz is functionally cerebral and easy on the body, making it an enjoyable and flavorful choice for all day consumption.&nbsp;&nbsp;</p>\n",
+    "descriptionPlain": "Burnt Cookies is another flavorful Cookies cross from Rebel Spirit Cannabis of Oregon. This strain is a cross of Fire OG and Girl Scout Cookies that expresses tight, vibrant flowers frosted in delicious trichomes. Burnt Cookies has a pleasant and unique aroma of citrus, mint, and ginger which translates nicely to the bud&rsquo;s flavor. It prefers to grow indoors and yields tight, dense nugs that speak to the strain&rsquo;s GSC lineage. This strain&rsquo;s buzz is functionally cerebral and easy on the body, making it an enjoyable and flavorful choice for all day consumption.&nbsp;&nbsp;\n",
+    "effects": [
+        {
+            "name": "Talkative",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Uplifted",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Happy",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Relaxed",
+            "score": 16.666666666666664
+        }
+    ],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png",
+            "id": 1551903,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Love that this strain keeps you uplifted. I feel focused. My wife though the bud puts her to sleep \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f",
+            "username": "koemylo17"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1583689,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "A nice uplifted mellow high.",
+            "username": "deliop187"
+        }
+    ],
+    "id": 500615,
+    "name": "Burnt Cookies",
+    "negatives": [],
+    "parents": [
+        {
+            "applink": "leafly://strain/fire-og",
+            "category": "Hybrid",
+            "name": "Fire OG",
+            "permalink": "https://mobileapi.leafly.com/hybrid/fire-og",
+            "slug": "fire-og",
+            "subtitle": null,
+            "symbol": "Fog"
+        },
+        {
+            "applink": "leafly://strain/girl-scout-cookie",
+            "category": "Hybrid",
+            "name": "Girl Scout Cookies",
+            "permalink": "https://mobileapi.leafly.com/hybrid/girl-scout-cookie",
+            "slug": "girl-scout-cookie",
+            "subtitle": null,
+            "symbol": "Gsc"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/burnt-cookies",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Corvallis, OR",
+        "Detroit, MI",
+        "Eugene, OR",
+        "Lincoln City, OR",
+        "Portland, OR",
+        "Rainier, OR",
+        "Springfield, OR"
+    ],
+    "rating": 4.67,
+    "relatedStrains": [],
+    "reviewCount": 3,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "burnt-cookies",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.66666666666667/240",
+    "subtitle": null,
+    "symbol": "Buc",
+    "symptoms": [],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

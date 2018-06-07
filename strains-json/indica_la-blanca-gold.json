@@ -1,1 +1,107 @@
-{"sl_translate":"description,descriptionPlain,category","id":501231,"slug":"la-blanca-gold","name":"La Blanca Gold","subtitle":null,"symbol":"Lgo","category":"Indica","description":"\u003cp\u003eLa Blanca Gold by Vision Seeds is a skunky blend of potent genetics. It gets its name from the decadent amount of trichomes this plant produces, glazing the surfaces of the flowers and leaves in a sheen of white gold. This generous resin production comes from its lineage of \u003ca href=\"https://www.leafly.com/indica/super-skunk\"\u003eSuper Skunk\u003c/a\u003e, Great White, and \u003ca href=\"https://www.leafly.com/hybrid/skunk-1\"\u003eSkunk #1\u003c/a\u003e. Growing as a large plant, La Blanca Gold has an ample yield and an average 9-week flowering cycle. Enjoy La Blanca Gold\u0026rsquo;s tranquil, relaxing buzz near the end of the day to help reduce stress.\u0026nbsp; \u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"La Blanca Gold by Vision Seeds is a skunky blend of potent genetics. It gets its name from the decadent amount of trichomes this plant produces, glazing the surfaces of the flowers and leaves in a sheen of white gold. This generous resin production comes from its lineage of Super Skunk, Great White, and Skunk #1. Growing as a large plant, La Blanca Gold has an ample yield and an average 9-week flowering cycle. Enjoy La Blanca Gold\u0026rsquo;s tranquil, relaxing buzz near the end of the day to help reduce stress.\u0026nbsp; \u0026nbsp;\n","aka":null,"rating":4,"highlightedReviews":[{"id":1584846,"username":"Deqox","text":"very nice strain! found it to be highly cerebrel and a real heavy kind of high","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png"},{"id":1584846,"username":"Deqox","text":"very nice strain! found it to be highly cerebrel and a real heavy kind of high","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":1,"flavors":[],"effects":[{"name":"Relaxed","score":100},{"name":"Tingly","score":50},{"name":"Euphoric","score":50},{"name":"Focused","score":50}],"symptoms":[{"name":"Fatigue","score":50}],"conditions":[],"negatives":[{"name":"Dry Mouth","score":50}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Aurora, CO","Denver, CO"],"permalink":"https://mobileapi.leafly.com/indica/la-blanca-gold","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Super Skunk","subtitle":null,"slug":"super-skunk","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/super-skunk","symbol":"Ssk","applink":"leafly://strain/super-skunk"},{"name":"Skunk No. 1","subtitle":null,"slug":"skunk-1","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/skunk-1","symbol":"Sk1","applink":"leafly://strain/skunk-1"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [],
+    "description": "<p>La Blanca Gold by Vision Seeds is a skunky blend of potent genetics. It gets its name from the decadent amount of trichomes this plant produces, glazing the surfaces of the flowers and leaves in a sheen of white gold. This generous resin production comes from its lineage of <a href=\"https://www.leafly.com/indica/super-skunk\">Super Skunk</a>, Great White, and <a href=\"https://www.leafly.com/hybrid/skunk-1\">Skunk #1</a>. Growing as a large plant, La Blanca Gold has an ample yield and an average 9-week flowering cycle. Enjoy La Blanca Gold&rsquo;s tranquil, relaxing buzz near the end of the day to help reduce stress.&nbsp; &nbsp;</p>\n",
+    "descriptionPlain": "La Blanca Gold by Vision Seeds is a skunky blend of potent genetics. It gets its name from the decadent amount of trichomes this plant produces, glazing the surfaces of the flowers and leaves in a sheen of white gold. This generous resin production comes from its lineage of Super Skunk, Great White, and Skunk #1. Growing as a large plant, La Blanca Gold has an ample yield and an average 9-week flowering cycle. Enjoy La Blanca Gold&rsquo;s tranquil, relaxing buzz near the end of the day to help reduce stress.&nbsp; &nbsp;\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 100
+        },
+        {
+            "name": "Tingly",
+            "score": 50
+        },
+        {
+            "name": "Euphoric",
+            "score": 50
+        },
+        {
+            "name": "Focused",
+            "score": 50
+        }
+    ],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png",
+            "id": 1584846,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "very nice strain! found it to be highly cerebrel and a real heavy kind of high",
+            "username": "Deqox"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png",
+            "id": 1584846,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "very nice strain! found it to be highly cerebrel and a real heavy kind of high",
+            "username": "Deqox"
+        }
+    ],
+    "id": 501231,
+    "name": "La Blanca Gold",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 50
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/super-skunk",
+            "category": "Indica",
+            "name": "Super Skunk",
+            "permalink": "https://mobileapi.leafly.com/indica/super-skunk",
+            "slug": "super-skunk",
+            "subtitle": null,
+            "symbol": "Ssk"
+        },
+        {
+            "applink": "leafly://strain/skunk-1",
+            "category": "Hybrid",
+            "name": "Skunk No. 1",
+            "permalink": "https://mobileapi.leafly.com/hybrid/skunk-1",
+            "slug": "skunk-1",
+            "subtitle": null,
+            "symbol": "Sk1"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/la-blanca-gold",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Aurora, CO",
+        "Denver, CO"
+    ],
+    "rating": 4,
+    "relatedStrains": [],
+    "reviewCount": 1,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "la-blanca-gold",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+    "subtitle": null,
+    "symbol": "Lgo",
+    "symptoms": [
+        {
+            "name": "Fatigue",
+            "score": 50
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

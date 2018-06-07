@@ -1,1 +1,144 @@
-{"sl_translate":"description,descriptionPlain,category","id":500288,"slug":"blueberry-bomb","name":"Blueberry Bomb","subtitle":null,"symbol":"Bbo","category":"Hybrid","description":"\u003cp\u003eBlueberry Bomb is an indica-dominant hybrid created by Palomar Craft Cannabis. This strain is a cross of \u003ca href=\"https://www.leafly.com/indica/blueberry\"\u003eBlueberry\u003c/a\u003e x \u003ca href=\"https://www.leafly.com/indica/afghani\"\u003eAfghani\u003c/a\u003e and offers semi-weighted physical effects that relax muscles while combating stress and anxiety. The \u003ca href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\"\u003eterpene profile\u003c/a\u003e is dominated by the scent of fresh blueberries, but underlying notes of orange peel and sweet earth can be present as well. Enjoy this strain near the end of the day to maximize its soothing physical attributes.\u0026nbsp;\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Blueberry Bomb is an indica-dominant hybrid created by Palomar Craft Cannabis. This strain is a cross of Blueberry x Afghani and offers semi-weighted physical effects that relax muscles while combating stress and anxiety. The terpene profile is dominated by the scent of fresh blueberries, but underlying notes of orange peel and sweet earth can be present as well. Enjoy this strain near the end of the day to maximize its soothing physical attributes.\u0026nbsp;\u0026nbsp;\n","aka":null,"rating":4.75,"highlightedReviews":[{"id":1474408,"username":"msham420","text":"This strain makes me happy and relaxed","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/bn1HUI7tvLyn0Fkk1dLIMSCvROQ=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fUxAMHptTuuQR3BjlU2Hc_nerd-purple.png"},{"id":1606799,"username":"BongCloud","text":"some of the greatest smelling weed I\u0027ve ever had, you\u0027d swear the smell changes the closer you are to the bud.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/5DsWrIpoq-56NpD59UXAqpoVN88=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fqSLuo6zNRCeIia1paBYS_wayfarers-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":4,"flavors":[{"name":"Citrus","score":20},{"name":"Sweet","score":10},{"name":"Berry","score":10},{"name":"Blueberry","score":10}],"effects":[{"name":"Relaxed","score":20},{"name":"Sleepy","score":10},{"name":"Tingly","score":10},{"name":"Euphoric","score":10},{"name":"Focused","score":10}],"symptoms":[{"name":"Headaches","score":10},{"name":"Pain","score":10},{"name":"Stress","score":10}],"conditions":[{"name":"Arthritis","score":10}],"negatives":[{"name":"Dry Eyes","score":10},{"name":"Dry Mouth","score":10}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Los Angeles, CA"],"permalink":"https://mobileapi.leafly.com/hybrid/blueberry-bomb","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.75/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Blueberry","subtitle":null,"slug":"blueberry","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/blueberry","symbol":"Bry","applink":"leafly://strain/blueberry"},{"name":"Afghani","subtitle":null,"slug":"afghani","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/afghani","symbol":"Afg","applink":"leafly://strain/afghani"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Arthritis",
+            "score": 10
+        }
+    ],
+    "description": "<p>Blueberry Bomb is an indica-dominant hybrid created by Palomar Craft Cannabis. This strain is a cross of <a href=\"https://www.leafly.com/indica/blueberry\">Blueberry</a> x <a href=\"https://www.leafly.com/indica/afghani\">Afghani</a> and offers semi-weighted physical effects that relax muscles while combating stress and anxiety. The <a href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\">terpene profile</a> is dominated by the scent of fresh blueberries, but underlying notes of orange peel and sweet earth can be present as well. Enjoy this strain near the end of the day to maximize its soothing physical attributes.&nbsp;&nbsp;</p>\n",
+    "descriptionPlain": "Blueberry Bomb is an indica-dominant hybrid created by Palomar Craft Cannabis. This strain is a cross of Blueberry x Afghani and offers semi-weighted physical effects that relax muscles while combating stress and anxiety. The terpene profile is dominated by the scent of fresh blueberries, but underlying notes of orange peel and sweet earth can be present as well. Enjoy this strain near the end of the day to maximize its soothing physical attributes.&nbsp;&nbsp;\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 20
+        },
+        {
+            "name": "Sleepy",
+            "score": 10
+        },
+        {
+            "name": "Tingly",
+            "score": 10
+        },
+        {
+            "name": "Euphoric",
+            "score": 10
+        },
+        {
+            "name": "Focused",
+            "score": 10
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Citrus",
+            "score": 20
+        },
+        {
+            "name": "Sweet",
+            "score": 10
+        },
+        {
+            "name": "Berry",
+            "score": 10
+        },
+        {
+            "name": "Blueberry",
+            "score": 10
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/bn1HUI7tvLyn0Fkk1dLIMSCvROQ=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fUxAMHptTuuQR3BjlU2Hc_nerd-purple.png",
+            "id": 1474408,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "This strain makes me happy and relaxed",
+            "username": "msham420"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/5DsWrIpoq-56NpD59UXAqpoVN88=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fqSLuo6zNRCeIia1paBYS_wayfarers-purple.png",
+            "id": 1606799,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "some of the greatest smelling weed I've ever had, you'd swear the smell changes the closer you are to the bud.",
+            "username": "BongCloud"
+        }
+    ],
+    "id": 500288,
+    "name": "Blueberry Bomb",
+    "negatives": [
+        {
+            "name": "Dry Eyes",
+            "score": 10
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 10
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/blueberry",
+            "category": "Indica",
+            "name": "Blueberry",
+            "permalink": "https://mobileapi.leafly.com/indica/blueberry",
+            "slug": "blueberry",
+            "subtitle": null,
+            "symbol": "Bry"
+        },
+        {
+            "applink": "leafly://strain/afghani",
+            "category": "Indica",
+            "name": "Afghani",
+            "permalink": "https://mobileapi.leafly.com/indica/afghani",
+            "slug": "afghani",
+            "subtitle": null,
+            "symbol": "Afg"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/blueberry-bomb",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Los Angeles, CA"
+    ],
+    "rating": 4.75,
+    "relatedStrains": [],
+    "reviewCount": 4,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "blueberry-bomb",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.75/240",
+    "subtitle": null,
+    "symbol": "Bbo",
+    "symptoms": [
+        {
+            "name": "Headaches",
+            "score": 10
+        },
+        {
+            "name": "Pain",
+            "score": 10
+        },
+        {
+            "name": "Stress",
+            "score": 10
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

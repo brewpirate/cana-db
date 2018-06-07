@@ -1,1 +1,112 @@
-{"sl_translate":"description,descriptionPlain,category","id":500586,"slug":"red-velvet-pie","name":"Red Velvet Pie","subtitle":null,"symbol":"Rvp","category":"Hybrid","description":"\u003cp\u003eRed Velvet Pie by TKO Reserve is a colorful hybrid with balanced effects. This strain was created by crossing \u003ca href=\"https://www.leafly.com/hybrid/cherry-pie\"\u003eCherry Pie\u003c/a\u003e and Burmese Thai, and it expresses deep green buds flecked with pink and purple foliage throughout. The flavors are creamy and chocolatey with spicy notes of cinnamon. Its aroma is a bit funkier with elements of fuel and cacao, filling the room with a bouquet of potent \u003ca href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\"\u003eterpenes\u003c/a\u003e. Enjoy Red Velvet Pie to help relieve stress while donning a stimulating and euphoric glow.\u0026nbsp;\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Red Velvet Pie by TKO Reserve is a colorful hybrid with balanced effects. This strain was created by crossing Cherry Pie and Burmese Thai, and it expresses deep green buds flecked with pink and purple foliage throughout. The flavors are creamy and chocolatey with spicy notes of cinnamon. Its aroma is a bit funkier with elements of fuel and cacao, filling the room with a bouquet of potent terpenes. Enjoy Red Velvet Pie to help relieve stress while donning a stimulating and euphoric glow.\u0026nbsp;\u0026nbsp;\n","aka":null,"rating":4.5,"highlightedReviews":[],"relatedStrains":[],"articles":[],"reviewCount":2,"flavors":[{"name":"Sweet","score":100}],"effects":[{"name":"Euphoric","score":116.66666666666666},{"name":"Creative","score":100},{"name":"Energetic","score":100},{"name":"Happy","score":100},{"name":"Hungry","score":100}],"symptoms":[{"name":"Depression","score":100},{"name":"Fatigue","score":100},{"name":"Lack of Appetite","score":100},{"name":"Stress","score":100}],"conditions":[{"name":"ADD/ADHD","score":100},{"name":"Anxiety","score":100}],"negatives":[{"name":"Dry Eyes","score":16.666666666666664}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Seaside, OR"],"permalink":"https://mobileapi.leafly.com/hybrid/red-velvet-pie","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Cherry Pie","subtitle":null,"slug":"cherry-pie","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/cherry-pie","symbol":"Cp","applink":"leafly://strain/cherry-pie"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "ADD/ADHD",
+            "score": 100
+        },
+        {
+            "name": "Anxiety",
+            "score": 100
+        }
+    ],
+    "description": "<p>Red Velvet Pie by TKO Reserve is a colorful hybrid with balanced effects. This strain was created by crossing <a href=\"https://www.leafly.com/hybrid/cherry-pie\">Cherry Pie</a> and Burmese Thai, and it expresses deep green buds flecked with pink and purple foliage throughout. The flavors are creamy and chocolatey with spicy notes of cinnamon. Its aroma is a bit funkier with elements of fuel and cacao, filling the room with a bouquet of potent <a href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\">terpenes</a>. Enjoy Red Velvet Pie to help relieve stress while donning a stimulating and euphoric glow.&nbsp;&nbsp;</p>\n",
+    "descriptionPlain": "Red Velvet Pie by TKO Reserve is a colorful hybrid with balanced effects. This strain was created by crossing Cherry Pie and Burmese Thai, and it expresses deep green buds flecked with pink and purple foliage throughout. The flavors are creamy and chocolatey with spicy notes of cinnamon. Its aroma is a bit funkier with elements of fuel and cacao, filling the room with a bouquet of potent terpenes. Enjoy Red Velvet Pie to help relieve stress while donning a stimulating and euphoric glow.&nbsp;&nbsp;\n",
+    "effects": [
+        {
+            "name": "Euphoric",
+            "score": 116.66666666666666
+        },
+        {
+            "name": "Creative",
+            "score": 100
+        },
+        {
+            "name": "Energetic",
+            "score": 100
+        },
+        {
+            "name": "Happy",
+            "score": 100
+        },
+        {
+            "name": "Hungry",
+            "score": 100
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Sweet",
+            "score": 100
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [],
+    "id": 500586,
+    "name": "Red Velvet Pie",
+    "negatives": [
+        {
+            "name": "Dry Eyes",
+            "score": 16.666666666666664
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/cherry-pie",
+            "category": "Hybrid",
+            "name": "Cherry Pie",
+            "permalink": "https://mobileapi.leafly.com/hybrid/cherry-pie",
+            "slug": "cherry-pie",
+            "subtitle": null,
+            "symbol": "Cp"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/red-velvet-pie",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Seaside, OR"
+    ],
+    "rating": 4.5,
+    "relatedStrains": [],
+    "reviewCount": 2,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "red-velvet-pie",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.5/240",
+    "subtitle": null,
+    "symbol": "Rvp",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 100
+        },
+        {
+            "name": "Fatigue",
+            "score": 100
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 100
+        },
+        {
+            "name": "Stress",
+            "score": 100
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

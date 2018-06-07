@@ -1,1 +1,131 @@
-{"sl_translate":"description,descriptionPlain,category","id":500330,"slug":"pia-collision","name":"Piña Collision","subtitle":null,"symbol":"Pcl","category":"Sativa","description":"\u003cp\u003eNot much is known about MTG Seed\u0026rsquo;s Pi\u0026ntilde;a Collision other than its genetic background of Jamaican Pineapple and Blue Nebula. This sativa-dominant strain expresses a sweet, citrus-forward scent that is a tart mixture of orange and pineapple. Pi\u0026ntilde;a Collision has an average flowering time of 9-10 weeks and generates a solid yield for attentive growers. Utilize Pi\u0026ntilde;a Collision to stimulate the body while elevating mood.\u0026nbsp;\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Not much is known about MTG Seed\u0026rsquo;s Pi\u0026ntilde;a Collision other than its genetic background of Jamaican Pineapple and Blue Nebula. This sativa-dominant strain expresses a sweet, citrus-forward scent that is a tart mixture of orange and pineapple. Pi\u0026ntilde;a Collision has an average flowering time of 9-10 weeks and generates a solid yield for attentive growers. Utilize Pi\u0026ntilde;a Collision to stimulate the body while elevating mood.\u0026nbsp;\u0026nbsp;\n","aka":null,"rating":4.5,"highlightedReviews":[{"id":1524454,"username":"ponterosa","text":"I have grown my new favorite. Used to be Pink Panther. Excellent for working and making music. Very positive vibe.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/lJ2VY3JcKjYut_50Yn5tnVlftCU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fGkYePhpuTiO6OltZh89O_wide-brim-purple.png"},{"id":1524454,"username":"ponterosa","text":"I have grown my new favorite. Used to be Pink Panther. Excellent for working and making music. Very positive vibe.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/lJ2VY3JcKjYut_50Yn5tnVlftCU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fGkYePhpuTiO6OltZh89O_wide-brim-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":2,"flavors":[{"name":"Sweet","score":12.5},{"name":"Orange","score":12.5},{"name":"Tropical","score":12.5},{"name":"Pineapple","score":12.5}],"effects":[{"name":"Relaxed","score":125},{"name":"Aroused","score":100},{"name":"Hungry","score":100},{"name":"Sleepy","score":25},{"name":"Creative","score":25}],"symptoms":[{"name":"Depression","score":12.5},{"name":"Eye Pressure","score":12.5},{"name":"Insomnia","score":12.5},{"name":"Nausea","score":12.5},{"name":"Pain","score":12.5}],"conditions":[],"negatives":[{"name":"Dizzy","score":12.5},{"name":"Dry Eyes","score":12.5}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Portland, OR","Keizer, OR","Medford, OR","Sumpter, OR"],"permalink":"https://mobileapi.leafly.com/sativa/pia-collision","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Sativa",
+    "conditions": [],
+    "description": "<p>Not much is known about MTG Seed&rsquo;s Pi&ntilde;a Collision other than its genetic background of Jamaican Pineapple and Blue Nebula. This sativa-dominant strain expresses a sweet, citrus-forward scent that is a tart mixture of orange and pineapple. Pi&ntilde;a Collision has an average flowering time of 9-10 weeks and generates a solid yield for attentive growers. Utilize Pi&ntilde;a Collision to stimulate the body while elevating mood.&nbsp;&nbsp;</p>\n",
+    "descriptionPlain": "Not much is known about MTG Seed&rsquo;s Pi&ntilde;a Collision other than its genetic background of Jamaican Pineapple and Blue Nebula. This sativa-dominant strain expresses a sweet, citrus-forward scent that is a tart mixture of orange and pineapple. Pi&ntilde;a Collision has an average flowering time of 9-10 weeks and generates a solid yield for attentive growers. Utilize Pi&ntilde;a Collision to stimulate the body while elevating mood.&nbsp;&nbsp;\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 125
+        },
+        {
+            "name": "Aroused",
+            "score": 100
+        },
+        {
+            "name": "Hungry",
+            "score": 100
+        },
+        {
+            "name": "Sleepy",
+            "score": 25
+        },
+        {
+            "name": "Creative",
+            "score": 25
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Sweet",
+            "score": 12.5
+        },
+        {
+            "name": "Orange",
+            "score": 12.5
+        },
+        {
+            "name": "Tropical",
+            "score": 12.5
+        },
+        {
+            "name": "Pineapple",
+            "score": 12.5
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/lJ2VY3JcKjYut_50Yn5tnVlftCU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fGkYePhpuTiO6OltZh89O_wide-brim-purple.png",
+            "id": 1524454,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "I have grown my new favorite. Used to be Pink Panther. Excellent for working and making music. Very positive vibe.",
+            "username": "ponterosa"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/lJ2VY3JcKjYut_50Yn5tnVlftCU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fGkYePhpuTiO6OltZh89O_wide-brim-purple.png",
+            "id": 1524454,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "I have grown my new favorite. Used to be Pink Panther. Excellent for working and making music. Very positive vibe.",
+            "username": "ponterosa"
+        }
+    ],
+    "id": 500330,
+    "name": "Pi\u00f1a Collision",
+    "negatives": [
+        {
+            "name": "Dizzy",
+            "score": 12.5
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 12.5
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/sativa/pia-collision",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Portland, OR",
+        "Keizer, OR",
+        "Medford, OR",
+        "Sumpter, OR"
+    ],
+    "rating": 4.5,
+    "relatedStrains": [],
+    "reviewCount": 2,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "pia-collision",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.5/240",
+    "subtitle": null,
+    "symbol": "Pcl",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 12.5
+        },
+        {
+            "name": "Eye Pressure",
+            "score": 12.5
+        },
+        {
+            "name": "Insomnia",
+            "score": 12.5
+        },
+        {
+            "name": "Nausea",
+            "score": 12.5
+        },
+        {
+            "name": "Pain",
+            "score": 12.5
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

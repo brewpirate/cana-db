@@ -1,1 +1,61 @@
-{"sl_translate":"description,descriptionPlain,category","id":500994,"slug":"american-beauty","name":"American Beauty","subtitle":null,"symbol":"Ame","category":"Indica","description":"\u003cp\u003eAmerican Beauty is a \u003ca href=\"https://www.leafly.com/indica/plushberry\"\u003ePlushberry\u003c/a\u003e x Plushberry cross created by Mr. Underground as an ode to TGA Subcool\u0026rsquo;s famous and flavorful flower. This strain emits fruity, tropical aromas that translate nicely to the palate, lingering long after the exhale. It finishes flowering in 8 to 9 weeks, and has been known to yield over a pound per plant when produced in optimal growing conditions. American Beauty\u0026rsquo;s effects vacillate between happy and sleepy, giving the consumer a lucid, giggly mindset and a warm, weighted sensation in the body.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"American Beauty is a Plushberry x Plushberry cross created by Mr. Underground as an ode to TGA Subcool\u0026rsquo;s famous and flavorful flower. This strain emits fruity, tropical aromas that translate nicely to the palate, lingering long after the exhale. It finishes flowering in 8 to 9 weeks, and has been known to yield over a pound per plant when produced in optimal growing conditions. American Beauty\u0026rsquo;s effects vacillate between happy and sleepy, giving the consumer a lucid, giggly mindset and a warm, weighted sensation in the body.\u0026nbsp;\n","aka":null,"rating":0,"highlightedReviews":[],"relatedStrains":[],"articles":[],"reviewCount":0,"flavors":[],"effects":[],"symptoms":[],"conditions":[],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Battle Ground, WA","Bellevue, WA","Everett, WA","Lacey, WA","Montesano, WA","Seattle, WA","Seaview, WA"],"permalink":"https://mobileapi.leafly.com/indica/american-beauty","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/0/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Plushberry","subtitle":null,"slug":"plushberry","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/plushberry","symbol":"Psh","applink":"leafly://strain/plushberry"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [],
+    "description": "<p>American Beauty is a <a href=\"https://www.leafly.com/indica/plushberry\">Plushberry</a> x Plushberry cross created by Mr. Underground as an ode to TGA Subcool&rsquo;s famous and flavorful flower. This strain emits fruity, tropical aromas that translate nicely to the palate, lingering long after the exhale. It finishes flowering in 8 to 9 weeks, and has been known to yield over a pound per plant when produced in optimal growing conditions. American Beauty&rsquo;s effects vacillate between happy and sleepy, giving the consumer a lucid, giggly mindset and a warm, weighted sensation in the body.&nbsp;</p>\n",
+    "descriptionPlain": "American Beauty is a Plushberry x Plushberry cross created by Mr. Underground as an ode to TGA Subcool&rsquo;s famous and flavorful flower. This strain emits fruity, tropical aromas that translate nicely to the palate, lingering long after the exhale. It finishes flowering in 8 to 9 weeks, and has been known to yield over a pound per plant when produced in optimal growing conditions. American Beauty&rsquo;s effects vacillate between happy and sleepy, giving the consumer a lucid, giggly mindset and a warm, weighted sensation in the body.&nbsp;\n",
+    "effects": [],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [],
+    "id": 500994,
+    "name": "American Beauty",
+    "negatives": [],
+    "parents": [
+        {
+            "applink": "leafly://strain/plushberry",
+            "category": "Indica",
+            "name": "Plushberry",
+            "permalink": "https://mobileapi.leafly.com/indica/plushberry",
+            "slug": "plushberry",
+            "subtitle": null,
+            "symbol": "Psh"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/american-beauty",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Battle Ground, WA",
+        "Bellevue, WA",
+        "Everett, WA",
+        "Lacey, WA",
+        "Montesano, WA",
+        "Seattle, WA",
+        "Seaview, WA"
+    ],
+    "rating": 0,
+    "relatedStrains": [],
+    "reviewCount": 0,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "american-beauty",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/0/240",
+    "subtitle": null,
+    "symbol": "Ame",
+    "symptoms": [],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

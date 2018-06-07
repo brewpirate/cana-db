@@ -1,1 +1,104 @@
-{"sl_translate":"description,descriptionPlain,category","id":299247,"slug":"double-tap","name":"Double Tap","subtitle":null,"symbol":"Dbt","category":"Indica","description":"\u003cp\u003eDouble Tap by Mr. Mack\u0026rsquo;s Snacks is a potent cannabis strain designed for high-tolerance consumers. The strain\u0026rsquo;s \u003ca href=\"https://www.leafly.com/indica/monster-cookies\"\u003eMonster Cookies\u003c/a\u003e x \u003ca href=\"https://www.leafly.com/indica/yeti-og\"\u003eYeti\u003c/a\u003e\u003ca href=\"http://www.leafly.com/indica/yeti-og\"\u003e\u0026nbsp;OG\u003c/a\u003e\u0026nbsp;x \u003ca href=\"http://www.leafly.com/indica/bloos-kloos\"\u003eBloo\u0026#39;s Kloos\u003c/a\u003e\u0026nbsp;heritage boasts large yields and potency well over 20% THC. Double Tap\u0026rsquo;s Bloo\u0026#39;s Kloos ancestry also gives this strain sweet and aromatic flavors of berry, pine, grape, and fuel. This heavy indica should be consumed sparingly. As the name implies, Double Tap takes you out and puts you down, leaving the body sedated and the mind relaxed.\u003c/p\u003e\n","descriptionPlain":"Double Tap by Mr. Mack\u0026rsquo;s Snacks is a potent cannabis strain designed for high-tolerance consumers. The strain\u0026rsquo;s Monster Cookies x Yeti\u0026nbsp;OG\u0026nbsp;x Bloo\u0026#39;s Kloos\u0026nbsp;heritage boasts large yields and potency well over 20% THC. Double Tap\u0026rsquo;s Bloo\u0026#39;s Kloos ancestry also gives this strain sweet and aromatic flavors of berry, pine, grape, and fuel. This heavy indica should be consumed sparingly. As the name implies, Double Tap takes you out and puts you down, leaving the body sedated and the mind relaxed.\n","aka":null,"rating":5,"highlightedReviews":[{"id":1444219,"username":"memelordnord","text":"I have horrible back, knee pain and ocular migraines. I just picked this up for it and oh my god this is a life saver!!","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png"},{"id":1444219,"username":"memelordnord","text":"I have horrible back, knee pain and ocular migraines. I just picked this up for it and oh my god this is a life saver!!","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":1,"flavors":[],"effects":[{"name":"Talkative","score":25},{"name":"Happy","score":25},{"name":"Relaxed","score":25}],"symptoms":[],"conditions":[{"name":"Migraines","score":25}],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/indica/double-tap","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Monster Cookies","subtitle":null,"slug":"monster-cookies","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/monster-cookies","symbol":"Mon","applink":"leafly://strain/monster-cookies"},{"name":"Yeti OG","subtitle":null,"slug":"yeti-og","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/yeti-og","symbol":"Yet","applink":"leafly://strain/yeti-og"},{"name":"Bloo\u0027s Kloos","subtitle":null,"slug":"bloos-kloos","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/bloos-kloos","symbol":"Bkl","applink":"leafly://strain/bloos-kloos"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Migraines",
+            "score": 25
+        }
+    ],
+    "description": "<p>Double Tap by Mr. Mack&rsquo;s Snacks is a potent cannabis strain designed for high-tolerance consumers. The strain&rsquo;s <a href=\"https://www.leafly.com/indica/monster-cookies\">Monster Cookies</a> x <a href=\"https://www.leafly.com/indica/yeti-og\">Yeti</a><a href=\"http://www.leafly.com/indica/yeti-og\">&nbsp;OG</a>&nbsp;x <a href=\"http://www.leafly.com/indica/bloos-kloos\">Bloo&#39;s Kloos</a>&nbsp;heritage boasts large yields and potency well over 20% THC. Double Tap&rsquo;s Bloo&#39;s Kloos ancestry also gives this strain sweet and aromatic flavors of berry, pine, grape, and fuel. This heavy indica should be consumed sparingly. As the name implies, Double Tap takes you out and puts you down, leaving the body sedated and the mind relaxed.</p>\n",
+    "descriptionPlain": "Double Tap by Mr. Mack&rsquo;s Snacks is a potent cannabis strain designed for high-tolerance consumers. The strain&rsquo;s Monster Cookies x Yeti&nbsp;OG&nbsp;x Bloo&#39;s Kloos&nbsp;heritage boasts large yields and potency well over 20% THC. Double Tap&rsquo;s Bloo&#39;s Kloos ancestry also gives this strain sweet and aromatic flavors of berry, pine, grape, and fuel. This heavy indica should be consumed sparingly. As the name implies, Double Tap takes you out and puts you down, leaving the body sedated and the mind relaxed.\n",
+    "effects": [
+        {
+            "name": "Talkative",
+            "score": 25
+        },
+        {
+            "name": "Happy",
+            "score": 25
+        },
+        {
+            "name": "Relaxed",
+            "score": 25
+        }
+    ],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png",
+            "id": 1444219,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "I have horrible back, knee pain and ocular migraines. I just picked this up for it and oh my god this is a life saver!!",
+            "username": "memelordnord"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png",
+            "id": 1444219,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "I have horrible back, knee pain and ocular migraines. I just picked this up for it and oh my god this is a life saver!!",
+            "username": "memelordnord"
+        }
+    ],
+    "id": 299247,
+    "name": "Double Tap",
+    "negatives": [],
+    "parents": [
+        {
+            "applink": "leafly://strain/monster-cookies",
+            "category": "Indica",
+            "name": "Monster Cookies",
+            "permalink": "https://mobileapi.leafly.com/indica/monster-cookies",
+            "slug": "monster-cookies",
+            "subtitle": null,
+            "symbol": "Mon"
+        },
+        {
+            "applink": "leafly://strain/yeti-og",
+            "category": "Indica",
+            "name": "Yeti OG",
+            "permalink": "https://mobileapi.leafly.com/indica/yeti-og",
+            "slug": "yeti-og",
+            "subtitle": null,
+            "symbol": "Yet"
+        },
+        {
+            "applink": "leafly://strain/bloos-kloos",
+            "category": "Indica",
+            "name": "Bloo's Kloos",
+            "permalink": "https://mobileapi.leafly.com/indica/bloos-kloos",
+            "slug": "bloos-kloos",
+            "subtitle": null,
+            "symbol": "Bkl"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/double-tap",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 1,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "double-tap",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Dbt",
+    "symptoms": [],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

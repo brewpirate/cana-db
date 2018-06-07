@@ -1,1 +1,186 @@
-{"sl_translate":"description,descriptionPlain,category","id":138863,"slug":"bakerstreet","name":"Bakerstreet","subtitle":null,"symbol":"Bks","category":"Indica","description":"\u003cp\u003eBakerstreet is a variety of \u003ca href=\"http://www.leafly.com/indica/hindu-kush\"\u003eHindu Kush\u003c/a\u003e grown by Canadian LP \u003ca href=\"http://www.leafly.com/dispensary-info/tweed-inc\"\u003eTweed\u003c/a\u003e. It is a pure \u003ca href=\"http://www.leafly.com/indica\"\u003eindica\u003c/a\u003e with origins in the Hindu Kush mountain range. The subtle \u003ca href=\"http://www.leafly.com/explore#!/explore/flavors-sweet\"\u003esweet\u003c/a\u003e and \u003ca href=\"http://www.leafly.com/explore#!/explore/flavors-earthy\"\u003eearthy\u003c/a\u003e sandalwood aroma of Bakerstreet induces a deep sense of calm that helps bring relief to those suffering \u003ca href=\"http://www.leafly.com/explore#!/explore/symptoms-pain\"\u003epain\u003c/a\u003e, \u003ca href=\"http://www.leafly.com/explore#!/explore/symptoms-nausea\"\u003enausea\u003c/a\u003e, and \u003ca href=\"http://www.leafly.com/explore#!/explore/symptoms-stress\"\u003estress\u003c/a\u003e disorders. Its heavy body effects make it a top strain to help you \u003ca href=\"http://www.leafly.com/explore#!/explore/tags-relaxed\"\u003erelax\u003c/a\u003e and unwind at the end of a long day.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Bakerstreet is a variety of Hindu Kush grown by Canadian LP Tweed. It is a pure indica with origins in the Hindu Kush mountain range. The subtle sweet and earthy sandalwood aroma of Bakerstreet induces a deep sense of calm that helps bring relief to those suffering pain, nausea, and stress disorders. Its heavy body effects make it a top strain to help you relax and unwind at the end of a long day.\u0026nbsp;\n","aka":"Hindu Kush","rating":4,"highlightedReviews":[{"id":1347729,"username":"fibrofighter","text":"This is a great strain for chronic pain and sleep.Highly recommend for people with Chronic pain issues and insomnia.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png"},{"id":1638879,"username":"exSkye","text":"I order the milled, personally, because I need immediate access as this my go-to stain during asthma attacks. greatly lowers stress and anxiety, helps relax, and has lowered my needed use of other bronchodilators.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/EsB9lXCri57tN17h49dVOnCDkFI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fTBeeQQk0TGeLYj4SjC6Z_old-school-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":10,"flavors":[{"name":"Earthy","score":107.5},{"name":"Woody","score":105},{"name":"Sweet","score":55},{"name":"Pepper","score":50},{"name":"Nutty","score":50}],"effects":[{"name":"Euphoric","score":165},{"name":"Relaxed","score":112.5},{"name":"Happy","score":110},{"name":"Sleepy","score":57.5},{"name":"Talkative","score":55}],"symptoms":[{"name":"Pain","score":167.5},{"name":"Stress","score":110},{"name":"Depression","score":105},{"name":"Inflammation","score":102.5},{"name":"Insomnia","score":60}],"conditions":[{"name":"Anxiety","score":105},{"name":"Migraines","score":52.5},{"name":"PTSD","score":52.5},{"name":"Asthma","score":50},{"name":"PMS","score":50}],"negatives":[{"name":"Dry Mouth","score":57.5},{"name":"Dry Eyes","score":2.5},{"name":"Paranoid","score":2.5}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/bakerstreet_100x100_8092.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/499267/b/bakerstreet__primary_02b8.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/bakerstreet_100x100_92fe.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/426955/b/bakerstreet__primary_a757.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/bakerstreet_100x100_863a.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/394246/b/bakerstreet__primary_80b4.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/bakerstreet_100x100_7cc1.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/280128/b/bakerstreet__primary_59c1.jpg"}],"photoTotalCount":4,"popularCities":[],"permalink":"https://mobileapi.leafly.com/indica/bakerstreet","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Hindu Kush","subtitle":null,"slug":"hindu-kush","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/hindu-kush","symbol":"Hk","applink":"leafly://strain/hindu-kush"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": "Hindu Kush",
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 105
+        },
+        {
+            "name": "Migraines",
+            "score": 52.5
+        },
+        {
+            "name": "PTSD",
+            "score": 52.5
+        },
+        {
+            "name": "Asthma",
+            "score": 50
+        },
+        {
+            "name": "PMS",
+            "score": 50
+        }
+    ],
+    "description": "<p>Bakerstreet is a variety of <a href=\"http://www.leafly.com/indica/hindu-kush\">Hindu Kush</a> grown by Canadian LP <a href=\"http://www.leafly.com/dispensary-info/tweed-inc\">Tweed</a>. It is a pure <a href=\"http://www.leafly.com/indica\">indica</a> with origins in the Hindu Kush mountain range. The subtle <a href=\"http://www.leafly.com/explore#!/explore/flavors-sweet\">sweet</a> and <a href=\"http://www.leafly.com/explore#!/explore/flavors-earthy\">earthy</a> sandalwood aroma of Bakerstreet induces a deep sense of calm that helps bring relief to those suffering <a href=\"http://www.leafly.com/explore#!/explore/symptoms-pain\">pain</a>, <a href=\"http://www.leafly.com/explore#!/explore/symptoms-nausea\">nausea</a>, and <a href=\"http://www.leafly.com/explore#!/explore/symptoms-stress\">stress</a> disorders. Its heavy body effects make it a top strain to help you <a href=\"http://www.leafly.com/explore#!/explore/tags-relaxed\">relax</a> and unwind at the end of a long day.&nbsp;</p>\n",
+    "descriptionPlain": "Bakerstreet is a variety of Hindu Kush grown by Canadian LP Tweed. It is a pure indica with origins in the Hindu Kush mountain range. The subtle sweet and earthy sandalwood aroma of Bakerstreet induces a deep sense of calm that helps bring relief to those suffering pain, nausea, and stress disorders. Its heavy body effects make it a top strain to help you relax and unwind at the end of a long day.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Euphoric",
+            "score": 165
+        },
+        {
+            "name": "Relaxed",
+            "score": 112.5
+        },
+        {
+            "name": "Happy",
+            "score": 110
+        },
+        {
+            "name": "Sleepy",
+            "score": 57.5
+        },
+        {
+            "name": "Talkative",
+            "score": 55
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Earthy",
+            "score": 107.5
+        },
+        {
+            "name": "Woody",
+            "score": 105
+        },
+        {
+            "name": "Sweet",
+            "score": 55
+        },
+        {
+            "name": "Pepper",
+            "score": 50
+        },
+        {
+            "name": "Nutty",
+            "score": 50
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png",
+            "id": 1347729,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "This is a great strain for chronic pain and sleep.Highly recommend for people with Chronic pain issues and insomnia.",
+            "username": "fibrofighter"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/EsB9lXCri57tN17h49dVOnCDkFI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fTBeeQQk0TGeLYj4SjC6Z_old-school-red.png",
+            "id": 1638879,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "I order the milled, personally, because I need immediate access as this my go-to stain during asthma attacks. greatly lowers stress and anxiety, helps relax, and has lowered my needed use of other bronchodilators.",
+            "username": "exSkye"
+        }
+    ],
+    "id": 138863,
+    "name": "Bakerstreet",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 57.5
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 2.5
+        },
+        {
+            "name": "Paranoid",
+            "score": 2.5
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/hindu-kush",
+            "category": "Indica",
+            "name": "Hindu Kush",
+            "permalink": "https://mobileapi.leafly.com/indica/hindu-kush",
+            "slug": "hindu-kush",
+            "subtitle": null,
+            "symbol": "Hk"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/bakerstreet",
+    "photoTotalCount": 4,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/499267/b/bakerstreet__primary_02b8.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/bakerstreet_100x100_8092.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/426955/b/bakerstreet__primary_a757.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/bakerstreet_100x100_92fe.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/394246/b/bakerstreet__primary_80b4.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/bakerstreet_100x100_863a.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/280128/b/bakerstreet__primary_59c1.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/bakerstreet_100x100_7cc1.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [],
+    "rating": 4,
+    "relatedStrains": [],
+    "reviewCount": 10,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "bakerstreet",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+    "subtitle": null,
+    "symbol": "Bks",
+    "symptoms": [
+        {
+            "name": "Pain",
+            "score": 167.5
+        },
+        {
+            "name": "Stress",
+            "score": 110
+        },
+        {
+            "name": "Depression",
+            "score": 105
+        },
+        {
+            "name": "Inflammation",
+            "score": 102.5
+        },
+        {
+            "name": "Insomnia",
+            "score": 60
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

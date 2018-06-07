@@ -1,1 +1,186 @@
-{"sl_translate":"description,descriptionPlain,category","id":65617,"slug":"berry-noir","name":"Berry Noir","subtitle":null,"symbol":"Bno","category":"Indica","description":"\u003cp class=\"p1\"\u003eBerry Noir is an indica strain that competed in the \u003ca href=\"http://www.leafly.com/news/events/come-find-leafly-at-the-los-angeles-cannabis-cup\"\u003e\u003cspan class=\"s1\"\u003e2014 L.A. Cannabis Cup\u003c/span\u003e\u003c/a\u003e.\u003c/p\u003e\n","descriptionPlain":"Berry Noir is an indica strain that competed in the 2014 L.A. Cannabis Cup.\n","aka":null,"rating":4.44,"highlightedReviews":[{"id":1332467,"username":"Dankeffect420","text":"The first thing you notice is the color. It has beautiful reddish hairs all through and a smell of perfume/ammonia. Pungent taste at first but it calms the more you smoke. Nice calming buzz that left me with a feeling of a mask on my eyes. If you smoke too much your mind can get busy.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/3/240","avatar":"https://ddd33q3967xhi.cloudfront.net/5DsWrIpoq-56NpD59UXAqpoVN88=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fqSLuo6zNRCeIia1paBYS_wayfarers-purple.png"},{"id":1258844,"username":"MedPatient-GB","text":"Berry Noir .. the name holds true! Beautiful parentage! pure berries on the palate after breathing out.  Not super clear, but very nice looking regardless.  I have been slowly dabbing this over the course of 3  days now and every glob tastes the same, no butane taste and very little heaviness in the chest even at slightly higher heat.  \n\n Will be getting more from the producers! Diamond Concentrates! Try em if you see em!\n\nCheers!","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/YEN1LqXiYCOvWiFhmP-4p67iqDM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fY9fB9qHySLml8016ysgJ_goggles-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":9,"flavors":[{"name":"Berry","score":13.888888888888889},{"name":"Earthy","score":8.3333333333333321},{"name":"Sweet","score":5.5555555555555554},{"name":"Flowery","score":5.5555555555555554},{"name":"Ammonia","score":2.7777777777777777}],"effects":[{"name":"Relaxed","score":13.888888888888889},{"name":"Euphoric","score":11.111111111111111},{"name":"Sleepy","score":8.3333333333333321},{"name":"Happy","score":5.5555555555555554},{"name":"Hungry","score":5.5555555555555554}],"symptoms":[{"name":"Stress","score":8.3333333333333321},{"name":"Depression","score":2.7777777777777777},{"name":"Inflammation","score":2.7777777777777777},{"name":"Insomnia","score":2.7777777777777777},{"name":"Lack of Appetite","score":2.7777777777777777}],"conditions":[{"name":"Anxiety","score":8.3333333333333321},{"name":"PTSD","score":5.5555555555555554},{"name":"ADD/ADHD","score":2.7777777777777777},{"name":"Cancer","score":2.7777777777777777},{"name":"Crohn\u0027s Disease","score":2.7777777777777777}],"negatives":[{"name":"Dry Eyes","score":2.7777777777777777}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/berry-noir_100x100_eaba.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/468080/b/berry-noir__primary_c1c7.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/berry-noir_100x100_5128.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/465049/b/berry-noir__primary_bd76.jpg"}],"photoTotalCount":2,"popularCities":[],"permalink":"https://mobileapi.leafly.com/indica/berry-noir","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.44444444444444/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Girl Scout Cookies","subtitle":null,"slug":"girl-scout-cookie","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/girl-scout-cookie","symbol":"Gsc","applink":"leafly://strain/girl-scout-cookie"},{"name":"Platinum OG","subtitle":null,"slug":"platinum-og","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/platinum-og","symbol":"Plt","applink":"leafly://strain/platinum-og"},{"name":"Blackberry","subtitle":null,"slug":"blackberry","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/blackberry","symbol":"Bbr","applink":"leafly://strain/blackberry"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "PTSD",
+            "score": 5.555555555555555
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 2.7777777777777777
+        },
+        {
+            "name": "Cancer",
+            "score": 2.7777777777777777
+        },
+        {
+            "name": "Crohn's Disease",
+            "score": 2.7777777777777777
+        }
+    ],
+    "description": "<p class=\"p1\">Berry Noir is an indica strain that competed in the <a href=\"http://www.leafly.com/news/events/come-find-leafly-at-the-los-angeles-cannabis-cup\"><span class=\"s1\">2014 L.A. Cannabis Cup</span></a>.</p>\n",
+    "descriptionPlain": "Berry Noir is an indica strain that competed in the 2014 L.A. Cannabis Cup.\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 13.88888888888889
+        },
+        {
+            "name": "Euphoric",
+            "score": 11.11111111111111
+        },
+        {
+            "name": "Sleepy",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Happy",
+            "score": 5.555555555555555
+        },
+        {
+            "name": "Hungry",
+            "score": 5.555555555555555
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Berry",
+            "score": 13.88888888888889
+        },
+        {
+            "name": "Earthy",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Sweet",
+            "score": 5.555555555555555
+        },
+        {
+            "name": "Flowery",
+            "score": 5.555555555555555
+        },
+        {
+            "name": "Ammonia",
+            "score": 2.7777777777777777
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/5DsWrIpoq-56NpD59UXAqpoVN88=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fqSLuo6zNRCeIia1paBYS_wayfarers-purple.png",
+            "id": 1332467,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/3/240",
+            "text": "The first thing you notice is the color. It has beautiful reddish hairs all through and a smell of perfume/ammonia. Pungent taste at first but it calms the more you smoke. Nice calming buzz that left me with a feeling of a mask on my eyes. If you smoke too much your mind can get busy.",
+            "username": "Dankeffect420"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/YEN1LqXiYCOvWiFhmP-4p67iqDM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fY9fB9qHySLml8016ysgJ_goggles-green.png",
+            "id": 1258844,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Berry Noir .. the name holds true! Beautiful parentage! pure berries on the palate after breathing out.  Not super clear, but very nice looking regardless.  I have been slowly dabbing this over the course of 3  days now and every glob tastes the same, no butane taste and very little heaviness in the chest even at slightly higher heat.  \n\n Will be getting more from the producers! Diamond Concentrates! Try em if you see em!\n\nCheers!",
+            "username": "MedPatient-GB"
+        }
+    ],
+    "id": 65617,
+    "name": "Berry Noir",
+    "negatives": [
+        {
+            "name": "Dry Eyes",
+            "score": 2.7777777777777777
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/girl-scout-cookie",
+            "category": "Hybrid",
+            "name": "Girl Scout Cookies",
+            "permalink": "https://mobileapi.leafly.com/hybrid/girl-scout-cookie",
+            "slug": "girl-scout-cookie",
+            "subtitle": null,
+            "symbol": "Gsc"
+        },
+        {
+            "applink": "leafly://strain/platinum-og",
+            "category": "Indica",
+            "name": "Platinum OG",
+            "permalink": "https://mobileapi.leafly.com/indica/platinum-og",
+            "slug": "platinum-og",
+            "subtitle": null,
+            "symbol": "Plt"
+        },
+        {
+            "applink": "leafly://strain/blackberry",
+            "category": "Hybrid",
+            "name": "Blackberry",
+            "permalink": "https://mobileapi.leafly.com/hybrid/blackberry",
+            "slug": "blackberry",
+            "subtitle": null,
+            "symbol": "Bbr"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/berry-noir",
+    "photoTotalCount": 2,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/468080/b/berry-noir__primary_c1c7.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/berry-noir_100x100_eaba.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/465049/b/berry-noir__primary_bd76.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/berry-noir_100x100_5128.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [],
+    "rating": 4.44,
+    "relatedStrains": [],
+    "reviewCount": 9,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "berry-noir",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.44444444444444/240",
+    "subtitle": null,
+    "symbol": "Bno",
+    "symptoms": [
+        {
+            "name": "Stress",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Depression",
+            "score": 2.7777777777777777
+        },
+        {
+            "name": "Inflammation",
+            "score": 2.7777777777777777
+        },
+        {
+            "name": "Insomnia",
+            "score": 2.7777777777777777
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 2.7777777777777777
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

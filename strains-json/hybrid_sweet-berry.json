@@ -1,1 +1,190 @@
-{"sl_translate":"description,descriptionPlain,category","id":163375,"slug":"sweet-berry","name":"Sweet Berry","subtitle":null,"symbol":"Sby","category":"Hybrid","description":"\u003cp\u003eSweet Berry is a hybrid cross between two flavor powerhouses, \u003ca href=\"https://www.leafly.com/hybrid/chernobyl\"\u003eChernobyl\u003c/a\u003e and \u003ca href=\"http://leafly.com/indica/blueberry\"\u003eBlueberry\u003c/a\u003e. Its Chernobyl parent is a sweet-smelling hybrid strain with floral and lime flavors, while the indica Blueberry lends deep notes of fruit and berry. Sun-grown at the Northern California Hillberry Farms, Sweet Berry offers long-lasting euphoric effects that focus themselves cerebrally.\u003c/p\u003e\n","descriptionPlain":"Sweet Berry is a hybrid cross between two flavor powerhouses, Chernobyl and Blueberry. Its Chernobyl parent is a sweet-smelling hybrid strain with floral and lime flavors, while the indica Blueberry lends deep notes of fruit and berry. Sun-grown at the Northern California Hillberry Farms, Sweet Berry offers long-lasting euphoric effects that focus themselves cerebrally.\n","aka":null,"rating":4.2,"highlightedReviews":[{"id":1363818,"username":"tim_heidecker","text":"Pretty good bud. Pleasantly unique. Can taste a hint of berries when smoking it.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png"},{"id":1365309,"username":"fuzzysalamander","text":"Wonderful sour citrusy berry smell. Very euphoric head high with some nice relaxation added. Careful before smoking too much. After having 5-6 bong hits I felt quite out of it and a little slow. Great feeling but not great for having conversation. Having said that, if you want to chill out while still being able to be social, a quick personal bowl does wonders. Doesn\u0027t make you too tired or out of it, wonderful relaxing euphoric head high, and first hit or 2 taste orgasmic. I see another one of the reviews posting about how this can badly affect anxiety if you let it. I have various diagnosis of anxiety disorders, and I am absolutely fine. Just smoke in an area you feel comfortable in. Paranoia comes from the person not from the weed. Anyways would highly recommend this strain for pretty much any kind of activity.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":10,"flavors":[{"name":"Berry","score":11.363636363636363},{"name":"Sweet","score":6.8181818181818175},{"name":"Sage","score":4.5454545454545459},{"name":"Blueberry","score":4.5454545454545459},{"name":"Lemon","score":4.5454545454545459}],"effects":[{"name":"Relaxed","score":11.363636363636363},{"name":"Uplifted","score":9.0909090909090917},{"name":"Happy","score":9.0909090909090917},{"name":"Creative","score":6.8181818181818175},{"name":"Euphoric","score":6.8181818181818175}],"symptoms":[{"name":"Spasticity","score":4.5454545454545459},{"name":"Fatigue","score":2.2727272727272729},{"name":"Pain","score":2.2727272727272729},{"name":"Stress","score":2.2727272727272729}],"conditions":[{"name":"ADD/ADHD","score":2.2727272727272729},{"name":"Anxiety","score":2.2727272727272729},{"name":"Gastrointestinal Disorder","score":2.2727272727272729},{"name":"Migraines","score":2.2727272727272729},{"name":"PMS","score":2.2727272727272729}],"negatives":[{"name":"Anxious","score":4.5454545454545459},{"name":"Dry Mouth","score":2.2727272727272729},{"name":"Paranoid","score":2.2727272727272729}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/sweet-berry_100x100_af76.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/404254/b/sweet-berry__primary_d3c1.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/sweet-berry_100x100_c6b6.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/363660/b/sweet-berry__primary_33e2.jpg"}],"photoTotalCount":2,"popularCities":["Calgary, AB","Edmonton, AB","Las Vegas, NV","Los Angeles, CA","Montréal, QC","Richmond Hill, ON","Tabernash, CO","Toronto, ON"],"permalink":"https://mobileapi.leafly.com/hybrid/sweet-berry","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.2/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Chernobyl","subtitle":null,"slug":"chernobyl","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/chernobyl","symbol":"Cbl","applink":"leafly://strain/chernobyl"},{"name":"Blueberry","subtitle":null,"slug":"blueberry","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/blueberry","symbol":"Bry","applink":"leafly://strain/blueberry"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "ADD/ADHD",
+            "score": 2.272727272727273
+        },
+        {
+            "name": "Anxiety",
+            "score": 2.272727272727273
+        },
+        {
+            "name": "Gastrointestinal Disorder",
+            "score": 2.272727272727273
+        },
+        {
+            "name": "Migraines",
+            "score": 2.272727272727273
+        },
+        {
+            "name": "PMS",
+            "score": 2.272727272727273
+        }
+    ],
+    "description": "<p>Sweet Berry is a hybrid cross between two flavor powerhouses, <a href=\"https://www.leafly.com/hybrid/chernobyl\">Chernobyl</a> and <a href=\"http://leafly.com/indica/blueberry\">Blueberry</a>. Its Chernobyl parent is a sweet-smelling hybrid strain with floral and lime flavors, while the indica Blueberry lends deep notes of fruit and berry. Sun-grown at the Northern California Hillberry Farms, Sweet Berry offers long-lasting euphoric effects that focus themselves cerebrally.</p>\n",
+    "descriptionPlain": "Sweet Berry is a hybrid cross between two flavor powerhouses, Chernobyl and Blueberry. Its Chernobyl parent is a sweet-smelling hybrid strain with floral and lime flavors, while the indica Blueberry lends deep notes of fruit and berry. Sun-grown at the Northern California Hillberry Farms, Sweet Berry offers long-lasting euphoric effects that focus themselves cerebrally.\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 11.363636363636363
+        },
+        {
+            "name": "Uplifted",
+            "score": 9.090909090909092
+        },
+        {
+            "name": "Happy",
+            "score": 9.090909090909092
+        },
+        {
+            "name": "Creative",
+            "score": 6.8181818181818175
+        },
+        {
+            "name": "Euphoric",
+            "score": 6.8181818181818175
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Berry",
+            "score": 11.363636363636363
+        },
+        {
+            "name": "Sweet",
+            "score": 6.8181818181818175
+        },
+        {
+            "name": "Sage",
+            "score": 4.545454545454546
+        },
+        {
+            "name": "Blueberry",
+            "score": 4.545454545454546
+        },
+        {
+            "name": "Lemon",
+            "score": 4.545454545454546
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png",
+            "id": 1363818,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Pretty good bud. Pleasantly unique. Can taste a hint of berries when smoking it.",
+            "username": "tim_heidecker"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png",
+            "id": 1365309,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Wonderful sour citrusy berry smell. Very euphoric head high with some nice relaxation added. Careful before smoking too much. After having 5-6 bong hits I felt quite out of it and a little slow. Great feeling but not great for having conversation. Having said that, if you want to chill out while still being able to be social, a quick personal bowl does wonders. Doesn't make you too tired or out of it, wonderful relaxing euphoric head high, and first hit or 2 taste orgasmic. I see another one of the reviews posting about how this can badly affect anxiety if you let it. I have various diagnosis of anxiety disorders, and I am absolutely fine. Just smoke in an area you feel comfortable in. Paranoia comes from the person not from the weed. Anyways would highly recommend this strain for pretty much any kind of activity.",
+            "username": "fuzzysalamander"
+        }
+    ],
+    "id": 163375,
+    "name": "Sweet Berry",
+    "negatives": [
+        {
+            "name": "Anxious",
+            "score": 4.545454545454546
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 2.272727272727273
+        },
+        {
+            "name": "Paranoid",
+            "score": 2.272727272727273
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/chernobyl",
+            "category": "Hybrid",
+            "name": "Chernobyl",
+            "permalink": "https://mobileapi.leafly.com/hybrid/chernobyl",
+            "slug": "chernobyl",
+            "subtitle": null,
+            "symbol": "Cbl"
+        },
+        {
+            "applink": "leafly://strain/blueberry",
+            "category": "Indica",
+            "name": "Blueberry",
+            "permalink": "https://mobileapi.leafly.com/indica/blueberry",
+            "slug": "blueberry",
+            "subtitle": null,
+            "symbol": "Bry"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/sweet-berry",
+    "photoTotalCount": 2,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/404254/b/sweet-berry__primary_d3c1.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/sweet-berry_100x100_af76.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/363660/b/sweet-berry__primary_33e2.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/sweet-berry_100x100_c6b6.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Calgary, AB",
+        "Edmonton, AB",
+        "Las Vegas, NV",
+        "Los Angeles, CA",
+        "Montr\u00e9al, QC",
+        "Richmond Hill, ON",
+        "Tabernash, CO",
+        "Toronto, ON"
+    ],
+    "rating": 4.2,
+    "relatedStrains": [],
+    "reviewCount": 10,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "sweet-berry",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.2/240",
+    "subtitle": null,
+    "symbol": "Sby",
+    "symptoms": [
+        {
+            "name": "Spasticity",
+            "score": 4.545454545454546
+        },
+        {
+            "name": "Fatigue",
+            "score": 2.272727272727273
+        },
+        {
+            "name": "Pain",
+            "score": 2.272727272727273
+        },
+        {
+            "name": "Stress",
+            "score": 2.272727272727273
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

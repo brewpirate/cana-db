@@ -1,1 +1,149 @@
-{"sl_translate":"description,descriptionPlain,category","id":257169,"slug":"spyder-mon","name":"Spyder Mon","subtitle":null,"symbol":"Smn","category":"Hybrid","description":"\u003cp\u003eSpyder Mon is an uplifting \u003ca href=\"https://www.leafly.com/news/strains-products/what-cannabis-strains-are-high-in-cbd\"\u003eCBD strain\u003c/a\u003e with a good lineage, getting its manageable euphoria and anti-inflammatory effects from Midnight Farm\u0026rsquo;s \u003ca href=\"https://www.leafly.com/indica/super-skunk\"\u003eSuper Skunk\u003c/a\u003e and Florin Wellness Center\u0026rsquo;s \u003ca href=\"https://www.leafly.com/sativa/charlottes-web\"\u003eCharlotte\u0026rsquo;s Web\u003c/a\u003e. This combo delivers a 2.5:1 CBD/THC ratio that soothes the body while improving the mood. Its effects are mostly clear-headed that\u0026nbsp;lend themselves to all day use. The aroma is fresh, exhibiting notes of citrus and pine. Utilize Spyder Mon to help reduce inflammation, nausea, headaches, and minor physical aches and pains.\u003c/p\u003e\n","descriptionPlain":"Spyder Mon is an uplifting CBD strain with a good lineage, getting its manageable euphoria and anti-inflammatory effects from Midnight Farm\u0026rsquo;s Super Skunk and Florin Wellness Center\u0026rsquo;s Charlotte\u0026rsquo;s Web. This combo delivers a 2.5:1 CBD/THC ratio that soothes the body while improving the mood. Its effects are mostly clear-headed that\u0026nbsp;lend themselves to all day use. The aroma is fresh, exhibiting notes of citrus and pine. Utilize Spyder Mon to help reduce inflammation, nausea, headaches, and minor physical aches and pains.\n","aka":null,"rating":5,"highlightedReviews":[{"id":1340441,"username":"DeliveryWeed","text":"If I need to focus and do physical activity, I smoke Spyder Mon.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/tAHHcVjF5EvieYWgrsxPA0WBCr8=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fRAbBXkNBSHOIMMxhio7k_wide-brim-red.png"},{"id":1425274,"username":"herbmandoy","text":"I really like this as a Amputee this helped me amazingly well with my phantom pains and other issues I deal with. didn\u0027t feel tired or anything but definitely relaxed but functional. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/bn1HUI7tvLyn0Fkk1dLIMSCvROQ=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fUxAMHptTuuQR3BjlU2Hc_nerd-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":3,"flavors":[{"name":"Citrus","score":24.999999999999996},{"name":"Earthy","score":24.999999999999996},{"name":"Sweet","score":16.666666666666664},{"name":"Flowery","score":16.666666666666664}],"effects":[{"name":"Uplifted","score":41.666666666666657},{"name":"Creative","score":41.666666666666657},{"name":"Focused","score":41.666666666666657},{"name":"Happy","score":41.666666666666657},{"name":"Relaxed","score":33.333333333333329}],"symptoms":[{"name":"Depression","score":16.666666666666664},{"name":"Headaches","score":16.666666666666664},{"name":"Insomnia","score":16.666666666666664},{"name":"Muscle Spasms","score":16.666666666666664},{"name":"Pain","score":16.666666666666664}],"conditions":[{"name":"Anxiety","score":16.666666666666664},{"name":"Phantom Limb Pain","score":16.666666666666664},{"name":"PTSD","score":16.666666666666664}],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/spyder-mon","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Super Skunk","subtitle":null,"slug":"super-skunk","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/super-skunk","symbol":"Ssk","applink":"leafly://strain/super-skunk"},{"name":"Charlotte\u0027s Web","subtitle":null,"slug":"charlottes-web","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/charlottes-web","symbol":"Cw","applink":"leafly://strain/charlottes-web"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Phantom Limb Pain",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "PTSD",
+            "score": 16.666666666666664
+        }
+    ],
+    "description": "<p>Spyder Mon is an uplifting <a href=\"https://www.leafly.com/news/strains-products/what-cannabis-strains-are-high-in-cbd\">CBD strain</a> with a good lineage, getting its manageable euphoria and anti-inflammatory effects from Midnight Farm&rsquo;s <a href=\"https://www.leafly.com/indica/super-skunk\">Super Skunk</a> and Florin Wellness Center&rsquo;s <a href=\"https://www.leafly.com/sativa/charlottes-web\">Charlotte&rsquo;s Web</a>. This combo delivers a 2.5:1 CBD/THC ratio that soothes the body while improving the mood. Its effects are mostly clear-headed that&nbsp;lend themselves to all day use. The aroma is fresh, exhibiting notes of citrus and pine. Utilize Spyder Mon to help reduce inflammation, nausea, headaches, and minor physical aches and pains.</p>\n",
+    "descriptionPlain": "Spyder Mon is an uplifting CBD strain with a good lineage, getting its manageable euphoria and anti-inflammatory effects from Midnight Farm&rsquo;s Super Skunk and Florin Wellness Center&rsquo;s Charlotte&rsquo;s Web. This combo delivers a 2.5:1 CBD/THC ratio that soothes the body while improving the mood. Its effects are mostly clear-headed that&nbsp;lend themselves to all day use. The aroma is fresh, exhibiting notes of citrus and pine. Utilize Spyder Mon to help reduce inflammation, nausea, headaches, and minor physical aches and pains.\n",
+    "effects": [
+        {
+            "name": "Uplifted",
+            "score": 41.66666666666666
+        },
+        {
+            "name": "Creative",
+            "score": 41.66666666666666
+        },
+        {
+            "name": "Focused",
+            "score": 41.66666666666666
+        },
+        {
+            "name": "Happy",
+            "score": 41.66666666666666
+        },
+        {
+            "name": "Relaxed",
+            "score": 33.33333333333333
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Citrus",
+            "score": 24.999999999999996
+        },
+        {
+            "name": "Earthy",
+            "score": 24.999999999999996
+        },
+        {
+            "name": "Sweet",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Flowery",
+            "score": 16.666666666666664
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/tAHHcVjF5EvieYWgrsxPA0WBCr8=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fRAbBXkNBSHOIMMxhio7k_wide-brim-red.png",
+            "id": 1340441,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "If I need to focus and do physical activity, I smoke Spyder Mon.",
+            "username": "DeliveryWeed"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/bn1HUI7tvLyn0Fkk1dLIMSCvROQ=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fUxAMHptTuuQR3BjlU2Hc_nerd-purple.png",
+            "id": 1425274,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "I really like this as a Amputee this helped me amazingly well with my phantom pains and other issues I deal with. didn't feel tired or anything but definitely relaxed but functional. ",
+            "username": "herbmandoy"
+        }
+    ],
+    "id": 257169,
+    "name": "Spyder Mon",
+    "negatives": [],
+    "parents": [
+        {
+            "applink": "leafly://strain/super-skunk",
+            "category": "Indica",
+            "name": "Super Skunk",
+            "permalink": "https://mobileapi.leafly.com/indica/super-skunk",
+            "slug": "super-skunk",
+            "subtitle": null,
+            "symbol": "Ssk"
+        },
+        {
+            "applink": "leafly://strain/charlottes-web",
+            "category": "Sativa",
+            "name": "Charlotte's Web",
+            "permalink": "https://mobileapi.leafly.com/sativa/charlottes-web",
+            "slug": "charlottes-web",
+            "subtitle": null,
+            "symbol": "Cw"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/spyder-mon",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 3,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "spyder-mon",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Smn",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Headaches",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Insomnia",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Muscle Spasms",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Pain",
+            "score": 16.666666666666664
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

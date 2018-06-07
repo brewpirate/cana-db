@@ -1,1 +1,166 @@
-{"sl_translate":"description,descriptionPlain,category","id":500198,"slug":"mag-landrace","name":"Mag Landrace","subtitle":null,"symbol":"Mlr","category":"Indica","description":"\u003cp\u003eMag Landrace\u0026nbsp;by Ataraxia is an Iranian landrace propagated in the great state of Illinois. This heavy bud grow dense flower speckled with vivid hues of purple and orange. The strain\u0026rsquo;s aroma is a mixture of earthy spice and diesel while the effects lay into the body, helping mitigate pain, stress, and restlessness.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Mag Landrace\u0026nbsp;by Ataraxia is an Iranian landrace propagated in the great state of Illinois. This heavy bud grow dense flower speckled with vivid hues of purple and orange. The strain\u0026rsquo;s aroma is a mixture of earthy spice and diesel while the effects lay into the body, helping mitigate pain, stress, and restlessness.\u0026nbsp;\n","aka":null,"rating":4.68,"highlightedReviews":[{"id":1572250,"username":"crickersays","text":"Purchased from Verano in Maryland. \n\nStats: 23.29% THC, CBDa-0.08%, CBG-0.07%, CBGa-0.65% (total cannabinoids: 24.09%) Terpenes: B-Pinene 0.056% B-Myrcene 0.177%, Limonene 0.181%, B-Caryophyllene 0.293%, B-Eudesmol 0.012% (total terpenes: 0.719%)\n\nBeautiful nugs. Absolutely beautiful. Dark orange pistils grabbing the dark purple hues in a dense, wonderfully smelling nug. \n\nThis one hits fast with euphoria and calm, then creeps into the body in all the best ways. Relaxed, euphoric, but not ready to sleep.  So far a nice daytime indica option, at least for me. Very social, but super chill and happy. \n\nThis is some great medicine, and the beauty of it just makes the whole experience top notch. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"},{"id":1639474,"username":"Moderndionysus","text":"Not usually an indica person. But, this is an exception. Exceptional strain","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":34,"flavors":[{"name":"Earthy","score":38.958333333333329},{"name":"Sweet","score":29.375},{"name":"Pungent","score":16.25},{"name":"Woody","score":16.25},{"name":"Berry","score":13.333333333333334}],"effects":[{"name":"Relaxed","score":101.25},{"name":"Euphoric","score":75},{"name":"Happy","score":74.791666666666657},{"name":"Sleepy","score":65.416666666666657},{"name":"Uplifted","score":42.083333333333329}],"symptoms":[{"name":"Pain","score":68.125},{"name":"Stress","score":61.25},{"name":"Insomnia","score":54.791666666666671},{"name":"Depression","score":38.958333333333329},{"name":"Muscle Spasms","score":32.708333333333329}],"conditions":[{"name":"Anxiety","score":28.541666666666668},{"name":"PTSD","score":19.375},{"name":"Fibromyalgia","score":16.458333333333336},{"name":"Arthritis","score":13.125},{"name":"Migraines","score":12.708333333333334}],"negatives":[{"name":"Dry Mouth","score":36.25},{"name":"Dry Eyes","score":16.458333333333336},{"name":"Anxious","score":6.666666666666667}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Chicago, IL","Addison, IL","Bethesda, MD","Brandywine, MD","Burtonsville, MD","Collinsville, IL","Columbia, MD","Effingham, IL","Ellicott City, MD","Elmwood Park, IL"],"permalink":"https://mobileapi.leafly.com/indica/mag-landrace","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.67647058823529/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 28.541666666666668
+        },
+        {
+            "name": "PTSD",
+            "score": 19.375
+        },
+        {
+            "name": "Fibromyalgia",
+            "score": 16.458333333333336
+        },
+        {
+            "name": "Arthritis",
+            "score": 13.125
+        },
+        {
+            "name": "Migraines",
+            "score": 12.708333333333334
+        }
+    ],
+    "description": "<p>Mag Landrace&nbsp;by Ataraxia is an Iranian landrace propagated in the great state of Illinois. This heavy bud grow dense flower speckled with vivid hues of purple and orange. The strain&rsquo;s aroma is a mixture of earthy spice and diesel while the effects lay into the body, helping mitigate pain, stress, and restlessness.&nbsp;</p>\n",
+    "descriptionPlain": "Mag Landrace&nbsp;by Ataraxia is an Iranian landrace propagated in the great state of Illinois. This heavy bud grow dense flower speckled with vivid hues of purple and orange. The strain&rsquo;s aroma is a mixture of earthy spice and diesel while the effects lay into the body, helping mitigate pain, stress, and restlessness.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 101.25
+        },
+        {
+            "name": "Euphoric",
+            "score": 75
+        },
+        {
+            "name": "Happy",
+            "score": 74.79166666666666
+        },
+        {
+            "name": "Sleepy",
+            "score": 65.41666666666666
+        },
+        {
+            "name": "Uplifted",
+            "score": 42.08333333333333
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Earthy",
+            "score": 38.95833333333333
+        },
+        {
+            "name": "Sweet",
+            "score": 29.375
+        },
+        {
+            "name": "Pungent",
+            "score": 16.25
+        },
+        {
+            "name": "Woody",
+            "score": 16.25
+        },
+        {
+            "name": "Berry",
+            "score": 13.333333333333334
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1572250,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Purchased from Verano in Maryland. \n\nStats: 23.29% THC, CBDa-0.08%, CBG-0.07%, CBGa-0.65% (total cannabinoids: 24.09%) Terpenes: B-Pinene 0.056% B-Myrcene 0.177%, Limonene 0.181%, B-Caryophyllene 0.293%, B-Eudesmol 0.012% (total terpenes: 0.719%)\n\nBeautiful nugs. Absolutely beautiful. Dark orange pistils grabbing the dark purple hues in a dense, wonderfully smelling nug. \n\nThis one hits fast with euphoria and calm, then creeps into the body in all the best ways. Relaxed, euphoric, but not ready to sleep.  So far a nice daytime indica option, at least for me. Very social, but super chill and happy. \n\nThis is some great medicine, and the beauty of it just makes the whole experience top notch. ",
+            "username": "crickersays"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png",
+            "id": 1639474,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Not usually an indica person. But, this is an exception. Exceptional strain",
+            "username": "Moderndionysus"
+        }
+    ],
+    "id": 500198,
+    "name": "Mag Landrace",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 36.25
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 16.458333333333336
+        },
+        {
+            "name": "Anxious",
+            "score": 6.666666666666667
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/indica/mag-landrace",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Chicago, IL",
+        "Addison, IL",
+        "Bethesda, MD",
+        "Brandywine, MD",
+        "Burtonsville, MD",
+        "Collinsville, IL",
+        "Columbia, MD",
+        "Effingham, IL",
+        "Ellicott City, MD",
+        "Elmwood Park, IL"
+    ],
+    "rating": 4.68,
+    "relatedStrains": [],
+    "reviewCount": 34,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "mag-landrace",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.67647058823529/240",
+    "subtitle": null,
+    "symbol": "Mlr",
+    "symptoms": [
+        {
+            "name": "Pain",
+            "score": 68.125
+        },
+        {
+            "name": "Stress",
+            "score": 61.25
+        },
+        {
+            "name": "Insomnia",
+            "score": 54.79166666666667
+        },
+        {
+            "name": "Depression",
+            "score": 38.95833333333333
+        },
+        {
+            "name": "Muscle Spasms",
+            "score": 32.70833333333333
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

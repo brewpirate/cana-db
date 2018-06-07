@@ -1,1 +1,53 @@
-{"sl_translate":"description,descriptionPlain,category","id":501232,"slug":"doctor-jamaica","name":"Doctor Jamaica","subtitle":null,"symbol":"Dcj","category":"Hybrid","description":"\u003cp\u003eDoctor Jamaica is Vision Seed\u0026rsquo;s cut of the famous \u003ca href=\"https://www.leafly.com/hybrid/california-orange\"\u003eCalifornia Orange\u003c/a\u003e (a.k.a. Cali-O). This strain is relatively easy to grow and offers up an alluring aroma of fresh squeezed oranges. While this plant might only yield an average harvest with average potency, the flavor and effects of Doctor Jamaica are worth the space in your garden. Its balanced euphoria and physical relaxation give this strain a functional and enjoyable buzz that can enhance most situations at the right dose.\u0026nbsp; \u0026nbsp; \u0026nbsp;\u003c/p\u003e\n\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Doctor Jamaica is Vision Seed\u0026rsquo;s cut of the famous California Orange (a.k.a. Cali-O). This strain is relatively easy to grow and offers up an alluring aroma of fresh squeezed oranges. While this plant might only yield an average harvest with average potency, the flavor and effects of Doctor Jamaica are worth the space in your garden. Its balanced euphoria and physical relaxation give this strain a functional and enjoyable buzz that can enhance most situations at the right dose.\u0026nbsp; \u0026nbsp; \u0026nbsp;\n\n\u0026nbsp;\n","aka":null,"rating":0,"highlightedReviews":[],"relatedStrains":[],"articles":[],"reviewCount":0,"flavors":[],"effects":[],"symptoms":[],"conditions":[],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/doctor-jamaica","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/0/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"California Orange","subtitle":null,"slug":"california-orange","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/california-orange","symbol":"Cal","applink":"leafly://strain/california-orange"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [],
+    "description": "<p>Doctor Jamaica is Vision Seed&rsquo;s cut of the famous <a href=\"https://www.leafly.com/hybrid/california-orange\">California Orange</a> (a.k.a. Cali-O). This strain is relatively easy to grow and offers up an alluring aroma of fresh squeezed oranges. While this plant might only yield an average harvest with average potency, the flavor and effects of Doctor Jamaica are worth the space in your garden. Its balanced euphoria and physical relaxation give this strain a functional and enjoyable buzz that can enhance most situations at the right dose.&nbsp; &nbsp; &nbsp;</p>\n\n<p>&nbsp;</p>\n",
+    "descriptionPlain": "Doctor Jamaica is Vision Seed&rsquo;s cut of the famous California Orange (a.k.a. Cali-O). This strain is relatively easy to grow and offers up an alluring aroma of fresh squeezed oranges. While this plant might only yield an average harvest with average potency, the flavor and effects of Doctor Jamaica are worth the space in your garden. Its balanced euphoria and physical relaxation give this strain a functional and enjoyable buzz that can enhance most situations at the right dose.&nbsp; &nbsp; &nbsp;\n\n&nbsp;\n",
+    "effects": [],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [],
+    "id": 501232,
+    "name": "Doctor Jamaica",
+    "negatives": [],
+    "parents": [
+        {
+            "applink": "leafly://strain/california-orange",
+            "category": "Hybrid",
+            "name": "California Orange",
+            "permalink": "https://mobileapi.leafly.com/hybrid/california-orange",
+            "slug": "california-orange",
+            "subtitle": null,
+            "symbol": "Cal"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/doctor-jamaica",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 0,
+    "relatedStrains": [],
+    "reviewCount": 0,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "doctor-jamaica",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/0/240",
+    "subtitle": null,
+    "symbol": "Dcj",
+    "symptoms": [],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

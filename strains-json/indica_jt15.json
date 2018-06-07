@@ -1,1 +1,106 @@
-{"sl_translate":"description,descriptionPlain,category","id":172272,"slug":"jt15","name":"JT15","subtitle":null,"symbol":"J15","category":"Indica","description":"\u003cp\u003e\u003cspan style=\"line-height: 20.7999992370605px;\"\u003eJT15 is an indica Kush cross with a powerful onset and a deep, earthy, woody aroma. Its relaxing qualities make JT15 a preferred strain for patients treating pain, insomnia, and stress.\u003c/span\u003e\u003c/p\u003e\n","descriptionPlain":"JT15 is an indica Kush cross with a powerful onset and a deep, earthy, woody aroma. Its relaxing qualities make JT15 a preferred strain for patients treating pain, insomnia, and stress.\n","aka":"JT 15, JT-15, J15","rating":5,"highlightedReviews":[],"relatedStrains":[],"articles":[],"reviewCount":2,"flavors":[],"effects":[{"name":"Relaxed","score":18.75},{"name":"Sleepy","score":12.5},{"name":"Happy","score":12.5},{"name":"Hungry","score":12.5},{"name":"Uplifted","score":6.25}],"symptoms":[{"name":"Depression","score":6.25}],"conditions":[{"name":"Anxiety","score":18.75},{"name":"ADD/ADHD","score":6.25},{"name":"Cancer","score":6.25},{"name":"Epilepsy","score":6.25}],"negatives":[{"name":"Dry Mouth","score":12.5},{"name":"Dry Eyes","score":6.25}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(1397952000000)\/","thumb":"https://d3ix816x6wuc0d.cloudfront.net/indica/jt15/primary?width=200","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/indica/jt15/primary?width=1024"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/jt15_100x100_ef76.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/220492/b/jt15__primary_37a7.jpg"}],"photoTotalCount":1,"popularCities":[],"permalink":"https://mobileapi.leafly.com/indica/jt15","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": "JT 15, JT-15, J15",
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 18.75
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 6.25
+        },
+        {
+            "name": "Cancer",
+            "score": 6.25
+        },
+        {
+            "name": "Epilepsy",
+            "score": 6.25
+        }
+    ],
+    "description": "<p><span style=\"line-height: 20.7999992370605px;\">JT15 is an indica Kush cross with a powerful onset and a deep, earthy, woody aroma. Its relaxing qualities make JT15 a preferred strain for patients treating pain, insomnia, and stress.</span></p>\n",
+    "descriptionPlain": "JT15 is an indica Kush cross with a powerful onset and a deep, earthy, woody aroma. Its relaxing qualities make JT15 a preferred strain for patients treating pain, insomnia, and stress.\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 18.75
+        },
+        {
+            "name": "Sleepy",
+            "score": 12.5
+        },
+        {
+            "name": "Happy",
+            "score": 12.5
+        },
+        {
+            "name": "Hungry",
+            "score": 12.5
+        },
+        {
+            "name": "Uplifted",
+            "score": 6.25
+        }
+    ],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [],
+    "id": 172272,
+    "name": "JT15",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 12.5
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 6.25
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/indica/jt15",
+    "photoTotalCount": 1,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/indica/jt15/primary?width=1024",
+            "thumb": "https://d3ix816x6wuc0d.cloudfront.net/indica/jt15/primary?width=200",
+            "uploaded": "/Date(1397952000000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/220492/b/jt15__primary_37a7.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/jt15_100x100_ef76.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 2,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "jt15",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "J15",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 6.25
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

@@ -1,1 +1,121 @@
-{"sl_translate":"description,descriptionPlain,category","id":254609,"slug":"magic-beans-og","name":"Magic Beans OG","subtitle":null,"symbol":"Mbe","category":"Indica","description":"\u003cp\u003eMagic Beans OG is a sticky indica strain with heavy, relaxing effects. Known for its weighted sensation on the body and earthy, sweet aroma, Magic Beans OG is a soothing strain with a gentle, herbaceous palate. Enjoy this indica to combat insomnia, stimulate appetite, and to help manage pain. Magic Beans OG\u0026rsquo;s sedative qualities make it a perfect nightcap and a must-have for indica enthusiasts. \u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Magic Beans OG is a sticky indica strain with heavy, relaxing effects. Known for its weighted sensation on the body and earthy, sweet aroma, Magic Beans OG is a soothing strain with a gentle, herbaceous palate. Enjoy this indica to combat insomnia, stimulate appetite, and to help manage pain. Magic Beans OG\u0026rsquo;s sedative qualities make it a perfect nightcap and a must-have for indica enthusiasts. \u0026nbsp;\n","aka":null,"rating":4.25,"highlightedReviews":[{"id":1344263,"username":"ray2363","text":"Wow. This strain is unbelievable... I just smoked two blunts with this and I don\u0027t know how I\u0027m managing to write this... I\u0027m literally laying upside down on my couch lol. You know what\u0027s crazy? Nobody can ever REALLY know what colors look like exactly. There\u0027s no way to see something through another person\u0027s eyes. I could be looking at a red stop sign, and I can tell the person next to me that the sign is red, but there\u0027s no way to tell they see red the way I see red. What is red to me could honesty be like blue to someone else, but if they know it as red, they may see that same stop sign and think that\u0027s actually blue. I\u0027m gonna smoke another blunt of this stuff shortly because this is seriously amazing. Super fresh and kinda fruity smelling (imo) out the jar. Nice dense buds too. Don\u0027t plan on doing anything after smoking this because my eyelids feel like they\u0027re 50 pounds each and it\u0027s only 11:34 AM and I\u0027m about to knock the hell out. \n\nGet it. You won\u0027t regret it. \nOverall: 9.5/10 ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/EsB9lXCri57tN17h49dVOnCDkFI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fTBeeQQk0TGeLYj4SjC6Z_old-school-red.png"},{"id":1418213,"username":"Mawsoc","text":"Probably my favorite strain of bud.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":8,"flavors":[{"name":"Lemon","score":25},{"name":"Woody","score":25},{"name":"Pine","score":25}],"effects":[{"name":"Happy","score":60.714285714285715},{"name":"Sleepy","score":57.142857142857139},{"name":"Euphoric","score":57.142857142857139},{"name":"Relaxed","score":57.142857142857139},{"name":"Tingly","score":3.5714285714285712}],"symptoms":[{"name":"Depression","score":3.5714285714285712},{"name":"Stress","score":3.5714285714285712}],"conditions":[{"name":"Anxiety","score":28.571428571428569},{"name":"PTSD","score":3.5714285714285712}],"negatives":[{"name":"Dry Eyes","score":28.571428571428569},{"name":"Dry Mouth","score":3.5714285714285712}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Los Angeles, CA"],"permalink":"https://mobileapi.leafly.com/indica/magic-beans-og","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.25/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 28.57142857142857
+        },
+        {
+            "name": "PTSD",
+            "score": 3.571428571428571
+        }
+    ],
+    "description": "<p>Magic Beans OG is a sticky indica strain with heavy, relaxing effects. Known for its weighted sensation on the body and earthy, sweet aroma, Magic Beans OG is a soothing strain with a gentle, herbaceous palate. Enjoy this indica to combat insomnia, stimulate appetite, and to help manage pain. Magic Beans OG&rsquo;s sedative qualities make it a perfect nightcap and a must-have for indica enthusiasts. &nbsp;</p>\n",
+    "descriptionPlain": "Magic Beans OG is a sticky indica strain with heavy, relaxing effects. Known for its weighted sensation on the body and earthy, sweet aroma, Magic Beans OG is a soothing strain with a gentle, herbaceous palate. Enjoy this indica to combat insomnia, stimulate appetite, and to help manage pain. Magic Beans OG&rsquo;s sedative qualities make it a perfect nightcap and a must-have for indica enthusiasts. &nbsp;\n",
+    "effects": [
+        {
+            "name": "Happy",
+            "score": 60.714285714285715
+        },
+        {
+            "name": "Sleepy",
+            "score": 57.14285714285714
+        },
+        {
+            "name": "Euphoric",
+            "score": 57.14285714285714
+        },
+        {
+            "name": "Relaxed",
+            "score": 57.14285714285714
+        },
+        {
+            "name": "Tingly",
+            "score": 3.571428571428571
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Lemon",
+            "score": 25
+        },
+        {
+            "name": "Woody",
+            "score": 25
+        },
+        {
+            "name": "Pine",
+            "score": 25
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/EsB9lXCri57tN17h49dVOnCDkFI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fTBeeQQk0TGeLYj4SjC6Z_old-school-red.png",
+            "id": 1344263,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Wow. This strain is unbelievable... I just smoked two blunts with this and I don't know how I'm managing to write this... I'm literally laying upside down on my couch lol. You know what's crazy? Nobody can ever REALLY know what colors look like exactly. There's no way to see something through another person's eyes. I could be looking at a red stop sign, and I can tell the person next to me that the sign is red, but there's no way to tell they see red the way I see red. What is red to me could honesty be like blue to someone else, but if they know it as red, they may see that same stop sign and think that's actually blue. I'm gonna smoke another blunt of this stuff shortly because this is seriously amazing. Super fresh and kinda fruity smelling (imo) out the jar. Nice dense buds too. Don't plan on doing anything after smoking this because my eyelids feel like they're 50 pounds each and it's only 11:34 AM and I'm about to knock the hell out. \n\nGet it. You won't regret it. \nOverall: 9.5/10 ",
+            "username": "ray2363"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png",
+            "id": 1418213,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Probably my favorite strain of bud.",
+            "username": "Mawsoc"
+        }
+    ],
+    "id": 254609,
+    "name": "Magic Beans OG",
+    "negatives": [
+        {
+            "name": "Dry Eyes",
+            "score": 28.57142857142857
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 3.571428571428571
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/indica/magic-beans-og",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Los Angeles, CA"
+    ],
+    "rating": 4.25,
+    "relatedStrains": [],
+    "reviewCount": 8,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "magic-beans-og",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.25/240",
+    "subtitle": null,
+    "symbol": "Mbe",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 3.571428571428571
+        },
+        {
+            "name": "Stress",
+            "score": 3.571428571428571
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

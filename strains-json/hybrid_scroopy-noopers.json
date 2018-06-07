@@ -1,1 +1,115 @@
-{"sl_translate":"description,descriptionPlain,category","id":500725,"slug":"scroopy-noopers","name":"Scroopy Noopers","subtitle":null,"symbol":"Scn","category":"Hybrid","description":"\u003cp\u003eScroopy Noopers by Green Dream is a modern homage to fictional environmental activist and son of King Flippy Nips in the terrestrial TV sensation\u0026nbsp;\u0026quot;Rick and Morty.\u0026quot; This strain was created by crossing \u003ca href=\"https://www.leafly.com/hybrid/girl-scout-cookie\"\u003eGirl Scout Cookies\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/hybrid/stardawg\"\u003eStardawg\u003c/a\u003e, and it emits a pleasant and rich smell of coffee and cacao. Its earthy \u003ca href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\"\u003eterpene profile\u003c/a\u003e offers sweet aromas alongside a sharp, acrid undertone that gives the strain uniqueness and dimension. Scroopy Noopers\u0026rsquo; deeply relaxing effects make it well-suited for consumers seeking to combat muscle spasms, pain, and general restlessness.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Scroopy Noopers by Green Dream is a modern homage to fictional environmental activist and son of King Flippy Nips in the terrestrial TV sensation\u0026nbsp;\u0026quot;Rick and Morty.\u0026quot; This strain was created by crossing Girl Scout Cookies and Stardawg, and it emits a pleasant and rich smell of coffee and cacao. Its earthy terpene profile offers sweet aromas alongside a sharp, acrid undertone that gives the strain uniqueness and dimension. Scroopy Noopers\u0026rsquo; deeply relaxing effects make it well-suited for consumers seeking to combat muscle spasms, pain, and general restlessness.\u0026nbsp;\n","aka":null,"rating":5,"highlightedReviews":[{"id":1513434,"username":"apace8806","text":"good high. great for chilling on your day off and watching some TV","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"},{"id":1572848,"username":"SpaceXDandy","text":"Loving it, the earthy, piney, slightly coffee/cacao taste makes the first draw taste amazing with very neat exhale flavors. I actually use this one during the day/later day since it can be a nice level of relaxing/pain relief/but without the overly tiredness. Just don\u0027t smoke to to much or it will turn slightly more sedative(i find that with any strain really tho)","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":2,"flavors":[],"effects":[{"name":"Euphoric","score":50},{"name":"Hungry","score":50},{"name":"Relaxed","score":50}],"symptoms":[{"name":"Depression","score":50},{"name":"Muscle Spasms","score":50},{"name":"Nausea","score":50},{"name":"Pain","score":50}],"conditions":[],"negatives":[{"name":"Dry Mouth","score":50}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Denver, CO","Louisville, CO"],"permalink":"https://mobileapi.leafly.com/hybrid/scroopy-noopers","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"GSC","subtitle":null,"slug":"girl-scout-cookie","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/girl-scout-cookie","symbol":"Gsc","applink":"leafly://strain/girl-scout-cookie"},{"name":"Stardawg","subtitle":null,"slug":"stardawg","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/stardawg","symbol":"Sta","applink":"leafly://strain/stardawg"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [],
+    "description": "<p>Scroopy Noopers by Green Dream is a modern homage to fictional environmental activist and son of King Flippy Nips in the terrestrial TV sensation&nbsp;&quot;Rick and Morty.&quot; This strain was created by crossing <a href=\"https://www.leafly.com/hybrid/girl-scout-cookie\">Girl Scout Cookies</a> and <a href=\"https://www.leafly.com/hybrid/stardawg\">Stardawg</a>, and it emits a pleasant and rich smell of coffee and cacao. Its earthy <a href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\">terpene profile</a> offers sweet aromas alongside a sharp, acrid undertone that gives the strain uniqueness and dimension. Scroopy Noopers&rsquo; deeply relaxing effects make it well-suited for consumers seeking to combat muscle spasms, pain, and general restlessness.&nbsp;</p>\n",
+    "descriptionPlain": "Scroopy Noopers by Green Dream is a modern homage to fictional environmental activist and son of King Flippy Nips in the terrestrial TV sensation&nbsp;&quot;Rick and Morty.&quot; This strain was created by crossing Girl Scout Cookies and Stardawg, and it emits a pleasant and rich smell of coffee and cacao. Its earthy terpene profile offers sweet aromas alongside a sharp, acrid undertone that gives the strain uniqueness and dimension. Scroopy Noopers&rsquo; deeply relaxing effects make it well-suited for consumers seeking to combat muscle spasms, pain, and general restlessness.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Euphoric",
+            "score": 50
+        },
+        {
+            "name": "Hungry",
+            "score": 50
+        },
+        {
+            "name": "Relaxed",
+            "score": 50
+        }
+    ],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1513434,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "good high. great for chilling on your day off and watching some TV",
+            "username": "apace8806"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png",
+            "id": 1572848,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Loving it, the earthy, piney, slightly coffee/cacao taste makes the first draw taste amazing with very neat exhale flavors. I actually use this one during the day/later day since it can be a nice level of relaxing/pain relief/but without the overly tiredness. Just don't smoke to to much or it will turn slightly more sedative(i find that with any strain really tho)",
+            "username": "SpaceXDandy"
+        }
+    ],
+    "id": 500725,
+    "name": "Scroopy Noopers",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 50
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/girl-scout-cookie",
+            "category": "Hybrid",
+            "name": "GSC",
+            "permalink": "https://mobileapi.leafly.com/hybrid/girl-scout-cookie",
+            "slug": "girl-scout-cookie",
+            "subtitle": null,
+            "symbol": "Gsc"
+        },
+        {
+            "applink": "leafly://strain/stardawg",
+            "category": "Hybrid",
+            "name": "Stardawg",
+            "permalink": "https://mobileapi.leafly.com/hybrid/stardawg",
+            "slug": "stardawg",
+            "subtitle": null,
+            "symbol": "Sta"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/scroopy-noopers",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Denver, CO",
+        "Louisville, CO"
+    ],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 2,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "scroopy-noopers",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Scn",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 50
+        },
+        {
+            "name": "Muscle Spasms",
+            "score": 50
+        },
+        {
+            "name": "Nausea",
+            "score": 50
+        },
+        {
+            "name": "Pain",
+            "score": 50
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

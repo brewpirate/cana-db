@@ -1,1 +1,149 @@
-{"sl_translate":"description,descriptionPlain,category","id":500193,"slug":"toxic","name":"Toxic","subtitle":null,"symbol":"Txc","category":"Hybrid","description":"\u003cp\u003eToxic is a strain created from two of Ripper Seeds\u0026rsquo; most award-winning strains, Ripper Haze x Criminal. This combination bends supplementary parts of the \u003ca href=\"https://www.leafly.com/sativa/haze\"\u003eHaze\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/indica/critical-mass\"\u003eCritical Mass\u003c/a\u003e lineages to fashion a potent and dense flower with natural resistance to pests and mold. These natural resistances alongside the 60-65 day flowering time make Toxic an ideal strain for outdoor growers. Its abundance of \u003ca href=\"https://www.leafly.com/news/cannabis-101/what-are-trichomes-on-cannabis\"\u003etrichomes\u003c/a\u003e and overall resin production also make it a perfect strain for extraction. Toxic won 1st Prize Resins at the 2016 Expogrow Cup in Spain.\u0026nbsp; \u0026nbsp;\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Toxic is a strain created from two of Ripper Seeds\u0026rsquo; most award-winning strains, Ripper Haze x Criminal. This combination bends supplementary parts of the Haze and Critical Mass lineages to fashion a potent and dense flower with natural resistance to pests and mold. These natural resistances alongside the 60-65 day flowering time make Toxic an ideal strain for outdoor growers. Its abundance of trichomes and overall resin production also make it a perfect strain for extraction. Toxic won 1st Prize Resins at the 2016 Expogrow Cup in Spain.\u0026nbsp; \u0026nbsp;\u0026nbsp;\n","aka":null,"rating":4.75,"highlightedReviews":[{"id":1509811,"username":"Mahdely","text":"I\u0027m surprised there isn\u0027t many reviews about this insane strain. It\u0027s a powerful strain hits the spot big time man. If you\u0027re a stoner and you don\u0027t get high no matter how you much you smoke. Smoke a J of this shit and then we will talk. Perfect shit 👌🏼👌🏼👌🏼👌🏼💯💯💯💯 ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"},{"id":1554555,"username":"xXKatXx","text":"First time I had it was from a medical dispensery in California you can bet I was on my ass on another level couldn\u0027t be bothered to move and felt so relaxed.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/YEN1LqXiYCOvWiFhmP-4p67iqDM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fY9fB9qHySLml8016ysgJ_goggles-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":4,"flavors":[{"name":"Flowery","score":10},{"name":"Earthy","score":10},{"name":"Pungent","score":10},{"name":"Skunk","score":10}],"effects":[{"name":"Sleepy","score":130},{"name":"Relaxed","score":120},{"name":"Euphoric","score":110},{"name":"Focused","score":20},{"name":"Happy","score":20}],"symptoms":[{"name":"Fatigue","score":110},{"name":"Spasticity","score":100},{"name":"Insomnia","score":20},{"name":"Stress","score":20},{"name":"Depression","score":10}],"conditions":[{"name":"Anxiety","score":120},{"name":"ADD/ADHD","score":110},{"name":"Epilepsy","score":100},{"name":"Bipolar Disorder","score":100},{"name":"Anorexia","score":10}],"negatives":[{"name":"Dry Mouth","score":20},{"name":"Dizzy","score":10}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Denver, CO"],"permalink":"https://mobileapi.leafly.com/hybrid/toxic","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.75/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":65,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 120
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 110
+        },
+        {
+            "name": "Epilepsy",
+            "score": 100
+        },
+        {
+            "name": "Bipolar Disorder",
+            "score": 100
+        },
+        {
+            "name": "Anorexia",
+            "score": 10
+        }
+    ],
+    "description": "<p>Toxic is a strain created from two of Ripper Seeds&rsquo; most award-winning strains, Ripper Haze x Criminal. This combination bends supplementary parts of the <a href=\"https://www.leafly.com/sativa/haze\">Haze</a> and <a href=\"https://www.leafly.com/indica/critical-mass\">Critical Mass</a> lineages to fashion a potent and dense flower with natural resistance to pests and mold. These natural resistances alongside the 60-65 day flowering time make Toxic an ideal strain for outdoor growers. Its abundance of <a href=\"https://www.leafly.com/news/cannabis-101/what-are-trichomes-on-cannabis\">trichomes</a> and overall resin production also make it a perfect strain for extraction. Toxic won 1st Prize Resins at the 2016 Expogrow Cup in Spain.&nbsp; &nbsp;&nbsp;</p>\n",
+    "descriptionPlain": "Toxic is a strain created from two of Ripper Seeds&rsquo; most award-winning strains, Ripper Haze x Criminal. This combination bends supplementary parts of the Haze and Critical Mass lineages to fashion a potent and dense flower with natural resistance to pests and mold. These natural resistances alongside the 60-65 day flowering time make Toxic an ideal strain for outdoor growers. Its abundance of trichomes and overall resin production also make it a perfect strain for extraction. Toxic won 1st Prize Resins at the 2016 Expogrow Cup in Spain.&nbsp; &nbsp;&nbsp;\n",
+    "effects": [
+        {
+            "name": "Sleepy",
+            "score": 130
+        },
+        {
+            "name": "Relaxed",
+            "score": 120
+        },
+        {
+            "name": "Euphoric",
+            "score": 110
+        },
+        {
+            "name": "Focused",
+            "score": 20
+        },
+        {
+            "name": "Happy",
+            "score": 20
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Flowery",
+            "score": 10
+        },
+        {
+            "name": "Earthy",
+            "score": 10
+        },
+        {
+            "name": "Pungent",
+            "score": 10
+        },
+        {
+            "name": "Skunk",
+            "score": 10
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 65,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1509811,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "I'm surprised there isn't many reviews about this insane strain. It's a powerful strain hits the spot big time man. If you're a stoner and you don't get high no matter how you much you smoke. Smoke a J of this shit and then we will talk. Perfect shit \ud83d\udc4c\ud83c\udffc\ud83d\udc4c\ud83c\udffc\ud83d\udc4c\ud83c\udffc\ud83d\udc4c\ud83c\udffc\ud83d\udcaf\ud83d\udcaf\ud83d\udcaf\ud83d\udcaf ",
+            "username": "Mahdely"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/YEN1LqXiYCOvWiFhmP-4p67iqDM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fY9fB9qHySLml8016ysgJ_goggles-green.png",
+            "id": 1554555,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "First time I had it was from a medical dispensery in California you can bet I was on my ass on another level couldn't be bothered to move and felt so relaxed.",
+            "username": "xXKatXx"
+        }
+    ],
+    "id": 500193,
+    "name": "Toxic",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 20
+        },
+        {
+            "name": "Dizzy",
+            "score": 10
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/hybrid/toxic",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Denver, CO"
+    ],
+    "rating": 4.75,
+    "relatedStrains": [],
+    "reviewCount": 4,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "toxic",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.75/240",
+    "subtitle": null,
+    "symbol": "Txc",
+    "symptoms": [
+        {
+            "name": "Fatigue",
+            "score": 110
+        },
+        {
+            "name": "Spasticity",
+            "score": 100
+        },
+        {
+            "name": "Insomnia",
+            "score": 20
+        },
+        {
+            "name": "Stress",
+            "score": 20
+        },
+        {
+            "name": "Depression",
+            "score": 10
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

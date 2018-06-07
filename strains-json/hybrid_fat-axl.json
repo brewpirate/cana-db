@@ -1,1 +1,130 @@
-{"sl_translate":"description,descriptionPlain,category","id":243695,"slug":"fat-axl","name":"Fat Axl","subtitle":null,"symbol":"Faa","category":"Hybrid","description":"\u003cp\u003eFat Axl is a laugh-out-loud homage to the Fat Axl Rose meme circulating the internet. This genetic cross started out as an experiment and joke, but after witnessing the strain\u0026rsquo;s phenomenal yield and potency, Fat Axl earned a place in the Pua Mana \u0026lsquo;Ohana catalog. Developed by genetic specialist, Masta Cylinda, Fat Axl is an indica-dominant hybrid that stimulates appetite, relaxes limbs, and ignites the mind, offering effects that liberate the consumer from stress and physical discomfort.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Fat Axl is a laugh-out-loud homage to the Fat Axl Rose meme circulating the internet. This genetic cross started out as an experiment and joke, but after witnessing the strain\u0026rsquo;s phenomenal yield and potency, Fat Axl earned a place in the Pua Mana \u0026lsquo;Ohana catalog. Developed by genetic specialist, Masta Cylinda, Fat Axl is an indica-dominant hybrid that stimulates appetite, relaxes limbs, and ignites the mind, offering effects that liberate the consumer from stress and physical discomfort.\u0026nbsp;\n","aka":null,"rating":4.33,"highlightedReviews":[{"id":1330788,"username":"PuaManaPakalolo","text":"The Hog (Fat Axl rose) x AK-47 (Gun\u0027s and Rose\u0027s) = Fat Axl ;-)","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png"},{"id":1343448,"username":"kaleb4327","text":"I found the high always sneaking up on me. tastes pretty earthy. not the strongest indica i\u0027ve ever smoked but fat axl will defiantly make yours eyes feel fat and heavy. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/3/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":3,"flavors":[{"name":"Diesel","score":8.3333333333333321},{"name":"Earthy","score":8.3333333333333321},{"name":"Skunk","score":8.3333333333333321}],"effects":[{"name":"Talkative","score":25},{"name":"Uplifted","score":16.666666666666664},{"name":"Creative","score":16.666666666666664},{"name":"Happy","score":16.666666666666664},{"name":"Energetic","score":8.3333333333333321}],"symptoms":[{"name":"Depression","score":8.3333333333333321},{"name":"Fatigue","score":8.3333333333333321},{"name":"Headaches","score":8.3333333333333321},{"name":"Insomnia","score":8.3333333333333321},{"name":"Pain","score":8.3333333333333321}],"conditions":[{"name":"Anxiety","score":8.3333333333333321},{"name":"PTSD","score":8.3333333333333321},{"name":"Spinal Cord Injury","score":8.3333333333333321},{"name":"Tourette\u0027s Syndrome","score":8.3333333333333321}],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/fat-axl","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.33333333333333/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "PTSD",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Spinal Cord Injury",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Tourette's Syndrome",
+            "score": 8.333333333333332
+        }
+    ],
+    "description": "<p>Fat Axl is a laugh-out-loud homage to the Fat Axl Rose meme circulating the internet. This genetic cross started out as an experiment and joke, but after witnessing the strain&rsquo;s phenomenal yield and potency, Fat Axl earned a place in the Pua Mana &lsquo;Ohana catalog. Developed by genetic specialist, Masta Cylinda, Fat Axl is an indica-dominant hybrid that stimulates appetite, relaxes limbs, and ignites the mind, offering effects that liberate the consumer from stress and physical discomfort.&nbsp;</p>\n",
+    "descriptionPlain": "Fat Axl is a laugh-out-loud homage to the Fat Axl Rose meme circulating the internet. This genetic cross started out as an experiment and joke, but after witnessing the strain&rsquo;s phenomenal yield and potency, Fat Axl earned a place in the Pua Mana &lsquo;Ohana catalog. Developed by genetic specialist, Masta Cylinda, Fat Axl is an indica-dominant hybrid that stimulates appetite, relaxes limbs, and ignites the mind, offering effects that liberate the consumer from stress and physical discomfort.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Talkative",
+            "score": 25
+        },
+        {
+            "name": "Uplifted",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Creative",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Happy",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Energetic",
+            "score": 8.333333333333332
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Diesel",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Earthy",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Skunk",
+            "score": 8.333333333333332
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png",
+            "id": 1330788,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "The Hog (Fat Axl rose) x AK-47 (Gun's and Rose's) = Fat Axl ;-)",
+            "username": "PuaManaPakalolo"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png",
+            "id": 1343448,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/3/240",
+            "text": "I found the high always sneaking up on me. tastes pretty earthy. not the strongest indica i've ever smoked but fat axl will defiantly make yours eyes feel fat and heavy. ",
+            "username": "kaleb4327"
+        }
+    ],
+    "id": 243695,
+    "name": "Fat Axl",
+    "negatives": [],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/hybrid/fat-axl",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 4.33,
+    "relatedStrains": [],
+    "reviewCount": 3,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "fat-axl",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.33333333333333/240",
+    "subtitle": null,
+    "symbol": "Faa",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Fatigue",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Headaches",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Insomnia",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Pain",
+            "score": 8.333333333333332
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

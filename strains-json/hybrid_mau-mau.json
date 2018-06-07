@@ -1,1 +1,135 @@
-{"sl_translate":"description,descriptionPlain,category","id":131055,"slug":"mau-mau","name":"Mau-Mau","subtitle":null,"symbol":"Mm","category":"Hybrid","description":"\u003cp\u003eMau-Mau is a \u003ca href=\"http://www.leafly.com/hybrid\"\u003ehybrid\u003c/a\u003e from Irie Vibe Seeds that crosses an \u003ca href=\"http://www.leafly.com/indica\"\u003eindica\u003c/a\u003e-dominant \u003ca href=\"http://www.leafly.com/hybrid/blockhead\"\u003eBlockhead\u003c/a\u003e female with a \u003ca href=\"http://www.leafly.com/hybrid/killer-queen\"\u003eKiller Queen\u003c/a\u003e male. The strain was named as a tribute to a street artist from the UK with the same name, and after experiencing the buds himself, Mau-Mau decided to design the original packaging for the seeds. This hybrid is sturdy and easy to grow, finishing in 8 to 9 weeks.\u003c/p\u003e\n","descriptionPlain":"Mau-Mau is a hybrid from Irie Vibe Seeds that crosses an indica-dominant Blockhead female with a Killer Queen male. The strain was named as a tribute to a street artist from the UK with the same name, and after experiencing the buds himself, Mau-Mau decided to design the original packaging for the seeds. This hybrid is sturdy and easy to grow, finishing in 8 to 9 weeks.\n","aka":null,"rating":4,"highlightedReviews":[{"id":1272991,"username":"jeffman","text":"nice and uplifting herb, tested with a GC @ 16.4% THC \u0026 0.5%CBD","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"},{"id":1272991,"username":"jeffman","text":"nice and uplifting herb, tested with a GC @ 16.4% THC \u0026 0.5%CBD","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":3,"flavors":[],"effects":[{"name":"Uplifted","score":16.666666666666664},{"name":"Happy","score":16.666666666666664},{"name":"Creative","score":8.3333333333333321},{"name":"Energetic","score":8.3333333333333321},{"name":"Euphoric","score":8.3333333333333321}],"symptoms":[{"name":"Fatigue","score":8.3333333333333321},{"name":"Insomnia","score":8.3333333333333321},{"name":"Muscle Spasms","score":8.3333333333333321},{"name":"Nausea","score":8.3333333333333321},{"name":"Stress","score":8.3333333333333321}],"conditions":[{"name":"Anxiety","score":8.3333333333333321}],"negatives":[{"name":"Dry Mouth","score":16.666666666666664}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/mau-mau_100x100_9a14.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/51764/b/mau-mau_825x550_984f.jpg"}],"photoTotalCount":1,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/mau-mau","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Blockhead","subtitle":null,"slug":"blockhead","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/blockhead","symbol":"Blc","applink":"leafly://strain/blockhead"},{"name":"Killer Queen","subtitle":null,"slug":"killer-queen","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/killer-queen","symbol":"Kq","applink":"leafly://strain/killer-queen"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":"\n\t8-9 weeks flowering\n\n"}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 8.333333333333332
+        }
+    ],
+    "description": "<p>Mau-Mau is a <a href=\"http://www.leafly.com/hybrid\">hybrid</a> from Irie Vibe Seeds that crosses an <a href=\"http://www.leafly.com/indica\">indica</a>-dominant <a href=\"http://www.leafly.com/hybrid/blockhead\">Blockhead</a> female with a <a href=\"http://www.leafly.com/hybrid/killer-queen\">Killer Queen</a> male. The strain was named as a tribute to a street artist from the UK with the same name, and after experiencing the buds himself, Mau-Mau decided to design the original packaging for the seeds. This hybrid is sturdy and easy to grow, finishing in 8 to 9 weeks.</p>\n",
+    "descriptionPlain": "Mau-Mau is a hybrid from Irie Vibe Seeds that crosses an indica-dominant Blockhead female with a Killer Queen male. The strain was named as a tribute to a street artist from the UK with the same name, and after experiencing the buds himself, Mau-Mau decided to design the original packaging for the seeds. This hybrid is sturdy and easy to grow, finishing in 8 to 9 weeks.\n",
+    "effects": [
+        {
+            "name": "Uplifted",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Happy",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Creative",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Energetic",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Euphoric",
+            "score": 8.333333333333332
+        }
+    ],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "\n\t8-9 weeks flowering\n\n",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1272991,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "nice and uplifting herb, tested with a GC @ 16.4% THC & 0.5%CBD",
+            "username": "jeffman"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1272991,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "nice and uplifting herb, tested with a GC @ 16.4% THC & 0.5%CBD",
+            "username": "jeffman"
+        }
+    ],
+    "id": 131055,
+    "name": "Mau-Mau",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 16.666666666666664
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/blockhead",
+            "category": "Hybrid",
+            "name": "Blockhead",
+            "permalink": "https://mobileapi.leafly.com/hybrid/blockhead",
+            "slug": "blockhead",
+            "subtitle": null,
+            "symbol": "Blc"
+        },
+        {
+            "applink": "leafly://strain/killer-queen",
+            "category": "Hybrid",
+            "name": "Killer Queen",
+            "permalink": "https://mobileapi.leafly.com/hybrid/killer-queen",
+            "slug": "killer-queen",
+            "subtitle": null,
+            "symbol": "Kq"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/mau-mau",
+    "photoTotalCount": 1,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/51764/b/mau-mau_825x550_984f.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/mau-mau_100x100_9a14.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [],
+    "rating": 4,
+    "relatedStrains": [],
+    "reviewCount": 3,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "mau-mau",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+    "subtitle": null,
+    "symbol": "Mm",
+    "symptoms": [
+        {
+            "name": "Fatigue",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Insomnia",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Muscle Spasms",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Nausea",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Stress",
+            "score": 8.333333333333332
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

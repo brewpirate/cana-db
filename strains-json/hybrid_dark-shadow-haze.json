@@ -1,1 +1,163 @@
-{"sl_translate":"description,descriptionPlain,category","id":501557,"slug":"dark-shadow-haze","name":"Dark Shadow Haze","subtitle":null,"symbol":"Dah","category":"Hybrid","description":"\u003cp\u003eCreated by Rare Dankness, Dark Shadow Haze is an introspective strain that combines the fruity, sedative attributes of \u003ca href=\"https://www.leafly.com/indica/grape-ape\"\u003eGrape Ape\u003c/a\u003e with \u003ca href=\"https://www.leafly.com/sativa/nevils-wreck\"\u003eNevil\u0026rsquo;s Wreck\u003c/a\u003e (Arcata Trainwreck x \u003ca href=\"https://www.leafly.com/sativa/nevilles-haze\"\u003eNeville\u0026rsquo;s Haze\u003c/a\u003e). This strain\u0026rsquo;s thought-provoking cerebral high and calming physical sensations cement the consumer in place, creating a deeply contemplative mental state. Dark Shadow Haze also offers the tasty flavors and aromas of sugar-coated grapes and berries with an earthy undertone.\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Created by Rare Dankness, Dark Shadow Haze is an introspective strain that combines the fruity, sedative attributes of Grape Ape with Nevil\u0026rsquo;s Wreck (Arcata Trainwreck x Neville\u0026rsquo;s Haze). This strain\u0026rsquo;s thought-provoking cerebral high and calming physical sensations cement the consumer in place, creating a deeply contemplative mental state. Dark Shadow Haze also offers the tasty flavors and aromas of sugar-coated grapes and berries with an earthy undertone.\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\n","aka":null,"rating":5,"highlightedReviews":[{"id":1590262,"username":"Smokinsince95","text":"This is a pheno-menal strain to grow... with the indica leaning Grape Ape and Sativa Wreck I have had some amazing grows leaning both ways! But the taste and small are dank, hints of that classic purple flavor with earthy limes and citrus tones!! I am excited to try the dark ghost train which is Grape Ape and Ghost train... no still keeping the wreck aspect! You can\u0027t go wrong here!! Melts physical pain yet stimulates focus for me. Mmm.. mmmmm...Delicious!","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"},{"id":1622266,"username":"MrRonngren","text":"Let\u0027s play a game?","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":3,"flavors":[{"name":"Sweet","score":50},{"name":"Earthy","score":50},{"name":"Diesel","score":25},{"name":"Berry","score":25},{"name":"Blueberry","score":25}],"effects":[{"name":"Euphoric","score":100},{"name":"Relaxed","score":75},{"name":"Focused","score":50},{"name":"Giggly","score":50},{"name":"Aroused","score":25}],"symptoms":[{"name":"Fatigue","score":25},{"name":"Lack of Appetite","score":25},{"name":"Pain","score":25},{"name":"Stress","score":25}],"conditions":[],"negatives":[{"name":"Dizzy","score":75},{"name":"Dry Mouth","score":50},{"name":"Dry Eyes","score":25},{"name":"Headache","score":25},{"name":"Paranoid","score":25}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Seattle, WA","Kirkland, WA","Mukilteo, WA","Portland, OR","Vancouver, WA"],"permalink":"https://mobileapi.leafly.com/hybrid/dark-shadow-haze","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Grape Ape","subtitle":null,"slug":"grape-ape","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/grape-ape","symbol":"Ga","applink":"leafly://strain/grape-ape"},{"name":"Nevil\u0027s Wreck","subtitle":null,"slug":"nevils-wreck","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/nevils-wreck","symbol":"Nw","applink":"leafly://strain/nevils-wreck"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [],
+    "description": "<p>Created by Rare Dankness, Dark Shadow Haze is an introspective strain that combines the fruity, sedative attributes of <a href=\"https://www.leafly.com/indica/grape-ape\">Grape Ape</a> with <a href=\"https://www.leafly.com/sativa/nevils-wreck\">Nevil&rsquo;s Wreck</a> (Arcata Trainwreck x <a href=\"https://www.leafly.com/sativa/nevilles-haze\">Neville&rsquo;s Haze</a>). This strain&rsquo;s thought-provoking cerebral high and calming physical sensations cement the consumer in place, creating a deeply contemplative mental state. Dark Shadow Haze also offers the tasty flavors and aromas of sugar-coated grapes and berries with an earthy undertone.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n",
+    "descriptionPlain": "Created by Rare Dankness, Dark Shadow Haze is an introspective strain that combines the fruity, sedative attributes of Grape Ape with Nevil&rsquo;s Wreck (Arcata Trainwreck x Neville&rsquo;s Haze). This strain&rsquo;s thought-provoking cerebral high and calming physical sensations cement the consumer in place, creating a deeply contemplative mental state. Dark Shadow Haze also offers the tasty flavors and aromas of sugar-coated grapes and berries with an earthy undertone.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n",
+    "effects": [
+        {
+            "name": "Euphoric",
+            "score": 100
+        },
+        {
+            "name": "Relaxed",
+            "score": 75
+        },
+        {
+            "name": "Focused",
+            "score": 50
+        },
+        {
+            "name": "Giggly",
+            "score": 50
+        },
+        {
+            "name": "Aroused",
+            "score": 25
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Sweet",
+            "score": 50
+        },
+        {
+            "name": "Earthy",
+            "score": 50
+        },
+        {
+            "name": "Diesel",
+            "score": 25
+        },
+        {
+            "name": "Berry",
+            "score": 25
+        },
+        {
+            "name": "Blueberry",
+            "score": 25
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1590262,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "This is a pheno-menal strain to grow... with the indica leaning Grape Ape and Sativa Wreck I have had some amazing grows leaning both ways! But the taste and small are dank, hints of that classic purple flavor with earthy limes and citrus tones!! I am excited to try the dark ghost train which is Grape Ape and Ghost train... no still keeping the wreck aspect! You can't go wrong here!! Melts physical pain yet stimulates focus for me. Mmm.. mmmmm...Delicious!",
+            "username": "Smokinsince95"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png",
+            "id": 1622266,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Let's play a game?",
+            "username": "MrRonngren"
+        }
+    ],
+    "id": 501557,
+    "name": "Dark Shadow Haze",
+    "negatives": [
+        {
+            "name": "Dizzy",
+            "score": 75
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 50
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 25
+        },
+        {
+            "name": "Headache",
+            "score": 25
+        },
+        {
+            "name": "Paranoid",
+            "score": 25
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/grape-ape",
+            "category": "Indica",
+            "name": "Grape Ape",
+            "permalink": "https://mobileapi.leafly.com/indica/grape-ape",
+            "slug": "grape-ape",
+            "subtitle": null,
+            "symbol": "Ga"
+        },
+        {
+            "applink": "leafly://strain/nevils-wreck",
+            "category": "Sativa",
+            "name": "Nevil's Wreck",
+            "permalink": "https://mobileapi.leafly.com/sativa/nevils-wreck",
+            "slug": "nevils-wreck",
+            "subtitle": null,
+            "symbol": "Nw"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/dark-shadow-haze",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Seattle, WA",
+        "Kirkland, WA",
+        "Mukilteo, WA",
+        "Portland, OR",
+        "Vancouver, WA"
+    ],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 3,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "dark-shadow-haze",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Dah",
+    "symptoms": [
+        {
+            "name": "Fatigue",
+            "score": 25
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 25
+        },
+        {
+            "name": "Pain",
+            "score": 25
+        },
+        {
+            "name": "Stress",
+            "score": 25
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

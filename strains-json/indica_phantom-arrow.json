@@ -1,1 +1,170 @@
-{"sl_translate":"description,descriptionPlain,category","id":279856,"slug":"phantom-arrow","name":"Phantom Arrow","subtitle":null,"symbol":"Phr","category":"Indica","description":"\u003cp\u003ePhantom Arrow by Cereal Killer Genetics is another smelly treat from Shaman Stinky Steve. This indica-dominant cross of \u003ca href=\"https://www.leafly.com/hybrid/purple-arrow\"\u003ePurple Arrow\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/indica/pink-champagne\"\u003ePhantom Kush\u003c/a\u003e is a powerful medicine for consumers suffering from anxiety, migraines, and chronic pain. Phantom Arrow\u0026rsquo;s stoney body effects settle behind the eyes and the forehead while seeping into the extremities as a subtle, calming warmth. The bouquet is a delicate arrangement of champagne, eucalyptus, cherry, and floral undertones that coat the palate on the exhale.\u003c/p\u003e\n","descriptionPlain":"Phantom Arrow by Cereal Killer Genetics is another smelly treat from Shaman Stinky Steve. This indica-dominant cross of Purple Arrow and Phantom Kush is a powerful medicine for consumers suffering from anxiety, migraines, and chronic pain. Phantom Arrow\u0026rsquo;s stoney body effects settle behind the eyes and the forehead while seeping into the extremities as a subtle, calming warmth. The bouquet is a delicate arrangement of champagne, eucalyptus, cherry, and floral undertones that coat the palate on the exhale.\n","aka":"Pharaoh Kush","rating":5,"highlightedReviews":[{"id":1374996,"username":"Adawg22","text":"great pain reliever,unique taste.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"},{"id":1379446,"username":"b0bth3tomato","text":"this is my favorite strain for pain relief it will help with any kind of pain but it duss  best with back pain.......... it just duss amazing things in what is the only with a higher power ................. it is just amazing in so mine ways . ........ thanks to the man up upstairs for bringing this one around","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":2,"flavors":[{"name":"Tree Fruit","score":50},{"name":"Menthol","score":37.5},{"name":"Mint","score":37.5},{"name":"Flowery","score":37.5},{"name":"Earthy","score":37.5}],"effects":[{"name":"Happy","score":50},{"name":"Relaxed","score":50},{"name":"Tingly","score":37.5},{"name":"Euphoric","score":37.5},{"name":"Focused","score":37.5}],"symptoms":[{"name":"Headaches","score":50},{"name":"Inflammation","score":50},{"name":"Pain","score":50},{"name":"Stress","score":50},{"name":"Fatigue","score":37.5}],"conditions":[{"name":"Arthritis","score":37.5},{"name":"Migraines","score":37.5},{"name":"Spinal Cord Injury","score":37.5},{"name":"Anxiety","score":25},{"name":"Asthma","score":25}],"negatives":[{"name":"Dry Mouth","score":25},{"name":"Headache","score":12.5}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/indica/phantom-arrow","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Purple Arrow","subtitle":null,"slug":"purple-arrow","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/purple-arrow","symbol":"Pa","applink":"leafly://strain/purple-arrow"},{"name":"Pink Champagne","subtitle":null,"slug":"pink-champagne","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/pink-champagne","symbol":"Pkc","applink":"leafly://strain/pink-champagne"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": "Pharaoh Kush",
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Arthritis",
+            "score": 37.5
+        },
+        {
+            "name": "Migraines",
+            "score": 37.5
+        },
+        {
+            "name": "Spinal Cord Injury",
+            "score": 37.5
+        },
+        {
+            "name": "Anxiety",
+            "score": 25
+        },
+        {
+            "name": "Asthma",
+            "score": 25
+        }
+    ],
+    "description": "<p>Phantom Arrow by Cereal Killer Genetics is another smelly treat from Shaman Stinky Steve. This indica-dominant cross of <a href=\"https://www.leafly.com/hybrid/purple-arrow\">Purple Arrow</a> and <a href=\"https://www.leafly.com/indica/pink-champagne\">Phantom Kush</a> is a powerful medicine for consumers suffering from anxiety, migraines, and chronic pain. Phantom Arrow&rsquo;s stoney body effects settle behind the eyes and the forehead while seeping into the extremities as a subtle, calming warmth. The bouquet is a delicate arrangement of champagne, eucalyptus, cherry, and floral undertones that coat the palate on the exhale.</p>\n",
+    "descriptionPlain": "Phantom Arrow by Cereal Killer Genetics is another smelly treat from Shaman Stinky Steve. This indica-dominant cross of Purple Arrow and Phantom Kush is a powerful medicine for consumers suffering from anxiety, migraines, and chronic pain. Phantom Arrow&rsquo;s stoney body effects settle behind the eyes and the forehead while seeping into the extremities as a subtle, calming warmth. The bouquet is a delicate arrangement of champagne, eucalyptus, cherry, and floral undertones that coat the palate on the exhale.\n",
+    "effects": [
+        {
+            "name": "Happy",
+            "score": 50
+        },
+        {
+            "name": "Relaxed",
+            "score": 50
+        },
+        {
+            "name": "Tingly",
+            "score": 37.5
+        },
+        {
+            "name": "Euphoric",
+            "score": 37.5
+        },
+        {
+            "name": "Focused",
+            "score": 37.5
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Tree Fruit",
+            "score": 50
+        },
+        {
+            "name": "Menthol",
+            "score": 37.5
+        },
+        {
+            "name": "Mint",
+            "score": 37.5
+        },
+        {
+            "name": "Flowery",
+            "score": 37.5
+        },
+        {
+            "name": "Earthy",
+            "score": 37.5
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1374996,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "great pain reliever,unique taste.",
+            "username": "Adawg22"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png",
+            "id": 1379446,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "this is my favorite strain for pain relief it will help with any kind of pain but it duss  best with back pain.......... it just duss amazing things in what is the only with a higher power ................. it is just amazing in so mine ways . ........ thanks to the man up upstairs for bringing this one around",
+            "username": "b0bth3tomato"
+        }
+    ],
+    "id": 279856,
+    "name": "Phantom Arrow",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 25
+        },
+        {
+            "name": "Headache",
+            "score": 12.5
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/purple-arrow",
+            "category": "Hybrid",
+            "name": "Purple Arrow",
+            "permalink": "https://mobileapi.leafly.com/hybrid/purple-arrow",
+            "slug": "purple-arrow",
+            "subtitle": null,
+            "symbol": "Pa"
+        },
+        {
+            "applink": "leafly://strain/pink-champagne",
+            "category": "Indica",
+            "name": "Pink Champagne",
+            "permalink": "https://mobileapi.leafly.com/indica/pink-champagne",
+            "slug": "pink-champagne",
+            "subtitle": null,
+            "symbol": "Pkc"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/phantom-arrow",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 2,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "phantom-arrow",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Phr",
+    "symptoms": [
+        {
+            "name": "Headaches",
+            "score": 50
+        },
+        {
+            "name": "Inflammation",
+            "score": 50
+        },
+        {
+            "name": "Pain",
+            "score": 50
+        },
+        {
+            "name": "Stress",
+            "score": 50
+        },
+        {
+            "name": "Fatigue",
+            "score": 37.5
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

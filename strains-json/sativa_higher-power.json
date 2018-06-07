@@ -1,1 +1,161 @@
-{"sl_translate":"description,descriptionPlain,category","id":226352,"slug":"higher-power","name":"Higher Power","subtitle":null,"symbol":"Hpw","category":"Sativa","description":"\u003cp\u003eHigher Power is a cross between the hybrid strain Geezus and the sativa African Queen bred by Wild Oregon Weed. \u0026nbsp;It has a delicious odor akin to grape Froot Loops and has been measured at 24% THC. \u0026nbsp;This sativa\u0026nbsp;offers a truly stimulating high that will leave you energized and bursting with creativity.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Higher Power is a cross between the hybrid strain Geezus and the sativa African Queen bred by Wild Oregon Weed. \u0026nbsp;It has a delicious odor akin to grape Froot Loops and has been measured at 24% THC. \u0026nbsp;This sativa\u0026nbsp;offers a truly stimulating high that will leave you energized and bursting with creativity.\u0026nbsp;\n","aka":null,"rating":4.8,"highlightedReviews":[{"id":1333031,"username":"brosales47","text":"Smoke it!","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png"},{"id":1432293,"username":"stepheneu33","text":"I\u0027ve had alot of GREAT strains but this one had me feeling EXACTLY like I wanted to. 😁 head and body was buzzin and lifted but I still got alot done! high lasted a looong time too. 5 stars. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/8AEOnyObscLzPEdm7ERjYOUx4RU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fP4YFTRznSDCEVP7Fycg7_nerd-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":10,"flavors":[{"name":"Grape","score":12.5},{"name":"Flowery","score":9.375},{"name":"Grapefruit","score":6.25},{"name":"Tree Fruit","score":6.25},{"name":"Sweet","score":3.125}],"effects":[{"name":"Creative","score":25},{"name":"Uplifted","score":21.875},{"name":"Tingly","score":18.75},{"name":"Energetic","score":18.75},{"name":"Aroused","score":15.625}],"symptoms":[{"name":"Depression","score":18.75},{"name":"Lack of Appetite","score":18.75},{"name":"Headaches","score":15.625},{"name":"Insomnia","score":15.625},{"name":"Muscle Spasms","score":15.625}],"conditions":[{"name":"Migraines","score":15.625},{"name":"ADD/ADHD","score":3.125},{"name":"Anorexia","score":3.125},{"name":"Anxiety","score":3.125},{"name":"Bipolar Disorder","score":3.125}],"negatives":[{"name":"Dry Mouth","score":15.625},{"name":"Paranoid","score":12.5},{"name":"Dry Eyes","score":3.125}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/higher-power_100x100_a269.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/506348/b/higher-power__primary_b011.jpg"}],"photoTotalCount":1,"popularCities":[],"permalink":"https://mobileapi.leafly.com/sativa/higher-power","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.8/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Sativa",
+    "conditions": [
+        {
+            "name": "Migraines",
+            "score": 15.625
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 3.125
+        },
+        {
+            "name": "Anorexia",
+            "score": 3.125
+        },
+        {
+            "name": "Anxiety",
+            "score": 3.125
+        },
+        {
+            "name": "Bipolar Disorder",
+            "score": 3.125
+        }
+    ],
+    "description": "<p>Higher Power is a cross between the hybrid strain Geezus and the sativa African Queen bred by Wild Oregon Weed. &nbsp;It has a delicious odor akin to grape Froot Loops and has been measured at 24% THC. &nbsp;This sativa&nbsp;offers a truly stimulating high that will leave you energized and bursting with creativity.&nbsp;</p>\n",
+    "descriptionPlain": "Higher Power is a cross between the hybrid strain Geezus and the sativa African Queen bred by Wild Oregon Weed. &nbsp;It has a delicious odor akin to grape Froot Loops and has been measured at 24% THC. &nbsp;This sativa&nbsp;offers a truly stimulating high that will leave you energized and bursting with creativity.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Creative",
+            "score": 25
+        },
+        {
+            "name": "Uplifted",
+            "score": 21.875
+        },
+        {
+            "name": "Tingly",
+            "score": 18.75
+        },
+        {
+            "name": "Energetic",
+            "score": 18.75
+        },
+        {
+            "name": "Aroused",
+            "score": 15.625
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Grape",
+            "score": 12.5
+        },
+        {
+            "name": "Flowery",
+            "score": 9.375
+        },
+        {
+            "name": "Grapefruit",
+            "score": 6.25
+        },
+        {
+            "name": "Tree Fruit",
+            "score": 6.25
+        },
+        {
+            "name": "Sweet",
+            "score": 3.125
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png",
+            "id": 1333031,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Smoke it!",
+            "username": "brosales47"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/8AEOnyObscLzPEdm7ERjYOUx4RU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fP4YFTRznSDCEVP7Fycg7_nerd-red.png",
+            "id": 1432293,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "I've had alot of GREAT strains but this one had me feeling EXACTLY like I wanted to. \ud83d\ude01 head and body was buzzin and lifted but I still got alot done! high lasted a looong time too. 5 stars. ",
+            "username": "stepheneu33"
+        }
+    ],
+    "id": 226352,
+    "name": "Higher Power",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 15.625
+        },
+        {
+            "name": "Paranoid",
+            "score": 12.5
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 3.125
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/sativa/higher-power",
+    "photoTotalCount": 1,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/506348/b/higher-power__primary_b011.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/higher-power_100x100_a269.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [],
+    "rating": 4.8,
+    "relatedStrains": [],
+    "reviewCount": 10,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "higher-power",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.8/240",
+    "subtitle": null,
+    "symbol": "Hpw",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 18.75
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 18.75
+        },
+        {
+            "name": "Headaches",
+            "score": 15.625
+        },
+        {
+            "name": "Insomnia",
+            "score": 15.625
+        },
+        {
+            "name": "Muscle Spasms",
+            "score": 15.625
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

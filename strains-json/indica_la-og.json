@@ -1,1 +1,210 @@
-{"sl_translate":"description,descriptionPlain,category","id":17151,"slug":"la-og","name":"LA OG","subtitle":null,"symbol":"Lao ","category":"Indica","description":"\u003cp\u003eLA OG is a potent variety of medical cannabis with an earthy taste and a powerful head and body high.\u003c/p\u003e\n","descriptionPlain":"LA OG is a potent variety of medical cannabis with an earthy taste and a powerful head and body high.\n","aka":"l.a. og, l.a. o.g., LA OG Kush","rating":4.44,"highlightedReviews":[{"id":1411023,"username":"stickks","text":"Incredible stuff. Makes my wife so horny, that we ended up having a threesome with another girl!\n","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png"},{"id":1624890,"username":"Don_EL1T3","text":"I got a few grams of shatter of this strain the other day... Honestly have to say it tastes like some lime candy I used to have when I was a kid... Overall it was a nice high, wouldn\u0027t say it was too in your face or anything more mellow than intense... A nice smoke before bed dab a few hits of this and Master OG and I\u0027m relaxed enough to at least lay down to be able to pass out...","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":62,"flavors":[{"name":"Earthy","score":103.35820895522389},{"name":"Sweet","score":102.23880597014926},{"name":"Pine","score":101.11940298507463},{"name":"Lime","score":50},{"name":"Berry","score":6.1194029850746272}],"effects":[{"name":"Relaxed","score":133.58208955223881},{"name":"Euphoric","score":127.46268656716418},{"name":"Sleepy","score":124.4776119402985},{"name":"Hungry","score":57.985074626865668},{"name":"Tingly","score":18.35820895522388}],"symptoms":[{"name":"Pain","score":68.955223880597018},{"name":"Stress","score":60.970149253731343},{"name":"Muscle Spasms","score":57.238805970149251},{"name":"Headaches","score":51.492537313432834},{"name":"Insomnia","score":10.970149253731343}],"conditions":[{"name":"Anxiety","score":11.343283582089551},{"name":"ADD/ADHD","score":2.9850746268656714},{"name":"Arthritis","score":2.6119402985074625},{"name":"Migraines","score":2.2388059701492535},{"name":"PMS","score":1.8656716417910446}],"negatives":[{"name":"Dry Mouth","score":70.223880597014926},{"name":"Paranoid","score":56.119402985074629},{"name":"Anxious","score":55.746268656716417},{"name":"Dizzy","score":11.119402985074627},{"name":"Dry Eyes","score":7.6119402985074629}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(1397952000000)\/","thumb":"https://d3ix816x6wuc0d.cloudfront.net/indica/la-og/primary?width=200","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/indica/la-og/primary?width=1024"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/la-og_100x100_d291.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/500204/b/la-og__primary_0ca6.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/la-og_100x100_f7d8.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/332717/b/la-og__primary_5af5.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/la-og_100x100_2d61.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/300847/b/la-og__primary_55e0.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/la-og_100x100_8adb.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/292593/b/la-og__primary_852e.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/la-og_100x100_5a69.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/248013/b/la-og__primary_8b8f.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/la-og_100x100_ac9d.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/52122/b/la-og_825x550_ff5e.jpg"}],"photoTotalCount":7,"popularCities":["Las Vegas, NV","Pueblo West, CO","Colorado Springs, CO","Denver, CO","Glendale, AZ","Los Angeles, CA","Reno, NV","San Diego, CA","Santa Ana, CA","Spokane, WA"],"permalink":"https://mobileapi.leafly.com/indica/la-og","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.43548387096774/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": "l.a. og, l.a. o.g., LA OG Kush",
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 11.343283582089551
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 2.9850746268656714
+        },
+        {
+            "name": "Arthritis",
+            "score": 2.6119402985074625
+        },
+        {
+            "name": "Migraines",
+            "score": 2.2388059701492535
+        },
+        {
+            "name": "PMS",
+            "score": 1.8656716417910446
+        }
+    ],
+    "description": "<p>LA OG is a potent variety of medical cannabis with an earthy taste and a powerful head and body high.</p>\n",
+    "descriptionPlain": "LA OG is a potent variety of medical cannabis with an earthy taste and a powerful head and body high.\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 133.5820895522388
+        },
+        {
+            "name": "Euphoric",
+            "score": 127.46268656716418
+        },
+        {
+            "name": "Sleepy",
+            "score": 124.4776119402985
+        },
+        {
+            "name": "Hungry",
+            "score": 57.98507462686567
+        },
+        {
+            "name": "Tingly",
+            "score": 18.35820895522388
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Earthy",
+            "score": 103.35820895522389
+        },
+        {
+            "name": "Sweet",
+            "score": 102.23880597014926
+        },
+        {
+            "name": "Pine",
+            "score": 101.11940298507463
+        },
+        {
+            "name": "Lime",
+            "score": 50
+        },
+        {
+            "name": "Berry",
+            "score": 6.119402985074627
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png",
+            "id": 1411023,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Incredible stuff. Makes my wife so horny, that we ended up having a threesome with another girl!\n",
+            "username": "stickks"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1624890,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "I got a few grams of shatter of this strain the other day... Honestly have to say it tastes like some lime candy I used to have when I was a kid... Overall it was a nice high, wouldn't say it was too in your face or anything more mellow than intense... A nice smoke before bed dab a few hits of this and Master OG and I'm relaxed enough to at least lay down to be able to pass out...",
+            "username": "Don_EL1T3"
+        }
+    ],
+    "id": 17151,
+    "name": "LA OG",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 70.22388059701493
+        },
+        {
+            "name": "Paranoid",
+            "score": 56.11940298507463
+        },
+        {
+            "name": "Anxious",
+            "score": 55.74626865671642
+        },
+        {
+            "name": "Dizzy",
+            "score": 11.119402985074627
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 7.611940298507463
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/indica/la-og",
+    "photoTotalCount": 7,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/indica/la-og/primary?width=1024",
+            "thumb": "https://d3ix816x6wuc0d.cloudfront.net/indica/la-og/primary?width=200",
+            "uploaded": "/Date(1397952000000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/500204/b/la-og__primary_0ca6.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/la-og_100x100_d291.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/332717/b/la-og__primary_5af5.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/la-og_100x100_f7d8.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/300847/b/la-og__primary_55e0.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/la-og_100x100_2d61.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/292593/b/la-og__primary_852e.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/la-og_100x100_8adb.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/248013/b/la-og__primary_8b8f.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/la-og_100x100_5a69.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/52122/b/la-og_825x550_ff5e.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/la-og_100x100_ac9d.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Las Vegas, NV",
+        "Pueblo West, CO",
+        "Colorado Springs, CO",
+        "Denver, CO",
+        "Glendale, AZ",
+        "Los Angeles, CA",
+        "Reno, NV",
+        "San Diego, CA",
+        "Santa Ana, CA",
+        "Spokane, WA"
+    ],
+    "rating": 4.44,
+    "relatedStrains": [],
+    "reviewCount": 62,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "la-og",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.43548387096774/240",
+    "subtitle": null,
+    "symbol": "Lao ",
+    "symptoms": [
+        {
+            "name": "Pain",
+            "score": 68.95522388059702
+        },
+        {
+            "name": "Stress",
+            "score": 60.97014925373134
+        },
+        {
+            "name": "Muscle Spasms",
+            "score": 57.23880597014925
+        },
+        {
+            "name": "Headaches",
+            "score": 51.492537313432834
+        },
+        {
+            "name": "Insomnia",
+            "score": 10.970149253731343
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

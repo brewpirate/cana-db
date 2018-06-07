@@ -1,1 +1,187 @@
-{"sl_translate":"description,descriptionPlain,category","id":250256,"slug":"casper-og","name":"Casper OG","subtitle":null,"symbol":"Cpo","category":"Indica","description":"\u003cp\u003eCasper OG is an indica-dominant strain with a unique history. By combining ThaDocta\u0026rsquo;s \u003ca href=\"https://www.leafly.com/indica/face-off-og\"\u003eFace Off OG\u003c/a\u003e and ORGNKID\u0026rsquo;s \u003ca href=\"https://www.leafly.com/hybrid/ghost-og\"\u003eGhost OG\u003c/a\u003e, Casper OG (the friendliest OG you know) was brought into being from the great beyond. Known for its squat plants and nine week grow cycle, Casper OG is an ideal indoor grow. This plant delivers traditional indica effects that mellow the mind and body in small doses, but anchors the consumer to the couch with continued use. The \u003ca href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\"\u003eterpene profile\u003c/a\u003e is rich with OG notes, including earth and delicate citrus. Enjoy Casper OG in the evening to maximize its stress-free relaxation and gradual sedation\u003c/p\u003e\n","descriptionPlain":"Casper OG is an indica-dominant strain with a unique history. By combining ThaDocta\u0026rsquo;s Face Off OG and ORGNKID\u0026rsquo;s Ghost OG, Casper OG (the friendliest OG you know) was brought into being from the great beyond. Known for its squat plants and nine week grow cycle, Casper OG is an ideal indoor grow. This plant delivers traditional indica effects that mellow the mind and body in small doses, but anchors the consumer to the couch with continued use. The terpene profile is rich with OG notes, including earth and delicate citrus. Enjoy Casper OG in the evening to maximize its stress-free relaxation and gradual sedation\n","aka":null,"rating":5,"highlightedReviews":[{"id":1386659,"username":"spacecityliving","text":"My favorite indica by far. I like to compare it to certain spicy foods. The more you eat, the spicier it gets. With this, the high is very immediate and linear with no crazy peaks and dips. That makes it super easy to dose. Smoke a little, and you\u0027re calm/relaxed. Round 2 will have you feeling super euphoric and pain free. Round 3 will put you to bed. I love it. Did wonders for my anxiety, insomnia, back and ankle pain, and mood. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/YEN1LqXiYCOvWiFhmP-4p67iqDM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fY9fB9qHySLml8016ysgJ_goggles-green.png"},{"id":1557365,"username":"lexisr420","text":"good strain💯 👌\nvery relaxing high   ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/XRYqzYK3o4q7eiqa4tRKs0rwo7Q=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fW7fVX5AQLmXra7zAGlYf_wayfarers-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":8,"flavors":[{"name":"Earthy","score":21.969696969696969},{"name":"Pungent","score":17.424242424242422},{"name":"Pine","score":13.257575757575758},{"name":"Woody","score":9.0909090909090917},{"name":"Sweet","score":8.3333333333333321}],"effects":[{"name":"Relaxed","score":35.227272727272727},{"name":"Sleepy","score":22.348484848484851},{"name":"Happy","score":21.969696969696969},{"name":"Uplifted","score":17.045454545454547},{"name":"Euphoric","score":13.257575757575758}],"symptoms":[{"name":"Insomnia","score":17.8030303030303},{"name":"Stress","score":8.712121212121211},{"name":"Lack of Appetite","score":4.5454545454545459},{"name":"Pain","score":4.5454545454545459},{"name":"Seizures","score":4.5454545454545459}],"conditions":[{"name":"Anxiety","score":17.8030303030303},{"name":"PTSD","score":12.878787878787879},{"name":"Spinal Cord Injury","score":9.0909090909090917},{"name":"Arthritis","score":4.5454545454545459},{"name":"Epilepsy","score":4.5454545454545459}],"negatives":[{"name":"Dry Eyes","score":4.5454545454545459},{"name":"Dry Mouth","score":4.5454545454545459}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/casper-og_100x100_384a.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/571791/b/casper-og__primary_500c.jpg"}],"photoTotalCount":1,"popularCities":["Ann Arbor, MI","Farmington Hills, MI","Los Angeles, CA","Oakland, CA","Royal Oak, MI","Santa Ana, CA","Southfield, MI","Troy, MI","Warren, MI","Weed, CA"],"permalink":"https://mobileapi.leafly.com/indica/casper-og","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Face Off OG","subtitle":null,"slug":"face-off-og","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/face-off-og","symbol":"Fac","applink":"leafly://strain/face-off-og"},{"name":"Ghost OG","subtitle":null,"slug":"ghost-og","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/ghost-og","symbol":"Gok","applink":"leafly://strain/ghost-og"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 17.8030303030303
+        },
+        {
+            "name": "PTSD",
+            "score": 12.878787878787879
+        },
+        {
+            "name": "Spinal Cord Injury",
+            "score": 9.090909090909092
+        },
+        {
+            "name": "Arthritis",
+            "score": 4.545454545454546
+        },
+        {
+            "name": "Epilepsy",
+            "score": 4.545454545454546
+        }
+    ],
+    "description": "<p>Casper OG is an indica-dominant strain with a unique history. By combining ThaDocta&rsquo;s <a href=\"https://www.leafly.com/indica/face-off-og\">Face Off OG</a> and ORGNKID&rsquo;s <a href=\"https://www.leafly.com/hybrid/ghost-og\">Ghost OG</a>, Casper OG (the friendliest OG you know) was brought into being from the great beyond. Known for its squat plants and nine week grow cycle, Casper OG is an ideal indoor grow. This plant delivers traditional indica effects that mellow the mind and body in small doses, but anchors the consumer to the couch with continued use. The <a href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\">terpene profile</a> is rich with OG notes, including earth and delicate citrus. Enjoy Casper OG in the evening to maximize its stress-free relaxation and gradual sedation</p>\n",
+    "descriptionPlain": "Casper OG is an indica-dominant strain with a unique history. By combining ThaDocta&rsquo;s Face Off OG and ORGNKID&rsquo;s Ghost OG, Casper OG (the friendliest OG you know) was brought into being from the great beyond. Known for its squat plants and nine week grow cycle, Casper OG is an ideal indoor grow. This plant delivers traditional indica effects that mellow the mind and body in small doses, but anchors the consumer to the couch with continued use. The terpene profile is rich with OG notes, including earth and delicate citrus. Enjoy Casper OG in the evening to maximize its stress-free relaxation and gradual sedation\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 35.22727272727273
+        },
+        {
+            "name": "Sleepy",
+            "score": 22.34848484848485
+        },
+        {
+            "name": "Happy",
+            "score": 21.96969696969697
+        },
+        {
+            "name": "Uplifted",
+            "score": 17.045454545454547
+        },
+        {
+            "name": "Euphoric",
+            "score": 13.257575757575758
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Earthy",
+            "score": 21.96969696969697
+        },
+        {
+            "name": "Pungent",
+            "score": 17.424242424242422
+        },
+        {
+            "name": "Pine",
+            "score": 13.257575757575758
+        },
+        {
+            "name": "Woody",
+            "score": 9.090909090909092
+        },
+        {
+            "name": "Sweet",
+            "score": 8.333333333333332
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/YEN1LqXiYCOvWiFhmP-4p67iqDM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fY9fB9qHySLml8016ysgJ_goggles-green.png",
+            "id": 1386659,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "My favorite indica by far. I like to compare it to certain spicy foods. The more you eat, the spicier it gets. With this, the high is very immediate and linear with no crazy peaks and dips. That makes it super easy to dose. Smoke a little, and you're calm/relaxed. Round 2 will have you feeling super euphoric and pain free. Round 3 will put you to bed. I love it. Did wonders for my anxiety, insomnia, back and ankle pain, and mood. ",
+            "username": "spacecityliving"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/XRYqzYK3o4q7eiqa4tRKs0rwo7Q=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fW7fVX5AQLmXra7zAGlYf_wayfarers-red.png",
+            "id": 1557365,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "good strain\ud83d\udcaf \ud83d\udc4c\nvery relaxing high   ",
+            "username": "lexisr420"
+        }
+    ],
+    "id": 250256,
+    "name": "Casper OG",
+    "negatives": [
+        {
+            "name": "Dry Eyes",
+            "score": 4.545454545454546
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 4.545454545454546
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/face-off-og",
+            "category": "Indica",
+            "name": "Face Off OG",
+            "permalink": "https://mobileapi.leafly.com/indica/face-off-og",
+            "slug": "face-off-og",
+            "subtitle": null,
+            "symbol": "Fac"
+        },
+        {
+            "applink": "leafly://strain/ghost-og",
+            "category": "Hybrid",
+            "name": "Ghost OG",
+            "permalink": "https://mobileapi.leafly.com/hybrid/ghost-og",
+            "slug": "ghost-og",
+            "subtitle": null,
+            "symbol": "Gok"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/casper-og",
+    "photoTotalCount": 1,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/571791/b/casper-og__primary_500c.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/casper-og_100x100_384a.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Ann Arbor, MI",
+        "Farmington Hills, MI",
+        "Los Angeles, CA",
+        "Oakland, CA",
+        "Royal Oak, MI",
+        "Santa Ana, CA",
+        "Southfield, MI",
+        "Troy, MI",
+        "Warren, MI",
+        "Weed, CA"
+    ],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 8,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "casper-og",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Cpo",
+    "symptoms": [
+        {
+            "name": "Insomnia",
+            "score": 17.8030303030303
+        },
+        {
+            "name": "Stress",
+            "score": 8.712121212121211
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 4.545454545454546
+        },
+        {
+            "name": "Pain",
+            "score": 4.545454545454546
+        },
+        {
+            "name": "Seizures",
+            "score": 4.545454545454546
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

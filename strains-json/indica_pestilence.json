@@ -1,1 +1,53 @@
-{"sl_translate":"description,descriptionPlain,category","id":236400,"slug":"pestilence","name":"Pestilence","subtitle":null,"symbol":"Pes","category":"Indica","description":"\u003cp\u003ePestilence, named for one of the Four Horseman of the Apocalypse, is a rare indica-dominant strain with strong OG undertones. Coffee and caramel fill the air when this strain is combusted, but a touch of pungent earth lingers on the exhale to round out this \u003ca href=\"https://www.leafly.com/indica/abusive-og\"\u003eAbusive OG\u003c/a\u003e and West Coast Dawg cross. This strain delivers strong appetite stimulation and traditional semi-sedative OG effects, making it an ideal \u0026lsquo;end of the day\u0026rsquo; variety that can help treat eating disorders, stress, and general restlessness.\u003c/p\u003e\n","descriptionPlain":"Pestilence, named for one of the Four Horseman of the Apocalypse, is a rare indica-dominant strain with strong OG undertones. Coffee and caramel fill the air when this strain is combusted, but a touch of pungent earth lingers on the exhale to round out this Abusive OG and West Coast Dawg cross. This strain delivers strong appetite stimulation and traditional semi-sedative OG effects, making it an ideal \u0026lsquo;end of the day\u0026rsquo; variety that can help treat eating disorders, stress, and general restlessness.\n","aka":null,"rating":0,"highlightedReviews":[],"relatedStrains":[],"articles":[],"reviewCount":0,"flavors":[],"effects":[],"symptoms":[],"conditions":[],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/indica/pestilence","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/0/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Abusive OG","subtitle":null,"slug":"abusive-og","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/abusive-og","symbol":"Abu","applink":"leafly://strain/abusive-og"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [],
+    "description": "<p>Pestilence, named for one of the Four Horseman of the Apocalypse, is a rare indica-dominant strain with strong OG undertones. Coffee and caramel fill the air when this strain is combusted, but a touch of pungent earth lingers on the exhale to round out this <a href=\"https://www.leafly.com/indica/abusive-og\">Abusive OG</a> and West Coast Dawg cross. This strain delivers strong appetite stimulation and traditional semi-sedative OG effects, making it an ideal &lsquo;end of the day&rsquo; variety that can help treat eating disorders, stress, and general restlessness.</p>\n",
+    "descriptionPlain": "Pestilence, named for one of the Four Horseman of the Apocalypse, is a rare indica-dominant strain with strong OG undertones. Coffee and caramel fill the air when this strain is combusted, but a touch of pungent earth lingers on the exhale to round out this Abusive OG and West Coast Dawg cross. This strain delivers strong appetite stimulation and traditional semi-sedative OG effects, making it an ideal &lsquo;end of the day&rsquo; variety that can help treat eating disorders, stress, and general restlessness.\n",
+    "effects": [],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [],
+    "id": 236400,
+    "name": "Pestilence",
+    "negatives": [],
+    "parents": [
+        {
+            "applink": "leafly://strain/abusive-og",
+            "category": "Indica",
+            "name": "Abusive OG",
+            "permalink": "https://mobileapi.leafly.com/indica/abusive-og",
+            "slug": "abusive-og",
+            "subtitle": null,
+            "symbol": "Abu"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/pestilence",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 0,
+    "relatedStrains": [],
+    "reviewCount": 0,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "pestilence",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/0/240",
+    "subtitle": null,
+    "symbol": "Pes",
+    "symptoms": [],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

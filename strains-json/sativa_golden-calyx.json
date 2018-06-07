@@ -1,1 +1,158 @@
-{"sl_translate":"description,descriptionPlain,category","id":500326,"slug":"golden-calyx","name":"Golden Calyx","subtitle":null,"symbol":"Goc","category":"Sativa","description":"\u003cp\u003eGolden Calyx by Calyx Garden in a sativa-dominant cross of a \u003ca href=\"https://www.leafly.com/hybrid/grape-calyx\"\u003eGrape Calyx\u003c/a\u003e\u0026nbsp;father and a \u003ca href=\"https://www.leafly.com/hybrid/golden-goat\"\u003eGolden Goat\u003c/a\u003e mother. The Golden Calyx phenotype was chosen for its unique expression of the best attributes of its parent. This includes a mind-boggling aroma of pi\u0026ntilde;a colada, bubble gum, and lavender alongside uplifting physical effects that help stave off fatigue and nausea. Golden Calyx produces a healthy yield over its 8 to 9 week flowering cycle.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Golden Calyx by Calyx Garden in a sativa-dominant cross of a Grape Calyx\u0026nbsp;father and a Golden Goat mother. The Golden Calyx phenotype was chosen for its unique expression of the best attributes of its parent. This includes a mind-boggling aroma of pi\u0026ntilde;a colada, bubble gum, and lavender alongside uplifting physical effects that help stave off fatigue and nausea. Golden Calyx produces a healthy yield over its 8 to 9 week flowering cycle.\u0026nbsp;\n","aka":null,"rating":5,"highlightedReviews":[{"id":1506299,"username":"theridgeway","text":"this strain is a very strong sativa, reminds me of a indica, very relaxing and relieved my back pain within minutes, was still able to function and work effectively.  this is a good relaxer","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/YEN1LqXiYCOvWiFhmP-4p67iqDM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fY9fB9qHySLml8016ysgJ_goggles-green.png"},{"id":1613780,"username":"cutedave","text":"This strain is one of the best I’ve smoked, it just makes me happy and actually able converse with people ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":5,"flavors":[{"name":"Sweet","score":12.5},{"name":"Citrus","score":12.5},{"name":"Tropical","score":12.5},{"name":"Pineapple","score":12.5},{"name":"Lavender","score":12.5}],"effects":[{"name":"Relaxed","score":137.5},{"name":"Uplifted","score":125},{"name":"Energetic","score":125},{"name":"Happy","score":125},{"name":"Hungry","score":112.5}],"symptoms":[{"name":"Eye Pressure","score":12.5},{"name":"Headaches","score":12.5},{"name":"Muscle Spasms","score":12.5},{"name":"Pain","score":12.5},{"name":"Stress","score":12.5}],"conditions":[{"name":"PTSD","score":12.5}],"negatives":[{"name":"Headache","score":112.5},{"name":"Dry Eyes","score":12.5},{"name":"Dry Mouth","score":12.5}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/sativa/golden-calyx","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Golden Goat","subtitle":null,"slug":"golden-goat","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/golden-goat","symbol":"Gdg","applink":"leafly://strain/golden-goat"},{"name":"Grape Calyx","subtitle":null,"slug":"grape-calyx","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/grape-calyx","symbol":"Gcx","applink":"leafly://strain/grape-calyx"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Sativa",
+    "conditions": [
+        {
+            "name": "PTSD",
+            "score": 12.5
+        }
+    ],
+    "description": "<p>Golden Calyx by Calyx Garden in a sativa-dominant cross of a <a href=\"https://www.leafly.com/hybrid/grape-calyx\">Grape Calyx</a>&nbsp;father and a <a href=\"https://www.leafly.com/hybrid/golden-goat\">Golden Goat</a> mother. The Golden Calyx phenotype was chosen for its unique expression of the best attributes of its parent. This includes a mind-boggling aroma of pi&ntilde;a colada, bubble gum, and lavender alongside uplifting physical effects that help stave off fatigue and nausea. Golden Calyx produces a healthy yield over its 8 to 9 week flowering cycle.&nbsp;</p>\n",
+    "descriptionPlain": "Golden Calyx by Calyx Garden in a sativa-dominant cross of a Grape Calyx&nbsp;father and a Golden Goat mother. The Golden Calyx phenotype was chosen for its unique expression of the best attributes of its parent. This includes a mind-boggling aroma of pi&ntilde;a colada, bubble gum, and lavender alongside uplifting physical effects that help stave off fatigue and nausea. Golden Calyx produces a healthy yield over its 8 to 9 week flowering cycle.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 137.5
+        },
+        {
+            "name": "Uplifted",
+            "score": 125
+        },
+        {
+            "name": "Energetic",
+            "score": 125
+        },
+        {
+            "name": "Happy",
+            "score": 125
+        },
+        {
+            "name": "Hungry",
+            "score": 112.5
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Sweet",
+            "score": 12.5
+        },
+        {
+            "name": "Citrus",
+            "score": 12.5
+        },
+        {
+            "name": "Tropical",
+            "score": 12.5
+        },
+        {
+            "name": "Pineapple",
+            "score": 12.5
+        },
+        {
+            "name": "Lavender",
+            "score": 12.5
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/YEN1LqXiYCOvWiFhmP-4p67iqDM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fY9fB9qHySLml8016ysgJ_goggles-green.png",
+            "id": 1506299,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "this strain is a very strong sativa, reminds me of a indica, very relaxing and relieved my back pain within minutes, was still able to function and work effectively.  this is a good relaxer",
+            "username": "theridgeway"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1613780,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "This strain is one of the best I\u2019ve smoked, it just makes me happy and actually able converse with people ",
+            "username": "cutedave"
+        }
+    ],
+    "id": 500326,
+    "name": "Golden Calyx",
+    "negatives": [
+        {
+            "name": "Headache",
+            "score": 112.5
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 12.5
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 12.5
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/golden-goat",
+            "category": "Hybrid",
+            "name": "Golden Goat",
+            "permalink": "https://mobileapi.leafly.com/hybrid/golden-goat",
+            "slug": "golden-goat",
+            "subtitle": null,
+            "symbol": "Gdg"
+        },
+        {
+            "applink": "leafly://strain/grape-calyx",
+            "category": "Hybrid",
+            "name": "Grape Calyx",
+            "permalink": "https://mobileapi.leafly.com/hybrid/grape-calyx",
+            "slug": "grape-calyx",
+            "subtitle": null,
+            "symbol": "Gcx"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/sativa/golden-calyx",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 5,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "golden-calyx",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Goc",
+    "symptoms": [
+        {
+            "name": "Eye Pressure",
+            "score": 12.5
+        },
+        {
+            "name": "Headaches",
+            "score": 12.5
+        },
+        {
+            "name": "Muscle Spasms",
+            "score": 12.5
+        },
+        {
+            "name": "Pain",
+            "score": 12.5
+        },
+        {
+            "name": "Stress",
+            "score": 12.5
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

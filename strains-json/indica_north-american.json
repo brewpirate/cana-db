@@ -1,1 +1,165 @@
-{"sl_translate":"description,descriptionPlain,category","id":100271,"slug":"north-american","name":"North American Indica","subtitle":null,"symbol":"Nam","category":"Indica","description":"\u003cp\u003eNorth American refers to any strain that grows natively in this region. These indigenous vareities (also called \u003ca href=\"http://www.leafly.com/knowledge-center/cannabis-101/the-cannabis-origin-what-is-a-landrace-strain\"\u003elandraces\u003c/a\u003e) can exhibit \u003ca href=\"http://leafly.com/indica\"\u003eindica\u003c/a\u003e or \u003ca href=\"http://leafly.com/sativa\"\u003esativa\u003c/a\u003e characteristics depending on the climate and latitude at which it grows. Sativas tend to grow in warmer regions closer to the equator, while the hardier indica varieties are more common beyond 30 degrees latitude.\u003c/p\u003e\n","descriptionPlain":"North American refers to any strain that grows natively in this region. These indigenous vareities (also called landraces) can exhibit indica or sativa characteristics depending on the climate and latitude at which it grows. Sativas tend to grow in warmer regions closer to the equator, while the hardier indica varieties are more common beyond 30 degrees latitude.\n","aka":"North America","rating":4.75,"highlightedReviews":[{"id":1417250,"username":"ObiBudKenobi","text":"The G13xBlueberry Headband from Advanced Farm \u0026 Garden is an indicia dominant hybrid that has a sweet blueberry and earthy scent. Burned smooth and clean, and vape was even smoother. Sweet berry flavor with uplifting and calming effect. Worked great for stress and dulled some chronic back pain (L4S5, for the record), but keep a drink within reach and make no plans to go out and engage the public in conversation. Also, very good for last burn of the night, or last burn before gaming.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/lJ2VY3JcKjYut_50Yn5tnVlftCU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fGkYePhpuTiO6OltZh89O_wide-brim-purple.png"},{"id":1607918,"username":"cmarcosn","text":"Helps you sleep","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":8,"flavors":[{"name":"Earthy","score":111.11111111111111},{"name":"Lavender","score":100},{"name":"Rose","score":100},{"name":"Woody","score":8.3333333333333321},{"name":"Spicy/Herbal","score":5.5555555555555554}],"effects":[{"name":"Relaxed","score":116.66666666666666},{"name":"Focused","score":113.88888888888889},{"name":"Sleepy","score":111.11111111111111},{"name":"Happy","score":105.55555555555556},{"name":"Uplifted","score":8.3333333333333321}],"symptoms":[{"name":"Insomnia","score":111.11111111111111},{"name":"Depression","score":105.55555555555556},{"name":"Fatigue","score":105.55555555555556},{"name":"Stress","score":105.55555555555556},{"name":"Seizures","score":100}],"conditions":[{"name":"Anxiety","score":105.55555555555556},{"name":"ADD/ADHD","score":8.3333333333333321},{"name":"Gastrointestinal Disorder","score":2.7777777777777777},{"name":"PTSD","score":2.7777777777777777}],"negatives":[{"name":"Dry Mouth","score":105.55555555555556},{"name":"Dry Eyes","score":5.5555555555555554},{"name":"Dizzy","score":2.7777777777777777},{"name":"Headache","score":2.7777777777777777}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/north-american-indica_100x100_7f7a.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/556972/b/north-american-indica__primary_f61d.jpg"}],"photoTotalCount":1,"popularCities":["Las Vegas, NV","Denver, CO","Santa Fe, NM"],"permalink":"https://mobileapi.leafly.com/indica/north-american","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.75/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": "North America",
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 105.55555555555556
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Gastrointestinal Disorder",
+            "score": 2.7777777777777777
+        },
+        {
+            "name": "PTSD",
+            "score": 2.7777777777777777
+        }
+    ],
+    "description": "<p>North American refers to any strain that grows natively in this region. These indigenous vareities (also called <a href=\"http://www.leafly.com/knowledge-center/cannabis-101/the-cannabis-origin-what-is-a-landrace-strain\">landraces</a>) can exhibit <a href=\"http://leafly.com/indica\">indica</a> or <a href=\"http://leafly.com/sativa\">sativa</a> characteristics depending on the climate and latitude at which it grows. Sativas tend to grow in warmer regions closer to the equator, while the hardier indica varieties are more common beyond 30 degrees latitude.</p>\n",
+    "descriptionPlain": "North American refers to any strain that grows natively in this region. These indigenous vareities (also called landraces) can exhibit indica or sativa characteristics depending on the climate and latitude at which it grows. Sativas tend to grow in warmer regions closer to the equator, while the hardier indica varieties are more common beyond 30 degrees latitude.\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 116.66666666666666
+        },
+        {
+            "name": "Focused",
+            "score": 113.88888888888889
+        },
+        {
+            "name": "Sleepy",
+            "score": 111.11111111111111
+        },
+        {
+            "name": "Happy",
+            "score": 105.55555555555556
+        },
+        {
+            "name": "Uplifted",
+            "score": 8.333333333333332
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Earthy",
+            "score": 111.11111111111111
+        },
+        {
+            "name": "Lavender",
+            "score": 100
+        },
+        {
+            "name": "Rose",
+            "score": 100
+        },
+        {
+            "name": "Woody",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Spicy/Herbal",
+            "score": 5.555555555555555
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/lJ2VY3JcKjYut_50Yn5tnVlftCU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fGkYePhpuTiO6OltZh89O_wide-brim-purple.png",
+            "id": 1417250,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "The G13xBlueberry Headband from Advanced Farm & Garden is an indicia dominant hybrid that has a sweet blueberry and earthy scent. Burned smooth and clean, and vape was even smoother. Sweet berry flavor with uplifting and calming effect. Worked great for stress and dulled some chronic back pain (L4S5, for the record), but keep a drink within reach and make no plans to go out and engage the public in conversation. Also, very good for last burn of the night, or last burn before gaming.",
+            "username": "ObiBudKenobi"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1607918,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Helps you sleep",
+            "username": "cmarcosn"
+        }
+    ],
+    "id": 100271,
+    "name": "North American Indica",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 105.55555555555556
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 5.555555555555555
+        },
+        {
+            "name": "Dizzy",
+            "score": 2.7777777777777777
+        },
+        {
+            "name": "Headache",
+            "score": 2.7777777777777777
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/indica/north-american",
+    "photoTotalCount": 1,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/556972/b/north-american-indica__primary_f61d.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/north-american-indica_100x100_7f7a.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Las Vegas, NV",
+        "Denver, CO",
+        "Santa Fe, NM"
+    ],
+    "rating": 4.75,
+    "relatedStrains": [],
+    "reviewCount": 8,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "north-american",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.75/240",
+    "subtitle": null,
+    "symbol": "Nam",
+    "symptoms": [
+        {
+            "name": "Insomnia",
+            "score": 111.11111111111111
+        },
+        {
+            "name": "Depression",
+            "score": 105.55555555555556
+        },
+        {
+            "name": "Fatigue",
+            "score": 105.55555555555556
+        },
+        {
+            "name": "Stress",
+            "score": 105.55555555555556
+        },
+        {
+            "name": "Seizures",
+            "score": 100
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

@@ -1,1 +1,148 @@
-{"sl_translate":"description,descriptionPlain,category","id":500682,"slug":"cherry-fire","name":"Cherry Fire","subtitle":null,"symbol":"Cfi","category":"Hybrid","description":"\u003cp\u003eCherry Fire is a potent mixture of \u003ca href=\"https://www.leafly.com/hybrid/cherry-pie\"\u003eCherry Pie\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/hybrid/fire-og\"\u003eFire OG\u003c/a\u003e genetics. This strain combines the sweet, doughy aroma of Cherry Pie and the heavy-hitting effects of Fire OG, offering a heady, creative mental state alongside a calm, centered physical sensation. Cherry Fire\u0026rsquo;s flavor is similar to its aroma, but opens up on the finish with notes of pepper, fuel, and hashish. This strain may be useful for consumers who suffer from appetite loss, chronic pain, and stress.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Cherry Fire is a potent mixture of Cherry Pie and Fire OG genetics. This strain combines the sweet, doughy aroma of Cherry Pie and the heavy-hitting effects of Fire OG, offering a heady, creative mental state alongside a calm, centered physical sensation. Cherry Fire\u0026rsquo;s flavor is similar to its aroma, but opens up on the finish with notes of pepper, fuel, and hashish. This strain may be useful for consumers who suffer from appetite loss, chronic pain, and stress.\u0026nbsp;\n","aka":null,"rating":4,"highlightedReviews":[{"id":1616228,"username":"Squ66atch","text":"more of an indica than a sativa. excellent for focus and the taste is phenomenal.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/EsB9lXCri57tN17h49dVOnCDkFI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fTBeeQQk0TGeLYj4SjC6Z_old-school-red.png"},{"id":1616228,"username":"Squ66atch","text":"more of an indica than a sativa. excellent for focus and the taste is phenomenal.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/EsB9lXCri57tN17h49dVOnCDkFI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fTBeeQQk0TGeLYj4SjC6Z_old-school-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":1,"flavors":[{"name":"Earthy","score":50},{"name":"Pungent","score":50},{"name":"Skunk","score":50}],"effects":[{"name":"Hungry","score":150},{"name":"Creative","score":100},{"name":"Energetic","score":100},{"name":"Focused","score":100},{"name":"Giggly","score":50}],"symptoms":[{"name":"Depression","score":100},{"name":"Insomnia","score":100},{"name":"Lack of Appetite","score":100}],"conditions":[{"name":"ADD/ADHD","score":100},{"name":"Anxiety","score":100},{"name":"Bipolar Disorder","score":100}],"negatives":[{"name":"Dry Mouth","score":50},{"name":"Paranoid","score":50}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Lansing, MI"],"permalink":"https://mobileapi.leafly.com/hybrid/cherry-fire","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Cherry Pie","subtitle":null,"slug":"cherry-pie","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/cherry-pie","symbol":"Cp","applink":"leafly://strain/cherry-pie"},{"name":"Fire OG","subtitle":null,"slug":"fire-og","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/fire-og","symbol":"Fog","applink":"leafly://strain/fire-og"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "ADD/ADHD",
+            "score": 100
+        },
+        {
+            "name": "Anxiety",
+            "score": 100
+        },
+        {
+            "name": "Bipolar Disorder",
+            "score": 100
+        }
+    ],
+    "description": "<p>Cherry Fire is a potent mixture of <a href=\"https://www.leafly.com/hybrid/cherry-pie\">Cherry Pie</a> and <a href=\"https://www.leafly.com/hybrid/fire-og\">Fire OG</a> genetics. This strain combines the sweet, doughy aroma of Cherry Pie and the heavy-hitting effects of Fire OG, offering a heady, creative mental state alongside a calm, centered physical sensation. Cherry Fire&rsquo;s flavor is similar to its aroma, but opens up on the finish with notes of pepper, fuel, and hashish. This strain may be useful for consumers who suffer from appetite loss, chronic pain, and stress.&nbsp;</p>\n",
+    "descriptionPlain": "Cherry Fire is a potent mixture of Cherry Pie and Fire OG genetics. This strain combines the sweet, doughy aroma of Cherry Pie and the heavy-hitting effects of Fire OG, offering a heady, creative mental state alongside a calm, centered physical sensation. Cherry Fire&rsquo;s flavor is similar to its aroma, but opens up on the finish with notes of pepper, fuel, and hashish. This strain may be useful for consumers who suffer from appetite loss, chronic pain, and stress.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Hungry",
+            "score": 150
+        },
+        {
+            "name": "Creative",
+            "score": 100
+        },
+        {
+            "name": "Energetic",
+            "score": 100
+        },
+        {
+            "name": "Focused",
+            "score": 100
+        },
+        {
+            "name": "Giggly",
+            "score": 50
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Earthy",
+            "score": 50
+        },
+        {
+            "name": "Pungent",
+            "score": 50
+        },
+        {
+            "name": "Skunk",
+            "score": 50
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/EsB9lXCri57tN17h49dVOnCDkFI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fTBeeQQk0TGeLYj4SjC6Z_old-school-red.png",
+            "id": 1616228,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "more of an indica than a sativa. excellent for focus and the taste is phenomenal.",
+            "username": "Squ66atch"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/EsB9lXCri57tN17h49dVOnCDkFI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fTBeeQQk0TGeLYj4SjC6Z_old-school-red.png",
+            "id": 1616228,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "more of an indica than a sativa. excellent for focus and the taste is phenomenal.",
+            "username": "Squ66atch"
+        }
+    ],
+    "id": 500682,
+    "name": "Cherry Fire",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 50
+        },
+        {
+            "name": "Paranoid",
+            "score": 50
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/cherry-pie",
+            "category": "Hybrid",
+            "name": "Cherry Pie",
+            "permalink": "https://mobileapi.leafly.com/hybrid/cherry-pie",
+            "slug": "cherry-pie",
+            "subtitle": null,
+            "symbol": "Cp"
+        },
+        {
+            "applink": "leafly://strain/fire-og",
+            "category": "Hybrid",
+            "name": "Fire OG",
+            "permalink": "https://mobileapi.leafly.com/hybrid/fire-og",
+            "slug": "fire-og",
+            "subtitle": null,
+            "symbol": "Fog"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/cherry-fire",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Lansing, MI"
+    ],
+    "rating": 4,
+    "relatedStrains": [],
+    "reviewCount": 1,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "cherry-fire",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+    "subtitle": null,
+    "symbol": "Cfi",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 100
+        },
+        {
+            "name": "Insomnia",
+            "score": 100
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 100
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

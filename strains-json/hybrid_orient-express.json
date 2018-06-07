@@ -1,1 +1,142 @@
-{"sl_translate":"description,descriptionPlain,category","id":500047,"slug":"orient-express","name":"Orient Express","subtitle":null,"symbol":"Ore","category":"Hybrid","description":"\u003cp\u003eOrient Express by Ace\u0026nbsp;Seeds is a sativa-dominant hybrid with Asian lineage. Created by crossing Vietnam Black and \u003ca href=\"https://www.leafly.com/indica/china-yunnan\"\u003eChina Yunnan\u003c/a\u003e, Orient Express has herbal, grassy aromas representative of the hot and humid forest floor in the dense rainforests of Southeast Asia. The effects are described as warm, clean, and pleasant and perfect for chatting and enjoying good company without paranoia or anxiety. With an average potency of 16% THC and an 8 to 10 week flowering time, Orient Express is an ideal option for new or seasoned gardeners.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Orient Express by Ace\u0026nbsp;Seeds is a sativa-dominant hybrid with Asian lineage. Created by crossing Vietnam Black and China Yunnan, Orient Express has herbal, grassy aromas representative of the hot and humid forest floor in the dense rainforests of Southeast Asia. The effects are described as warm, clean, and pleasant and perfect for chatting and enjoying good company without paranoia or anxiety. With an average potency of 16% THC and an 8 to 10 week flowering time, Orient Express is an ideal option for new or seasoned gardeners.\u0026nbsp;\n","aka":null,"rating":4.33,"highlightedReviews":[{"id":1485135,"username":"baldnbrwn","text":"this tree give you that lift to sit back and drop knowledge, wisdom beats bars what ever your thing is !!!  smooth heady smoke .","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/bn1HUI7tvLyn0Fkk1dLIMSCvROQ=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fUxAMHptTuuQR3BjlU2Hc_nerd-purple.png"},{"id":1603507,"username":"Disjointed90","text":"uplifted, energetic, talkative. slight paranoia but depends on state of mind before smoking. grassy smell and taste. munchies. good anti-inflammatory.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":3,"flavors":[{"name":"Earthy","score":100}],"effects":[{"name":"Hungry","score":133.33333333333331},{"name":"Relaxed","score":133.33333333333331},{"name":"Talkative","score":116.66666666666666},{"name":"Energetic","score":116.66666666666666},{"name":"Giggly","score":116.66666666666666}],"symptoms":[{"name":"Fatigue","score":16.666666666666664}],"conditions":[{"name":"Anxiety","score":16.666666666666664},{"name":"Epilepsy","score":16.666666666666664},{"name":"Fibromyalgia","score":16.666666666666664},{"name":"Migraines","score":16.666666666666664},{"name":"Phantom Limb Pain","score":16.666666666666664}],"negatives":[{"name":"Dry Mouth","score":16.666666666666664}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/orient-express_100x100_9b2c.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/1002994/b/orient-express__primary_4726.jpg"}],"photoTotalCount":1,"popularCities":["Spokane Valley, WA","Airway Heights, WA","Anacortes, WA","Cashmere, WA","Covington, WA","Dayton, WA","Elma, WA","Everett, WA","Fife, WA","Ilwaco, WA"],"permalink":"https://mobileapi.leafly.com/hybrid/orient-express","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.33333333333333/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"China Yunnan","subtitle":null,"slug":"china-yunnan","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/china-yunnan","symbol":"Chy","applink":"leafly://strain/china-yunnan"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Epilepsy",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Fibromyalgia",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Migraines",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Phantom Limb Pain",
+            "score": 16.666666666666664
+        }
+    ],
+    "description": "<p>Orient Express by Ace&nbsp;Seeds is a sativa-dominant hybrid with Asian lineage. Created by crossing Vietnam Black and <a href=\"https://www.leafly.com/indica/china-yunnan\">China Yunnan</a>, Orient Express has herbal, grassy aromas representative of the hot and humid forest floor in the dense rainforests of Southeast Asia. The effects are described as warm, clean, and pleasant and perfect for chatting and enjoying good company without paranoia or anxiety. With an average potency of 16% THC and an 8 to 10 week flowering time, Orient Express is an ideal option for new or seasoned gardeners.&nbsp;</p>\n",
+    "descriptionPlain": "Orient Express by Ace&nbsp;Seeds is a sativa-dominant hybrid with Asian lineage. Created by crossing Vietnam Black and China Yunnan, Orient Express has herbal, grassy aromas representative of the hot and humid forest floor in the dense rainforests of Southeast Asia. The effects are described as warm, clean, and pleasant and perfect for chatting and enjoying good company without paranoia or anxiety. With an average potency of 16% THC and an 8 to 10 week flowering time, Orient Express is an ideal option for new or seasoned gardeners.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Hungry",
+            "score": 133.33333333333331
+        },
+        {
+            "name": "Relaxed",
+            "score": 133.33333333333331
+        },
+        {
+            "name": "Talkative",
+            "score": 116.66666666666666
+        },
+        {
+            "name": "Energetic",
+            "score": 116.66666666666666
+        },
+        {
+            "name": "Giggly",
+            "score": 116.66666666666666
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Earthy",
+            "score": 100
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/bn1HUI7tvLyn0Fkk1dLIMSCvROQ=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fUxAMHptTuuQR3BjlU2Hc_nerd-purple.png",
+            "id": 1485135,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "this tree give you that lift to sit back and drop knowledge, wisdom beats bars what ever your thing is !!!  smooth heady smoke .",
+            "username": "baldnbrwn"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png",
+            "id": 1603507,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "uplifted, energetic, talkative. slight paranoia but depends on state of mind before smoking. grassy smell and taste. munchies. good anti-inflammatory.",
+            "username": "Disjointed90"
+        }
+    ],
+    "id": 500047,
+    "name": "Orient Express",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 16.666666666666664
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/china-yunnan",
+            "category": "Indica",
+            "name": "China Yunnan",
+            "permalink": "https://mobileapi.leafly.com/indica/china-yunnan",
+            "slug": "china-yunnan",
+            "subtitle": null,
+            "symbol": "Chy"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/orient-express",
+    "photoTotalCount": 1,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/1002994/b/orient-express__primary_4726.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/orient-express_100x100_9b2c.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Spokane Valley, WA",
+        "Airway Heights, WA",
+        "Anacortes, WA",
+        "Cashmere, WA",
+        "Covington, WA",
+        "Dayton, WA",
+        "Elma, WA",
+        "Everett, WA",
+        "Fife, WA",
+        "Ilwaco, WA"
+    ],
+    "rating": 4.33,
+    "relatedStrains": [],
+    "reviewCount": 3,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "orient-express",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.33333333333333/240",
+    "subtitle": null,
+    "symbol": "Ore",
+    "symptoms": [
+        {
+            "name": "Fatigue",
+            "score": 16.666666666666664
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

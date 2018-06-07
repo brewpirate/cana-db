@@ -1,1 +1,124 @@
-{"sl_translate":"description,descriptionPlain,category","id":500053,"slug":"black-roses","name":"Black Roses","subtitle":null,"symbol":"Brs","category":"Indica","description":"\u003cp\u003eBlack Roses by Red Dirt Ridge Genetics is a heavy, one-hitter-quitter indica designed for the seasoned cannabis consumer. This cross of Grand Reserve \u003ca href=\"https://www.leafly.com/hybrid/headband\"\u003eHeadband\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/indica/early-girl\"\u003eEarly Girl\u003c/a\u003e reeks of sweet citrus and funky fuel, intoxicating the sense even before combustion. Its effects lay into the body, evaporating stress from the mind while cementing the consumer to the couch. This heavy indica is a perfect end-of-the-day strain to wash away stress and worries or to frontload sleep with sedative cannabinoids.\u003c/p\u003e\n","descriptionPlain":"Black Roses by Red Dirt Ridge Genetics is a heavy, one-hitter-quitter indica designed for the seasoned cannabis consumer. This cross of Grand Reserve Headband and Early Girl reeks of sweet citrus and funky fuel, intoxicating the sense even before combustion. Its effects lay into the body, evaporating stress from the mind while cementing the consumer to the couch. This heavy indica is a perfect end-of-the-day strain to wash away stress and worries or to frontload sleep with sedative cannabinoids.\n","aka":null,"rating":4,"highlightedReviews":[{"id":1497037,"username":"TZN6ix","text":"Decent strain. Good high that keeps you chilled and relaxed, but didn\u0027t leave me with that \"couch locked feeling\". Good use for social nights out or dull Sundays watching tv in bed.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"},{"id":1594506,"username":"jlc81337","text":"Smelled amazing tasted even better , made a tincture , it is worth a try if u can locate","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":2,"flavors":[{"name":"Berry","score":50}],"effects":[{"name":"Happy","score":50},{"name":"Relaxed","score":33.333333333333329},{"name":"Sleepy","score":16.666666666666664},{"name":"Uplifted","score":16.666666666666664},{"name":"Euphoric","score":16.666666666666664}],"symptoms":[{"name":"Pain","score":50}],"conditions":[{"name":"Bipolar Disorder","score":50}],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Airdrie, AB","Beckwourth, CA","Calgary, AB","Chester, CA","Hamilton, ON","Iqaluit, NU","Longview, WA","Montréal, QC","Ottawa, ON","Quincy, CA"],"permalink":"https://mobileapi.leafly.com/indica/black-roses","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Headband","subtitle":null,"slug":"headband","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/headband","symbol":"Hb","applink":"leafly://strain/headband"},{"name":"Early Girl","subtitle":null,"slug":"early-girl","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/early-girl","symbol":"Eg","applink":"leafly://strain/early-girl"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Bipolar Disorder",
+            "score": 50
+        }
+    ],
+    "description": "<p>Black Roses by Red Dirt Ridge Genetics is a heavy, one-hitter-quitter indica designed for the seasoned cannabis consumer. This cross of Grand Reserve <a href=\"https://www.leafly.com/hybrid/headband\">Headband</a> and <a href=\"https://www.leafly.com/indica/early-girl\">Early Girl</a> reeks of sweet citrus and funky fuel, intoxicating the sense even before combustion. Its effects lay into the body, evaporating stress from the mind while cementing the consumer to the couch. This heavy indica is a perfect end-of-the-day strain to wash away stress and worries or to frontload sleep with sedative cannabinoids.</p>\n",
+    "descriptionPlain": "Black Roses by Red Dirt Ridge Genetics is a heavy, one-hitter-quitter indica designed for the seasoned cannabis consumer. This cross of Grand Reserve Headband and Early Girl reeks of sweet citrus and funky fuel, intoxicating the sense even before combustion. Its effects lay into the body, evaporating stress from the mind while cementing the consumer to the couch. This heavy indica is a perfect end-of-the-day strain to wash away stress and worries or to frontload sleep with sedative cannabinoids.\n",
+    "effects": [
+        {
+            "name": "Happy",
+            "score": 50
+        },
+        {
+            "name": "Relaxed",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Sleepy",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Uplifted",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Euphoric",
+            "score": 16.666666666666664
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Berry",
+            "score": 50
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1497037,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Decent strain. Good high that keeps you chilled and relaxed, but didn't leave me with that \"couch locked feeling\". Good use for social nights out or dull Sundays watching tv in bed.",
+            "username": "TZN6ix"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png",
+            "id": 1594506,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Smelled amazing tasted even better , made a tincture , it is worth a try if u can locate",
+            "username": "jlc81337"
+        }
+    ],
+    "id": 500053,
+    "name": "Black Roses",
+    "negatives": [],
+    "parents": [
+        {
+            "applink": "leafly://strain/headband",
+            "category": "Hybrid",
+            "name": "Headband",
+            "permalink": "https://mobileapi.leafly.com/hybrid/headband",
+            "slug": "headband",
+            "subtitle": null,
+            "symbol": "Hb"
+        },
+        {
+            "applink": "leafly://strain/early-girl",
+            "category": "Indica",
+            "name": "Early Girl",
+            "permalink": "https://mobileapi.leafly.com/indica/early-girl",
+            "slug": "early-girl",
+            "subtitle": null,
+            "symbol": "Eg"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/black-roses",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Airdrie, AB",
+        "Beckwourth, CA",
+        "Calgary, AB",
+        "Chester, CA",
+        "Hamilton, ON",
+        "Iqaluit, NU",
+        "Longview, WA",
+        "Montr\u00e9al, QC",
+        "Ottawa, ON",
+        "Quincy, CA"
+    ],
+    "rating": 4,
+    "relatedStrains": [],
+    "reviewCount": 2,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "black-roses",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+    "subtitle": null,
+    "symbol": "Brs",
+    "symptoms": [
+        {
+            "name": "Pain",
+            "score": 50
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

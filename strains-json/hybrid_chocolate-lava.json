@@ -1,1 +1,125 @@
-{"sl_translate":"description,descriptionPlain,category","id":501476,"slug":"chocolate-lava","name":"Chocolate Lava","subtitle":null,"symbol":"Chv","category":"Hybrid","description":"\u003cp\u003eChocolate Lava is a rare cannabis strain bred by Aficionado Seeds. It was created by combining an exceptional \u003ca href=\"https://www.leafly.com/hybrid/hellfire-og\"\u003eChocolate Kush\u003c/a\u003e mother and a potent \u003ca href=\"https://www.leafly.com/hybrid/hellfire-og\"\u003eHellfire OG\u003c/a\u003e father, resulting in a strain that delivers heavy, physically-oriented effects. Chocolate Lava\u0026rsquo;s aroma is a mixture of chocolate, hash, and orange peel. This aromatic depth lends itself to the strain\u0026rsquo;s complex and earthy flavor, which coats the palate in floral spice and citrus. Cherish Chocolate Lava if you can get your hands on some, as its creeping, sedative buzz is almost as silky smooth as its chocolatey orange flavor.\u003c/p\u003e\n","descriptionPlain":"Chocolate Lava is a rare cannabis strain bred by Aficionado Seeds. It was created by combining an exceptional Chocolate Kush mother and a potent Hellfire OG father, resulting in a strain that delivers heavy, physically-oriented effects. Chocolate Lava\u0026rsquo;s aroma is a mixture of chocolate, hash, and orange peel. This aromatic depth lends itself to the strain\u0026rsquo;s complex and earthy flavor, which coats the palate in floral spice and citrus. Cherish Chocolate Lava if you can get your hands on some, as its creeping, sedative buzz is almost as silky smooth as its chocolatey orange flavor.\n","aka":null,"rating":5,"highlightedReviews":[{"id":1630919,"username":"annaleecayer","text":"Strong chocolate taste with an earthy background. \nA nice smooth smoke with a comfortable body buzz. Zero mind-clouding with a light energy boost. \n","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png"},{"id":1630919,"username":"annaleecayer","text":"Strong chocolate taste with an earthy background. \nA nice smooth smoke with a comfortable body buzz. Zero mind-clouding with a light energy boost. \n","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":1,"flavors":[{"name":"Earthy","score":100}],"effects":[{"name":"Talkative","score":100},{"name":"Energetic","score":100},{"name":"Focused","score":100},{"name":"Happy","score":100}],"symptoms":[{"name":"Cramps","score":100},{"name":"Depression","score":100},{"name":"Headaches","score":100},{"name":"Stress","score":100}],"conditions":[{"name":"Anxiety","score":100},{"name":"Migraines","score":100}],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/chocolate-lava","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Chocolate Kush","subtitle":null,"slug":"chocolate-kush","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/chocolate-kush","symbol":"Clk","applink":"leafly://strain/chocolate-kush"},{"name":"Hellfire OG","subtitle":null,"slug":"hellfire-og","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/hellfire-og","symbol":"Hfo","applink":"leafly://strain/hellfire-og"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 100
+        },
+        {
+            "name": "Migraines",
+            "score": 100
+        }
+    ],
+    "description": "<p>Chocolate Lava is a rare cannabis strain bred by Aficionado Seeds. It was created by combining an exceptional <a href=\"https://www.leafly.com/hybrid/hellfire-og\">Chocolate Kush</a> mother and a potent <a href=\"https://www.leafly.com/hybrid/hellfire-og\">Hellfire OG</a> father, resulting in a strain that delivers heavy, physically-oriented effects. Chocolate Lava&rsquo;s aroma is a mixture of chocolate, hash, and orange peel. This aromatic depth lends itself to the strain&rsquo;s complex and earthy flavor, which coats the palate in floral spice and citrus. Cherish Chocolate Lava if you can get your hands on some, as its creeping, sedative buzz is almost as silky smooth as its chocolatey orange flavor.</p>\n",
+    "descriptionPlain": "Chocolate Lava is a rare cannabis strain bred by Aficionado Seeds. It was created by combining an exceptional Chocolate Kush mother and a potent Hellfire OG father, resulting in a strain that delivers heavy, physically-oriented effects. Chocolate Lava&rsquo;s aroma is a mixture of chocolate, hash, and orange peel. This aromatic depth lends itself to the strain&rsquo;s complex and earthy flavor, which coats the palate in floral spice and citrus. Cherish Chocolate Lava if you can get your hands on some, as its creeping, sedative buzz is almost as silky smooth as its chocolatey orange flavor.\n",
+    "effects": [
+        {
+            "name": "Talkative",
+            "score": 100
+        },
+        {
+            "name": "Energetic",
+            "score": 100
+        },
+        {
+            "name": "Focused",
+            "score": 100
+        },
+        {
+            "name": "Happy",
+            "score": 100
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Earthy",
+            "score": 100
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png",
+            "id": 1630919,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Strong chocolate taste with an earthy background. \nA nice smooth smoke with a comfortable body buzz. Zero mind-clouding with a light energy boost. \n",
+            "username": "annaleecayer"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png",
+            "id": 1630919,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Strong chocolate taste with an earthy background. \nA nice smooth smoke with a comfortable body buzz. Zero mind-clouding with a light energy boost. \n",
+            "username": "annaleecayer"
+        }
+    ],
+    "id": 501476,
+    "name": "Chocolate Lava",
+    "negatives": [],
+    "parents": [
+        {
+            "applink": "leafly://strain/chocolate-kush",
+            "category": "Indica",
+            "name": "Chocolate Kush",
+            "permalink": "https://mobileapi.leafly.com/indica/chocolate-kush",
+            "slug": "chocolate-kush",
+            "subtitle": null,
+            "symbol": "Clk"
+        },
+        {
+            "applink": "leafly://strain/hellfire-og",
+            "category": "Hybrid",
+            "name": "Hellfire OG",
+            "permalink": "https://mobileapi.leafly.com/hybrid/hellfire-og",
+            "slug": "hellfire-og",
+            "subtitle": null,
+            "symbol": "Hfo"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/chocolate-lava",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 1,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "chocolate-lava",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Chv",
+    "symptoms": [
+        {
+            "name": "Cramps",
+            "score": 100
+        },
+        {
+            "name": "Depression",
+            "score": 100
+        },
+        {
+            "name": "Headaches",
+            "score": 100
+        },
+        {
+            "name": "Stress",
+            "score": 100
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

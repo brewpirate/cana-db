@@ -1,1 +1,62 @@
-{"sl_translate":"description,descriptionPlain,category","id":500080,"slug":"lemon-crme","name":"Lemon Créme","subtitle":null,"symbol":"Lec","category":"Sativa","description":"\u003cp\u003eLemon Cr\u0026eacute;me is a unique and unstable sativa-dominant strain created by Love Genetics. It was brought into existence by crossing \u003ca href=\"https://www.leafly.com/sativa/lemon-jack\"\u003eLemon Jack\u003c/a\u003e with DNA Genetics\u0026rsquo; \u003ca href=\"https://www.leafly.com/hybrid/sour-cream\"\u003eSour Cream\u003c/a\u003e (a \u003ca href=\"https://www.leafly.com/sativa/sour-diesel\"\u003eSour Diesel\u003c/a\u003e heirloom x \u003ca href=\"https://www.leafly.com/hybrid/g13-haze\"\u003eG15 Haze\u003c/a\u003e). The breeder notes that this strain is prone to produce three distinct \u003ca href=\"https://www.leafly.com/news/cannabis-101/cannabis-genotypes-and-phenotypes-what-makes-a-strain-unique\"\u003ephenotypes\u003c/a\u003e with varied aromas, such as Earl Grey tea, lemon Pinesol, and American sweet tea. Lemon Cr\u0026eacute;me is a rare cut due to its instability, but has gone on to influence other Love Genetics\u0026rsquo; crosses like Prometheus. This strain has an approximate flowering time of 69 to 77 days.\u003c/p\u003e\n","descriptionPlain":"Lemon Cr\u0026eacute;me is a unique and unstable sativa-dominant strain created by Love Genetics. It was brought into existence by crossing Lemon Jack with DNA Genetics\u0026rsquo; Sour Cream (a Sour Diesel heirloom x G15 Haze). The breeder notes that this strain is prone to produce three distinct phenotypes with varied aromas, such as Earl Grey tea, lemon Pinesol, and American sweet tea. Lemon Cr\u0026eacute;me is a rare cut due to its instability, but has gone on to influence other Love Genetics\u0026rsquo; crosses like Prometheus. This strain has an approximate flowering time of 69 to 77 days.\n","aka":null,"rating":0,"highlightedReviews":[],"relatedStrains":[],"articles":[],"reviewCount":0,"flavors":[],"effects":[],"symptoms":[],"conditions":[],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/sativa/lemon-crme","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/0/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Lemon Jack","subtitle":null,"slug":"lemon-jack","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/lemon-jack","symbol":"Lj","applink":"leafly://strain/lemon-jack"},{"name":"Sour Cream","subtitle":null,"slug":"sour-cream","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/sour-cream","symbol":"Scr","applink":"leafly://strain/sour-cream"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Sativa",
+    "conditions": [],
+    "description": "<p>Lemon Cr&eacute;me is a unique and unstable sativa-dominant strain created by Love Genetics. It was brought into existence by crossing <a href=\"https://www.leafly.com/sativa/lemon-jack\">Lemon Jack</a> with DNA Genetics&rsquo; <a href=\"https://www.leafly.com/hybrid/sour-cream\">Sour Cream</a> (a <a href=\"https://www.leafly.com/sativa/sour-diesel\">Sour Diesel</a> heirloom x <a href=\"https://www.leafly.com/hybrid/g13-haze\">G15 Haze</a>). The breeder notes that this strain is prone to produce three distinct <a href=\"https://www.leafly.com/news/cannabis-101/cannabis-genotypes-and-phenotypes-what-makes-a-strain-unique\">phenotypes</a> with varied aromas, such as Earl Grey tea, lemon Pinesol, and American sweet tea. Lemon Cr&eacute;me is a rare cut due to its instability, but has gone on to influence other Love Genetics&rsquo; crosses like Prometheus. This strain has an approximate flowering time of 69 to 77 days.</p>\n",
+    "descriptionPlain": "Lemon Cr&eacute;me is a unique and unstable sativa-dominant strain created by Love Genetics. It was brought into existence by crossing Lemon Jack with DNA Genetics&rsquo; Sour Cream (a Sour Diesel heirloom x G15 Haze). The breeder notes that this strain is prone to produce three distinct phenotypes with varied aromas, such as Earl Grey tea, lemon Pinesol, and American sweet tea. Lemon Cr&eacute;me is a rare cut due to its instability, but has gone on to influence other Love Genetics&rsquo; crosses like Prometheus. This strain has an approximate flowering time of 69 to 77 days.\n",
+    "effects": [],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [],
+    "id": 500080,
+    "name": "Lemon Cr\u00e9me",
+    "negatives": [],
+    "parents": [
+        {
+            "applink": "leafly://strain/lemon-jack",
+            "category": "Sativa",
+            "name": "Lemon Jack",
+            "permalink": "https://mobileapi.leafly.com/sativa/lemon-jack",
+            "slug": "lemon-jack",
+            "subtitle": null,
+            "symbol": "Lj"
+        },
+        {
+            "applink": "leafly://strain/sour-cream",
+            "category": "Hybrid",
+            "name": "Sour Cream",
+            "permalink": "https://mobileapi.leafly.com/hybrid/sour-cream",
+            "slug": "sour-cream",
+            "subtitle": null,
+            "symbol": "Scr"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/sativa/lemon-crme",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 0,
+    "relatedStrains": [],
+    "reviewCount": 0,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "lemon-crme",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/0/240",
+    "subtitle": null,
+    "symbol": "Lec",
+    "symptoms": [],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

@@ -1,1 +1,215 @@
-{"sl_translate":"description,descriptionPlain,category","id":259,"slug":"blue-satellite","name":"Blue Satellite","subtitle":null,"symbol":"Blu","category":"Sativa","description":"\u003cp\u003eBlue Satellite, the sativa offspring of Blueberry Sativa and \u003ca href=\"http://www.leafly.com/hybrid/shishkaberry\"\u003eShishkaberry\u003c/a\u003e, is a strongly psychoactive strain with long-lasting effects. The dense, conic buds carry a sour scent redolent of ammonia and induce powerful cerebral effects including euphoria, creativity, and stress relief. Its typically high THC content makes Blue Satellite a preferred daytime strain for appetite loss, nausea, glaucoma, and pain.\u003c/p\u003e\n","descriptionPlain":"Blue Satellite, the sativa offspring of Blueberry Sativa and Shishkaberry, is a strongly psychoactive strain with long-lasting effects. The dense, conic buds carry a sour scent redolent of ammonia and induce powerful cerebral effects including euphoria, creativity, and stress relief. Its typically high THC content makes Blue Satellite a preferred daytime strain for appetite loss, nausea, glaucoma, and pain.\n","aka":null,"rating":3.96,"highlightedReviews":[{"id":1388407,"username":"ChefD","text":"Starts quickly but levels to a nice overall body high without a lot of the head high.  No extra energy, but does not keep me glued to the couch.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"},{"id":1578100,"username":"DrPersico","text":"This is actually one of my favourite strains. Bought a gram to try it out and the name describes it as it comes, Blue satelite. It feels like you\u0027re lost in space but still awake.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/XRYqzYK3o4q7eiqa4tRKs0rwo7Q=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fW7fVX5AQLmXra7zAGlYf_wayfarers-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":49,"flavors":[{"name":"Sweet","score":10.685483870967742},{"name":"Blueberry","score":9.4758064516129039},{"name":"Plum","score":6.653225806451613},{"name":"Skunk","score":6.653225806451613},{"name":"Diesel","score":6.25}],"effects":[{"name":"Happy","score":35.887096774193552},{"name":"Euphoric","score":30.04032258064516},{"name":"Uplifted","score":24.193548387096776},{"name":"Talkative","score":20.967741935483872},{"name":"Energetic","score":19.35483870967742}],"symptoms":[{"name":"Pain","score":18.14516129032258},{"name":"Stress","score":17.137096774193548},{"name":"Nausea","score":14.919354838709678},{"name":"Depression","score":13.508064516129032},{"name":"Fatigue","score":8.6693548387096779}],"conditions":[{"name":"Anxiety","score":8.870967741935484},{"name":"Fibromyalgia","score":6.653225806451613},{"name":"Anorexia","score":6.25},{"name":"Migraines","score":3.6290322580645165},{"name":"ADD/ADHD","score":1.6129032258064515}],"negatives":[{"name":"Dry Mouth","score":20.161290322580644},{"name":"Dry Eyes","score":11.088709677419356},{"name":"Dizzy","score":9.4758064516129039},{"name":"Anxious","score":6.653225806451613},{"name":"Paranoid","score":4.032258064516129}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/blue-satellite_100x100_ebfb.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/660426/b/blue-satellite__primary_b60b.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/blue-satellite_100x100_d5db.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/537580/b/blue-satellite__primary_e744.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/blue-satellite_100x100_a855.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/516043/b/blue-satellite__primary_3647.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/blue-satellite_100x100_529f.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/415470/b/blue-satellite__primary_849f.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/blue-satellite_100x100_dbbc.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/352683/b/blue-satellite__primary_5f68.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/blue-satellite_100x100_78f5.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/335481/b/blue-satellite__primary_f8d2.jpg"}],"photoTotalCount":18,"popularCities":["Montréal, QC","Vancouver, BC","Calgary, AB","Fredericton, NB","Toronto, ON","Barrie, ON","Brampton, ON","Coquitlam, BC","Edmonton, AB","Granite Falls, WA"],"permalink":"https://mobileapi.leafly.com/sativa/blue-satellite","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/3.95918367346939/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Shishkaberry","subtitle":null,"slug":"shishkaberry","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/shishkaberry","symbol":"Shi","applink":"leafly://strain/shishkaberry"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Sativa",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 8.870967741935484
+        },
+        {
+            "name": "Fibromyalgia",
+            "score": 6.653225806451613
+        },
+        {
+            "name": "Anorexia",
+            "score": 6.25
+        },
+        {
+            "name": "Migraines",
+            "score": 3.6290322580645165
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 1.6129032258064515
+        }
+    ],
+    "description": "<p>Blue Satellite, the sativa offspring of Blueberry Sativa and <a href=\"http://www.leafly.com/hybrid/shishkaberry\">Shishkaberry</a>, is a strongly psychoactive strain with long-lasting effects. The dense, conic buds carry a sour scent redolent of ammonia and induce powerful cerebral effects including euphoria, creativity, and stress relief. Its typically high THC content makes Blue Satellite a preferred daytime strain for appetite loss, nausea, glaucoma, and pain.</p>\n",
+    "descriptionPlain": "Blue Satellite, the sativa offspring of Blueberry Sativa and Shishkaberry, is a strongly psychoactive strain with long-lasting effects. The dense, conic buds carry a sour scent redolent of ammonia and induce powerful cerebral effects including euphoria, creativity, and stress relief. Its typically high THC content makes Blue Satellite a preferred daytime strain for appetite loss, nausea, glaucoma, and pain.\n",
+    "effects": [
+        {
+            "name": "Happy",
+            "score": 35.88709677419355
+        },
+        {
+            "name": "Euphoric",
+            "score": 30.04032258064516
+        },
+        {
+            "name": "Uplifted",
+            "score": 24.193548387096776
+        },
+        {
+            "name": "Talkative",
+            "score": 20.967741935483872
+        },
+        {
+            "name": "Energetic",
+            "score": 19.35483870967742
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Sweet",
+            "score": 10.685483870967742
+        },
+        {
+            "name": "Blueberry",
+            "score": 9.475806451612904
+        },
+        {
+            "name": "Plum",
+            "score": 6.653225806451613
+        },
+        {
+            "name": "Skunk",
+            "score": 6.653225806451613
+        },
+        {
+            "name": "Diesel",
+            "score": 6.25
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1388407,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Starts quickly but levels to a nice overall body high without a lot of the head high.  No extra energy, but does not keep me glued to the couch.",
+            "username": "ChefD"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/XRYqzYK3o4q7eiqa4tRKs0rwo7Q=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fW7fVX5AQLmXra7zAGlYf_wayfarers-red.png",
+            "id": 1578100,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "This is actually one of my favourite strains. Bought a gram to try it out and the name describes it as it comes, Blue satelite. It feels like you're lost in space but still awake.",
+            "username": "DrPersico"
+        }
+    ],
+    "id": 259,
+    "name": "Blue Satellite",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 20.161290322580644
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 11.088709677419356
+        },
+        {
+            "name": "Dizzy",
+            "score": 9.475806451612904
+        },
+        {
+            "name": "Anxious",
+            "score": 6.653225806451613
+        },
+        {
+            "name": "Paranoid",
+            "score": 4.032258064516129
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/shishkaberry",
+            "category": "Indica",
+            "name": "Shishkaberry",
+            "permalink": "https://mobileapi.leafly.com/indica/shishkaberry",
+            "slug": "shishkaberry",
+            "subtitle": null,
+            "symbol": "Shi"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/sativa/blue-satellite",
+    "photoTotalCount": 18,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/660426/b/blue-satellite__primary_b60b.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/blue-satellite_100x100_ebfb.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/537580/b/blue-satellite__primary_e744.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/blue-satellite_100x100_d5db.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/516043/b/blue-satellite__primary_3647.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/blue-satellite_100x100_a855.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/415470/b/blue-satellite__primary_849f.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/blue-satellite_100x100_529f.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/352683/b/blue-satellite__primary_5f68.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/blue-satellite_100x100_dbbc.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/335481/b/blue-satellite__primary_f8d2.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/blue-satellite_100x100_78f5.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Montr\u00e9al, QC",
+        "Vancouver, BC",
+        "Calgary, AB",
+        "Fredericton, NB",
+        "Toronto, ON",
+        "Barrie, ON",
+        "Brampton, ON",
+        "Coquitlam, BC",
+        "Edmonton, AB",
+        "Granite Falls, WA"
+    ],
+    "rating": 3.96,
+    "relatedStrains": [],
+    "reviewCount": 49,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "blue-satellite",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/3.95918367346939/240",
+    "subtitle": null,
+    "symbol": "Blu",
+    "symptoms": [
+        {
+            "name": "Pain",
+            "score": 18.14516129032258
+        },
+        {
+            "name": "Stress",
+            "score": 17.137096774193548
+        },
+        {
+            "name": "Nausea",
+            "score": 14.919354838709678
+        },
+        {
+            "name": "Depression",
+            "score": 13.508064516129032
+        },
+        {
+            "name": "Fatigue",
+            "score": 8.669354838709678
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

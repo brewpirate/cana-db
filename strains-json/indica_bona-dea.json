@@ -1,1 +1,131 @@
-{"sl_translate":"description,descriptionPlain,category","id":501236,"slug":"bona-dea","name":"Bona Dea","subtitle":null,"symbol":"Bde","category":"Indica","description":"\u003cp\u003eBona Dea, also known as The Good Goddess, is a cross of \u003ca href=\"https://www.leafly.com/indica/northern-lights\"\u003eNorthern Lights\u003c/a\u003e, \u003ca href=\"https://www.leafly.com/indica/black-domina\"\u003eBlack Domina\u003c/a\u003e, and \u003ca href=\"https://www.leafly.com/indica/afghani\"\u003eAfghani\u003c/a\u003e. Created by Vision Seeds, this trio of classic strains comes together to create a resilient and resinous CBD-rich flower with enticing aromatic qualities. The smell and aroma are spicy and peppery, while the effects are lush and sedative. This 1:1 \u003ca href=\"https://www.leafly.com/news/science-tech/what-does-cbd-do\"\u003eCBD\u003c/a\u003e strain is an excellent choice for consumers trying to mute stress and encourage rest.\u0026nbsp;\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Bona Dea, also known as The Good Goddess, is a cross of Northern Lights, Black Domina, and Afghani. Created by Vision Seeds, this trio of classic strains comes together to create a resilient and resinous CBD-rich flower with enticing aromatic qualities. The smell and aroma are spicy and peppery, while the effects are lush and sedative. This 1:1 CBD strain is an excellent choice for consumers trying to mute stress and encourage rest.\u0026nbsp;\u0026nbsp;\n","aka":null,"rating":3.5,"highlightedReviews":[{"id":1603414,"username":"smokeyd97","text":"Very relaxing. I was able to focus and get things done without feeling stress and had a smile on my face. Would have rated 4 stars but the way it hit me was very random. About instantly after smoking I felt it but it wasn\u0027t until like 30 minutes later that it hit again but totally different and stronger, I felt a good head high that shouldn\u0027t of been there as an indica. It was a short, weird experience that only lasted 5 minutes or so but overall a great high. Has a sweet, earthy aroma and spicy earthy taste.  ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/3/240","avatar":"https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png"},{"id":1629409,"username":"jo199","text":"Moderate yield and one of the most relaxing with zero anxiety. Prune it well to push the bud development up and keep from having too many bud sites, which otherwise will be far too many and small. Gave about 80g in 18 weeks, with wonderful trim for butter.  Excellent medical plant.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/Pl-Y2_w7iIfXMq-susdCw64Abdk=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fZFL3vk8uSMmuki8G4w8c_old-school-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":2,"flavors":[{"name":"Spicy/Herbal","score":50},{"name":"Sweet","score":50},{"name":"Earthy","score":50},{"name":"Skunk","score":50}],"effects":[{"name":"Relaxed","score":100},{"name":"Sleepy","score":50},{"name":"Talkative","score":50},{"name":"Uplifted","score":50},{"name":"Energetic","score":50}],"symptoms":[{"name":"Insomnia","score":50},{"name":"Lack of Appetite","score":50},{"name":"Pain","score":50}],"conditions":[{"name":"Bipolar Disorder","score":50},{"name":"Tinnitus","score":50}],"negatives":[{"name":"Dizzy","score":50},{"name":"Dry Eyes","score":50},{"name":"Dry Mouth","score":50}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/indica/bona-dea","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/3.5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Bipolar Disorder",
+            "score": 50
+        },
+        {
+            "name": "Tinnitus",
+            "score": 50
+        }
+    ],
+    "description": "<p>Bona Dea, also known as The Good Goddess, is a cross of <a href=\"https://www.leafly.com/indica/northern-lights\">Northern Lights</a>, <a href=\"https://www.leafly.com/indica/black-domina\">Black Domina</a>, and <a href=\"https://www.leafly.com/indica/afghani\">Afghani</a>. Created by Vision Seeds, this trio of classic strains comes together to create a resilient and resinous CBD-rich flower with enticing aromatic qualities. The smell and aroma are spicy and peppery, while the effects are lush and sedative. This 1:1 <a href=\"https://www.leafly.com/news/science-tech/what-does-cbd-do\">CBD</a> strain is an excellent choice for consumers trying to mute stress and encourage rest.&nbsp;&nbsp;</p>\n",
+    "descriptionPlain": "Bona Dea, also known as The Good Goddess, is a cross of Northern Lights, Black Domina, and Afghani. Created by Vision Seeds, this trio of classic strains comes together to create a resilient and resinous CBD-rich flower with enticing aromatic qualities. The smell and aroma are spicy and peppery, while the effects are lush and sedative. This 1:1 CBD strain is an excellent choice for consumers trying to mute stress and encourage rest.&nbsp;&nbsp;\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 100
+        },
+        {
+            "name": "Sleepy",
+            "score": 50
+        },
+        {
+            "name": "Talkative",
+            "score": 50
+        },
+        {
+            "name": "Uplifted",
+            "score": 50
+        },
+        {
+            "name": "Energetic",
+            "score": 50
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Spicy/Herbal",
+            "score": 50
+        },
+        {
+            "name": "Sweet",
+            "score": 50
+        },
+        {
+            "name": "Earthy",
+            "score": 50
+        },
+        {
+            "name": "Skunk",
+            "score": 50
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png",
+            "id": 1603414,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/3/240",
+            "text": "Very relaxing. I was able to focus and get things done without feeling stress and had a smile on my face. Would have rated 4 stars but the way it hit me was very random. About instantly after smoking I felt it but it wasn't until like 30 minutes later that it hit again but totally different and stronger, I felt a good head high that shouldn't of been there as an indica. It was a short, weird experience that only lasted 5 minutes or so but overall a great high. Has a sweet, earthy aroma and spicy earthy taste.  ",
+            "username": "smokeyd97"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/Pl-Y2_w7iIfXMq-susdCw64Abdk=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fZFL3vk8uSMmuki8G4w8c_old-school-purple.png",
+            "id": 1629409,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Moderate yield and one of the most relaxing with zero anxiety. Prune it well to push the bud development up and keep from having too many bud sites, which otherwise will be far too many and small. Gave about 80g in 18 weeks, with wonderful trim for butter.  Excellent medical plant.",
+            "username": "jo199"
+        }
+    ],
+    "id": 501236,
+    "name": "Bona Dea",
+    "negatives": [
+        {
+            "name": "Dizzy",
+            "score": 50
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 50
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 50
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/indica/bona-dea",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 3.5,
+    "relatedStrains": [],
+    "reviewCount": 2,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "bona-dea",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/3.5/240",
+    "subtitle": null,
+    "symbol": "Bde",
+    "symptoms": [
+        {
+            "name": "Insomnia",
+            "score": 50
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 50
+        },
+        {
+            "name": "Pain",
+            "score": 50
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

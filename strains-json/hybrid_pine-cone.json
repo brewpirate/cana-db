@@ -1,1 +1,173 @@
-{"sl_translate":"description,descriptionPlain,category","id":255503,"slug":"pine-cone","name":"Pine Cone","subtitle":null,"symbol":"Pcn","category":"Hybrid","description":"\u003cp\u003ePine Cone by Glen\u0026rsquo;s Plant Farm is the hybrid cross of Blue Tahoe and \u003ca href=\"https://www.leafly.com/sativa/cinex\"\u003eCinex\u003c/a\u003e. This combination develops a strong forest aroma and tight resinous nuggets that explode with earthy flavor upon vaporization or combustion. Cinex elevates the weighted haze of Blue Tahoe, balancing soothing body effects against clear-headed stimulation. Utilize Pine Cone to abate stress, spur creativity, and relax the body. \u0026nbsp;\u0026nbsp;\u003c/p\u003e\n\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Pine Cone by Glen\u0026rsquo;s Plant Farm is the hybrid cross of Blue Tahoe and Cinex. This combination develops a strong forest aroma and tight resinous nuggets that explode with earthy flavor upon vaporization or combustion. Cinex elevates the weighted haze of Blue Tahoe, balancing soothing body effects against clear-headed stimulation. Utilize Pine Cone to abate stress, spur creativity, and relax the body. \u0026nbsp;\u0026nbsp;\n\n\u0026nbsp;\n","aka":null,"rating":4.67,"highlightedReviews":[{"id":1380704,"username":"Purplekushprincess80","text":"This strain is definitely for cleaning the house and getting shit done keep your eyes wide open and makes you smarter more creative more focused and happy and wild and crazy all at the same time the shit is the shit!!","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png"},{"id":1535984,"username":"TehMilkMan","text":"Real good Sativa for activities!  I hit some after a workout and it keeps my body relieved while not knocking me out, as I like to stay active.  If you use a vape, hit it at higher (400°F) Temps to get smacked with euphoria, creativity, and a real numbing buzz. Tastes of \"forests\" and \"pine\". ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":3,"flavors":[{"name":"Pine","score":75},{"name":"Woody","score":62.5},{"name":"Spicy/Herbal","score":37.5},{"name":"Earthy","score":37.5},{"name":"Nutty","score":12.5}],"effects":[{"name":"Creative","score":75},{"name":"Euphoric","score":62.5},{"name":"Happy","score":62.5},{"name":"Uplifted","score":50},{"name":"Focused","score":50}],"symptoms":[{"name":"Depression","score":75},{"name":"Stress","score":75},{"name":"Fatigue","score":50},{"name":"Inflammation","score":50},{"name":"Pain","score":50}],"conditions":[{"name":"PTSD","score":50},{"name":"Anxiety","score":37.5},{"name":"Gastrointestinal Disorder","score":37.5},{"name":"Arthritis","score":25},{"name":"ADD/ADHD","score":12.5}],"negatives":[{"name":"Dry Mouth","score":62.5},{"name":"Paranoid","score":50},{"name":"Dry Eyes","score":37.5}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/pine-cone_100x100_f472.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/605102/b/pine-cone__primary_733f.jpg"}],"photoTotalCount":1,"popularCities":["Washington, DC"],"permalink":"https://mobileapi.leafly.com/hybrid/pine-cone","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.66666666666667/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Cinex","subtitle":null,"slug":"cinex","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/cinex","symbol":"Cnx","applink":"leafly://strain/cinex"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "PTSD",
+            "score": 50
+        },
+        {
+            "name": "Anxiety",
+            "score": 37.5
+        },
+        {
+            "name": "Gastrointestinal Disorder",
+            "score": 37.5
+        },
+        {
+            "name": "Arthritis",
+            "score": 25
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 12.5
+        }
+    ],
+    "description": "<p>Pine Cone by Glen&rsquo;s Plant Farm is the hybrid cross of Blue Tahoe and <a href=\"https://www.leafly.com/sativa/cinex\">Cinex</a>. This combination develops a strong forest aroma and tight resinous nuggets that explode with earthy flavor upon vaporization or combustion. Cinex elevates the weighted haze of Blue Tahoe, balancing soothing body effects against clear-headed stimulation. Utilize Pine Cone to abate stress, spur creativity, and relax the body. &nbsp;&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+    "descriptionPlain": "Pine Cone by Glen&rsquo;s Plant Farm is the hybrid cross of Blue Tahoe and Cinex. This combination develops a strong forest aroma and tight resinous nuggets that explode with earthy flavor upon vaporization or combustion. Cinex elevates the weighted haze of Blue Tahoe, balancing soothing body effects against clear-headed stimulation. Utilize Pine Cone to abate stress, spur creativity, and relax the body. &nbsp;&nbsp;\n\n&nbsp;\n",
+    "effects": [
+        {
+            "name": "Creative",
+            "score": 75
+        },
+        {
+            "name": "Euphoric",
+            "score": 62.5
+        },
+        {
+            "name": "Happy",
+            "score": 62.5
+        },
+        {
+            "name": "Uplifted",
+            "score": 50
+        },
+        {
+            "name": "Focused",
+            "score": 50
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Pine",
+            "score": 75
+        },
+        {
+            "name": "Woody",
+            "score": 62.5
+        },
+        {
+            "name": "Spicy/Herbal",
+            "score": 37.5
+        },
+        {
+            "name": "Earthy",
+            "score": 37.5
+        },
+        {
+            "name": "Nutty",
+            "score": 12.5
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png",
+            "id": 1380704,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "This strain is definitely for cleaning the house and getting shit done keep your eyes wide open and makes you smarter more creative more focused and happy and wild and crazy all at the same time the shit is the shit!!",
+            "username": "Purplekushprincess80"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png",
+            "id": 1535984,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Real good Sativa for activities!  I hit some after a workout and it keeps my body relieved while not knocking me out, as I like to stay active.  If you use a vape, hit it at higher (400\u00b0F) Temps to get smacked with euphoria, creativity, and a real numbing buzz. Tastes of \"forests\" and \"pine\". ",
+            "username": "TehMilkMan"
+        }
+    ],
+    "id": 255503,
+    "name": "Pine Cone",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 62.5
+        },
+        {
+            "name": "Paranoid",
+            "score": 50
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 37.5
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/cinex",
+            "category": "Sativa",
+            "name": "Cinex",
+            "permalink": "https://mobileapi.leafly.com/sativa/cinex",
+            "slug": "cinex",
+            "subtitle": null,
+            "symbol": "Cnx"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/pine-cone",
+    "photoTotalCount": 1,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/605102/b/pine-cone__primary_733f.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/pine-cone_100x100_f472.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Washington, DC"
+    ],
+    "rating": 4.67,
+    "relatedStrains": [],
+    "reviewCount": 3,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "pine-cone",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.66666666666667/240",
+    "subtitle": null,
+    "symbol": "Pcn",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 75
+        },
+        {
+            "name": "Stress",
+            "score": 75
+        },
+        {
+            "name": "Fatigue",
+            "score": 50
+        },
+        {
+            "name": "Inflammation",
+            "score": 50
+        },
+        {
+            "name": "Pain",
+            "score": 50
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

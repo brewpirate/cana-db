@@ -1,1 +1,190 @@
-{"sl_translate":"description,descriptionPlain,category","id":190,"slug":"organic-diesel","name":"Organic Diesel","subtitle":null,"symbol":"Ord","category":"Hybrid","description":null,"descriptionPlain":"","aka":null,"rating":4.5,"highlightedReviews":[{"id":1357272,"username":"lulascoots","text":"I may have just found my soul mate. I picked this up when a friend was in town, and I would take two hits, and I have never felt so adventurous. I suffer with anxiety and depression, and this herb makes me feel righteous. I found the only smoke I need to have in my life...I smoke it before I go out with friends to be chill...then when I get home, I smoke to relax. It\u0027s an excellent sativa-dominate hybrid that wakes you up like a cup of Joe, but will also calm you when you\u0027re super tired, and need to relax. Highly recommended. Especiallly if you have anxiety, it will make your brain stop freaking you out for 5 seconds - but don\u0027t overdo it: smoked a tad too much and started giving me anxiety. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"},{"id":1477863,"username":"beanatello420","text":"are u searching for vintage, uplifting dank ass 🌳??? then ur in luck bro bro !! smoke this and forget all ur problems.. 👌🏼🔥","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/tAHHcVjF5EvieYWgrsxPA0WBCr8=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fRAbBXkNBSHOIMMxhio7k_wide-brim-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":18,"flavors":[{"name":"Pungent","score":119.66666666666666},{"name":"Flowery","score":100},{"name":"Diesel","score":20.666666666666664},{"name":"Tobacco","score":16.666666666666664},{"name":"Sweet","score":2}],"effects":[{"name":"Uplifted","score":143.33333333333331},{"name":"Happy","score":128.66666666666666},{"name":"Euphoric","score":111},{"name":"Relaxed","score":108},{"name":"Tingly","score":103}],"symptoms":[{"name":"Stress","score":23.666666666666664},{"name":"Depression","score":20.666666666666664},{"name":"Pain","score":20.666666666666664},{"name":"Headaches","score":19.666666666666664},{"name":"Nausea","score":18.666666666666664}],"conditions":[{"name":"ADD/ADHD","score":17.666666666666664},{"name":"Bipolar Disorder","score":17.666666666666664},{"name":"Migraines","score":6},{"name":"Anxiety","score":4},{"name":"Arthritis","score":1}],"negatives":[{"name":"Dry Eyes","score":104},{"name":"Dry Mouth","score":4},{"name":"Dizzy","score":2},{"name":"Paranoid","score":1}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/organic-diesel_100x100_da24.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/412975/b/organic-diesel__primary_bb9c.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/organic-diesel_100x100_68df.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/392225/b/organic-diesel__primary_7c8a.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/organic-diesel_100x100_6af6.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/376670/b/organic-diesel__primary_fa8c.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/organic-diesel_100x100_359a.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/365747/b/organic-diesel__primary_3018.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/organic-diesel_100x100_f08b.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/189292/b/organic-diesel__primary_8008.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/organic-diesel_100x100_9e2a.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/55134/b/organic-diesel_825x550_37ae.jpg"}],"photoTotalCount":11,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/organic-diesel","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "ADD/ADHD",
+            "score": 17.666666666666664
+        },
+        {
+            "name": "Bipolar Disorder",
+            "score": 17.666666666666664
+        },
+        {
+            "name": "Migraines",
+            "score": 6
+        },
+        {
+            "name": "Anxiety",
+            "score": 4
+        },
+        {
+            "name": "Arthritis",
+            "score": 1
+        }
+    ],
+    "description": null,
+    "descriptionPlain": "",
+    "effects": [
+        {
+            "name": "Uplifted",
+            "score": 143.33333333333331
+        },
+        {
+            "name": "Happy",
+            "score": 128.66666666666666
+        },
+        {
+            "name": "Euphoric",
+            "score": 111
+        },
+        {
+            "name": "Relaxed",
+            "score": 108
+        },
+        {
+            "name": "Tingly",
+            "score": 103
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Pungent",
+            "score": 119.66666666666666
+        },
+        {
+            "name": "Flowery",
+            "score": 100
+        },
+        {
+            "name": "Diesel",
+            "score": 20.666666666666664
+        },
+        {
+            "name": "Tobacco",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Sweet",
+            "score": 2
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1357272,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "I may have just found my soul mate. I picked this up when a friend was in town, and I would take two hits, and I have never felt so adventurous. I suffer with anxiety and depression, and this herb makes me feel righteous. I found the only smoke I need to have in my life...I smoke it before I go out with friends to be chill...then when I get home, I smoke to relax. It's an excellent sativa-dominate hybrid that wakes you up like a cup of Joe, but will also calm you when you're super tired, and need to relax. Highly recommended. Especiallly if you have anxiety, it will make your brain stop freaking you out for 5 seconds - but don't overdo it: smoked a tad too much and started giving me anxiety. ",
+            "username": "lulascoots"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/tAHHcVjF5EvieYWgrsxPA0WBCr8=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fRAbBXkNBSHOIMMxhio7k_wide-brim-red.png",
+            "id": 1477863,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "are u searching for vintage, uplifting dank ass \ud83c\udf33??? then ur in luck bro bro !! smoke this and forget all ur problems.. \ud83d\udc4c\ud83c\udffc\ud83d\udd25",
+            "username": "beanatello420"
+        }
+    ],
+    "id": 190,
+    "name": "Organic Diesel",
+    "negatives": [
+        {
+            "name": "Dry Eyes",
+            "score": 104
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 4
+        },
+        {
+            "name": "Dizzy",
+            "score": 2
+        },
+        {
+            "name": "Paranoid",
+            "score": 1
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/hybrid/organic-diesel",
+    "photoTotalCount": 11,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/412975/b/organic-diesel__primary_bb9c.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/organic-diesel_100x100_da24.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/392225/b/organic-diesel__primary_7c8a.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/organic-diesel_100x100_68df.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/376670/b/organic-diesel__primary_fa8c.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/organic-diesel_100x100_6af6.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/365747/b/organic-diesel__primary_3018.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/organic-diesel_100x100_359a.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/189292/b/organic-diesel__primary_8008.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/organic-diesel_100x100_f08b.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/55134/b/organic-diesel_825x550_37ae.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/organic-diesel_100x100_9e2a.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [],
+    "rating": 4.5,
+    "relatedStrains": [],
+    "reviewCount": 18,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "organic-diesel",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.5/240",
+    "subtitle": null,
+    "symbol": "Ord",
+    "symptoms": [
+        {
+            "name": "Stress",
+            "score": 23.666666666666664
+        },
+        {
+            "name": "Depression",
+            "score": 20.666666666666664
+        },
+        {
+            "name": "Pain",
+            "score": 20.666666666666664
+        },
+        {
+            "name": "Headaches",
+            "score": 19.666666666666664
+        },
+        {
+            "name": "Nausea",
+            "score": 18.666666666666664
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

@@ -1,1 +1,59 @@
-{"sl_translate":"description,descriptionPlain,category","id":264399,"slug":"boombaye","name":"Boombaye","subtitle":null,"symbol":"Bye","category":"Hybrid","description":"\u003cp\u003eBoombaye by Mr. Mack\u0026rsquo;s Snack is a \u003ca href=\"https://www.leafly.com/news/cannabis-101/whats-the-deal-with-these-high-cbd-strains\"\u003eCBD-rich\u003c/a\u003e strain that incorporates heavy Kush genetics and a pungent terpene profile. This strain was created by combining the sweet and earthy styling of Gelato Cookies with Mr. Mack\u0026rsquo;s own \u003ca href=\"https://www.leafly.com/sativa/micky-kush\"\u003eMickey Kush\u003c/a\u003e. The sedative weight of this strain is tempered with time, leaving the consumer functionally relaxed. Boombaye pays homage to the late Muhammad Ali and his iconic fight, The Rumble in The Jungle, where the crowd chanted \u0026ldquo;Ali, boma ye,\u0026rdquo; which is Lingala for \u0026ldquo;Ali, kill him.\u0026rdquo; Mind the one-two punch behind this strain, as it might get you knocked out. \u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Boombaye by Mr. Mack\u0026rsquo;s Snack is a CBD-rich strain that incorporates heavy Kush genetics and a pungent terpene profile. This strain was created by combining the sweet and earthy styling of Gelato Cookies with Mr. Mack\u0026rsquo;s own Mickey Kush. The sedative weight of this strain is tempered with time, leaving the consumer functionally relaxed. Boombaye pays homage to the late Muhammad Ali and his iconic fight, The Rumble in The Jungle, where the crowd chanted \u0026ldquo;Ali, boma ye,\u0026rdquo; which is Lingala for \u0026ldquo;Ali, kill him.\u0026rdquo; Mind the one-two punch behind this strain, as it might get you knocked out. \u0026nbsp;\n","aka":null,"rating":0,"highlightedReviews":[],"relatedStrains":[],"articles":[],"reviewCount":0,"flavors":[],"effects":[],"symptoms":[],"conditions":[],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/boombaye_100x100_0214.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/599786/b/boombaye__primary_875c.jpg"}],"photoTotalCount":1,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/boombaye","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/0/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Mickey Kush","subtitle":null,"slug":"micky-kush","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/micky-kush","symbol":"Mik","applink":"leafly://strain/micky-kush"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [],
+    "description": "<p>Boombaye by Mr. Mack&rsquo;s Snack is a <a href=\"https://www.leafly.com/news/cannabis-101/whats-the-deal-with-these-high-cbd-strains\">CBD-rich</a> strain that incorporates heavy Kush genetics and a pungent terpene profile. This strain was created by combining the sweet and earthy styling of Gelato Cookies with Mr. Mack&rsquo;s own <a href=\"https://www.leafly.com/sativa/micky-kush\">Mickey Kush</a>. The sedative weight of this strain is tempered with time, leaving the consumer functionally relaxed. Boombaye pays homage to the late Muhammad Ali and his iconic fight, The Rumble in The Jungle, where the crowd chanted &ldquo;Ali, boma ye,&rdquo; which is Lingala for &ldquo;Ali, kill him.&rdquo; Mind the one-two punch behind this strain, as it might get you knocked out. &nbsp;</p>\n",
+    "descriptionPlain": "Boombaye by Mr. Mack&rsquo;s Snack is a CBD-rich strain that incorporates heavy Kush genetics and a pungent terpene profile. This strain was created by combining the sweet and earthy styling of Gelato Cookies with Mr. Mack&rsquo;s own Mickey Kush. The sedative weight of this strain is tempered with time, leaving the consumer functionally relaxed. Boombaye pays homage to the late Muhammad Ali and his iconic fight, The Rumble in The Jungle, where the crowd chanted &ldquo;Ali, boma ye,&rdquo; which is Lingala for &ldquo;Ali, kill him.&rdquo; Mind the one-two punch behind this strain, as it might get you knocked out. &nbsp;\n",
+    "effects": [],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [],
+    "id": 264399,
+    "name": "Boombaye",
+    "negatives": [],
+    "parents": [
+        {
+            "applink": "leafly://strain/micky-kush",
+            "category": "Sativa",
+            "name": "Mickey Kush",
+            "permalink": "https://mobileapi.leafly.com/sativa/micky-kush",
+            "slug": "micky-kush",
+            "subtitle": null,
+            "symbol": "Mik"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/boombaye",
+    "photoTotalCount": 1,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/599786/b/boombaye__primary_875c.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/boombaye_100x100_0214.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [],
+    "rating": 0,
+    "relatedStrains": [],
+    "reviewCount": 0,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "boombaye",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/0/240",
+    "subtitle": null,
+    "symbol": "Bye",
+    "symptoms": [],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

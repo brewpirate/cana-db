@@ -1,1 +1,189 @@
-{"sl_translate":"description,descriptionPlain,category","id":347,"slug":"alohaberry","name":"Alohaberry","subtitle":null,"symbol":"Alb","category":"Hybrid","description":"\u003cp\u003eOriginating from the tropical islands of Hawaii, Alohaberry releases a pleasant aroma and taste of tropical berries. It is known for its unique sweet taste and because it is an equal hybrid, the effects are both mind and body.\u0026nbsp;\u003cspan style=\"line-height: 1.6em;\"\u003eFlowering time for this plant is approximately 8-9 weeks.\u003c/span\u003e\u003c/p\u003e\n","descriptionPlain":"Originating from the tropical islands of Hawaii, Alohaberry releases a pleasant aroma and taste of tropical berries. It is known for its unique sweet taste and because it is an equal hybrid, the effects are both mind and body.\u0026nbsp;Flowering time for this plant is approximately 8-9 weeks.\n","aka":"Aloha Berry","rating":4.16,"highlightedReviews":[{"id":1366242,"username":"ThaBlasian206","text":"Picked up an oz of this from the Green Door in Seattle and just vaped about three bowls. It\u0027s blowing up my head right now. I feel energized but a calm energized, I am ready to handle any task and I can imagine playing sports, going to school, exercising, or anything I else I feel like setting my mind to. I feel very happy and satisfied with how everything is, an \"accepting\" feeling is how I would put it. A very energizing and confident boosting hybrid.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/bn1HUI7tvLyn0Fkk1dLIMSCvROQ=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fUxAMHptTuuQR3BjlU2Hc_nerd-purple.png"},{"id":1473148,"username":"Shaneconklin1","text":"Tastes like Hawaii on a hot summer day. (Extra ice pop and water slide)\n","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/5DsWrIpoq-56NpD59UXAqpoVN88=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fqSLuo6zNRCeIia1paBYS_wayfarers-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":25,"flavors":[{"name":"Berry","score":53.289473684210527},{"name":"Apple","score":50},{"name":"Chestnut","score":50},{"name":"Sweet","score":2.6315789473684208},{"name":"Citrus","score":1.3157894736842104}],"effects":[{"name":"Energetic","score":59.868421052631575},{"name":"Uplifted","score":56.578947368421055},{"name":"Aroused","score":54.60526315789474},{"name":"Tingly","score":50.6578947368421},{"name":"Happy","score":11.184210526315789}],"symptoms":[{"name":"Eye Pressure","score":50},{"name":"Seizures","score":50},{"name":"Stress","score":11.184210526315789},{"name":"Pain","score":7.2368421052631584},{"name":"Depression","score":5.2631578947368416}],"conditions":[{"name":"Anxiety","score":55.921052631578945},{"name":"Anorexia","score":50},{"name":"Asthma","score":50},{"name":"Migraines","score":2.6315789473684208},{"name":"Gastrointestinal Disorder","score":1.9736842105263157}],"negatives":[{"name":"Dry Mouth","score":5.9210526315789469},{"name":"Dry Eyes","score":3.2894736842105261},{"name":"Paranoid","score":1.3157894736842104}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/alohaberry_100x100_1bf0.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/297259/b/alohaberry__primary_5a5a.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/alohaberry_100x100_5013.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/84252/b/alohaberry_825x550_5ef6.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/alohaberry_100x100_9871.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/76344/b/alohaberry_825x550_b8c5.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/alohaberry_100x100_4be3.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/76460/b/alohaberry_825x550_eda6.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/alohaberry_100x100_fa7f.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/57707/b/alohaberry_825x550_7c32.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/alohaberry_100x100_7db1.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/57511/b/alohaberry_825x550_3567.jpg"}],"photoTotalCount":12,"popularCities":["Seattle, WA","Vancouver, BC"],"permalink":"https://mobileapi.leafly.com/hybrid/alohaberry","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.16/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":60,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": "Aloha Berry",
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 55.921052631578945
+        },
+        {
+            "name": "Anorexia",
+            "score": 50
+        },
+        {
+            "name": "Asthma",
+            "score": 50
+        },
+        {
+            "name": "Migraines",
+            "score": 2.631578947368421
+        },
+        {
+            "name": "Gastrointestinal Disorder",
+            "score": 1.9736842105263157
+        }
+    ],
+    "description": "<p>Originating from the tropical islands of Hawaii, Alohaberry releases a pleasant aroma and taste of tropical berries. It is known for its unique sweet taste and because it is an equal hybrid, the effects are both mind and body.&nbsp;<span style=\"line-height: 1.6em;\">Flowering time for this plant is approximately 8-9 weeks.</span></p>\n",
+    "descriptionPlain": "Originating from the tropical islands of Hawaii, Alohaberry releases a pleasant aroma and taste of tropical berries. It is known for its unique sweet taste and because it is an equal hybrid, the effects are both mind and body.&nbsp;Flowering time for this plant is approximately 8-9 weeks.\n",
+    "effects": [
+        {
+            "name": "Energetic",
+            "score": 59.868421052631575
+        },
+        {
+            "name": "Uplifted",
+            "score": 56.578947368421055
+        },
+        {
+            "name": "Aroused",
+            "score": 54.60526315789474
+        },
+        {
+            "name": "Tingly",
+            "score": 50.6578947368421
+        },
+        {
+            "name": "Happy",
+            "score": 11.18421052631579
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Berry",
+            "score": 53.28947368421053
+        },
+        {
+            "name": "Apple",
+            "score": 50
+        },
+        {
+            "name": "Chestnut",
+            "score": 50
+        },
+        {
+            "name": "Sweet",
+            "score": 2.631578947368421
+        },
+        {
+            "name": "Citrus",
+            "score": 1.3157894736842104
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 60,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/bn1HUI7tvLyn0Fkk1dLIMSCvROQ=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fUxAMHptTuuQR3BjlU2Hc_nerd-purple.png",
+            "id": 1366242,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Picked up an oz of this from the Green Door in Seattle and just vaped about three bowls. It's blowing up my head right now. I feel energized but a calm energized, I am ready to handle any task and I can imagine playing sports, going to school, exercising, or anything I else I feel like setting my mind to. I feel very happy and satisfied with how everything is, an \"accepting\" feeling is how I would put it. A very energizing and confident boosting hybrid.",
+            "username": "ThaBlasian206"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/5DsWrIpoq-56NpD59UXAqpoVN88=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fqSLuo6zNRCeIia1paBYS_wayfarers-purple.png",
+            "id": 1473148,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Tastes like Hawaii on a hot summer day. (Extra ice pop and water slide)\n",
+            "username": "Shaneconklin1"
+        }
+    ],
+    "id": 347,
+    "name": "Alohaberry",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 5.921052631578947
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 3.289473684210526
+        },
+        {
+            "name": "Paranoid",
+            "score": 1.3157894736842104
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/hybrid/alohaberry",
+    "photoTotalCount": 12,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/297259/b/alohaberry__primary_5a5a.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/alohaberry_100x100_1bf0.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/84252/b/alohaberry_825x550_5ef6.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/alohaberry_100x100_5013.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/76344/b/alohaberry_825x550_b8c5.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/alohaberry_100x100_9871.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/76460/b/alohaberry_825x550_eda6.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/alohaberry_100x100_4be3.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/57707/b/alohaberry_825x550_7c32.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/alohaberry_100x100_fa7f.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/57511/b/alohaberry_825x550_3567.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/alohaberry_100x100_7db1.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Seattle, WA",
+        "Vancouver, BC"
+    ],
+    "rating": 4.16,
+    "relatedStrains": [],
+    "reviewCount": 25,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "alohaberry",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.16/240",
+    "subtitle": null,
+    "symbol": "Alb",
+    "symptoms": [
+        {
+            "name": "Eye Pressure",
+            "score": 50
+        },
+        {
+            "name": "Seizures",
+            "score": 50
+        },
+        {
+            "name": "Stress",
+            "score": 11.18421052631579
+        },
+        {
+            "name": "Pain",
+            "score": 7.236842105263158
+        },
+        {
+            "name": "Depression",
+            "score": 5.263157894736842
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

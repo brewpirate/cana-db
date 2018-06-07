@@ -1,1 +1,181 @@
-{"sl_translate":"description,descriptionPlain,category","id":84368,"slug":"copper-kush","name":"Copper Kush","subtitle":null,"symbol":"Cpk","category":"Indica","description":"\u003cp\u003eCopper Kush is an 80% \u003ca href=\"http://leafly.com/indica\"\u003eindica\u003c/a\u003e cross between \u003ca href=\"https://www.leafly.com/indica/frankenstein\"\u003eFrankenstein\u003c/a\u003e and \u003ca href=\"http://www.leafly.com/indica/lemon-og\"\u003eLemon OG Kush\u003c/a\u003e bred by Nine Point Growth Industries in Washington. With aromas of \u003ca href=\"http://www.leafly.com/explore#!/explore/flavors-earthy\"\u003eearthy\u003c/a\u003e \u003ca href=\"http://www.leafly.com/explore#!/explore/flavors-pine\"\u003epine\u003c/a\u003e and zesty \u003ca href=\"http://www.leafly.com/explore#!/explore/flavors-lemon\"\u003elemon\u003c/a\u003e, Copper Kush delivers swift \u003ca href=\"http://www.leafly.com/explore#!/explore/tags-relaxed\"\u003erelaxation\u003c/a\u003e of both mind and body, and progresses into comfortable \u003ca href=\"http://www.leafly.com/explore#!/explore/tags-focused\"\u003efocus\u003c/a\u003e and introspection over time. Copper Kush is grown in a soil medium, and is available for purchase in \u003ca href=\"http://leafly.com/wa\"\u003eWashington\u0026rsquo;s recreational cannabis\u003c/a\u003e stores.\u003c/p\u003e\n","descriptionPlain":"Copper Kush is an 80% indica cross between Frankenstein and Lemon OG Kush bred by Nine Point Growth Industries in Washington. With aromas of earthy pine and zesty lemon, Copper Kush delivers swift relaxation of both mind and body, and progresses into comfortable focus and introspection over time. Copper Kush is grown in a soil medium, and is available for purchase in Washington\u0026rsquo;s recreational cannabis stores.\n","aka":null,"rating":3.86,"highlightedReviews":[{"id":1094856,"username":"fernleafly","text":"Mostly a body high and very strong. Felt it quickly but the more intense body high came a little later. Made me very sleepy and tingly, a great nighttime smoke but not if you want to do anything other than zombie-out. Great smell, too.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/3/240","avatar":"https://ddd33q3967xhi.cloudfront.net/lJ2VY3JcKjYut_50Yn5tnVlftCU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fGkYePhpuTiO6OltZh89O_wide-brim-purple.png"},{"id":1177416,"username":"pinkdaisycat","text":"I like this strain mainly because it doesn\u0027t give me the munchies. It brought me mild relaxation while still allowing enough focus and mental clarity to continue daily activities and work. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/5DsWrIpoq-56NpD59UXAqpoVN88=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fqSLuo6zNRCeIia1paBYS_wayfarers-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":7,"flavors":[{"name":"Earthy","score":10},{"name":"Pungent","score":5},{"name":"Woody","score":5},{"name":"Pine","score":5},{"name":"Spicy/Herbal","score":2.5}],"effects":[{"name":"Relaxed","score":170},{"name":"Sleepy","score":152.5},{"name":"Happy","score":110},{"name":"Tingly","score":105},{"name":"Giggly","score":102.5}],"symptoms":[{"name":"Cramps","score":55},{"name":"Insomnia","score":52.5},{"name":"Depression","score":5},{"name":"Headaches","score":5},{"name":"Pain","score":5}],"conditions":[{"name":"Migraines","score":5},{"name":"Anxiety","score":2.5},{"name":"Asthma","score":2.5}],"negatives":[{"name":"Dry Eyes","score":100},{"name":"Dry Mouth","score":100},{"name":"Dizzy","score":2.5}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/copper-kush_100x100_e1a5.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/292820/b/copper-kush__primary_c98e.jpg"}],"photoTotalCount":1,"popularCities":["Calgary, AB","Hamilton, ON","Las Vegas, NV","Montréal, QC","Portland, ME","Toronto, ON","Vancouver, BC","Winnipeg, MB"],"permalink":"https://mobileapi.leafly.com/indica/copper-kush","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/3.85714285714286/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Frankenstein","subtitle":null,"slug":"frankenstein","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/frankenstein","symbol":"Fks","applink":"leafly://strain/frankenstein"},{"name":"Lemon OG Kush","subtitle":null,"slug":"lemon-og","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/lemon-og","symbol":"Leg","applink":"leafly://strain/lemon-og"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Migraines",
+            "score": 5
+        },
+        {
+            "name": "Anxiety",
+            "score": 2.5
+        },
+        {
+            "name": "Asthma",
+            "score": 2.5
+        }
+    ],
+    "description": "<p>Copper Kush is an 80% <a href=\"http://leafly.com/indica\">indica</a> cross between <a href=\"https://www.leafly.com/indica/frankenstein\">Frankenstein</a> and <a href=\"http://www.leafly.com/indica/lemon-og\">Lemon OG Kush</a> bred by Nine Point Growth Industries in Washington. With aromas of <a href=\"http://www.leafly.com/explore#!/explore/flavors-earthy\">earthy</a> <a href=\"http://www.leafly.com/explore#!/explore/flavors-pine\">pine</a> and zesty <a href=\"http://www.leafly.com/explore#!/explore/flavors-lemon\">lemon</a>, Copper Kush delivers swift <a href=\"http://www.leafly.com/explore#!/explore/tags-relaxed\">relaxation</a> of both mind and body, and progresses into comfortable <a href=\"http://www.leafly.com/explore#!/explore/tags-focused\">focus</a> and introspection over time. Copper Kush is grown in a soil medium, and is available for purchase in <a href=\"http://leafly.com/wa\">Washington&rsquo;s recreational cannabis</a> stores.</p>\n",
+    "descriptionPlain": "Copper Kush is an 80% indica cross between Frankenstein and Lemon OG Kush bred by Nine Point Growth Industries in Washington. With aromas of earthy pine and zesty lemon, Copper Kush delivers swift relaxation of both mind and body, and progresses into comfortable focus and introspection over time. Copper Kush is grown in a soil medium, and is available for purchase in Washington&rsquo;s recreational cannabis stores.\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 170
+        },
+        {
+            "name": "Sleepy",
+            "score": 152.5
+        },
+        {
+            "name": "Happy",
+            "score": 110
+        },
+        {
+            "name": "Tingly",
+            "score": 105
+        },
+        {
+            "name": "Giggly",
+            "score": 102.5
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Earthy",
+            "score": 10
+        },
+        {
+            "name": "Pungent",
+            "score": 5
+        },
+        {
+            "name": "Woody",
+            "score": 5
+        },
+        {
+            "name": "Pine",
+            "score": 5
+        },
+        {
+            "name": "Spicy/Herbal",
+            "score": 2.5
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/lJ2VY3JcKjYut_50Yn5tnVlftCU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fGkYePhpuTiO6OltZh89O_wide-brim-purple.png",
+            "id": 1094856,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/3/240",
+            "text": "Mostly a body high and very strong. Felt it quickly but the more intense body high came a little later. Made me very sleepy and tingly, a great nighttime smoke but not if you want to do anything other than zombie-out. Great smell, too.",
+            "username": "fernleafly"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/5DsWrIpoq-56NpD59UXAqpoVN88=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fqSLuo6zNRCeIia1paBYS_wayfarers-purple.png",
+            "id": 1177416,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "I like this strain mainly because it doesn't give me the munchies. It brought me mild relaxation while still allowing enough focus and mental clarity to continue daily activities and work. ",
+            "username": "pinkdaisycat"
+        }
+    ],
+    "id": 84368,
+    "name": "Copper Kush",
+    "negatives": [
+        {
+            "name": "Dry Eyes",
+            "score": 100
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 100
+        },
+        {
+            "name": "Dizzy",
+            "score": 2.5
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/frankenstein",
+            "category": "Indica",
+            "name": "Frankenstein",
+            "permalink": "https://mobileapi.leafly.com/indica/frankenstein",
+            "slug": "frankenstein",
+            "subtitle": null,
+            "symbol": "Fks"
+        },
+        {
+            "applink": "leafly://strain/lemon-og",
+            "category": "Hybrid",
+            "name": "Lemon OG Kush",
+            "permalink": "https://mobileapi.leafly.com/hybrid/lemon-og",
+            "slug": "lemon-og",
+            "subtitle": null,
+            "symbol": "Leg"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/copper-kush",
+    "photoTotalCount": 1,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/292820/b/copper-kush__primary_c98e.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/copper-kush_100x100_e1a5.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Calgary, AB",
+        "Hamilton, ON",
+        "Las Vegas, NV",
+        "Montr\u00e9al, QC",
+        "Portland, ME",
+        "Toronto, ON",
+        "Vancouver, BC",
+        "Winnipeg, MB"
+    ],
+    "rating": 3.86,
+    "relatedStrains": [],
+    "reviewCount": 7,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "copper-kush",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/3.85714285714286/240",
+    "subtitle": null,
+    "symbol": "Cpk",
+    "symptoms": [
+        {
+            "name": "Cramps",
+            "score": 55
+        },
+        {
+            "name": "Insomnia",
+            "score": 52.5
+        },
+        {
+            "name": "Depression",
+            "score": 5
+        },
+        {
+            "name": "Headaches",
+            "score": 5
+        },
+        {
+            "name": "Pain",
+            "score": 5
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

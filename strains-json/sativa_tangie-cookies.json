@@ -1,1 +1,150 @@
-{"sl_translate":"description,descriptionPlain,category","id":501341,"slug":"tangie-cookies","name":"Tangie Cookies","subtitle":null,"symbol":"Tnc","category":"Sativa","description":"\u003cp\u003eTangie Cookies by Elev8 Seeds was a no-brainer cross of excellent genetics. Created by crossing \u003ca href=\"https://www.leafly.com/hybrid/thin-mint\"\u003eGSC Thin Mint\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/sativa/tangie\"\u003eTangie\u003c/a\u003e, this dense, resin-clad bud expresses a loud orange peel aroma. The plant is rather vigorous, offering a generous yield over its 10-week flowering cycle. Tangie Cookies is an extremely potent strain that has been known to produce a terpene profile that can reach 3-5%. Enjoy the stimulating and uplifting effects of Tangie Cookies outdoors or among friends to get the most out of this fine, flavorful flower.\u0026nbsp; \u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Tangie Cookies by Elev8 Seeds was a no-brainer cross of excellent genetics. Created by crossing GSC Thin Mint and Tangie, this dense, resin-clad bud expresses a loud orange peel aroma. The plant is rather vigorous, offering a generous yield over its 10-week flowering cycle. Tangie Cookies is an extremely potent strain that has been known to produce a terpene profile that can reach 3-5%. Enjoy the stimulating and uplifting effects of Tangie Cookies outdoors or among friends to get the most out of this fine, flavorful flower.\u0026nbsp; \u0026nbsp;\n","aka":null,"rating":4.8,"highlightedReviews":[{"id":1578078,"username":"jayraddly","text":"True Connoisseur’s Delight!! Pruf Cultivar(PDX) has really found the phenotype with this strain. With a deep and pronounced aroma profile leaning to the powerful tangie side and boosted by the linger of cookies funk, this strain is an absolute must try. Gorgeous Ganja!!!  ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"},{"id":1607881,"username":"Berrypopsix","text":"This is some serious dank! Taste like an orange sugar cookie or orange biscuit cake or something similar. \nGrown by Pruf PDX. \nSome of the best weed I have had all year. From the flavor the high 5 stars - knocked out of the park! \n\nDon’t pass up on this one!","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":10,"flavors":[{"name":"Orange","score":60},{"name":"Citrus","score":40},{"name":"Sweet","score":30},{"name":"Pungent","score":30},{"name":"Berry","score":10}],"effects":[{"name":"Euphoric","score":60},{"name":"Happy","score":60},{"name":"Uplifted","score":50},{"name":"Energetic","score":40},{"name":"Focused","score":40}],"symptoms":[{"name":"Stress","score":20},{"name":"Depression","score":10},{"name":"Fatigue","score":10}],"conditions":[{"name":"Anxiety","score":40},{"name":"ADD/ADHD","score":20},{"name":"Arthritis","score":10},{"name":"Asthma","score":10},{"name":"Hypertension","score":10}],"negatives":[{"name":"Dry Mouth","score":30}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Seattle, WA","Everett, WA","Denver, CO","Detroit, MI","Longview, WA","Lynden, WA","Ocean Shores, WA","Portland, OR","Redmond, WA","Santa Ana, CA"],"permalink":"https://mobileapi.leafly.com/sativa/tangie-cookies","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.8/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Sativa",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 40
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 20
+        },
+        {
+            "name": "Arthritis",
+            "score": 10
+        },
+        {
+            "name": "Asthma",
+            "score": 10
+        },
+        {
+            "name": "Hypertension",
+            "score": 10
+        }
+    ],
+    "description": "<p>Tangie Cookies by Elev8 Seeds was a no-brainer cross of excellent genetics. Created by crossing <a href=\"https://www.leafly.com/hybrid/thin-mint\">GSC Thin Mint</a> and <a href=\"https://www.leafly.com/sativa/tangie\">Tangie</a>, this dense, resin-clad bud expresses a loud orange peel aroma. The plant is rather vigorous, offering a generous yield over its 10-week flowering cycle. Tangie Cookies is an extremely potent strain that has been known to produce a terpene profile that can reach 3-5%. Enjoy the stimulating and uplifting effects of Tangie Cookies outdoors or among friends to get the most out of this fine, flavorful flower.&nbsp; &nbsp;</p>\n",
+    "descriptionPlain": "Tangie Cookies by Elev8 Seeds was a no-brainer cross of excellent genetics. Created by crossing GSC Thin Mint and Tangie, this dense, resin-clad bud expresses a loud orange peel aroma. The plant is rather vigorous, offering a generous yield over its 10-week flowering cycle. Tangie Cookies is an extremely potent strain that has been known to produce a terpene profile that can reach 3-5%. Enjoy the stimulating and uplifting effects of Tangie Cookies outdoors or among friends to get the most out of this fine, flavorful flower.&nbsp; &nbsp;\n",
+    "effects": [
+        {
+            "name": "Euphoric",
+            "score": 60
+        },
+        {
+            "name": "Happy",
+            "score": 60
+        },
+        {
+            "name": "Uplifted",
+            "score": 50
+        },
+        {
+            "name": "Energetic",
+            "score": 40
+        },
+        {
+            "name": "Focused",
+            "score": 40
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Orange",
+            "score": 60
+        },
+        {
+            "name": "Citrus",
+            "score": 40
+        },
+        {
+            "name": "Sweet",
+            "score": 30
+        },
+        {
+            "name": "Pungent",
+            "score": 30
+        },
+        {
+            "name": "Berry",
+            "score": 10
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1578078,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "True Connoisseur\u2019s Delight!! Pruf Cultivar(PDX) has really found the phenotype with this strain. With a deep and pronounced aroma profile leaning to the powerful tangie side and boosted by the linger of cookies funk, this strain is an absolute must try. Gorgeous Ganja!!!  ",
+            "username": "jayraddly"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1607881,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "This is some serious dank! Taste like an orange sugar cookie or orange biscuit cake or something similar. \nGrown by Pruf PDX. \nSome of the best weed I have had all year. From the flavor the high 5 stars - knocked out of the park! \n\nDon\u2019t pass up on this one!",
+            "username": "Berrypopsix"
+        }
+    ],
+    "id": 501341,
+    "name": "Tangie Cookies",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 30
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/sativa/tangie-cookies",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Seattle, WA",
+        "Everett, WA",
+        "Denver, CO",
+        "Detroit, MI",
+        "Longview, WA",
+        "Lynden, WA",
+        "Ocean Shores, WA",
+        "Portland, OR",
+        "Redmond, WA",
+        "Santa Ana, CA"
+    ],
+    "rating": 4.8,
+    "relatedStrains": [],
+    "reviewCount": 10,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "tangie-cookies",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.8/240",
+    "subtitle": null,
+    "symbol": "Tnc",
+    "symptoms": [
+        {
+            "name": "Stress",
+            "score": 20
+        },
+        {
+            "name": "Depression",
+            "score": 10
+        },
+        {
+            "name": "Fatigue",
+            "score": 10
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

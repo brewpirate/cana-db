@@ -1,1 +1,152 @@
-{"sl_translate":"description,descriptionPlain,category","id":500726,"slug":"legend-of-nigeria","name":"Legend of Nigeria","subtitle":null,"symbol":"Lon","category":"Sativa","description":"\u003cp\u003eLegend of Nigeria by Swamp Boys Seeds is a cross of SBS\u0026rsquo;s clone-only \u003ca href=\"https://www.leafly.com/indica/legend-og\"\u003eLegend OG\u003c/a\u003e and its\u0026nbsp;own beloved Nigerian strain. This sativa-dominant hybrid sprouts medium-sized plants that need space to stretch and flower. Legend of Nigeria produces dense buds that gives off a potent blueberry and fuel aroma that is just as rich on the palate. This strain produces a larger-than-average yield with proper vegetative staging and training, and has an approximate 63-day flowering time.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Legend of Nigeria by Swamp Boys Seeds is a cross of SBS\u0026rsquo;s clone-only Legend OG and its\u0026nbsp;own beloved Nigerian strain. This sativa-dominant hybrid sprouts medium-sized plants that need space to stretch and flower. Legend of Nigeria produces dense buds that gives off a potent blueberry and fuel aroma that is just as rich on the palate. This strain produces a larger-than-average yield with proper vegetative staging and training, and has an approximate 63-day flowering time.\u0026nbsp;\n","aka":null,"rating":5,"highlightedReviews":[{"id":1524245,"username":"oneunited","text":"Potent off just one puff. This Strain is great for conversation around the table with good friends. Invigorates the body and allows for clear thought process. A great daytime high for a healthy dose of positive psychological and physical energy. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"},{"id":1638689,"username":"Kushupsboyz","text":"Well, let me just start off by saying this kush got me high. This shit was straight gasoline folks. Clap it up 👏🏽","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":5,"flavors":[{"name":"Citrus","score":10},{"name":"Earthy","score":10},{"name":"Woody","score":10}],"effects":[{"name":"Happy","score":80},{"name":"Uplifted","score":70},{"name":"Energetic","score":70},{"name":"Focused","score":70},{"name":"Sleepy","score":60}],"symptoms":[{"name":"Depression","score":30},{"name":"Fatigue","score":20},{"name":"Pain","score":10},{"name":"Stress","score":10}],"conditions":[{"name":"ADD/ADHD","score":10},{"name":"Anxiety","score":10}],"negatives":[{"name":"Dry Eyes","score":50},{"name":"Dry Mouth","score":50},{"name":"Paranoid","score":50}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Seattle, WA","Aberdeen, WA","Alamosa, CO","Battle Ground, WA","Bellevue, WA","Bellingham, WA","Bothell, WA","Bremerton, WA","Cle Elum, WA","Cook, WA"],"permalink":"https://mobileapi.leafly.com/sativa/legend-of-nigeria","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Legend OG","subtitle":null,"slug":"legend-og","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/legend-og","symbol":"Lgn","applink":"leafly://strain/legend-og"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":63,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Sativa",
+    "conditions": [
+        {
+            "name": "ADD/ADHD",
+            "score": 10
+        },
+        {
+            "name": "Anxiety",
+            "score": 10
+        }
+    ],
+    "description": "<p>Legend of Nigeria by Swamp Boys Seeds is a cross of SBS&rsquo;s clone-only <a href=\"https://www.leafly.com/indica/legend-og\">Legend OG</a> and its&nbsp;own beloved Nigerian strain. This sativa-dominant hybrid sprouts medium-sized plants that need space to stretch and flower. Legend of Nigeria produces dense buds that gives off a potent blueberry and fuel aroma that is just as rich on the palate. This strain produces a larger-than-average yield with proper vegetative staging and training, and has an approximate 63-day flowering time.&nbsp;</p>\n",
+    "descriptionPlain": "Legend of Nigeria by Swamp Boys Seeds is a cross of SBS&rsquo;s clone-only Legend OG and its&nbsp;own beloved Nigerian strain. This sativa-dominant hybrid sprouts medium-sized plants that need space to stretch and flower. Legend of Nigeria produces dense buds that gives off a potent blueberry and fuel aroma that is just as rich on the palate. This strain produces a larger-than-average yield with proper vegetative staging and training, and has an approximate 63-day flowering time.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Happy",
+            "score": 80
+        },
+        {
+            "name": "Uplifted",
+            "score": 70
+        },
+        {
+            "name": "Energetic",
+            "score": 70
+        },
+        {
+            "name": "Focused",
+            "score": 70
+        },
+        {
+            "name": "Sleepy",
+            "score": 60
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Citrus",
+            "score": 10
+        },
+        {
+            "name": "Earthy",
+            "score": 10
+        },
+        {
+            "name": "Woody",
+            "score": 10
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 63,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1524245,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Potent off just one puff. This Strain is great for conversation around the table with good friends. Invigorates the body and allows for clear thought process. A great daytime high for a healthy dose of positive psychological and physical energy. ",
+            "username": "oneunited"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png",
+            "id": 1638689,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Well, let me just start off by saying this kush got me high. This shit was straight gasoline folks. Clap it up \ud83d\udc4f\ud83c\udffd",
+            "username": "Kushupsboyz"
+        }
+    ],
+    "id": 500726,
+    "name": "Legend of Nigeria",
+    "negatives": [
+        {
+            "name": "Dry Eyes",
+            "score": 50
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 50
+        },
+        {
+            "name": "Paranoid",
+            "score": 50
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/legend-og",
+            "category": "Indica",
+            "name": "Legend OG",
+            "permalink": "https://mobileapi.leafly.com/indica/legend-og",
+            "slug": "legend-og",
+            "subtitle": null,
+            "symbol": "Lgn"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/sativa/legend-of-nigeria",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Seattle, WA",
+        "Aberdeen, WA",
+        "Alamosa, CO",
+        "Battle Ground, WA",
+        "Bellevue, WA",
+        "Bellingham, WA",
+        "Bothell, WA",
+        "Bremerton, WA",
+        "Cle Elum, WA",
+        "Cook, WA"
+    ],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 5,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "legend-of-nigeria",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Lon",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 30
+        },
+        {
+            "name": "Fatigue",
+            "score": 20
+        },
+        {
+            "name": "Pain",
+            "score": 10
+        },
+        {
+            "name": "Stress",
+            "score": 10
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

@@ -1,1 +1,181 @@
-{"sl_translate":"description,descriptionPlain,category","id":97199,"slug":"wally-og","name":"Wally OG","subtitle":null,"symbol":"Wly","category":"Hybrid","description":"\u003cp\u003eWally OG, said to be a \u003ca href=\"http://www.leafly.com/hybrid/ghost-og\"\u003eGhost OG\u003c/a\u003e and \u003ca href=\"http://www.leafly.com/indica/phantom-og\"\u003ePhantom OG\u003c/a\u003e cross, is an \u003ca href=\"http://leafly.com/indica\"\u003eindica\u003c/a\u003e-dominant \u003ca href=\"http://leafly.com/hybrid\"\u003ehybrid\u003c/a\u003e with potent full-body effects.\u003c/p\u003e\n","descriptionPlain":"Wally OG, said to be a Ghost OG and Phantom OG cross, is an indica-dominant hybrid with potent full-body effects.\n","aka":"Wally OG Kush","rating":4.83,"highlightedReviews":[{"id":1283477,"username":"nothinwould","text":"Smooth, buttery pathway into what could be an evening of vegging out or playing a game, with the easy transition to dreamland as your brain connects with an agreeable flavor and a taste of flower, with the comfortable throat and pain numbing aspects you hope for out of your ideal indica. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png"},{"id":1299578,"username":"AgRare","text":"It has a very relaxed high and a smooth taste. I didn\u0027t hear anything about this strain until my homie picked some up. It\u0027s definitely one of my favorite buds.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/XRYqzYK3o4q7eiqa4tRKs0rwo7Q=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fW7fVX5AQLmXra7zAGlYf_wayfarers-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":6,"flavors":[{"name":"Flowery","score":7.5},{"name":"Earthy","score":7.5},{"name":"Butter","score":5},{"name":"Pungent","score":2.5}],"effects":[{"name":"Relaxed","score":15},{"name":"Happy","score":12.5},{"name":"Sleepy","score":10},{"name":"Creative","score":5},{"name":"Focused","score":5}],"symptoms":[{"name":"Headaches","score":10},{"name":"Pain","score":10},{"name":"Insomnia","score":7.5},{"name":"Stress","score":5},{"name":"Cramps","score":2.5}],"conditions":[{"name":"Cancer","score":10},{"name":"PTSD","score":10},{"name":"Bipolar Disorder","score":10},{"name":"ADD/ADHD","score":5},{"name":"Anxiety","score":5}],"negatives":[{"name":"Dry Mouth","score":5},{"name":"Dry Eyes","score":2.5},{"name":"Headache","score":2.5}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/wally-og_100x100_25f6.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/312369/b/wally-og__primary_c030.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/wally-og_100x100_c38e.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/223059/b/wally-og__primary_ce64.jpg"}],"photoTotalCount":2,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/wally-og","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.83333333333333/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Ghost OG","subtitle":null,"slug":"ghost-og","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/ghost-og","symbol":"Gok","applink":"leafly://strain/ghost-og"},{"name":"Phantom OG","subtitle":null,"slug":"phantom-og","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/phantom-og","symbol":"Pha","applink":"leafly://strain/phantom-og"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": "Wally OG Kush",
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Cancer",
+            "score": 10
+        },
+        {
+            "name": "PTSD",
+            "score": 10
+        },
+        {
+            "name": "Bipolar Disorder",
+            "score": 10
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 5
+        },
+        {
+            "name": "Anxiety",
+            "score": 5
+        }
+    ],
+    "description": "<p>Wally OG, said to be a <a href=\"http://www.leafly.com/hybrid/ghost-og\">Ghost OG</a> and <a href=\"http://www.leafly.com/indica/phantom-og\">Phantom OG</a> cross, is an <a href=\"http://leafly.com/indica\">indica</a>-dominant <a href=\"http://leafly.com/hybrid\">hybrid</a> with potent full-body effects.</p>\n",
+    "descriptionPlain": "Wally OG, said to be a Ghost OG and Phantom OG cross, is an indica-dominant hybrid with potent full-body effects.\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 15
+        },
+        {
+            "name": "Happy",
+            "score": 12.5
+        },
+        {
+            "name": "Sleepy",
+            "score": 10
+        },
+        {
+            "name": "Creative",
+            "score": 5
+        },
+        {
+            "name": "Focused",
+            "score": 5
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Flowery",
+            "score": 7.5
+        },
+        {
+            "name": "Earthy",
+            "score": 7.5
+        },
+        {
+            "name": "Butter",
+            "score": 5
+        },
+        {
+            "name": "Pungent",
+            "score": 2.5
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png",
+            "id": 1283477,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Smooth, buttery pathway into what could be an evening of vegging out or playing a game, with the easy transition to dreamland as your brain connects with an agreeable flavor and a taste of flower, with the comfortable throat and pain numbing aspects you hope for out of your ideal indica. ",
+            "username": "nothinwould"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/XRYqzYK3o4q7eiqa4tRKs0rwo7Q=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fW7fVX5AQLmXra7zAGlYf_wayfarers-red.png",
+            "id": 1299578,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "It has a very relaxed high and a smooth taste. I didn't hear anything about this strain until my homie picked some up. It's definitely one of my favorite buds.",
+            "username": "AgRare"
+        }
+    ],
+    "id": 97199,
+    "name": "Wally OG",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 5
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 2.5
+        },
+        {
+            "name": "Headache",
+            "score": 2.5
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/ghost-og",
+            "category": "Hybrid",
+            "name": "Ghost OG",
+            "permalink": "https://mobileapi.leafly.com/hybrid/ghost-og",
+            "slug": "ghost-og",
+            "subtitle": null,
+            "symbol": "Gok"
+        },
+        {
+            "applink": "leafly://strain/phantom-og",
+            "category": "Indica",
+            "name": "Phantom OG",
+            "permalink": "https://mobileapi.leafly.com/indica/phantom-og",
+            "slug": "phantom-og",
+            "subtitle": null,
+            "symbol": "Pha"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/wally-og",
+    "photoTotalCount": 2,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/312369/b/wally-og__primary_c030.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/wally-og_100x100_25f6.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/223059/b/wally-og__primary_ce64.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/wally-og_100x100_c38e.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [],
+    "rating": 4.83,
+    "relatedStrains": [],
+    "reviewCount": 6,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "wally-og",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.83333333333333/240",
+    "subtitle": null,
+    "symbol": "Wly",
+    "symptoms": [
+        {
+            "name": "Headaches",
+            "score": 10
+        },
+        {
+            "name": "Pain",
+            "score": 10
+        },
+        {
+            "name": "Insomnia",
+            "score": 7.5
+        },
+        {
+            "name": "Stress",
+            "score": 5
+        },
+        {
+            "name": "Cramps",
+            "score": 2.5
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

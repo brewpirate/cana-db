@@ -1,1 +1,153 @@
-{"sl_translate":"description,descriptionPlain,category","id":290415,"slug":"brazil-amazonia","name":"Brazil Amazonia","subtitle":null,"symbol":"Bza","category":"Sativa","description":"\u003cp\u003eBrazil Amazonia is a potent Brazilian \u003ca href=\"https://www.leafly.com/news/cannabis-101/the-cannabis-origin-what-is-a-landrace-strain\"\u003elandrace\u003c/a\u003e collected by World of Seeds. They chose a unique phenotype that flowers early and remains squat, making it a desirable cut for incognito outdoor growers. This 90% sativa-dominant strain has stimulating effects that burst forth, exhausting the limbs and mind to a point of relaxation and appetite stimulation. Brazil Amazonia emits a musky, woody aroma that has hints of bittersweet fruit.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Brazil Amazonia is a potent Brazilian landrace collected by World of Seeds. They chose a unique phenotype that flowers early and remains squat, making it a desirable cut for incognito outdoor growers. This 90% sativa-dominant strain has stimulating effects that burst forth, exhausting the limbs and mind to a point of relaxation and appetite stimulation. Brazil Amazonia emits a musky, woody aroma that has hints of bittersweet fruit.\u0026nbsp;\n","aka":null,"rating":4.5,"highlightedReviews":[{"id":1425519,"username":"BobbyBluBlan","text":"this is by far the most amazing bud I have used 2 hits in and ALL of the days stress fall to the way side for me it was a light heady/body buzz but not anything for someone who wants that full on stoney feeling, but this strain has a full dose of F*\u0026k it!!!!!! if you need something to melt away the stress I HIGHLY recommend his strain. I personally will always have this on hand good anytime smoke","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/YEN1LqXiYCOvWiFhmP-4p67iqDM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fY9fB9qHySLml8016ysgJ_goggles-green.png"},{"id":1615772,"username":"neurodeep","text":"Very cerebral and you can stay focused. NB: vaped at 170 C to avoid CBN.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/KsoWLCmkfTeV5rUgLUxL0Zj4fdU=/fit-in/300x300/https%3a%2f%2fs3-us-west-2.amazonaws.com%2fleafly-images%2fuser-profile%2fpw7bFXfrRHCIiXgon7Dp_Balrog.png"}],"relatedStrains":[],"articles":[],"reviewCount":8,"flavors":[{"name":"Spicy/Herbal","score":26.25},{"name":"Citrus","score":20},{"name":"Woody","score":20},{"name":"Berry","score":6.25},{"name":"Earthy","score":6.25}],"effects":[{"name":"Uplifted","score":52.5},{"name":"Focused","score":52.5},{"name":"Relaxed","score":46.25},{"name":"Energetic","score":26.25},{"name":"Euphoric","score":26.25}],"symptoms":[{"name":"Depression","score":46.25},{"name":"Stress","score":46.25},{"name":"Eye Pressure","score":20},{"name":"Inflammation","score":20},{"name":"Insomnia","score":20}],"conditions":[{"name":"Anxiety","score":26.25},{"name":"ADD/ADHD","score":6.25},{"name":"Hypertension","score":6.25},{"name":"PTSD","score":6.25},{"name":"Spinal Cord Injury","score":6.25}],"negatives":[{"name":"Dry Mouth","score":20}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Chicago, IL","Homewood, IL","Litchfield, IL","Oak Park, IL","Posen, IL"],"permalink":"https://mobileapi.leafly.com/sativa/brazil-amazonia","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Sativa",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 26.25
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 6.25
+        },
+        {
+            "name": "Hypertension",
+            "score": 6.25
+        },
+        {
+            "name": "PTSD",
+            "score": 6.25
+        },
+        {
+            "name": "Spinal Cord Injury",
+            "score": 6.25
+        }
+    ],
+    "description": "<p>Brazil Amazonia is a potent Brazilian <a href=\"https://www.leafly.com/news/cannabis-101/the-cannabis-origin-what-is-a-landrace-strain\">landrace</a> collected by World of Seeds. They chose a unique phenotype that flowers early and remains squat, making it a desirable cut for incognito outdoor growers. This 90% sativa-dominant strain has stimulating effects that burst forth, exhausting the limbs and mind to a point of relaxation and appetite stimulation. Brazil Amazonia emits a musky, woody aroma that has hints of bittersweet fruit.&nbsp;</p>\n",
+    "descriptionPlain": "Brazil Amazonia is a potent Brazilian landrace collected by World of Seeds. They chose a unique phenotype that flowers early and remains squat, making it a desirable cut for incognito outdoor growers. This 90% sativa-dominant strain has stimulating effects that burst forth, exhausting the limbs and mind to a point of relaxation and appetite stimulation. Brazil Amazonia emits a musky, woody aroma that has hints of bittersweet fruit.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Uplifted",
+            "score": 52.5
+        },
+        {
+            "name": "Focused",
+            "score": 52.5
+        },
+        {
+            "name": "Relaxed",
+            "score": 46.25
+        },
+        {
+            "name": "Energetic",
+            "score": 26.25
+        },
+        {
+            "name": "Euphoric",
+            "score": 26.25
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Spicy/Herbal",
+            "score": 26.25
+        },
+        {
+            "name": "Citrus",
+            "score": 20
+        },
+        {
+            "name": "Woody",
+            "score": 20
+        },
+        {
+            "name": "Berry",
+            "score": 6.25
+        },
+        {
+            "name": "Earthy",
+            "score": 6.25
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/YEN1LqXiYCOvWiFhmP-4p67iqDM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fY9fB9qHySLml8016ysgJ_goggles-green.png",
+            "id": 1425519,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "this is by far the most amazing bud I have used 2 hits in and ALL of the days stress fall to the way side for me it was a light heady/body buzz but not anything for someone who wants that full on stoney feeling, but this strain has a full dose of F*&k it!!!!!! if you need something to melt away the stress I HIGHLY recommend his strain. I personally will always have this on hand good anytime smoke",
+            "username": "BobbyBluBlan"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/KsoWLCmkfTeV5rUgLUxL0Zj4fdU=/fit-in/300x300/https%3a%2f%2fs3-us-west-2.amazonaws.com%2fleafly-images%2fuser-profile%2fpw7bFXfrRHCIiXgon7Dp_Balrog.png",
+            "id": 1615772,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Very cerebral and you can stay focused. NB: vaped at 170 C to avoid CBN.",
+            "username": "neurodeep"
+        }
+    ],
+    "id": 290415,
+    "name": "Brazil Amazonia",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 20
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/sativa/brazil-amazonia",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Chicago, IL",
+        "Homewood, IL",
+        "Litchfield, IL",
+        "Oak Park, IL",
+        "Posen, IL"
+    ],
+    "rating": 4.5,
+    "relatedStrains": [],
+    "reviewCount": 8,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "brazil-amazonia",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.5/240",
+    "subtitle": null,
+    "symbol": "Bza",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 46.25
+        },
+        {
+            "name": "Stress",
+            "score": 46.25
+        },
+        {
+            "name": "Eye Pressure",
+            "score": 20
+        },
+        {
+            "name": "Inflammation",
+            "score": 20
+        },
+        {
+            "name": "Insomnia",
+            "score": 20
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

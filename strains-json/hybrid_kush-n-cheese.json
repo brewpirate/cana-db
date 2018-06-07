@@ -1,1 +1,162 @@
-{"sl_translate":"description,descriptionPlain,category","id":296175,"slug":"kush-n-cheese","name":"Kush-N-Cheese","subtitle":null,"symbol":"Knc","category":"Hybrid","description":"\u003cp\u003eKush-N-Cheese by Dinafem Seeds is a pungent cross that is known for being good to both expert and novice growers. Created by crossing \u003ca href=\"https://www.leafly.com/indica/emerald-og\"\u003eEmerald OG\u003c/a\u003e\u0026nbsp;with \u003ca href=\"https://www.leafly.com/hybrid/uk-cheese\"\u003eUK Cheese\u003c/a\u003e, this pungent pairing emits a savory stink of cheese, oil, and citrus. Offering predominantly physical effects, Kush-N-Cheese leans toward an indica-dominant effect while remaining a somewhat functional hybrid. Anticipate long-lasting relaxation that increases in weight and depth with continued consumption.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Kush-N-Cheese by Dinafem Seeds is a pungent cross that is known for being good to both expert and novice growers. Created by crossing Emerald OG\u0026nbsp;with UK Cheese, this pungent pairing emits a savory stink of cheese, oil, and citrus. Offering predominantly physical effects, Kush-N-Cheese leans toward an indica-dominant effect while remaining a somewhat functional hybrid. Anticipate long-lasting relaxation that increases in weight and depth with continued consumption.\u0026nbsp;\n","aka":null,"rating":4,"highlightedReviews":[{"id":1419463,"username":"Taikun313","text":"Good strain.. Good smell and taste.. Decent high ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"},{"id":1573501,"username":"brand0n","text":"Nice sweet smelling bud with a pleasant mix of indica and sativa effects. Not too debilitating but still more relaxing than a straight sativa.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":4,"flavors":[{"name":"Sweet","score":14.285714285714285},{"name":"Lemon","score":7.1428571428571423},{"name":"Apple","score":7.1428571428571423},{"name":"Cheese","score":7.1428571428571423},{"name":"Butter","score":7.1428571428571423}],"effects":[{"name":"Relaxed","score":128.57142857142856},{"name":"Uplifted","score":121.42857142857143},{"name":"Happy","score":114.28571428571428},{"name":"Hungry","score":114.28571428571428},{"name":"Euphoric","score":107.14285714285714}],"symptoms":[{"name":"Depression","score":121.42857142857143},{"name":"Stress","score":121.42857142857143},{"name":"Fatigue","score":107.14285714285714},{"name":"Lack of Appetite","score":107.14285714285714},{"name":"Headaches","score":100}],"conditions":[{"name":"Anxiety","score":100},{"name":"ADD/ADHD","score":7.1428571428571423},{"name":"PTSD","score":7.1428571428571423},{"name":"Bipolar Disorder","score":7.1428571428571423}],"negatives":[{"name":"Dry Mouth","score":7.1428571428571423}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/kush-n-cheese","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Emerald OG","subtitle":null,"slug":"emerald-og","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/emerald-og","symbol":"Emd","applink":"leafly://strain/emerald-og"},{"name":"UK Cheese","subtitle":null,"slug":"uk-cheese","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/uk-cheese","symbol":"Uk","applink":"leafly://strain/uk-cheese"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 100
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 7.142857142857142
+        },
+        {
+            "name": "PTSD",
+            "score": 7.142857142857142
+        },
+        {
+            "name": "Bipolar Disorder",
+            "score": 7.142857142857142
+        }
+    ],
+    "description": "<p>Kush-N-Cheese by Dinafem Seeds is a pungent cross that is known for being good to both expert and novice growers. Created by crossing <a href=\"https://www.leafly.com/indica/emerald-og\">Emerald OG</a>&nbsp;with <a href=\"https://www.leafly.com/hybrid/uk-cheese\">UK Cheese</a>, this pungent pairing emits a savory stink of cheese, oil, and citrus. Offering predominantly physical effects, Kush-N-Cheese leans toward an indica-dominant effect while remaining a somewhat functional hybrid. Anticipate long-lasting relaxation that increases in weight and depth with continued consumption.&nbsp;</p>\n",
+    "descriptionPlain": "Kush-N-Cheese by Dinafem Seeds is a pungent cross that is known for being good to both expert and novice growers. Created by crossing Emerald OG&nbsp;with UK Cheese, this pungent pairing emits a savory stink of cheese, oil, and citrus. Offering predominantly physical effects, Kush-N-Cheese leans toward an indica-dominant effect while remaining a somewhat functional hybrid. Anticipate long-lasting relaxation that increases in weight and depth with continued consumption.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 128.57142857142856
+        },
+        {
+            "name": "Uplifted",
+            "score": 121.42857142857143
+        },
+        {
+            "name": "Happy",
+            "score": 114.28571428571428
+        },
+        {
+            "name": "Hungry",
+            "score": 114.28571428571428
+        },
+        {
+            "name": "Euphoric",
+            "score": 107.14285714285714
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Sweet",
+            "score": 14.285714285714285
+        },
+        {
+            "name": "Lemon",
+            "score": 7.142857142857142
+        },
+        {
+            "name": "Apple",
+            "score": 7.142857142857142
+        },
+        {
+            "name": "Cheese",
+            "score": 7.142857142857142
+        },
+        {
+            "name": "Butter",
+            "score": 7.142857142857142
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1419463,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Good strain.. Good smell and taste.. Decent high ",
+            "username": "Taikun313"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png",
+            "id": 1573501,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Nice sweet smelling bud with a pleasant mix of indica and sativa effects. Not too debilitating but still more relaxing than a straight sativa.",
+            "username": "brand0n"
+        }
+    ],
+    "id": 296175,
+    "name": "Kush-N-Cheese",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 7.142857142857142
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/emerald-og",
+            "category": "Indica",
+            "name": "Emerald OG",
+            "permalink": "https://mobileapi.leafly.com/indica/emerald-og",
+            "slug": "emerald-og",
+            "subtitle": null,
+            "symbol": "Emd"
+        },
+        {
+            "applink": "leafly://strain/uk-cheese",
+            "category": "Hybrid",
+            "name": "UK Cheese",
+            "permalink": "https://mobileapi.leafly.com/hybrid/uk-cheese",
+            "slug": "uk-cheese",
+            "subtitle": null,
+            "symbol": "Uk"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/kush-n-cheese",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 4,
+    "relatedStrains": [],
+    "reviewCount": 4,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "kush-n-cheese",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+    "subtitle": null,
+    "symbol": "Knc",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 121.42857142857143
+        },
+        {
+            "name": "Stress",
+            "score": 121.42857142857143
+        },
+        {
+            "name": "Fatigue",
+            "score": 107.14285714285714
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 107.14285714285714
+        },
+        {
+            "name": "Headaches",
+            "score": 100
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

@@ -1,1 +1,193 @@
-{"sl_translate":"description,descriptionPlain,category","id":262895,"slug":"suicide-girl","name":"Suicide Girl","subtitle":null,"symbol":"Scg","category":"Hybrid","description":"\u003cp\u003eSuicide Girl by \u003ca href=\"https://www.leafly.com/brands/calyx-garden\"\u003eCalyx Garden\u003c/a\u003e is the cleverly named cross of \u003ca href=\"https://www.leafly.com/hybrid/og-poison\"\u003ePoison OG\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/hybrid/platinum-girl-scout-cookies\"\u003ePlatinum Girl Scout Cookies\u003c/a\u003e. This \u003ca href=\"https://testing.phylosbioscience.com/variety/PGT-15240/calyx-garden/suicide-girl\"\u003ebeautiful and potent cannabis strain\u003c/a\u003e delivers hearty mid-level sedation in the body and a sizzling mental buzz that carries the consumer forward. The flavor and aroma are rich with fuel, fruit, and spices like star anise and pepper. Utilize Suicide Girl to combat anxiety, depression, and minor pain. \u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Suicide Girl by Calyx Garden is the cleverly named cross of Poison OG and Platinum Girl Scout Cookies. This beautiful and potent cannabis strain delivers hearty mid-level sedation in the body and a sizzling mental buzz that carries the consumer forward. The flavor and aroma are rich with fuel, fruit, and spices like star anise and pepper. Utilize Suicide Girl to combat anxiety, depression, and minor pain. \u0026nbsp;\n","aka":null,"rating":4.8,"highlightedReviews":[{"id":1455261,"username":"LadyRaven1111","text":"Smoked a bowl of Suicide Girl this morning. Great for a wake and bake strain. I felt giggly and happy. Had coffee and ate breakfast and felt the need to get up and go for a nice walk. Felt great and lasted for a good few hours. Fantastic!","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png"},{"id":1455261,"username":"LadyRaven1111","text":"Smoked a bowl of Suicide Girl this morning. Great for a wake and bake strain. I felt giggly and happy. Had coffee and ate breakfast and felt the need to get up and go for a nice walk. Felt great and lasted for a good few hours. Fantastic!","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":5,"flavors":[{"name":"Violet","score":14.583333333333332},{"name":"Sweet","score":8.3333333333333321},{"name":"Citrus","score":8.3333333333333321}],"effects":[{"name":"Talkative","score":29.166666666666664},{"name":"Euphoric","score":27.083333333333332},{"name":"Uplifted","score":25},{"name":"Relaxed","score":20.833333333333332},{"name":"Tingly","score":18.75}],"symptoms":[{"name":"Depression","score":12.5},{"name":"Fatigue","score":8.3333333333333321},{"name":"Eye Pressure","score":6.25},{"name":"Muscle Spasms","score":6.25},{"name":"Nausea","score":6.25}],"conditions":[{"name":"ADD/ADHD","score":14.583333333333332},{"name":"Anxiety","score":14.583333333333332},{"name":"Bipolar Disorder","score":14.583333333333332},{"name":"Alzheimer\u0027s","score":8.3333333333333321},{"name":"Anorexia","score":8.3333333333333321}],"negatives":[{"name":"Dizzy","score":14.583333333333332},{"name":"Headache","score":8.3333333333333321},{"name":"Paranoid","score":8.3333333333333321},{"name":"Dry Eyes","score":6.25},{"name":"Dry Mouth","score":6.25}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/suicide-girl_100x100_7c9b.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/598602/b/suicide-girl__primary_f166.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/suicide-girl_100x100_ac01.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/598058/b/suicide-girl__primary_f21f.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/suicide-girl_100x100_fef9.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/598026/b/suicide-girl__primary_7bec.jpg"}],"photoTotalCount":3,"popularCities":["Los Angeles, CA","San Diego, CA"],"permalink":"https://mobileapi.leafly.com/hybrid/suicide-girl","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.8/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"OG Poison","subtitle":null,"slug":"og-poison","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/og-poison","symbol":"Ogp","applink":"leafly://strain/og-poison"},{"name":"Platinum GSC","subtitle":null,"slug":"platinum-gsc","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/platinum-gsc","symbol":"Pgs","applink":"leafly://strain/platinum-gsc"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "ADD/ADHD",
+            "score": 14.583333333333332
+        },
+        {
+            "name": "Anxiety",
+            "score": 14.583333333333332
+        },
+        {
+            "name": "Bipolar Disorder",
+            "score": 14.583333333333332
+        },
+        {
+            "name": "Alzheimer's",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Anorexia",
+            "score": 8.333333333333332
+        }
+    ],
+    "description": "<p>Suicide Girl by <a href=\"https://www.leafly.com/brands/calyx-garden\">Calyx Garden</a> is the cleverly named cross of <a href=\"https://www.leafly.com/hybrid/og-poison\">Poison OG</a> and <a href=\"https://www.leafly.com/hybrid/platinum-girl-scout-cookies\">Platinum Girl Scout Cookies</a>. This <a href=\"https://testing.phylosbioscience.com/variety/PGT-15240/calyx-garden/suicide-girl\">beautiful and potent cannabis strain</a> delivers hearty mid-level sedation in the body and a sizzling mental buzz that carries the consumer forward. The flavor and aroma are rich with fuel, fruit, and spices like star anise and pepper. Utilize Suicide Girl to combat anxiety, depression, and minor pain. &nbsp;</p>\n",
+    "descriptionPlain": "Suicide Girl by Calyx Garden is the cleverly named cross of Poison OG and Platinum Girl Scout Cookies. This beautiful and potent cannabis strain delivers hearty mid-level sedation in the body and a sizzling mental buzz that carries the consumer forward. The flavor and aroma are rich with fuel, fruit, and spices like star anise and pepper. Utilize Suicide Girl to combat anxiety, depression, and minor pain. &nbsp;\n",
+    "effects": [
+        {
+            "name": "Talkative",
+            "score": 29.166666666666664
+        },
+        {
+            "name": "Euphoric",
+            "score": 27.083333333333332
+        },
+        {
+            "name": "Uplifted",
+            "score": 25
+        },
+        {
+            "name": "Relaxed",
+            "score": 20.833333333333332
+        },
+        {
+            "name": "Tingly",
+            "score": 18.75
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Violet",
+            "score": 14.583333333333332
+        },
+        {
+            "name": "Sweet",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Citrus",
+            "score": 8.333333333333332
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png",
+            "id": 1455261,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Smoked a bowl of Suicide Girl this morning. Great for a wake and bake strain. I felt giggly and happy. Had coffee and ate breakfast and felt the need to get up and go for a nice walk. Felt great and lasted for a good few hours. Fantastic!",
+            "username": "LadyRaven1111"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png",
+            "id": 1455261,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Smoked a bowl of Suicide Girl this morning. Great for a wake and bake strain. I felt giggly and happy. Had coffee and ate breakfast and felt the need to get up and go for a nice walk. Felt great and lasted for a good few hours. Fantastic!",
+            "username": "LadyRaven1111"
+        }
+    ],
+    "id": 262895,
+    "name": "Suicide Girl",
+    "negatives": [
+        {
+            "name": "Dizzy",
+            "score": 14.583333333333332
+        },
+        {
+            "name": "Headache",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Paranoid",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 6.25
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 6.25
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/og-poison",
+            "category": "Hybrid",
+            "name": "OG Poison",
+            "permalink": "https://mobileapi.leafly.com/hybrid/og-poison",
+            "slug": "og-poison",
+            "subtitle": null,
+            "symbol": "Ogp"
+        },
+        {
+            "applink": "leafly://strain/platinum-gsc",
+            "category": "Hybrid",
+            "name": "Platinum GSC",
+            "permalink": "https://mobileapi.leafly.com/hybrid/platinum-gsc",
+            "slug": "platinum-gsc",
+            "subtitle": null,
+            "symbol": "Pgs"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/suicide-girl",
+    "photoTotalCount": 3,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/598602/b/suicide-girl__primary_f166.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/suicide-girl_100x100_7c9b.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/598058/b/suicide-girl__primary_f21f.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/suicide-girl_100x100_ac01.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/598026/b/suicide-girl__primary_7bec.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/suicide-girl_100x100_fef9.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Los Angeles, CA",
+        "San Diego, CA"
+    ],
+    "rating": 4.8,
+    "relatedStrains": [],
+    "reviewCount": 5,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "suicide-girl",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.8/240",
+    "subtitle": null,
+    "symbol": "Scg",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 12.5
+        },
+        {
+            "name": "Fatigue",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Eye Pressure",
+            "score": 6.25
+        },
+        {
+            "name": "Muscle Spasms",
+            "score": 6.25
+        },
+        {
+            "name": "Nausea",
+            "score": 6.25
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

@@ -1,1 +1,184 @@
-{"sl_translate":"description,descriptionPlain,category","id":84402,"slug":"sweet-lafayette","name":"Sweet Lafayette","subtitle":null,"symbol":"Slf","category":"Indica","description":"\u003cp\u003eSweet Lafayette is an 80% \u003ca href=\"http://leafly.com/indica\"\u003eindica\u003c/a\u003e strain with mellow, dreamy qualities conducive to \u003ca href=\"http://www.leafly.com/explore#!/explore/tags-relaxed\"\u003erelaxation\u003c/a\u003e and \u003ca href=\"http://www.leafly.com/explore#!/explore/symptoms-stress\"\u003estress\u003c/a\u003e relief. Bred by Nine Point Growth Industries in Washington using \u003ca href=\"https://www.leafly.com/indica/frankenstein\"\u003eFrankenstein\u003c/a\u003e and \u003ca href=\"http://www.leafly.com/indica/lemon-og\"\u003eLemon OG Kush\u003c/a\u003e genetics, Sweet Lafayette buds are \u003ca href=\"http://www.leafly.com/explore#!/explore/flavors-sweet\"\u003esweet\u003c/a\u003e and \u003ca href=\"http://www.leafly.com/explore#!/explore/flavors-earthy\"\u003eearthy\u003c/a\u003e with a touch of \u003ca href=\"http://www.leafly.com/explore#!/explore/flavors-citrus\"\u003ecitrus\u003c/a\u003e flavor, and are raised in a soil medium.\u003c/p\u003e\n","descriptionPlain":"Sweet Lafayette is an 80% indica strain with mellow, dreamy qualities conducive to relaxation and stress relief. Bred by Nine Point Growth Industries in Washington using Frankenstein and Lemon OG Kush genetics, Sweet Lafayette buds are sweet and earthy with a touch of citrus flavor, and are raised in a soil medium.\n","aka":null,"rating":3.64,"highlightedReviews":[{"id":1210927,"username":"scott","text":"First legal purchase and pretty disappointing. The trim job is non-existent, never seen anything as leafy as the small nug I got in my package. Speaking of the packaging, it\u0027s ugly, these growers really need to step up their game. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/2/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"},{"id":1188799,"username":"angel7","text":"It\u0027s very strong and you are going to trip a lot.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/8AEOnyObscLzPEdm7ERjYOUx4RU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fP4YFTRznSDCEVP7Fycg7_nerd-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":14,"flavors":[{"name":"Citrus","score":3.9473684210526314},{"name":"Earthy","score":3.9473684210526314},{"name":"Pine","score":3.9473684210526314},{"name":"Chestnut","score":3.9473684210526314},{"name":"Woody","score":2.6315789473684208}],"effects":[{"name":"Relaxed","score":22.368421052631579},{"name":"Happy","score":19.736842105263158},{"name":"Euphoric","score":14.473684210526317},{"name":"Uplifted","score":11.842105263157894},{"name":"Aroused","score":7.8947368421052628}],"symptoms":[{"name":"Stress","score":6.5789473684210522},{"name":"Depression","score":3.9473684210526314},{"name":"Pain","score":3.9473684210526314},{"name":"Headaches","score":1.3157894736842104},{"name":"Insomnia","score":1.3157894736842104}],"conditions":[{"name":"Anxiety","score":7.8947368421052628},{"name":"PTSD","score":5.2631578947368416},{"name":"Bipolar Disorder","score":5.2631578947368416},{"name":"ADD/ADHD","score":2.6315789473684208},{"name":"Asthma","score":2.6315789473684208}],"negatives":[{"name":"Dizzy","score":5.2631578947368416},{"name":"Dry Eyes","score":2.6315789473684208},{"name":"Dry Mouth","score":2.6315789473684208},{"name":"Headache","score":1.3157894736842104}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/sweet-lafayette_100x100_83a3.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/158840/b/sweet-lafayette_825x550_05c4.jpg"}],"photoTotalCount":1,"popularCities":[],"permalink":"https://mobileapi.leafly.com/indica/sweet-lafayette","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/3.64285714285714/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Frankenstein","subtitle":null,"slug":"frankenstein","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/frankenstein","symbol":"Fks","applink":"leafly://strain/frankenstein"},{"name":"Lemon OG Kush","subtitle":null,"slug":"lemon-og","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/lemon-og","symbol":"Leg","applink":"leafly://strain/lemon-og"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 7.894736842105263
+        },
+        {
+            "name": "PTSD",
+            "score": 5.263157894736842
+        },
+        {
+            "name": "Bipolar Disorder",
+            "score": 5.263157894736842
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 2.631578947368421
+        },
+        {
+            "name": "Asthma",
+            "score": 2.631578947368421
+        }
+    ],
+    "description": "<p>Sweet Lafayette is an 80% <a href=\"http://leafly.com/indica\">indica</a> strain with mellow, dreamy qualities conducive to <a href=\"http://www.leafly.com/explore#!/explore/tags-relaxed\">relaxation</a> and <a href=\"http://www.leafly.com/explore#!/explore/symptoms-stress\">stress</a> relief. Bred by Nine Point Growth Industries in Washington using <a href=\"https://www.leafly.com/indica/frankenstein\">Frankenstein</a> and <a href=\"http://www.leafly.com/indica/lemon-og\">Lemon OG Kush</a> genetics, Sweet Lafayette buds are <a href=\"http://www.leafly.com/explore#!/explore/flavors-sweet\">sweet</a> and <a href=\"http://www.leafly.com/explore#!/explore/flavors-earthy\">earthy</a> with a touch of <a href=\"http://www.leafly.com/explore#!/explore/flavors-citrus\">citrus</a> flavor, and are raised in a soil medium.</p>\n",
+    "descriptionPlain": "Sweet Lafayette is an 80% indica strain with mellow, dreamy qualities conducive to relaxation and stress relief. Bred by Nine Point Growth Industries in Washington using Frankenstein and Lemon OG Kush genetics, Sweet Lafayette buds are sweet and earthy with a touch of citrus flavor, and are raised in a soil medium.\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 22.36842105263158
+        },
+        {
+            "name": "Happy",
+            "score": 19.736842105263158
+        },
+        {
+            "name": "Euphoric",
+            "score": 14.473684210526317
+        },
+        {
+            "name": "Uplifted",
+            "score": 11.842105263157894
+        },
+        {
+            "name": "Aroused",
+            "score": 7.894736842105263
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Citrus",
+            "score": 3.9473684210526314
+        },
+        {
+            "name": "Earthy",
+            "score": 3.9473684210526314
+        },
+        {
+            "name": "Pine",
+            "score": 3.9473684210526314
+        },
+        {
+            "name": "Chestnut",
+            "score": 3.9473684210526314
+        },
+        {
+            "name": "Woody",
+            "score": 2.631578947368421
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1210927,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/2/240",
+            "text": "First legal purchase and pretty disappointing. The trim job is non-existent, never seen anything as leafy as the small nug I got in my package. Speaking of the packaging, it's ugly, these growers really need to step up their game. ",
+            "username": "scott"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/8AEOnyObscLzPEdm7ERjYOUx4RU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fP4YFTRznSDCEVP7Fycg7_nerd-red.png",
+            "id": 1188799,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "It's very strong and you are going to trip a lot.",
+            "username": "angel7"
+        }
+    ],
+    "id": 84402,
+    "name": "Sweet Lafayette",
+    "negatives": [
+        {
+            "name": "Dizzy",
+            "score": 5.263157894736842
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 2.631578947368421
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 2.631578947368421
+        },
+        {
+            "name": "Headache",
+            "score": 1.3157894736842104
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/frankenstein",
+            "category": "Indica",
+            "name": "Frankenstein",
+            "permalink": "https://mobileapi.leafly.com/indica/frankenstein",
+            "slug": "frankenstein",
+            "subtitle": null,
+            "symbol": "Fks"
+        },
+        {
+            "applink": "leafly://strain/lemon-og",
+            "category": "Hybrid",
+            "name": "Lemon OG Kush",
+            "permalink": "https://mobileapi.leafly.com/hybrid/lemon-og",
+            "slug": "lemon-og",
+            "subtitle": null,
+            "symbol": "Leg"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/sweet-lafayette",
+    "photoTotalCount": 1,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/158840/b/sweet-lafayette_825x550_05c4.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/sweet-lafayette_100x100_83a3.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [],
+    "rating": 3.64,
+    "relatedStrains": [],
+    "reviewCount": 14,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "sweet-lafayette",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/3.64285714285714/240",
+    "subtitle": null,
+    "symbol": "Slf",
+    "symptoms": [
+        {
+            "name": "Stress",
+            "score": 6.578947368421052
+        },
+        {
+            "name": "Depression",
+            "score": 3.9473684210526314
+        },
+        {
+            "name": "Pain",
+            "score": 3.9473684210526314
+        },
+        {
+            "name": "Headaches",
+            "score": 1.3157894736842104
+        },
+        {
+            "name": "Insomnia",
+            "score": 1.3157894736842104
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

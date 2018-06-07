@@ -1,1 +1,121 @@
-{"sl_translate":"description,descriptionPlain,category","id":500870,"slug":"white-domina","name":"White Domina","subtitle":null,"symbol":"Wdo","category":"Indica","description":"\u003cp\u003eJust when you thought Kannabia Seed Company spliced Black Domina with every strain under the sun, they go and \u003ca href=\"https://www.leafly.com/news/cannabis-101/glossary-of-cannabis-terms\"\u003ebackcross\u003c/a\u003e it. This \u003ca href=\"https://www.leafly.com/indica/black-domina\"\u003eBlack Domina\u003c/a\u003e x Black Domina strain exudes indica-dominant qualities from top to bottom, offering flavors of earth and spice with a pungent aroma smothered in latent herbal sweetness. The effects are deeply relaxing, cementing the consumer to their couch or bed with a weighted aura that is as soothing as it is carefree. Definitely consume White Domina at the end of the day or clear your schedule and stock your fridge, because you aren\u0026rsquo;t going anywhere after a few hits of this resinous beauty.\u0026nbsp;\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Just when you thought Kannabia Seed Company spliced Black Domina with every strain under the sun, they go and backcross it. This Black Domina x Black Domina strain exudes indica-dominant qualities from top to bottom, offering flavors of earth and spice with a pungent aroma smothered in latent herbal sweetness. The effects are deeply relaxing, cementing the consumer to their couch or bed with a weighted aura that is as soothing as it is carefree. Definitely consume White Domina at the end of the day or clear your schedule and stock your fridge, because you aren\u0026rsquo;t going anywhere after a few hits of this resinous beauty.\u0026nbsp;\u0026nbsp;\n","aka":null,"rating":4,"highlightedReviews":[{"id":1586143,"username":"skyraines","text":"I\u0027m a huge Black Domina fan, so it\u0027s no surprise I love White Domina. it\u0027s basically Black Domina, just more potent. Newer consumers expect a sedating sleepy high.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png"},{"id":1586143,"username":"skyraines","text":"I\u0027m a huge Black Domina fan, so it\u0027s no surprise I love White Domina. it\u0027s basically Black Domina, just more potent. Newer consumers expect a sedating sleepy high.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":3,"flavors":[],"effects":[{"name":"Sleepy","score":62.5},{"name":"Relaxed","score":62.5},{"name":"Happy","score":50},{"name":"Hungry","score":50},{"name":"Euphoric","score":12.5}],"symptoms":[{"name":"Depression","score":12.5},{"name":"Insomnia","score":12.5},{"name":"Muscle Spasms","score":12.5},{"name":"Pain","score":12.5},{"name":"Stress","score":12.5}],"conditions":[],"negatives":[{"name":"Dry Eyes","score":50},{"name":"Dry Mouth","score":12.5}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Vancouver, BC"],"permalink":"https://mobileapi.leafly.com/indica/white-domina","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Black Domina","subtitle":null,"slug":"black-domina","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/black-domina","symbol":"Bdm","applink":"leafly://strain/black-domina"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [],
+    "description": "<p>Just when you thought Kannabia Seed Company spliced Black Domina with every strain under the sun, they go and <a href=\"https://www.leafly.com/news/cannabis-101/glossary-of-cannabis-terms\">backcross</a> it. This <a href=\"https://www.leafly.com/indica/black-domina\">Black Domina</a> x Black Domina strain exudes indica-dominant qualities from top to bottom, offering flavors of earth and spice with a pungent aroma smothered in latent herbal sweetness. The effects are deeply relaxing, cementing the consumer to their couch or bed with a weighted aura that is as soothing as it is carefree. Definitely consume White Domina at the end of the day or clear your schedule and stock your fridge, because you aren&rsquo;t going anywhere after a few hits of this resinous beauty.&nbsp;&nbsp;</p>\n",
+    "descriptionPlain": "Just when you thought Kannabia Seed Company spliced Black Domina with every strain under the sun, they go and backcross it. This Black Domina x Black Domina strain exudes indica-dominant qualities from top to bottom, offering flavors of earth and spice with a pungent aroma smothered in latent herbal sweetness. The effects are deeply relaxing, cementing the consumer to their couch or bed with a weighted aura that is as soothing as it is carefree. Definitely consume White Domina at the end of the day or clear your schedule and stock your fridge, because you aren&rsquo;t going anywhere after a few hits of this resinous beauty.&nbsp;&nbsp;\n",
+    "effects": [
+        {
+            "name": "Sleepy",
+            "score": 62.5
+        },
+        {
+            "name": "Relaxed",
+            "score": 62.5
+        },
+        {
+            "name": "Happy",
+            "score": 50
+        },
+        {
+            "name": "Hungry",
+            "score": 50
+        },
+        {
+            "name": "Euphoric",
+            "score": 12.5
+        }
+    ],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png",
+            "id": 1586143,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "I'm a huge Black Domina fan, so it's no surprise I love White Domina. it's basically Black Domina, just more potent. Newer consumers expect a sedating sleepy high.",
+            "username": "skyraines"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png",
+            "id": 1586143,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "I'm a huge Black Domina fan, so it's no surprise I love White Domina. it's basically Black Domina, just more potent. Newer consumers expect a sedating sleepy high.",
+            "username": "skyraines"
+        }
+    ],
+    "id": 500870,
+    "name": "White Domina",
+    "negatives": [
+        {
+            "name": "Dry Eyes",
+            "score": 50
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 12.5
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/black-domina",
+            "category": "Indica",
+            "name": "Black Domina",
+            "permalink": "https://mobileapi.leafly.com/indica/black-domina",
+            "slug": "black-domina",
+            "subtitle": null,
+            "symbol": "Bdm"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/white-domina",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Vancouver, BC"
+    ],
+    "rating": 4,
+    "relatedStrains": [],
+    "reviewCount": 3,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "white-domina",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+    "subtitle": null,
+    "symbol": "Wdo",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 12.5
+        },
+        {
+            "name": "Insomnia",
+            "score": 12.5
+        },
+        {
+            "name": "Muscle Spasms",
+            "score": 12.5
+        },
+        {
+            "name": "Pain",
+            "score": 12.5
+        },
+        {
+            "name": "Stress",
+            "score": 12.5
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

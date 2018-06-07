@@ -1,1 +1,67 @@
-{"sl_translate":"description,descriptionPlain,category","id":500677,"slug":"rebel-tangie-kandy","name":"Rebel Tangie Kandy","subtitle":null,"symbol":"Rtk","category":"Sativa","description":"\u003cp\u003eRebel Tangie Kandy, bred by Rebel Spirit Cannabis, is a sativa-dominant hybrid strain that crosses \u003ca href=\"https://www.leafly.com/sativa/tangie\"\u003eTangie\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/hybrid/kandy-kush\"\u003eKandy Kush\u003c/a\u003e. This strain has a balanced 1:1 \u003ca href=\"https://www.leafly.com/news/cannabis-101/cannabinoids-101-what-makes-cannabis-medicine\"\u003ecannabinoid profile\u003c/a\u003e that reaches about 7% in both THC and \u003ca href=\"https://www.leafly.com/news/science-tech/what-does-cbd-do\"\u003eCBD\u003c/a\u003e. Best suited for outdoor gardens and dry climates, Rebel Tangie Kandy expresses itself in purple and yellow hues as the season gets colder. Sweet and fruity in smell, this strain is known to develop sweet-scented buds that fill the nose with sugary citrus and sharp pine. Its effects tend to be light and motivational, lending a functional high conducive to creativity and productivity.\u003c/p\u003e\n","descriptionPlain":"Rebel Tangie Kandy, bred by Rebel Spirit Cannabis, is a sativa-dominant hybrid strain that crosses Tangie and Kandy Kush. This strain has a balanced 1:1 cannabinoid profile that reaches about 7% in both THC and CBD. Best suited for outdoor gardens and dry climates, Rebel Tangie Kandy expresses itself in purple and yellow hues as the season gets colder. Sweet and fruity in smell, this strain is known to develop sweet-scented buds that fill the nose with sugary citrus and sharp pine. Its effects tend to be light and motivational, lending a functional high conducive to creativity and productivity.\n","aka":null,"rating":0,"highlightedReviews":[],"relatedStrains":[],"articles":[],"reviewCount":0,"flavors":[],"effects":[],"symptoms":[],"conditions":[],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Eugene, OR","Lincoln City, OR","McMinnville, OR","Portland, OR"],"permalink":"https://mobileapi.leafly.com/sativa/rebel-tangie-kandy","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/0/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Tangie","subtitle":null,"slug":"tangie","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/tangie","symbol":"Tg","applink":"leafly://strain/tangie"},{"name":"Kandy Kush","subtitle":null,"slug":"kandy-kush","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/kandy-kush","symbol":"Kan","applink":"leafly://strain/kandy-kush"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Sativa",
+    "conditions": [],
+    "description": "<p>Rebel Tangie Kandy, bred by Rebel Spirit Cannabis, is a sativa-dominant hybrid strain that crosses <a href=\"https://www.leafly.com/sativa/tangie\">Tangie</a> and <a href=\"https://www.leafly.com/hybrid/kandy-kush\">Kandy Kush</a>. This strain has a balanced 1:1 <a href=\"https://www.leafly.com/news/cannabis-101/cannabinoids-101-what-makes-cannabis-medicine\">cannabinoid profile</a> that reaches about 7% in both THC and <a href=\"https://www.leafly.com/news/science-tech/what-does-cbd-do\">CBD</a>. Best suited for outdoor gardens and dry climates, Rebel Tangie Kandy expresses itself in purple and yellow hues as the season gets colder. Sweet and fruity in smell, this strain is known to develop sweet-scented buds that fill the nose with sugary citrus and sharp pine. Its effects tend to be light and motivational, lending a functional high conducive to creativity and productivity.</p>\n",
+    "descriptionPlain": "Rebel Tangie Kandy, bred by Rebel Spirit Cannabis, is a sativa-dominant hybrid strain that crosses Tangie and Kandy Kush. This strain has a balanced 1:1 cannabinoid profile that reaches about 7% in both THC and CBD. Best suited for outdoor gardens and dry climates, Rebel Tangie Kandy expresses itself in purple and yellow hues as the season gets colder. Sweet and fruity in smell, this strain is known to develop sweet-scented buds that fill the nose with sugary citrus and sharp pine. Its effects tend to be light and motivational, lending a functional high conducive to creativity and productivity.\n",
+    "effects": [],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [],
+    "id": 500677,
+    "name": "Rebel Tangie Kandy",
+    "negatives": [],
+    "parents": [
+        {
+            "applink": "leafly://strain/tangie",
+            "category": "Sativa",
+            "name": "Tangie",
+            "permalink": "https://mobileapi.leafly.com/sativa/tangie",
+            "slug": "tangie",
+            "subtitle": null,
+            "symbol": "Tg"
+        },
+        {
+            "applink": "leafly://strain/kandy-kush",
+            "category": "Hybrid",
+            "name": "Kandy Kush",
+            "permalink": "https://mobileapi.leafly.com/hybrid/kandy-kush",
+            "slug": "kandy-kush",
+            "subtitle": null,
+            "symbol": "Kan"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/sativa/rebel-tangie-kandy",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Eugene, OR",
+        "Lincoln City, OR",
+        "McMinnville, OR",
+        "Portland, OR"
+    ],
+    "rating": 0,
+    "relatedStrains": [],
+    "reviewCount": 0,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "rebel-tangie-kandy",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/0/240",
+    "subtitle": null,
+    "symbol": "Rtk",
+    "symptoms": [],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

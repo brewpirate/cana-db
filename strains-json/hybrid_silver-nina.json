@@ -1,1 +1,110 @@
-{"sl_translate":"description,descriptionPlain,category","id":241296,"slug":"silver-nina","name":"Silver Nina","subtitle":null,"symbol":"Svn","category":"Hybrid","description":"\u003cp\u003eSilver Nina by \u003ca href=\"https://coloradoseedinc.com/\"\u003eColorado Seed Inc.\u003c/a\u003e is the stabilized cross of Silver Back and Nina Limone. Like \u003ca href=\"https://www.leafly.com/hybrid/gupta-kush\"\u003eGupta Kush\u003c/a\u003e, Nina Limone appears in many CO Seed Inc. crosses due to its excellent flavor, aroma, and effects. This sweet, citrusy strain offers consumers a palpable stimulation without being overwhelming. The bright, powdery nuggets will also make this strain a tabletop show piece.\u003c/p\u003e\n","descriptionPlain":"Silver Nina by Colorado Seed Inc. is the stabilized cross of Silver Back and Nina Limone. Like Gupta Kush, Nina Limone appears in many CO Seed Inc. crosses due to its excellent flavor, aroma, and effects. This sweet, citrusy strain offers consumers a palpable stimulation without being overwhelming. The bright, powdery nuggets will also make this strain a tabletop show piece.\n","aka":null,"rating":5,"highlightedReviews":[{"id":1513409,"username":"BowlPackinThumbs","text":"Silver Nina is a strain that I have been using lately throughout the am and into the afternoon for the last few days. I am overjoyed by the medical properties of this Sativa Dominant Hybrid and I am giving it a five-star rating for a reason. \n\nTo name a few of my observations:\n\n•\tSilver Nina enhances the ability of my mind to focus on tasks and identify the best course of action for accomplishing those tasks\n\n•\tThis strain gives me a surplus of energy, which is great in the morning when the day is just getting started\n\n•\tI find that Silver Nina has fantastic healing properties as well – It relaxes my muscles and alleviates any pain that I may encounter \n\nSilver Nina is an incredible strain of medical cannabis and it gives me a feeling I can always count on.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"},{"id":1513409,"username":"BowlPackinThumbs","text":"Silver Nina is a strain that I have been using lately throughout the am and into the afternoon for the last few days. I am overjoyed by the medical properties of this Sativa Dominant Hybrid and I am giving it a five-star rating for a reason. \n\nTo name a few of my observations:\n\n•\tSilver Nina enhances the ability of my mind to focus on tasks and identify the best course of action for accomplishing those tasks\n\n•\tThis strain gives me a surplus of energy, which is great in the morning when the day is just getting started\n\n•\tI find that Silver Nina has fantastic healing properties as well – It relaxes my muscles and alleviates any pain that I may encounter \n\nSilver Nina is an incredible strain of medical cannabis and it gives me a feeling I can always count on.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":2,"flavors":[],"effects":[{"name":"Creative","score":33.333333333333329},{"name":"Energetic","score":33.333333333333329},{"name":"Focused","score":33.333333333333329},{"name":"Happy","score":33.333333333333329},{"name":"Aroused","score":16.666666666666664}],"symptoms":[{"name":"Depression","score":33.333333333333329},{"name":"Inflammation","score":33.333333333333329},{"name":"Pain","score":33.333333333333329},{"name":"Cramps","score":16.666666666666664},{"name":"Nausea","score":16.666666666666664}],"conditions":[{"name":"ADD/ADHD","score":33.333333333333329}],"negatives":[{"name":"Dry Mouth","score":33.333333333333329}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/silver-nina","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "ADD/ADHD",
+            "score": 33.33333333333333
+        }
+    ],
+    "description": "<p>Silver Nina by <a href=\"https://coloradoseedinc.com/\">Colorado Seed Inc.</a> is the stabilized cross of Silver Back and Nina Limone. Like <a href=\"https://www.leafly.com/hybrid/gupta-kush\">Gupta Kush</a>, Nina Limone appears in many CO Seed Inc. crosses due to its excellent flavor, aroma, and effects. This sweet, citrusy strain offers consumers a palpable stimulation without being overwhelming. The bright, powdery nuggets will also make this strain a tabletop show piece.</p>\n",
+    "descriptionPlain": "Silver Nina by Colorado Seed Inc. is the stabilized cross of Silver Back and Nina Limone. Like Gupta Kush, Nina Limone appears in many CO Seed Inc. crosses due to its excellent flavor, aroma, and effects. This sweet, citrusy strain offers consumers a palpable stimulation without being overwhelming. The bright, powdery nuggets will also make this strain a tabletop show piece.\n",
+    "effects": [
+        {
+            "name": "Creative",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Energetic",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Focused",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Happy",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Aroused",
+            "score": 16.666666666666664
+        }
+    ],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1513409,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Silver Nina is a strain that I have been using lately throughout the am and into the afternoon for the last few days. I am overjoyed by the medical properties of this Sativa Dominant Hybrid and I am giving it a five-star rating for a reason. \n\nTo name a few of my observations:\n\n\u2022\tSilver Nina enhances the ability of my mind to focus on tasks and identify the best course of action for accomplishing those tasks\n\n\u2022\tThis strain gives me a surplus of energy, which is great in the morning when the day is just getting started\n\n\u2022\tI find that Silver Nina has fantastic healing properties as well \u2013 It relaxes my muscles and alleviates any pain that I may encounter \n\nSilver Nina is an incredible strain of medical cannabis and it gives me a feeling I can always count on.",
+            "username": "BowlPackinThumbs"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1513409,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Silver Nina is a strain that I have been using lately throughout the am and into the afternoon for the last few days. I am overjoyed by the medical properties of this Sativa Dominant Hybrid and I am giving it a five-star rating for a reason. \n\nTo name a few of my observations:\n\n\u2022\tSilver Nina enhances the ability of my mind to focus on tasks and identify the best course of action for accomplishing those tasks\n\n\u2022\tThis strain gives me a surplus of energy, which is great in the morning when the day is just getting started\n\n\u2022\tI find that Silver Nina has fantastic healing properties as well \u2013 It relaxes my muscles and alleviates any pain that I may encounter \n\nSilver Nina is an incredible strain of medical cannabis and it gives me a feeling I can always count on.",
+            "username": "BowlPackinThumbs"
+        }
+    ],
+    "id": 241296,
+    "name": "Silver Nina",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 33.33333333333333
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/hybrid/silver-nina",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 2,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "silver-nina",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Svn",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Inflammation",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Pain",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Cramps",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Nausea",
+            "score": 16.666666666666664
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

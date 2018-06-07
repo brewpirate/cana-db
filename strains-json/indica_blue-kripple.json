@@ -1,1 +1,195 @@
-{"sl_translate":"description,descriptionPlain,category","id":147090,"slug":"blue-kripple","name":"Blue Kripple","subtitle":null,"symbol":"Bkr","category":"Indica","description":"\u003cp\u003eBlue Kripple is an \u003ca href=\"http://www.leafly.com/explore/category-indica\"\u003eindica\u003c/a\u003e-dominant \u003ca href=\"http://www.leafly.com/explore/category-hybrid\"\u003ehybrid\u003c/a\u003e bred by Dr. Krippling. This strain brings together the \u003ca href=\"http://www.leafly.com/explore/tags-relaxed\"\u003erelaxing\u003c/a\u003e, therapeutic properties of \u003ca href=\"http://www.leafly.com/hybrid/medicine-man\"\u003eMedicine Man\u003c/a\u003e and \u003ca href=\"http://www.leafly.com/hybrid/blue-rhino\"\u003eBlue Rhino\u003c/a\u003e, while the influence of \u003ca href=\"http://www.leafly.com/indica/big-bud\"\u003eBig Bud\u003c/a\u003e enhances Blue Kripple with dense, oversized \u003ca href=\"http://www.leafly.com/news/cannabis-101/cannabis-anatomy-the-parts-of-the-plant\"\u003ecolas\u003c/a\u003e and large yields. The calming indica effects cradle you with full-body relaxation and encourage nighttime use for \u003ca href=\"http://www.leafly.com/explore/symptoms-stress\"\u003estress\u003c/a\u003e, \u003ca href=\"http://www.leafly.com/explore/symptoms-pain\"\u003epain\u003c/a\u003e, and \u003ca href=\"http://www.leafly.com/explore/symptoms-insomnia\"\u003einsomnia\u003c/a\u003e.\u003c/p\u003e\n","descriptionPlain":"Blue Kripple is an indica-dominant hybrid bred by Dr. Krippling. This strain brings together the relaxing, therapeutic properties of Medicine Man and Blue Rhino, while the influence of Big Bud enhances Blue Kripple with dense, oversized colas and large yields. The calming indica effects cradle you with full-body relaxation and encourage nighttime use for stress, pain, and insomnia.\n","aka":null,"rating":3.67,"highlightedReviews":[{"id":1395266,"username":"d1819","text":"I love this strain. Maybe it\u0027s the difference of personal chemistry, because I don\u0027t get the negative comments. It\u0027s not a \"knock-you-off-your-chair\" stone. It\u0027s more complex, but kind of lively. I really like to smoke this one when I\u0027m playing my guitar.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/XRYqzYK3o4q7eiqa4tRKs0rwo7Q=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fW7fVX5AQLmXra7zAGlYf_wayfarers-red.png"},{"id":1623678,"username":"DerkaDerp","text":"Great for sleep. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/lJ2VY3JcKjYut_50Yn5tnVlftCU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fGkYePhpuTiO6OltZh89O_wide-brim-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":15,"flavors":[{"name":"Berry","score":80},{"name":"Grape","score":42.5},{"name":"Butter","score":20},{"name":"Earthy","score":5}],"effects":[{"name":"Relaxed","score":101.66666666666666},{"name":"Sleepy","score":81.666666666666657},{"name":"Tingly","score":62.5},{"name":"Hungry","score":61.666666666666664},{"name":"Euphoric","score":45}],"symptoms":[{"name":"Insomnia","score":56.666666666666664},{"name":"Stress","score":20},{"name":"Pain","score":19.166666666666664},{"name":"Lack of Appetite","score":16.666666666666664},{"name":"Muscle Spasms","score":2.5}],"conditions":[{"name":"Anxiety","score":22.5},{"name":"ADD/ADHD","score":2.5},{"name":"Spinal Cord Injury","score":2.5}],"negatives":[{"name":"Dry Mouth","score":25},{"name":"Dry Eyes","score":22.5},{"name":"Dizzy","score":21.666666666666664},{"name":"Paranoid","score":5},{"name":"Headache","score":2.5}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/blue-kripple_100x100_fbd1.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/563301/b/blue-kripple__primary_6923.jpg"}],"photoTotalCount":1,"popularCities":["Portland, OR","Beaverton, OR","Springfield, OR","Bend, OR","Eugene, OR","McMinnville, OR","Medford, OR","Newberg, OR","Salem, OR"],"permalink":"https://mobileapi.leafly.com/indica/blue-kripple","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/3.66666666666667/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Blue Rhino","subtitle":null,"slug":"blue-rhino","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/blue-rhino","symbol":"Blr","applink":"leafly://strain/blue-rhino"},{"name":"Big Bud","subtitle":null,"slug":"big-bud","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/big-bud","symbol":"Bb","applink":"leafly://strain/big-bud"},{"name":"Medicine Man","subtitle":null,"slug":"medicine-man","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/medicine-man","symbol":"Med","applink":"leafly://strain/medicine-man"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":"Mid-End of October","height":null,"averageYield":null,"environment":null,"growNotes":"\n\tOdor control advised\n\n"}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 22.5
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 2.5
+        },
+        {
+            "name": "Spinal Cord Injury",
+            "score": 2.5
+        }
+    ],
+    "description": "<p>Blue Kripple is an <a href=\"http://www.leafly.com/explore/category-indica\">indica</a>-dominant <a href=\"http://www.leafly.com/explore/category-hybrid\">hybrid</a> bred by Dr. Krippling. This strain brings together the <a href=\"http://www.leafly.com/explore/tags-relaxed\">relaxing</a>, therapeutic properties of <a href=\"http://www.leafly.com/hybrid/medicine-man\">Medicine Man</a> and <a href=\"http://www.leafly.com/hybrid/blue-rhino\">Blue Rhino</a>, while the influence of <a href=\"http://www.leafly.com/indica/big-bud\">Big Bud</a> enhances Blue Kripple with dense, oversized <a href=\"http://www.leafly.com/news/cannabis-101/cannabis-anatomy-the-parts-of-the-plant\">colas</a> and large yields. The calming indica effects cradle you with full-body relaxation and encourage nighttime use for <a href=\"http://www.leafly.com/explore/symptoms-stress\">stress</a>, <a href=\"http://www.leafly.com/explore/symptoms-pain\">pain</a>, and <a href=\"http://www.leafly.com/explore/symptoms-insomnia\">insomnia</a>.</p>\n",
+    "descriptionPlain": "Blue Kripple is an indica-dominant hybrid bred by Dr. Krippling. This strain brings together the relaxing, therapeutic properties of Medicine Man and Blue Rhino, while the influence of Big Bud enhances Blue Kripple with dense, oversized colas and large yields. The calming indica effects cradle you with full-body relaxation and encourage nighttime use for stress, pain, and insomnia.\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 101.66666666666666
+        },
+        {
+            "name": "Sleepy",
+            "score": 81.66666666666666
+        },
+        {
+            "name": "Tingly",
+            "score": 62.5
+        },
+        {
+            "name": "Hungry",
+            "score": 61.666666666666664
+        },
+        {
+            "name": "Euphoric",
+            "score": 45
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Berry",
+            "score": 80
+        },
+        {
+            "name": "Grape",
+            "score": 42.5
+        },
+        {
+            "name": "Butter",
+            "score": 20
+        },
+        {
+            "name": "Earthy",
+            "score": 5
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "\n\tOdor control advised\n\n",
+        "height": null,
+        "outdoorFinish": "Mid-End of October",
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/XRYqzYK3o4q7eiqa4tRKs0rwo7Q=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fW7fVX5AQLmXra7zAGlYf_wayfarers-red.png",
+            "id": 1395266,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "I love this strain. Maybe it's the difference of personal chemistry, because I don't get the negative comments. It's not a \"knock-you-off-your-chair\" stone. It's more complex, but kind of lively. I really like to smoke this one when I'm playing my guitar.",
+            "username": "d1819"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/lJ2VY3JcKjYut_50Yn5tnVlftCU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fGkYePhpuTiO6OltZh89O_wide-brim-purple.png",
+            "id": 1623678,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Great for sleep. ",
+            "username": "DerkaDerp"
+        }
+    ],
+    "id": 147090,
+    "name": "Blue Kripple",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 25
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 22.5
+        },
+        {
+            "name": "Dizzy",
+            "score": 21.666666666666664
+        },
+        {
+            "name": "Paranoid",
+            "score": 5
+        },
+        {
+            "name": "Headache",
+            "score": 2.5
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/blue-rhino",
+            "category": "Hybrid",
+            "name": "Blue Rhino",
+            "permalink": "https://mobileapi.leafly.com/hybrid/blue-rhino",
+            "slug": "blue-rhino",
+            "subtitle": null,
+            "symbol": "Blr"
+        },
+        {
+            "applink": "leafly://strain/big-bud",
+            "category": "Indica",
+            "name": "Big Bud",
+            "permalink": "https://mobileapi.leafly.com/indica/big-bud",
+            "slug": "big-bud",
+            "subtitle": null,
+            "symbol": "Bb"
+        },
+        {
+            "applink": "leafly://strain/medicine-man",
+            "category": "Hybrid",
+            "name": "Medicine Man",
+            "permalink": "https://mobileapi.leafly.com/hybrid/medicine-man",
+            "slug": "medicine-man",
+            "subtitle": null,
+            "symbol": "Med"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/blue-kripple",
+    "photoTotalCount": 1,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/563301/b/blue-kripple__primary_6923.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/blue-kripple_100x100_fbd1.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Portland, OR",
+        "Beaverton, OR",
+        "Springfield, OR",
+        "Bend, OR",
+        "Eugene, OR",
+        "McMinnville, OR",
+        "Medford, OR",
+        "Newberg, OR",
+        "Salem, OR"
+    ],
+    "rating": 3.67,
+    "relatedStrains": [],
+    "reviewCount": 15,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "blue-kripple",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/3.66666666666667/240",
+    "subtitle": null,
+    "symbol": "Bkr",
+    "symptoms": [
+        {
+            "name": "Insomnia",
+            "score": 56.666666666666664
+        },
+        {
+            "name": "Stress",
+            "score": 20
+        },
+        {
+            "name": "Pain",
+            "score": 19.166666666666664
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Muscle Spasms",
+            "score": 2.5
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

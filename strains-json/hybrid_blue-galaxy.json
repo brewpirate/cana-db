@@ -1,1 +1,149 @@
-{"sl_translate":"description,descriptionPlain,category","id":233584,"slug":"blue-galaxy","name":"Blue Galaxy","subtitle":null,"symbol":"Bgx","category":"Hybrid","description":"\u003cp dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"\u003eBlue Galaxy is a classic combo of Middle Eastern genetics bred for their potency and resin production. With \u003ca href=\"https://www.leafly.com/indica/afghani\"\u003eAfghani\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/sativa/hashplant-haze\"\u003eHashplant Haze\u003c/a\u003e\u0026nbsp;parentage, this strain imbues the consumer with a metric ton of muscular weight and a hazy but pleasant mental state. Anticipate earthy aromas with latent sweetness. Blue Galaxy is ideal for combating insomnia, chronic pain, and nausea.\u003c/p\u003e\n\n\u003cp dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"\u003e\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Blue Galaxy is a classic combo of Middle Eastern genetics bred for their potency and resin production. With Afghani and Hashplant Haze\u0026nbsp;parentage, this strain imbues the consumer with a metric ton of muscular weight and a hazy but pleasant mental state. Anticipate earthy aromas with latent sweetness. Blue Galaxy is ideal for combating insomnia, chronic pain, and nausea.\n\n\u0026nbsp;\n","aka":null,"rating":4.71,"highlightedReviews":[{"id":1524132,"username":"KAPYOPHI","text":"One of the ABSOLUTE best I\u0027ve had so far. I would get stuck on a few thoughts and that resulted in instant, constant laughing! But I felt amazing and famished after! 5 STARS from me! ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png"},{"id":1524132,"username":"KAPYOPHI","text":"One of the ABSOLUTE best I\u0027ve had so far. I would get stuck on a few thoughts and that resulted in instant, constant laughing! But I felt amazing and famished after! 5 STARS from me! ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":7,"flavors":[{"name":"Berry","score":17.5},{"name":"Blueberry","score":17.5},{"name":"Earthy","score":12.5},{"name":"Sweet","score":10}],"effects":[{"name":"Energetic","score":37.5},{"name":"Happy","score":35},{"name":"Relaxed","score":30},{"name":"Talkative","score":25},{"name":"Creative","score":25}],"symptoms":[{"name":"Depression","score":5},{"name":"Headaches","score":5},{"name":"Pain","score":5},{"name":"Stress","score":5}],"conditions":[{"name":"Asthma","score":12.5},{"name":"Crohn\u0027s Disease","score":12.5}],"negatives":[{"name":"Dry Mouth","score":25}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Los Angeles, CA","Trinidad, CO"],"permalink":"https://mobileapi.leafly.com/hybrid/blue-galaxy","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.71428571428571/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Afghani","subtitle":null,"slug":"afghani","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/afghani","symbol":"Afg","applink":"leafly://strain/afghani"},{"name":"Hashplant Haze","subtitle":null,"slug":"hashplant-haze","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/hashplant-haze","symbol":"Hz","applink":"leafly://strain/hashplant-haze"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Asthma",
+            "score": 12.5
+        },
+        {
+            "name": "Crohn's Disease",
+            "score": 12.5
+        }
+    ],
+    "description": "<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\">Blue Galaxy is a classic combo of Middle Eastern genetics bred for their potency and resin production. With <a href=\"https://www.leafly.com/indica/afghani\">Afghani</a> and <a href=\"https://www.leafly.com/sativa/hashplant-haze\">Hashplant Haze</a>&nbsp;parentage, this strain imbues the consumer with a metric ton of muscular weight and a hazy but pleasant mental state. Anticipate earthy aromas with latent sweetness. Blue Galaxy is ideal for combating insomnia, chronic pain, and nausea.</p>\n\n<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\">&nbsp;</p>\n",
+    "descriptionPlain": "Blue Galaxy is a classic combo of Middle Eastern genetics bred for their potency and resin production. With Afghani and Hashplant Haze&nbsp;parentage, this strain imbues the consumer with a metric ton of muscular weight and a hazy but pleasant mental state. Anticipate earthy aromas with latent sweetness. Blue Galaxy is ideal for combating insomnia, chronic pain, and nausea.\n\n&nbsp;\n",
+    "effects": [
+        {
+            "name": "Energetic",
+            "score": 37.5
+        },
+        {
+            "name": "Happy",
+            "score": 35
+        },
+        {
+            "name": "Relaxed",
+            "score": 30
+        },
+        {
+            "name": "Talkative",
+            "score": 25
+        },
+        {
+            "name": "Creative",
+            "score": 25
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Berry",
+            "score": 17.5
+        },
+        {
+            "name": "Blueberry",
+            "score": 17.5
+        },
+        {
+            "name": "Earthy",
+            "score": 12.5
+        },
+        {
+            "name": "Sweet",
+            "score": 10
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png",
+            "id": 1524132,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "One of the ABSOLUTE best I've had so far. I would get stuck on a few thoughts and that resulted in instant, constant laughing! But I felt amazing and famished after! 5 STARS from me! ",
+            "username": "KAPYOPHI"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png",
+            "id": 1524132,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "One of the ABSOLUTE best I've had so far. I would get stuck on a few thoughts and that resulted in instant, constant laughing! But I felt amazing and famished after! 5 STARS from me! ",
+            "username": "KAPYOPHI"
+        }
+    ],
+    "id": 233584,
+    "name": "Blue Galaxy",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 25
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/afghani",
+            "category": "Indica",
+            "name": "Afghani",
+            "permalink": "https://mobileapi.leafly.com/indica/afghani",
+            "slug": "afghani",
+            "subtitle": null,
+            "symbol": "Afg"
+        },
+        {
+            "applink": "leafly://strain/hashplant-haze",
+            "category": "Sativa",
+            "name": "Hashplant Haze",
+            "permalink": "https://mobileapi.leafly.com/sativa/hashplant-haze",
+            "slug": "hashplant-haze",
+            "subtitle": null,
+            "symbol": "Hz"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/blue-galaxy",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Los Angeles, CA",
+        "Trinidad, CO"
+    ],
+    "rating": 4.71,
+    "relatedStrains": [],
+    "reviewCount": 7,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "blue-galaxy",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.71428571428571/240",
+    "subtitle": null,
+    "symbol": "Bgx",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 5
+        },
+        {
+            "name": "Headaches",
+            "score": 5
+        },
+        {
+            "name": "Pain",
+            "score": 5
+        },
+        {
+            "name": "Stress",
+            "score": 5
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

@@ -1,1 +1,139 @@
-{"sl_translate":"description,descriptionPlain,category","id":500722,"slug":"sweet-hawaiian-tangie-banana","name":"Sweet Hawaiian Tangie Banana","subtitle":null,"symbol":"Htb","category":"Hybrid","description":"\u003cp\u003eSweet Hawaiian Tangie Banana, Pua Mana\u0026rsquo;s genetic specialty, is a cross between \u003ca href=\"https://www.leafly.com/sativa/hawaii-78\"\u003eHawai\u0026#39;i \u0026#39;78\u003c/a\u003e (also known as the \u0026ldquo;Sweet Lady of Waiahole\u0026rdquo;) and Crockett Family Farms\u0026rsquo; masterpiece, \u003ca href=\"https://www.leafly.com/hybrid/double-tangie-banana\"\u003eDouble Tangie Banana\u003c/a\u003e. This pungent, tropical genetic offspring\u0026nbsp; was then hit with a prized \u003ca href=\"https://www.leafly.com/sativa/tangie\"\u003eTangie\u003c/a\u003e cut from the Pua Mana genetics library, resulting in an absolutely outstanding strain. Reeking of citrus, banana, and tropical flora, Sweet Hawaiian Tangie Banana stays true its name, offering similar flavors upon combustion or vaporization. But beware, as the potency of this resinous flower is not to be underestimated.\u003c/p\u003e\n","descriptionPlain":"Sweet Hawaiian Tangie Banana, Pua Mana\u0026rsquo;s genetic specialty, is a cross between Hawai\u0026#39;i \u0026#39;78 (also known as the \u0026ldquo;Sweet Lady of Waiahole\u0026rdquo;) and Crockett Family Farms\u0026rsquo; masterpiece, Double Tangie Banana. This pungent, tropical genetic offspring\u0026nbsp; was then hit with a prized Tangie cut from the Pua Mana genetics library, resulting in an absolutely outstanding strain. Reeking of citrus, banana, and tropical flora, Sweet Hawaiian Tangie Banana stays true its name, offering similar flavors upon combustion or vaporization. But beware, as the potency of this resinous flower is not to be underestimated.\n","aka":null,"rating":0,"highlightedReviews":[],"relatedStrains":[],"articles":[],"reviewCount":0,"flavors":[{"name":"Sweet","score":50},{"name":"Citrus","score":50},{"name":"Tropical","score":50},{"name":"Flowery","score":50}],"effects":[{"name":"Happy","score":50},{"name":"Relaxed","score":50}],"symptoms":[{"name":"Eye Pressure","score":50},{"name":"Headaches","score":50},{"name":"Insomnia","score":50},{"name":"Lack of Appetite","score":50},{"name":"Pain","score":50}],"conditions":[{"name":"ADD/ADHD","score":50},{"name":"Anxiety","score":50},{"name":"Cancer","score":50},{"name":"Hypertension","score":50},{"name":"Migraines","score":50}],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/sweet-hawaiian-tangie-banana","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/0/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Hawai’i ‘78","subtitle":null,"slug":"hawaii-78","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/hawaii-78","symbol":"H78","applink":"leafly://strain/hawaii-78"},{"name":"Double Tangie Banana","subtitle":null,"slug":"double-tangie-banana","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/double-tangie-banana","symbol":"Dtb","applink":"leafly://strain/double-tangie-banana"},{"name":"Tangie","subtitle":null,"slug":"tangie","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/tangie","symbol":"Tg","applink":"leafly://strain/tangie"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "ADD/ADHD",
+            "score": 50
+        },
+        {
+            "name": "Anxiety",
+            "score": 50
+        },
+        {
+            "name": "Cancer",
+            "score": 50
+        },
+        {
+            "name": "Hypertension",
+            "score": 50
+        },
+        {
+            "name": "Migraines",
+            "score": 50
+        }
+    ],
+    "description": "<p>Sweet Hawaiian Tangie Banana, Pua Mana&rsquo;s genetic specialty, is a cross between <a href=\"https://www.leafly.com/sativa/hawaii-78\">Hawai&#39;i &#39;78</a> (also known as the &ldquo;Sweet Lady of Waiahole&rdquo;) and Crockett Family Farms&rsquo; masterpiece, <a href=\"https://www.leafly.com/hybrid/double-tangie-banana\">Double Tangie Banana</a>. This pungent, tropical genetic offspring&nbsp; was then hit with a prized <a href=\"https://www.leafly.com/sativa/tangie\">Tangie</a> cut from the Pua Mana genetics library, resulting in an absolutely outstanding strain. Reeking of citrus, banana, and tropical flora, Sweet Hawaiian Tangie Banana stays true its name, offering similar flavors upon combustion or vaporization. But beware, as the potency of this resinous flower is not to be underestimated.</p>\n",
+    "descriptionPlain": "Sweet Hawaiian Tangie Banana, Pua Mana&rsquo;s genetic specialty, is a cross between Hawai&#39;i &#39;78 (also known as the &ldquo;Sweet Lady of Waiahole&rdquo;) and Crockett Family Farms&rsquo; masterpiece, Double Tangie Banana. This pungent, tropical genetic offspring&nbsp; was then hit with a prized Tangie cut from the Pua Mana genetics library, resulting in an absolutely outstanding strain. Reeking of citrus, banana, and tropical flora, Sweet Hawaiian Tangie Banana stays true its name, offering similar flavors upon combustion or vaporization. But beware, as the potency of this resinous flower is not to be underestimated.\n",
+    "effects": [
+        {
+            "name": "Happy",
+            "score": 50
+        },
+        {
+            "name": "Relaxed",
+            "score": 50
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Sweet",
+            "score": 50
+        },
+        {
+            "name": "Citrus",
+            "score": 50
+        },
+        {
+            "name": "Tropical",
+            "score": 50
+        },
+        {
+            "name": "Flowery",
+            "score": 50
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [],
+    "id": 500722,
+    "name": "Sweet Hawaiian Tangie Banana",
+    "negatives": [],
+    "parents": [
+        {
+            "applink": "leafly://strain/hawaii-78",
+            "category": "Sativa",
+            "name": "Hawai\u2019i \u201878",
+            "permalink": "https://mobileapi.leafly.com/sativa/hawaii-78",
+            "slug": "hawaii-78",
+            "subtitle": null,
+            "symbol": "H78"
+        },
+        {
+            "applink": "leafly://strain/double-tangie-banana",
+            "category": "Hybrid",
+            "name": "Double Tangie Banana",
+            "permalink": "https://mobileapi.leafly.com/hybrid/double-tangie-banana",
+            "slug": "double-tangie-banana",
+            "subtitle": null,
+            "symbol": "Dtb"
+        },
+        {
+            "applink": "leafly://strain/tangie",
+            "category": "Sativa",
+            "name": "Tangie",
+            "permalink": "https://mobileapi.leafly.com/sativa/tangie",
+            "slug": "tangie",
+            "subtitle": null,
+            "symbol": "Tg"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/sweet-hawaiian-tangie-banana",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 0,
+    "relatedStrains": [],
+    "reviewCount": 0,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "sweet-hawaiian-tangie-banana",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/0/240",
+    "subtitle": null,
+    "symbol": "Htb",
+    "symptoms": [
+        {
+            "name": "Eye Pressure",
+            "score": 50
+        },
+        {
+            "name": "Headaches",
+            "score": 50
+        },
+        {
+            "name": "Insomnia",
+            "score": 50
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 50
+        },
+        {
+            "name": "Pain",
+            "score": 50
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

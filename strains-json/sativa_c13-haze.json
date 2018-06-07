@@ -1,1 +1,206 @@
-{"sl_translate":"description,descriptionPlain,category","id":337,"slug":"c13-haze","name":"C13 Haze","subtitle":null,"symbol":"C13","category":"Sativa","description":"\u003cp\u003eC13 is one of the many strains in the DNA Genetics catalog. It\u0026#39;s a cross between \u003ca href=\"https://www.leafly.com/sativa/cannalope-haze\"\u003eCannalope Haze\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/indica/g-13\"\u003eG13\u003c/a\u003e.\u0026nbsp;This hybrid grows and smells more like the G13 side of its lineage and tastes fantastic. C13 is nice for relieving pain and anxiety-related symptoms.\u003c/p\u003e\n","descriptionPlain":"C13 is one of the many strains in the DNA Genetics catalog. It\u0026#39;s a cross between Cannalope Haze and G13.\u0026nbsp;This hybrid grows and smells more like the G13 side of its lineage and tastes fantastic. C13 is nice for relieving pain and anxiety-related symptoms.\n","aka":null,"rating":4.4,"highlightedReviews":[{"id":1392394,"username":"tjay_ca","text":"i totally get lost in whatever i\u0027m doing on this. great if you just want to zone out. good for watching family guy. ever better for jerkin off too. lol. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png"},{"id":1392399,"username":"GFOhio02","text":"seriously the best strain that has replaced my addictive pain meds. Thank you to whoever bred this strain","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":15,"flavors":[{"name":"Earthy","score":102.5},{"name":"Pungent","score":102.5},{"name":"Pepper","score":100},{"name":"Lemon","score":1.25},{"name":"Flowery","score":1.25}],"effects":[{"name":"Euphoric","score":111.25},{"name":"Creative","score":107.5},{"name":"Energetic","score":106.25},{"name":"Giggly","score":106.25},{"name":"Talkative","score":102.5}],"symptoms":[{"name":"Pain","score":10},{"name":"Stress","score":8.75},{"name":"Muscle Spasms","score":5},{"name":"Depression","score":3.75},{"name":"Nausea","score":3.75}],"conditions":[{"name":"Anxiety","score":8.75},{"name":"Migraines","score":2.5},{"name":"ADD/ADHD","score":1.25},{"name":"Bipolar Disorder","score":1.25}],"negatives":[{"name":"Dry Mouth","score":107.5},{"name":"Dry Eyes","score":103.75},{"name":"Dizzy","score":2.5},{"name":"Paranoid","score":2.5},{"name":"Headache","score":1.25}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/c13-haze_100x100_fff8.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/505692/b/c13-haze__primary_93c3.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/c13-haze_100x100_c240.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/374029/b/c13-haze__primary_6230.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/c13-haze_100x100_30d5.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/304843/b/c13-haze__primary_af98.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/c13-haze_100x100_6ec2.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/19212/b/c13-haze_825x550_82fd.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/C13-Haze_100x100_jxkh31fs.uzt.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/4967/b/c13-haze_825x550_i4elhu1t.boi.jpg"}],"photoTotalCount":5,"popularCities":["Mount Shasta, CA"],"permalink":"https://mobileapi.leafly.com/sativa/c13-haze","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.4/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Cannalope Haze","subtitle":null,"slug":"cannalope-haze","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/cannalope-haze","symbol":"Cah","applink":"leafly://strain/cannalope-haze"},{"name":"G13","subtitle":null,"slug":"g-13","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/g-13","symbol":"G13","applink":"leafly://strain/g-13"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Sativa",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 8.75
+        },
+        {
+            "name": "Migraines",
+            "score": 2.5
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 1.25
+        },
+        {
+            "name": "Bipolar Disorder",
+            "score": 1.25
+        }
+    ],
+    "description": "<p>C13 is one of the many strains in the DNA Genetics catalog. It&#39;s a cross between <a href=\"https://www.leafly.com/sativa/cannalope-haze\">Cannalope Haze</a> and <a href=\"https://www.leafly.com/indica/g-13\">G13</a>.&nbsp;This hybrid grows and smells more like the G13 side of its lineage and tastes fantastic. C13 is nice for relieving pain and anxiety-related symptoms.</p>\n",
+    "descriptionPlain": "C13 is one of the many strains in the DNA Genetics catalog. It&#39;s a cross between Cannalope Haze and G13.&nbsp;This hybrid grows and smells more like the G13 side of its lineage and tastes fantastic. C13 is nice for relieving pain and anxiety-related symptoms.\n",
+    "effects": [
+        {
+            "name": "Euphoric",
+            "score": 111.25
+        },
+        {
+            "name": "Creative",
+            "score": 107.5
+        },
+        {
+            "name": "Energetic",
+            "score": 106.25
+        },
+        {
+            "name": "Giggly",
+            "score": 106.25
+        },
+        {
+            "name": "Talkative",
+            "score": 102.5
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Earthy",
+            "score": 102.5
+        },
+        {
+            "name": "Pungent",
+            "score": 102.5
+        },
+        {
+            "name": "Pepper",
+            "score": 100
+        },
+        {
+            "name": "Lemon",
+            "score": 1.25
+        },
+        {
+            "name": "Flowery",
+            "score": 1.25
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png",
+            "id": 1392394,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "i totally get lost in whatever i'm doing on this. great if you just want to zone out. good for watching family guy. ever better for jerkin off too. lol. ",
+            "username": "tjay_ca"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png",
+            "id": 1392399,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "seriously the best strain that has replaced my addictive pain meds. Thank you to whoever bred this strain",
+            "username": "GFOhio02"
+        }
+    ],
+    "id": 337,
+    "name": "C13 Haze",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 107.5
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 103.75
+        },
+        {
+            "name": "Dizzy",
+            "score": 2.5
+        },
+        {
+            "name": "Paranoid",
+            "score": 2.5
+        },
+        {
+            "name": "Headache",
+            "score": 1.25
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/cannalope-haze",
+            "category": "Sativa",
+            "name": "Cannalope Haze",
+            "permalink": "https://mobileapi.leafly.com/sativa/cannalope-haze",
+            "slug": "cannalope-haze",
+            "subtitle": null,
+            "symbol": "Cah"
+        },
+        {
+            "applink": "leafly://strain/g-13",
+            "category": "Indica",
+            "name": "G13",
+            "permalink": "https://mobileapi.leafly.com/indica/g-13",
+            "slug": "g-13",
+            "subtitle": null,
+            "symbol": "G13"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/sativa/c13-haze",
+    "photoTotalCount": 5,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/505692/b/c13-haze__primary_93c3.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/c13-haze_100x100_fff8.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/374029/b/c13-haze__primary_6230.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/c13-haze_100x100_c240.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/304843/b/c13-haze__primary_af98.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/c13-haze_100x100_30d5.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/19212/b/c13-haze_825x550_82fd.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/c13-haze_100x100_6ec2.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/4967/b/c13-haze_825x550_i4elhu1t.boi.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/C13-Haze_100x100_jxkh31fs.uzt.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Mount Shasta, CA"
+    ],
+    "rating": 4.4,
+    "relatedStrains": [],
+    "reviewCount": 15,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "c13-haze",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.4/240",
+    "subtitle": null,
+    "symbol": "C13",
+    "symptoms": [
+        {
+            "name": "Pain",
+            "score": 10
+        },
+        {
+            "name": "Stress",
+            "score": 8.75
+        },
+        {
+            "name": "Muscle Spasms",
+            "score": 5
+        },
+        {
+            "name": "Depression",
+            "score": 3.75
+        },
+        {
+            "name": "Nausea",
+            "score": 3.75
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

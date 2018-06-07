@@ -1,1 +1,133 @@
-{"sl_translate":"description,descriptionPlain,category","id":214320,"slug":"electric-black-mamba","name":"Electric Black Mamba","subtitle":null,"symbol":"Ebm","category":"Indica","description":"\u003cp\u003eElectric Black Mamba is an indica-dominant strain bred from a \u003ca href=\"https://www.leafly.com/indica/black-domina\"\u003eBlack Domina\u003c/a\u003e mother and a \u003ca href=\"https://www.leafly.com/hybrid/purple-diesel\"\u003ePurple Diesel\u003c/a\u003e male. This 70% indica is perfect for those treating chronic pain or insomnia, and its high concentration of the \u003ca href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\"\u003eterpene\u003c/a\u003e myrcene provides you with a \u0026ldquo;couch-lock\u0026rdquo; effect. Its dark forest green buds carry a sweet blackberry aroma with notes of skunky hash. Not for the novice grower, this plant demands constant attention and does not like to be overfed.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Electric Black Mamba is an indica-dominant strain bred from a Black Domina mother and a Purple Diesel male. This 70% indica is perfect for those treating chronic pain or insomnia, and its high concentration of the terpene myrcene provides you with a \u0026ldquo;couch-lock\u0026rdquo; effect. Its dark forest green buds carry a sweet blackberry aroma with notes of skunky hash. Not for the novice grower, this plant demands constant attention and does not like to be overfed.\u0026nbsp;\n","aka":null,"rating":5,"highlightedReviews":[{"id":1262201,"username":"420divinegoddess","text":"Super for pain! relaxation and insomnia.Heavy med both physically and heavy/relaxing mentally.A1","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/XRYqzYK3o4q7eiqa4tRKs0rwo7Q=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fW7fVX5AQLmXra7zAGlYf_wayfarers-red.png"},{"id":1338335,"username":"laurynw","text":"This has been one of my favorite strains. I am totally in love with how it mellows me out and manages my pain. \n\nI don\u0027t feel too heavy on it though which is especially nice given the amount of relief it provides.\n\nI will definitely be getting some more the next time it is available.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":4,"flavors":[{"name":"Earthy","score":36.111111111111107},{"name":"Pine","score":36.111111111111107},{"name":"Sweet","score":33.333333333333329},{"name":"Berry","score":33.333333333333329},{"name":"Skunk","score":33.333333333333329}],"effects":[{"name":"Relaxed","score":74.999999999999986},{"name":"Euphoric","score":72.222222222222214},{"name":"Happy","score":66.666666666666657},{"name":"Sleepy","score":38.888888888888886},{"name":"Uplifted","score":38.888888888888886}],"symptoms":[{"name":"Pain","score":2.7777777777777777},{"name":"Stress","score":2.7777777777777777}],"conditions":[],"negatives":[{"name":"Dry Eyes","score":2.7777777777777777}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/indica/electric-black-mamba","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Black Domina","subtitle":null,"slug":"black-domina","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/black-domina","symbol":"Bdm","applink":"leafly://strain/black-domina"},{"name":"Purple Diesel","subtitle":null,"slug":"purple-diesel","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/purple-diesel","symbol":"Pd","applink":"leafly://strain/purple-diesel"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [],
+    "description": "<p>Electric Black Mamba is an indica-dominant strain bred from a <a href=\"https://www.leafly.com/indica/black-domina\">Black Domina</a> mother and a <a href=\"https://www.leafly.com/hybrid/purple-diesel\">Purple Diesel</a> male. This 70% indica is perfect for those treating chronic pain or insomnia, and its high concentration of the <a href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\">terpene</a> myrcene provides you with a &ldquo;couch-lock&rdquo; effect. Its dark forest green buds carry a sweet blackberry aroma with notes of skunky hash. Not for the novice grower, this plant demands constant attention and does not like to be overfed.&nbsp;</p>\n",
+    "descriptionPlain": "Electric Black Mamba is an indica-dominant strain bred from a Black Domina mother and a Purple Diesel male. This 70% indica is perfect for those treating chronic pain or insomnia, and its high concentration of the terpene myrcene provides you with a &ldquo;couch-lock&rdquo; effect. Its dark forest green buds carry a sweet blackberry aroma with notes of skunky hash. Not for the novice grower, this plant demands constant attention and does not like to be overfed.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 74.99999999999999
+        },
+        {
+            "name": "Euphoric",
+            "score": 72.22222222222221
+        },
+        {
+            "name": "Happy",
+            "score": 66.66666666666666
+        },
+        {
+            "name": "Sleepy",
+            "score": 38.888888888888886
+        },
+        {
+            "name": "Uplifted",
+            "score": 38.888888888888886
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Earthy",
+            "score": 36.11111111111111
+        },
+        {
+            "name": "Pine",
+            "score": 36.11111111111111
+        },
+        {
+            "name": "Sweet",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Berry",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Skunk",
+            "score": 33.33333333333333
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/XRYqzYK3o4q7eiqa4tRKs0rwo7Q=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fW7fVX5AQLmXra7zAGlYf_wayfarers-red.png",
+            "id": 1262201,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Super for pain! relaxation and insomnia.Heavy med both physically and heavy/relaxing mentally.A1",
+            "username": "420divinegoddess"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1338335,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "This has been one of my favorite strains. I am totally in love with how it mellows me out and manages my pain. \n\nI don't feel too heavy on it though which is especially nice given the amount of relief it provides.\n\nI will definitely be getting some more the next time it is available.",
+            "username": "laurynw"
+        }
+    ],
+    "id": 214320,
+    "name": "Electric Black Mamba",
+    "negatives": [
+        {
+            "name": "Dry Eyes",
+            "score": 2.7777777777777777
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/black-domina",
+            "category": "Indica",
+            "name": "Black Domina",
+            "permalink": "https://mobileapi.leafly.com/indica/black-domina",
+            "slug": "black-domina",
+            "subtitle": null,
+            "symbol": "Bdm"
+        },
+        {
+            "applink": "leafly://strain/purple-diesel",
+            "category": "Hybrid",
+            "name": "Purple Diesel",
+            "permalink": "https://mobileapi.leafly.com/hybrid/purple-diesel",
+            "slug": "purple-diesel",
+            "subtitle": null,
+            "symbol": "Pd"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/electric-black-mamba",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 4,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "electric-black-mamba",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Ebm",
+    "symptoms": [
+        {
+            "name": "Pain",
+            "score": 2.7777777777777777
+        },
+        {
+            "name": "Stress",
+            "score": 2.7777777777777777
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

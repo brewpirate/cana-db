@@ -1,1 +1,189 @@
-{"sl_translate":"description,descriptionPlain,category","id":176273,"slug":"happy-rancher","name":"Happy Rancher","subtitle":null,"symbol":"Hr","category":"Hybrid","description":"\u003cp\u003eNot much is known about the California-bred hybrid Happy Rancher, but this hybrid strain has nevertheless carved a name for itself among West Coast genetics. Its name and initial appeal lies primarily in Happy Rancher\u0026rsquo;s sour candied aroma, although there\u0026rsquo;s also something to be said about its high-flying euphoria and colorful buds. Coated with a sticky blanket of sugar-like resin, Happy Rancher is a treat for all the senses.\u003c/p\u003e\n","descriptionPlain":"Not much is known about the California-bred hybrid Happy Rancher, but this hybrid strain has nevertheless carved a name for itself among West Coast genetics. Its name and initial appeal lies primarily in Happy Rancher\u0026rsquo;s sour candied aroma, although there\u0026rsquo;s also something to be said about its high-flying euphoria and colorful buds. Coated with a sticky blanket of sugar-like resin, Happy Rancher is a treat for all the senses.\n","aka":null,"rating":4.32,"highlightedReviews":[{"id":1229641,"username":"cliffleon","text":"Amazing strain. Within minutes of smoking you feel the euphoric buzz creep over you. After about an hour it\u0027s a talkative, relaxing, yet still active vibe. Very great for anxiety and socializing.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/8AEOnyObscLzPEdm7ERjYOUx4RU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fP4YFTRznSDCEVP7Fycg7_nerd-red.png"},{"id":1521564,"username":"fore20golf","text":"Great for daytime activities. My go to strain when i have a full day of golf...keeps me going but also focused. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":31,"flavors":[{"name":"Sweet","score":18.928571428571427},{"name":"Pungent","score":14.642857142857142},{"name":"Blueberry","score":13.214285714285714},{"name":"Berry","score":5.7142857142857144},{"name":"Flowery","score":2.1428571428571428}],"effects":[{"name":"Euphoric","score":32.857142857142854},{"name":"Creative","score":31.428571428571427},{"name":"Happy","score":30.714285714285715},{"name":"Giggly","score":30},{"name":"Uplifted","score":29.285714285714285}],"symptoms":[{"name":"Stress","score":4.2857142857142856},{"name":"Depression","score":2.8571428571428572},{"name":"Insomnia","score":2.8571428571428572},{"name":"Nausea","score":2.8571428571428572},{"name":"Pain","score":2.8571428571428572}],"conditions":[{"name":"Anxiety","score":18.214285714285715},{"name":"ADD/ADHD","score":13.928571428571429},{"name":"PTSD","score":2.8571428571428572},{"name":"Arthritis","score":2.1428571428571428},{"name":"Migraines","score":2.1428571428571428}],"negatives":[{"name":"Dry Mouth","score":13.928571428571429},{"name":"Dry Eyes","score":13.214285714285714},{"name":"Dizzy","score":12.5}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/jolly-rancher_100x100_678f.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/640588/b/jolly-rancher__primary_3dc6.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/jolly-rancher_100x100_64b2.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/605942/b/jolly-rancher__primary_5869.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/jolly-rancher_100x100_efa6.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/552221/b/jolly-rancher__primary_b8db.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/jolly-rancher_100x100_7c41.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/506986/b/jolly-rancher__primary_bab9.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/jolly-rancher_100x100_4fc8.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/459537/b/jolly-rancher__primary_8e1e.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/jolly-rancher_100x100_3618.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/450540/b/jolly-rancher__primary_d669.jpg"}],"photoTotalCount":14,"popularCities":["Los Angeles, CA","Bellingham, WA"],"permalink":"https://mobileapi.leafly.com/hybrid/happy-rancher","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.32258064516129/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 18.214285714285715
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 13.928571428571429
+        },
+        {
+            "name": "PTSD",
+            "score": 2.857142857142857
+        },
+        {
+            "name": "Arthritis",
+            "score": 2.142857142857143
+        },
+        {
+            "name": "Migraines",
+            "score": 2.142857142857143
+        }
+    ],
+    "description": "<p>Not much is known about the California-bred hybrid Happy Rancher, but this hybrid strain has nevertheless carved a name for itself among West Coast genetics. Its name and initial appeal lies primarily in Happy Rancher&rsquo;s sour candied aroma, although there&rsquo;s also something to be said about its high-flying euphoria and colorful buds. Coated with a sticky blanket of sugar-like resin, Happy Rancher is a treat for all the senses.</p>\n",
+    "descriptionPlain": "Not much is known about the California-bred hybrid Happy Rancher, but this hybrid strain has nevertheless carved a name for itself among West Coast genetics. Its name and initial appeal lies primarily in Happy Rancher&rsquo;s sour candied aroma, although there&rsquo;s also something to be said about its high-flying euphoria and colorful buds. Coated with a sticky blanket of sugar-like resin, Happy Rancher is a treat for all the senses.\n",
+    "effects": [
+        {
+            "name": "Euphoric",
+            "score": 32.857142857142854
+        },
+        {
+            "name": "Creative",
+            "score": 31.428571428571427
+        },
+        {
+            "name": "Happy",
+            "score": 30.714285714285715
+        },
+        {
+            "name": "Giggly",
+            "score": 30
+        },
+        {
+            "name": "Uplifted",
+            "score": 29.285714285714285
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Sweet",
+            "score": 18.928571428571427
+        },
+        {
+            "name": "Pungent",
+            "score": 14.642857142857142
+        },
+        {
+            "name": "Blueberry",
+            "score": 13.214285714285714
+        },
+        {
+            "name": "Berry",
+            "score": 5.714285714285714
+        },
+        {
+            "name": "Flowery",
+            "score": 2.142857142857143
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/8AEOnyObscLzPEdm7ERjYOUx4RU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fP4YFTRznSDCEVP7Fycg7_nerd-red.png",
+            "id": 1229641,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Amazing strain. Within minutes of smoking you feel the euphoric buzz creep over you. After about an hour it's a talkative, relaxing, yet still active vibe. Very great for anxiety and socializing.",
+            "username": "cliffleon"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1521564,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Great for daytime activities. My go to strain when i have a full day of golf...keeps me going but also focused. ",
+            "username": "fore20golf"
+        }
+    ],
+    "id": 176273,
+    "name": "Happy Rancher",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 13.928571428571429
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 13.214285714285714
+        },
+        {
+            "name": "Dizzy",
+            "score": 12.5
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/hybrid/happy-rancher",
+    "photoTotalCount": 14,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/640588/b/jolly-rancher__primary_3dc6.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/jolly-rancher_100x100_678f.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/605942/b/jolly-rancher__primary_5869.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/jolly-rancher_100x100_64b2.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/552221/b/jolly-rancher__primary_b8db.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/jolly-rancher_100x100_efa6.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/506986/b/jolly-rancher__primary_bab9.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/jolly-rancher_100x100_7c41.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/459537/b/jolly-rancher__primary_8e1e.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/jolly-rancher_100x100_4fc8.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/450540/b/jolly-rancher__primary_d669.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/jolly-rancher_100x100_3618.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Los Angeles, CA",
+        "Bellingham, WA"
+    ],
+    "rating": 4.32,
+    "relatedStrains": [],
+    "reviewCount": 31,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "happy-rancher",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.32258064516129/240",
+    "subtitle": null,
+    "symbol": "Hr",
+    "symptoms": [
+        {
+            "name": "Stress",
+            "score": 4.285714285714286
+        },
+        {
+            "name": "Depression",
+            "score": 2.857142857142857
+        },
+        {
+            "name": "Insomnia",
+            "score": 2.857142857142857
+        },
+        {
+            "name": "Nausea",
+            "score": 2.857142857142857
+        },
+        {
+            "name": "Pain",
+            "score": 2.857142857142857
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

@@ -1,1 +1,192 @@
-{"sl_translate":"description,descriptionPlain,category","id":262991,"slug":"santa-sativa","name":"Santa Sativa","subtitle":null,"symbol":"Ssa","category":"Sativa","description":"\u003cp\u003eSanta Sativa by \u003ca href=\"https://www.dinafem.org/en/\"\u003eDinafem Seeds\u003c/a\u003e is 70/30 sativa-dominant strain with a complex aroma. Reeking of lemons, cedar, pine, and incense, Santa Sativa delivers an elevated \u003ca href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\"\u003eterpene profile\u003c/a\u003e consumers will fawn over. These unique terpenes are created from the combination of \u003ca href=\"https://www.leafly.com/sativa/haze\"\u003eHaze\u003c/a\u003e #1 and a Skunk/\u003ca href=\"https://www.leafly.com/indica/northern-lights\"\u003eNorthern Lights\u003c/a\u003e cross, blending an uplifting buzz with mellow euphoria that lingers between the ears. Santa Sativa grows long, dense jade green buds that finish flowering in about 10 weeks.\u003c/p\u003e\n","descriptionPlain":"Santa Sativa by Dinafem Seeds is 70/30 sativa-dominant strain with a complex aroma. Reeking of lemons, cedar, pine, and incense, Santa Sativa delivers an elevated terpene profile consumers will fawn over. These unique terpenes are created from the combination of Haze #1 and a Skunk/Northern Lights cross, blending an uplifting buzz with mellow euphoria that lingers between the ears. Santa Sativa grows long, dense jade green buds that finish flowering in about 10 weeks.\n","aka":null,"rating":4.6,"highlightedReviews":[{"id":1367899,"username":"poopturds123","text":"very soft , dense buds.  clean smoke . tastes dry like a widdow or some white rhino.  the buzz is a creeper.   overall I\u0027d recommend that you do smoke this during the day.  uplifting and happy go lucky high","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png"},{"id":1614816,"username":"NeverGetchoHoback","text":"Strong sativa, upbeat high. Very piney, peppery, berry-y, ... completely unique flavor. Very enjoyable very energetic","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":5,"flavors":[{"name":"Blueberry","score":31.25},{"name":"Berry","score":25},{"name":"Flowery","score":25},{"name":"Pepper","score":6.25},{"name":"Tropical","score":6.25}],"effects":[{"name":"Happy","score":81.25},{"name":"Hungry","score":81.25},{"name":"Creative","score":56.25},{"name":"Energetic","score":56.25},{"name":"Giggly","score":50}],"symptoms":[{"name":"Eye Pressure","score":31.25},{"name":"Fatigue","score":31.25},{"name":"Lack of Appetite","score":12.5},{"name":"Nausea","score":12.5},{"name":"Pain","score":12.5}],"conditions":[{"name":"ADD/ADHD","score":12.5},{"name":"Anxiety","score":6.25},{"name":"Cancer","score":6.25},{"name":"Glaucoma","score":6.25},{"name":"HIV/AIDS","score":6.25}],"negatives":[{"name":"Dizzy","score":31.25},{"name":"Dry Eyes","score":31.25},{"name":"Dry Mouth","score":6.25},{"name":"Headache","score":6.25},{"name":"Paranoid","score":6.25}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/santa-sativa_100x100_a7d9.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/1002475/b/santa-sativa__primary_7077.jpg"}],"photoTotalCount":1,"popularCities":["Portland, OR","Santa Ana, CA","Spokane, WA"],"permalink":"https://mobileapi.leafly.com/sativa/santa-sativa","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.6/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Haze","subtitle":null,"slug":"haze","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/haze","symbol":"H","applink":"leafly://strain/haze"},{"name":"Northern Lights","subtitle":null,"slug":"northern-lights","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/northern-lights","symbol":"Nl","applink":"leafly://strain/northern-lights"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Sativa",
+    "conditions": [
+        {
+            "name": "ADD/ADHD",
+            "score": 12.5
+        },
+        {
+            "name": "Anxiety",
+            "score": 6.25
+        },
+        {
+            "name": "Cancer",
+            "score": 6.25
+        },
+        {
+            "name": "Glaucoma",
+            "score": 6.25
+        },
+        {
+            "name": "HIV/AIDS",
+            "score": 6.25
+        }
+    ],
+    "description": "<p>Santa Sativa by <a href=\"https://www.dinafem.org/en/\">Dinafem Seeds</a> is 70/30 sativa-dominant strain with a complex aroma. Reeking of lemons, cedar, pine, and incense, Santa Sativa delivers an elevated <a href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\">terpene profile</a> consumers will fawn over. These unique terpenes are created from the combination of <a href=\"https://www.leafly.com/sativa/haze\">Haze</a> #1 and a Skunk/<a href=\"https://www.leafly.com/indica/northern-lights\">Northern Lights</a> cross, blending an uplifting buzz with mellow euphoria that lingers between the ears. Santa Sativa grows long, dense jade green buds that finish flowering in about 10 weeks.</p>\n",
+    "descriptionPlain": "Santa Sativa by Dinafem Seeds is 70/30 sativa-dominant strain with a complex aroma. Reeking of lemons, cedar, pine, and incense, Santa Sativa delivers an elevated terpene profile consumers will fawn over. These unique terpenes are created from the combination of Haze #1 and a Skunk/Northern Lights cross, blending an uplifting buzz with mellow euphoria that lingers between the ears. Santa Sativa grows long, dense jade green buds that finish flowering in about 10 weeks.\n",
+    "effects": [
+        {
+            "name": "Happy",
+            "score": 81.25
+        },
+        {
+            "name": "Hungry",
+            "score": 81.25
+        },
+        {
+            "name": "Creative",
+            "score": 56.25
+        },
+        {
+            "name": "Energetic",
+            "score": 56.25
+        },
+        {
+            "name": "Giggly",
+            "score": 50
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Blueberry",
+            "score": 31.25
+        },
+        {
+            "name": "Berry",
+            "score": 25
+        },
+        {
+            "name": "Flowery",
+            "score": 25
+        },
+        {
+            "name": "Pepper",
+            "score": 6.25
+        },
+        {
+            "name": "Tropical",
+            "score": 6.25
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png",
+            "id": 1367899,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "very soft , dense buds.  clean smoke . tastes dry like a widdow or some white rhino.  the buzz is a creeper.   overall I'd recommend that you do smoke this during the day.  uplifting and happy go lucky high",
+            "username": "poopturds123"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png",
+            "id": 1614816,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Strong sativa, upbeat high. Very piney, peppery, berry-y, ... completely unique flavor. Very enjoyable very energetic",
+            "username": "NeverGetchoHoback"
+        }
+    ],
+    "id": 262991,
+    "name": "Santa Sativa",
+    "negatives": [
+        {
+            "name": "Dizzy",
+            "score": 31.25
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 31.25
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 6.25
+        },
+        {
+            "name": "Headache",
+            "score": 6.25
+        },
+        {
+            "name": "Paranoid",
+            "score": 6.25
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/haze",
+            "category": "Sativa",
+            "name": "Haze",
+            "permalink": "https://mobileapi.leafly.com/sativa/haze",
+            "slug": "haze",
+            "subtitle": null,
+            "symbol": "H"
+        },
+        {
+            "applink": "leafly://strain/northern-lights",
+            "category": "Indica",
+            "name": "Northern Lights",
+            "permalink": "https://mobileapi.leafly.com/indica/northern-lights",
+            "slug": "northern-lights",
+            "subtitle": null,
+            "symbol": "Nl"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/sativa/santa-sativa",
+    "photoTotalCount": 1,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/1002475/b/santa-sativa__primary_7077.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/santa-sativa_100x100_a7d9.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Portland, OR",
+        "Santa Ana, CA",
+        "Spokane, WA"
+    ],
+    "rating": 4.6,
+    "relatedStrains": [],
+    "reviewCount": 5,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "santa-sativa",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.6/240",
+    "subtitle": null,
+    "symbol": "Ssa",
+    "symptoms": [
+        {
+            "name": "Eye Pressure",
+            "score": 31.25
+        },
+        {
+            "name": "Fatigue",
+            "score": 31.25
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 12.5
+        },
+        {
+            "name": "Nausea",
+            "score": 12.5
+        },
+        {
+            "name": "Pain",
+            "score": 12.5
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

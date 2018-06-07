@@ -1,1 +1,197 @@
-{"sl_translate":"description,descriptionPlain,category","id":233007,"slug":"p-91","name":"P-91","subtitle":null,"symbol":"P91","category":"Hybrid","description":"\u003cp\u003eP-91 is the product of \u003ca href=\"https://www.leafly.com/indica/northern-lights\"\u003eNorthern Lights\u003c/a\u003e crossed with itself three times. This cubing comes out as a 50/50 hybrid that offers potent, balanced effects that settle in the limbs. The P-91 genetics originated in Poway, CA in 1991 (e.g., P-91) and has been employed by patients up and down the west coast seeking a functional smoke with inherent indica effects that are not debilitating.\u003c/p\u003e\n","descriptionPlain":"P-91 is the product of Northern Lights crossed with itself three times. This cubing comes out as a 50/50 hybrid that offers potent, balanced effects that settle in the limbs. The P-91 genetics originated in Poway, CA in 1991 (e.g., P-91) and has been employed by patients up and down the west coast seeking a functional smoke with inherent indica effects that are not debilitating.\n","aka":"Fuck Yeah","rating":4.53,"highlightedReviews":[{"id":1395458,"username":"NSomniac","text":"Really nice strain original burst of energy gives way to a nice relaxing body high while still being quite euphoric. The buds are beautiful very dense absolutely covered in trychs. The flavor is kinda sweet and spicy with quite a bit of earthiness thrown in. I really like this strain after work cuz if you smoke a bit too much you won\u0027t be getting any work done. Definitely recommend I know Phat Panda sells it under the name Fuck Yeah which seems like a pretty good description.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"},{"id":1576014,"username":"nwaustincraig","text":"The P-91 strain, or “Fuck Yeah” by Phat Panda really exceeded my expectations. I got it in a preroll so I can’t say much about the physical appearance, however smoking this flower really blew me away. It’s a very smooth smoking strain with a very fruity flavor. As some others have mentioned in the reviews, I thought it tasted almost exactly like the “Fruity Pebbles” cereal. For someone like me that works in a rather high stress environment, this strain was the perfect way for me to relax and unwind both mentally and physically after a long day. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/tAHHcVjF5EvieYWgrsxPA0WBCr8=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fRAbBXkNBSHOIMMxhio7k_wide-brim-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":17,"flavors":[{"name":"Berry","score":53.333333333333329},{"name":"Pungent","score":45.333333333333329},{"name":"Skunk","score":44.333333333333329},{"name":"Spicy/Herbal","score":34.333333333333329},{"name":"Sweet","score":16}],"effects":[{"name":"Relaxed","score":96.666666666666657},{"name":"Euphoric","score":88.666666666666657},{"name":"Happy","score":63.333333333333329},{"name":"Hungry","score":36.333333333333329},{"name":"Creative","score":17}],"symptoms":[{"name":"Eye Pressure","score":33.333333333333329},{"name":"Stress","score":7.0000000000000009},{"name":"Depression","score":6},{"name":"Pain","score":6},{"name":"Inflammation","score":3}],"conditions":[{"name":"Anxiety","score":38.333333333333329},{"name":"ADD/ADHD","score":36.333333333333329},{"name":"PTSD","score":36.333333333333329},{"name":"Fibromyalgia","score":3},{"name":"Arthritis","score":2}],"negatives":[{"name":"Dry Mouth","score":15},{"name":"Dry Eyes","score":12},{"name":"Anxious","score":1}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/p-91_100x100_9bf2.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/548336/b/p-91__primary_8b0b.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/p-91_100x100_caca.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/520588/b/p-91__primary_198c.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/p-91_100x100_657f.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/519678/b/p-91__primary_127a.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/p-91_100x100_f6fb.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/519342/b/p-91__primary_6a47.jpg"}],"photoTotalCount":4,"popularCities":["Bothell, WA","Cook, WA","Covington, WA","Ellensburg, WA","Gig Harbor, WA","Granite Falls, WA","Peshastin, WA","Spokane Valley, WA","Spokane, WA","Tacoma, WA"],"permalink":"https://mobileapi.leafly.com/hybrid/p-91","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.52941176470588/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Northern Lights","subtitle":null,"slug":"northern-lights","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/northern-lights","symbol":"Nl","applink":"leafly://strain/northern-lights"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": "Fuck Yeah",
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 38.33333333333333
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 36.33333333333333
+        },
+        {
+            "name": "PTSD",
+            "score": 36.33333333333333
+        },
+        {
+            "name": "Fibromyalgia",
+            "score": 3
+        },
+        {
+            "name": "Arthritis",
+            "score": 2
+        }
+    ],
+    "description": "<p>P-91 is the product of <a href=\"https://www.leafly.com/indica/northern-lights\">Northern Lights</a> crossed with itself three times. This cubing comes out as a 50/50 hybrid that offers potent, balanced effects that settle in the limbs. The P-91 genetics originated in Poway, CA in 1991 (e.g., P-91) and has been employed by patients up and down the west coast seeking a functional smoke with inherent indica effects that are not debilitating.</p>\n",
+    "descriptionPlain": "P-91 is the product of Northern Lights crossed with itself three times. This cubing comes out as a 50/50 hybrid that offers potent, balanced effects that settle in the limbs. The P-91 genetics originated in Poway, CA in 1991 (e.g., P-91) and has been employed by patients up and down the west coast seeking a functional smoke with inherent indica effects that are not debilitating.\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 96.66666666666666
+        },
+        {
+            "name": "Euphoric",
+            "score": 88.66666666666666
+        },
+        {
+            "name": "Happy",
+            "score": 63.33333333333333
+        },
+        {
+            "name": "Hungry",
+            "score": 36.33333333333333
+        },
+        {
+            "name": "Creative",
+            "score": 17
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Berry",
+            "score": 53.33333333333333
+        },
+        {
+            "name": "Pungent",
+            "score": 45.33333333333333
+        },
+        {
+            "name": "Skunk",
+            "score": 44.33333333333333
+        },
+        {
+            "name": "Spicy/Herbal",
+            "score": 34.33333333333333
+        },
+        {
+            "name": "Sweet",
+            "score": 16
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1395458,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Really nice strain original burst of energy gives way to a nice relaxing body high while still being quite euphoric. The buds are beautiful very dense absolutely covered in trychs. The flavor is kinda sweet and spicy with quite a bit of earthiness thrown in. I really like this strain after work cuz if you smoke a bit too much you won't be getting any work done. Definitely recommend I know Phat Panda sells it under the name Fuck Yeah which seems like a pretty good description.",
+            "username": "NSomniac"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/tAHHcVjF5EvieYWgrsxPA0WBCr8=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fRAbBXkNBSHOIMMxhio7k_wide-brim-red.png",
+            "id": 1576014,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "The P-91 strain, or \u201cFuck Yeah\u201d by Phat Panda really exceeded my expectations. I got it in a preroll so I can\u2019t say much about the physical appearance, however smoking this flower really blew me away. It\u2019s a very smooth smoking strain with a very fruity flavor. As some others have mentioned in the reviews, I thought it tasted almost exactly like the \u201cFruity Pebbles\u201d cereal. For someone like me that works in a rather high stress environment, this strain was the perfect way for me to relax and unwind both mentally and physically after a long day. ",
+            "username": "nwaustincraig"
+        }
+    ],
+    "id": 233007,
+    "name": "P-91",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 15
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 12
+        },
+        {
+            "name": "Anxious",
+            "score": 1
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/northern-lights",
+            "category": "Indica",
+            "name": "Northern Lights",
+            "permalink": "https://mobileapi.leafly.com/indica/northern-lights",
+            "slug": "northern-lights",
+            "subtitle": null,
+            "symbol": "Nl"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/p-91",
+    "photoTotalCount": 4,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/548336/b/p-91__primary_8b0b.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/p-91_100x100_9bf2.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/520588/b/p-91__primary_198c.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/p-91_100x100_caca.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/519678/b/p-91__primary_127a.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/p-91_100x100_657f.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/519342/b/p-91__primary_6a47.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/p-91_100x100_f6fb.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Bothell, WA",
+        "Cook, WA",
+        "Covington, WA",
+        "Ellensburg, WA",
+        "Gig Harbor, WA",
+        "Granite Falls, WA",
+        "Peshastin, WA",
+        "Spokane Valley, WA",
+        "Spokane, WA",
+        "Tacoma, WA"
+    ],
+    "rating": 4.53,
+    "relatedStrains": [],
+    "reviewCount": 17,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "p-91",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.52941176470588/240",
+    "subtitle": null,
+    "symbol": "P91",
+    "symptoms": [
+        {
+            "name": "Eye Pressure",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Stress",
+            "score": 7.000000000000001
+        },
+        {
+            "name": "Depression",
+            "score": 6
+        },
+        {
+            "name": "Pain",
+            "score": 6
+        },
+        {
+            "name": "Inflammation",
+            "score": 3
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

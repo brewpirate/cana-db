@@ -1,1 +1,155 @@
-{"sl_translate":"description,descriptionPlain,category","id":276401,"slug":"sweet-harlem-diesel","name":"Sweet Harlem Diesel","subtitle":null,"symbol":"Swh","category":"Hybrid","description":"\u003cp\u003eSweet Harlem Diesel by Sumo Seeds is a fascinating cross of European and American genetics. This strain was created by first crossing Old Afghani with Honey Rock (Super Widow x Swazi Poison). The\u0026nbsp;Sweet Afghani cut was then crossed with a US cut of the famous \u003ca href=\"https://www.leafly.com/sativa/sour-diesel\"\u003eSour Diesel\u003c/a\u003e. The resulting union yields a unique hybrid with a citrus-diesel aroma and uplifting mental effects that keep the consumer alert while the subtle body effects settle into the limbs. Sweet Harlem Diesel\u0026nbsp;won 3rd prize for Indoor at the 2017 Balearic Cup. Its\u0026nbsp;breeder recommends utilizing this strain to help relieve stress, depression, and minor physical discomfort. \u0026nbsp; \u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Sweet Harlem Diesel by Sumo Seeds is a fascinating cross of European and American genetics. This strain was created by first crossing Old Afghani with Honey Rock (Super Widow x Swazi Poison). The\u0026nbsp;Sweet Afghani cut was then crossed with a US cut of the famous Sour Diesel. The resulting union yields a unique hybrid with a citrus-diesel aroma and uplifting mental effects that keep the consumer alert while the subtle body effects settle into the limbs. Sweet Harlem Diesel\u0026nbsp;won 3rd prize for Indoor at the 2017 Balearic Cup. Its\u0026nbsp;breeder recommends utilizing this strain to help relieve stress, depression, and minor physical discomfort. \u0026nbsp; \u0026nbsp;\n","aka":null,"rating":4.67,"highlightedReviews":[{"id":1363894,"username":"rawpurp420","text":"This strain definitely helped me with headaches. A couple puffs and I was feeling great ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png"},{"id":1365792,"username":"Sstoner710","text":"nice af","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/EsB9lXCri57tN17h49dVOnCDkFI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fTBeeQQk0TGeLYj4SjC6Z_old-school-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":3,"flavors":[{"name":"Pear","score":12.5},{"name":"Diesel","score":6.25},{"name":"Sweet","score":6.25},{"name":"Citrus","score":6.25}],"effects":[{"name":"Aroused","score":6.25},{"name":"Talkative","score":6.25},{"name":"Uplifted","score":6.25},{"name":"Creative","score":6.25},{"name":"Euphoric","score":6.25}],"symptoms":[{"name":"Depression","score":6.25},{"name":"Fatigue","score":6.25},{"name":"Inflammation","score":6.25},{"name":"Lack of Appetite","score":6.25},{"name":"Pain","score":6.25}],"conditions":[{"name":"Anxiety","score":6.25},{"name":"Migraines","score":6.25},{"name":"Phantom Limb Pain","score":6.25},{"name":"PTSD","score":6.25}],"negatives":[{"name":"Dry Eyes","score":6.25}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/sweet-harlem-diesel_100x100_1579.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/637710/b/sweet-harlem-diesel__primary_ccd1.jpg"}],"photoTotalCount":1,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/sweet-harlem-diesel","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.66666666666667/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Sour Diesel","subtitle":null,"slug":"sour-diesel","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/sour-diesel","symbol":"Sd","applink":"leafly://strain/sour-diesel"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 6.25
+        },
+        {
+            "name": "Migraines",
+            "score": 6.25
+        },
+        {
+            "name": "Phantom Limb Pain",
+            "score": 6.25
+        },
+        {
+            "name": "PTSD",
+            "score": 6.25
+        }
+    ],
+    "description": "<p>Sweet Harlem Diesel by Sumo Seeds is a fascinating cross of European and American genetics. This strain was created by first crossing Old Afghani with Honey Rock (Super Widow x Swazi Poison). The&nbsp;Sweet Afghani cut was then crossed with a US cut of the famous <a href=\"https://www.leafly.com/sativa/sour-diesel\">Sour Diesel</a>. The resulting union yields a unique hybrid with a citrus-diesel aroma and uplifting mental effects that keep the consumer alert while the subtle body effects settle into the limbs. Sweet Harlem Diesel&nbsp;won 3rd prize for Indoor at the 2017 Balearic Cup. Its&nbsp;breeder recommends utilizing this strain to help relieve stress, depression, and minor physical discomfort. &nbsp; &nbsp;</p>\n",
+    "descriptionPlain": "Sweet Harlem Diesel by Sumo Seeds is a fascinating cross of European and American genetics. This strain was created by first crossing Old Afghani with Honey Rock (Super Widow x Swazi Poison). The&nbsp;Sweet Afghani cut was then crossed with a US cut of the famous Sour Diesel. The resulting union yields a unique hybrid with a citrus-diesel aroma and uplifting mental effects that keep the consumer alert while the subtle body effects settle into the limbs. Sweet Harlem Diesel&nbsp;won 3rd prize for Indoor at the 2017 Balearic Cup. Its&nbsp;breeder recommends utilizing this strain to help relieve stress, depression, and minor physical discomfort. &nbsp; &nbsp;\n",
+    "effects": [
+        {
+            "name": "Aroused",
+            "score": 6.25
+        },
+        {
+            "name": "Talkative",
+            "score": 6.25
+        },
+        {
+            "name": "Uplifted",
+            "score": 6.25
+        },
+        {
+            "name": "Creative",
+            "score": 6.25
+        },
+        {
+            "name": "Euphoric",
+            "score": 6.25
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Pear",
+            "score": 12.5
+        },
+        {
+            "name": "Diesel",
+            "score": 6.25
+        },
+        {
+            "name": "Sweet",
+            "score": 6.25
+        },
+        {
+            "name": "Citrus",
+            "score": 6.25
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png",
+            "id": 1363894,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "This strain definitely helped me with headaches. A couple puffs and I was feeling great ",
+            "username": "rawpurp420"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/EsB9lXCri57tN17h49dVOnCDkFI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fTBeeQQk0TGeLYj4SjC6Z_old-school-red.png",
+            "id": 1365792,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "nice af",
+            "username": "Sstoner710"
+        }
+    ],
+    "id": 276401,
+    "name": "Sweet Harlem Diesel",
+    "negatives": [
+        {
+            "name": "Dry Eyes",
+            "score": 6.25
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/sour-diesel",
+            "category": "Sativa",
+            "name": "Sour Diesel",
+            "permalink": "https://mobileapi.leafly.com/sativa/sour-diesel",
+            "slug": "sour-diesel",
+            "subtitle": null,
+            "symbol": "Sd"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/sweet-harlem-diesel",
+    "photoTotalCount": 1,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/637710/b/sweet-harlem-diesel__primary_ccd1.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/sweet-harlem-diesel_100x100_1579.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [],
+    "rating": 4.67,
+    "relatedStrains": [],
+    "reviewCount": 3,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "sweet-harlem-diesel",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.66666666666667/240",
+    "subtitle": null,
+    "symbol": "Swh",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 6.25
+        },
+        {
+            "name": "Fatigue",
+            "score": 6.25
+        },
+        {
+            "name": "Inflammation",
+            "score": 6.25
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 6.25
+        },
+        {
+            "name": "Pain",
+            "score": 6.25
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

@@ -1,1 +1,162 @@
-{"sl_translate":"description,descriptionPlain,category","id":501180,"slug":"pan-jam","name":"Pan Jam","subtitle":null,"symbol":"Pjm","category":"Hybrid","description":"\u003cp\u003ePan Jam by Mass Medical Strains is a unique blend of heirloom genetics with a little something extra. Created by crossing Panama Powerhouse (\u003ca href=\"https://www.leafly.com/sativa/panama-red\"\u003ePanama Red\u003c/a\u003e x G13 Black Widow F6) by Dman Seeds and the famous Jamaican heirloom strain, \u003ca href=\"https://www.leafly.com/sativa/lamb-s-bread\"\u003eLamb\u0026rsquo;s Bread\u003c/a\u003e, this genetic mashup pays homage to some of the oldest and most enjoyed cuts in the cannabis cannon. Its heady buzz has been described as semi-psychedelic, while its body effects have been utilized for pain relief, making Pan Jam a wild, if not affective ride.\u003c/p\u003e\n","descriptionPlain":"Pan Jam by Mass Medical Strains is a unique blend of heirloom genetics with a little something extra. Created by crossing Panama Powerhouse (Panama Red x G13 Black Widow F6) by Dman Seeds and the famous Jamaican heirloom strain, Lamb\u0026rsquo;s Bread, this genetic mashup pays homage to some of the oldest and most enjoyed cuts in the cannabis cannon. Its heady buzz has been described as semi-psychedelic, while its body effects have been utilized for pain relief, making Pan Jam a wild, if not affective ride.\n","aka":null,"rating":5,"highlightedReviews":[{"id":1560429,"username":"tlultuce","text":"Very nice Panama nostalgic flavor. Frosty buds that broke up nicely. Unique aroma and taste. Good trippy high, functional yet almost overwhelmingly potent! Awesome!","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/lJ2VY3JcKjYut_50Yn5tnVlftCU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fGkYePhpuTiO6OltZh89O_wide-brim-purple.png"},{"id":1560429,"username":"tlultuce","text":"Very nice Panama nostalgic flavor. Frosty buds that broke up nicely. Unique aroma and taste. Good trippy high, functional yet almost overwhelmingly potent! Awesome!","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/lJ2VY3JcKjYut_50Yn5tnVlftCU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fGkYePhpuTiO6OltZh89O_wide-brim-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":2,"flavors":[{"name":"Earthy","score":116.66666666666666},{"name":"Tropical","score":100},{"name":"Pineapple","score":100},{"name":"Skunk","score":100},{"name":"Spicy/Herbal","score":16.666666666666664}],"effects":[{"name":"Talkative","score":116.66666666666666},{"name":"Uplifted","score":116.66666666666666},{"name":"Creative","score":116.66666666666666},{"name":"Focused","score":116.66666666666666},{"name":"Happy","score":116.66666666666666}],"symptoms":[{"name":"Fatigue","score":116.66666666666666},{"name":"Depression","score":16.666666666666664},{"name":"Headaches","score":16.666666666666664},{"name":"Inflammation","score":16.666666666666664},{"name":"Lack of Appetite","score":16.666666666666664}],"conditions":[{"name":"ADD/ADHD","score":16.666666666666664},{"name":"Anxiety","score":16.666666666666664},{"name":"Gastrointestinal Disorder","score":16.666666666666664},{"name":"PTSD","score":16.666666666666664}],"negatives":[{"name":"Anxious","score":16.666666666666664}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/pan-jam","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Panama Red","subtitle":null,"slug":"panama-red","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/panama-red","symbol":"Pam","applink":"leafly://strain/panama-red"},{"name":"Lamb\u0027s Bread","subtitle":null,"slug":"lamb-s-bread","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/lamb-s-bread","symbol":"Lb","applink":"leafly://strain/lamb-s-bread"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "ADD/ADHD",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Anxiety",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Gastrointestinal Disorder",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "PTSD",
+            "score": 16.666666666666664
+        }
+    ],
+    "description": "<p>Pan Jam by Mass Medical Strains is a unique blend of heirloom genetics with a little something extra. Created by crossing Panama Powerhouse (<a href=\"https://www.leafly.com/sativa/panama-red\">Panama Red</a> x G13 Black Widow F6) by Dman Seeds and the famous Jamaican heirloom strain, <a href=\"https://www.leafly.com/sativa/lamb-s-bread\">Lamb&rsquo;s Bread</a>, this genetic mashup pays homage to some of the oldest and most enjoyed cuts in the cannabis cannon. Its heady buzz has been described as semi-psychedelic, while its body effects have been utilized for pain relief, making Pan Jam a wild, if not affective ride.</p>\n",
+    "descriptionPlain": "Pan Jam by Mass Medical Strains is a unique blend of heirloom genetics with a little something extra. Created by crossing Panama Powerhouse (Panama Red x G13 Black Widow F6) by Dman Seeds and the famous Jamaican heirloom strain, Lamb&rsquo;s Bread, this genetic mashup pays homage to some of the oldest and most enjoyed cuts in the cannabis cannon. Its heady buzz has been described as semi-psychedelic, while its body effects have been utilized for pain relief, making Pan Jam a wild, if not affective ride.\n",
+    "effects": [
+        {
+            "name": "Talkative",
+            "score": 116.66666666666666
+        },
+        {
+            "name": "Uplifted",
+            "score": 116.66666666666666
+        },
+        {
+            "name": "Creative",
+            "score": 116.66666666666666
+        },
+        {
+            "name": "Focused",
+            "score": 116.66666666666666
+        },
+        {
+            "name": "Happy",
+            "score": 116.66666666666666
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Earthy",
+            "score": 116.66666666666666
+        },
+        {
+            "name": "Tropical",
+            "score": 100
+        },
+        {
+            "name": "Pineapple",
+            "score": 100
+        },
+        {
+            "name": "Skunk",
+            "score": 100
+        },
+        {
+            "name": "Spicy/Herbal",
+            "score": 16.666666666666664
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/lJ2VY3JcKjYut_50Yn5tnVlftCU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fGkYePhpuTiO6OltZh89O_wide-brim-purple.png",
+            "id": 1560429,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Very nice Panama nostalgic flavor. Frosty buds that broke up nicely. Unique aroma and taste. Good trippy high, functional yet almost overwhelmingly potent! Awesome!",
+            "username": "tlultuce"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/lJ2VY3JcKjYut_50Yn5tnVlftCU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fGkYePhpuTiO6OltZh89O_wide-brim-purple.png",
+            "id": 1560429,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Very nice Panama nostalgic flavor. Frosty buds that broke up nicely. Unique aroma and taste. Good trippy high, functional yet almost overwhelmingly potent! Awesome!",
+            "username": "tlultuce"
+        }
+    ],
+    "id": 501180,
+    "name": "Pan Jam",
+    "negatives": [
+        {
+            "name": "Anxious",
+            "score": 16.666666666666664
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/panama-red",
+            "category": "Sativa",
+            "name": "Panama Red",
+            "permalink": "https://mobileapi.leafly.com/sativa/panama-red",
+            "slug": "panama-red",
+            "subtitle": null,
+            "symbol": "Pam"
+        },
+        {
+            "applink": "leafly://strain/lamb-s-bread",
+            "category": "Sativa",
+            "name": "Lamb's Bread",
+            "permalink": "https://mobileapi.leafly.com/sativa/lamb-s-bread",
+            "slug": "lamb-s-bread",
+            "subtitle": null,
+            "symbol": "Lb"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/pan-jam",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 2,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "pan-jam",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Pjm",
+    "symptoms": [
+        {
+            "name": "Fatigue",
+            "score": 116.66666666666666
+        },
+        {
+            "name": "Depression",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Headaches",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Inflammation",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 16.666666666666664
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

@@ -1,1 +1,64 @@
-{"sl_translate":"description,descriptionPlain,category","id":181775,"slug":"south-indian-indica","name":"South Indian Indica","subtitle":null,"symbol":"Sii","category":"Indica","description":"\u003cp\u003e\u003cspan style=\"line-height: 20.8px;\"\u003eSouth Indian\u0026nbsp;\u003c/span\u003e\u003cspan style=\"line-height: 20.8px;\"\u003erefers to\u0026nbsp;the indigenous varieties of cannabis (or\u0026nbsp;\u003c/span\u003e\u003ca href=\"http://www.leafly.com/knowledge-center/cannabis-101/the-cannabis-origin-what-is-a-landrace-strain\" style=\"line-height: 20.8px;\"\u003elandraces\u003c/a\u003e\u003cspan style=\"line-height: 20.8px;\"\u003e) that grow natively in this region of the world.\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\n","descriptionPlain":"South Indian\u0026nbsp;refers to\u0026nbsp;the indigenous varieties of cannabis (or\u0026nbsp;landraces) that grow natively in this region of the world.\u0026nbsp;\n","aka":"South India","rating":3.8,"highlightedReviews":[{"id":1388329,"username":"moralesj11","text":"Great strain. \nI took 2 hits and had me feeling pretty great.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"},{"id":1417416,"username":"ErbNLeaf","text":"Slip on something nice because tonight, it\u0027s just you and me baby. You lock me in tight to the couch, my eyes heavy with love and I think I feel a rumble in my stomach.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":5,"flavors":[],"effects":[],"symptoms":[],"conditions":[],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/south-indian-indica_100x100_9867.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/388977/b/south-indian-indica__primary_32b4.jpg"}],"photoTotalCount":1,"popularCities":[],"permalink":"https://mobileapi.leafly.com/indica/south-indian-indica","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/3.8/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": "South India",
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [],
+    "description": "<p><span style=\"line-height: 20.8px;\">South Indian&nbsp;</span><span style=\"line-height: 20.8px;\">refers to&nbsp;the indigenous varieties of cannabis (or&nbsp;</span><a href=\"http://www.leafly.com/knowledge-center/cannabis-101/the-cannabis-origin-what-is-a-landrace-strain\" style=\"line-height: 20.8px;\">landraces</a><span style=\"line-height: 20.8px;\">) that grow natively in this region of the world.&nbsp;</span></p>\n",
+    "descriptionPlain": "South Indian&nbsp;refers to&nbsp;the indigenous varieties of cannabis (or&nbsp;landraces) that grow natively in this region of the world.&nbsp;\n",
+    "effects": [],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1388329,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Great strain. \nI took 2 hits and had me feeling pretty great.",
+            "username": "moralesj11"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png",
+            "id": 1417416,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Slip on something nice because tonight, it's just you and me baby. You lock me in tight to the couch, my eyes heavy with love and I think I feel a rumble in my stomach.",
+            "username": "ErbNLeaf"
+        }
+    ],
+    "id": 181775,
+    "name": "South Indian Indica",
+    "negatives": [],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/indica/south-indian-indica",
+    "photoTotalCount": 1,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/388977/b/south-indian-indica__primary_32b4.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/south-indian-indica_100x100_9867.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [],
+    "rating": 3.8,
+    "relatedStrains": [],
+    "reviewCount": 5,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "south-indian-indica",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/3.8/240",
+    "subtitle": null,
+    "symbol": "Sii",
+    "symptoms": [],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

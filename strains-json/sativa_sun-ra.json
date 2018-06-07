@@ -1,1 +1,163 @@
-{"sl_translate":"description,descriptionPlain,category","id":241647,"slug":"sun-ra","name":"Sun Ra","subtitle":null,"symbol":"Snr","category":"Sativa","description":"\u003cp\u003eSun Ra is a powerful blend of \u003ca href=\"https://coloradoseedinc.com/\"\u003eColorado Seed Inc.\u003c/a\u003e\u0026rsquo;s most potent sativas,\u0026nbsp;\u003ca href=\"https://www.leafly.com/sativa/sunburn\"\u003eSunburn\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/sativa/rebel-god-smoke\"\u003eRebel God Smoke\u003c/a\u003e. This heady synthesis yields a strain that stimulates the mind and body with upbeat energy. It has a pleasant and spicy aroma, yielding notes of fuel, earth, and a latent fruitiness that fades into the background. Enjoy this sativa-dominant strain in the daytime hours to maximize its motivating qualities.\u003c/p\u003e\n","descriptionPlain":"Sun Ra is a powerful blend of Colorado Seed Inc.\u0026rsquo;s most potent sativas,\u0026nbsp;Sunburn and Rebel God Smoke. This heady synthesis yields a strain that stimulates the mind and body with upbeat energy. It has a pleasant and spicy aroma, yielding notes of fuel, earth, and a latent fruitiness that fades into the background. Enjoy this sativa-dominant strain in the daytime hours to maximize its motivating qualities.\n","aka":null,"rating":4.71,"highlightedReviews":[{"id":1393520,"username":"grneyedgrl420","text":"I am one not to write a review but Sun Ra strain is quite lovely. I immediately got a cerebral high after my 1st hit. My eyes were not blood shot .... in fact as I write this review I am still feeling good pretty good.... I am able to function at work... speak properly... even through a few jokes here and there... ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png"},{"id":1587287,"username":"foxbird","text":"This is my favorite strain of ALL TIME. I am an artist and this strain makes me immediately want my colors. I’ve made some very colorful and beautiful art and still had energy to do more. Please make more of this ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":7,"flavors":[{"name":"Citrus","score":10},{"name":"Sweet","score":5},{"name":"Tropical","score":5},{"name":"Earthy","score":5}],"effects":[{"name":"Happy","score":131.66666666666666},{"name":"Euphoric","score":126.66666666666666},{"name":"Uplifted","score":115},{"name":"Creative","score":110},{"name":"Energetic","score":105}],"symptoms":[{"name":"Insomnia","score":5},{"name":"Lack of Appetite","score":5},{"name":"Stress","score":5}],"conditions":[{"name":"Migraines","score":10},{"name":"Bipolar Disorder","score":10},{"name":"Anxiety","score":5},{"name":"Glaucoma","score":5},{"name":"PTSD","score":5}],"negatives":[{"name":"Dry Mouth","score":16.666666666666664}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/sun-ra_100x100_f318.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/1002389/b/sun-ra__primary_46f6.jpg"}],"photoTotalCount":1,"popularCities":["Nelson, BC","Spokane, WA"],"permalink":"https://mobileapi.leafly.com/sativa/sun-ra","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.71428571428571/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Sunburn","subtitle":null,"slug":"sunburn","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/sunburn","symbol":"Sbn","applink":"leafly://strain/sunburn"},{"name":"Rebel God Smoke","subtitle":null,"slug":"rebel-god-smoke","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/rebel-god-smoke","symbol":"Rgs","applink":"leafly://strain/rebel-god-smoke"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Sativa",
+    "conditions": [
+        {
+            "name": "Migraines",
+            "score": 10
+        },
+        {
+            "name": "Bipolar Disorder",
+            "score": 10
+        },
+        {
+            "name": "Anxiety",
+            "score": 5
+        },
+        {
+            "name": "Glaucoma",
+            "score": 5
+        },
+        {
+            "name": "PTSD",
+            "score": 5
+        }
+    ],
+    "description": "<p>Sun Ra is a powerful blend of <a href=\"https://coloradoseedinc.com/\">Colorado Seed Inc.</a>&rsquo;s most potent sativas,&nbsp;<a href=\"https://www.leafly.com/sativa/sunburn\">Sunburn</a> and <a href=\"https://www.leafly.com/sativa/rebel-god-smoke\">Rebel God Smoke</a>. This heady synthesis yields a strain that stimulates the mind and body with upbeat energy. It has a pleasant and spicy aroma, yielding notes of fuel, earth, and a latent fruitiness that fades into the background. Enjoy this sativa-dominant strain in the daytime hours to maximize its motivating qualities.</p>\n",
+    "descriptionPlain": "Sun Ra is a powerful blend of Colorado Seed Inc.&rsquo;s most potent sativas,&nbsp;Sunburn and Rebel God Smoke. This heady synthesis yields a strain that stimulates the mind and body with upbeat energy. It has a pleasant and spicy aroma, yielding notes of fuel, earth, and a latent fruitiness that fades into the background. Enjoy this sativa-dominant strain in the daytime hours to maximize its motivating qualities.\n",
+    "effects": [
+        {
+            "name": "Happy",
+            "score": 131.66666666666666
+        },
+        {
+            "name": "Euphoric",
+            "score": 126.66666666666666
+        },
+        {
+            "name": "Uplifted",
+            "score": 115
+        },
+        {
+            "name": "Creative",
+            "score": 110
+        },
+        {
+            "name": "Energetic",
+            "score": 105
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Citrus",
+            "score": 10
+        },
+        {
+            "name": "Sweet",
+            "score": 5
+        },
+        {
+            "name": "Tropical",
+            "score": 5
+        },
+        {
+            "name": "Earthy",
+            "score": 5
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png",
+            "id": 1393520,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "I am one not to write a review but Sun Ra strain is quite lovely. I immediately got a cerebral high after my 1st hit. My eyes were not blood shot .... in fact as I write this review I am still feeling good pretty good.... I am able to function at work... speak properly... even through a few jokes here and there... ",
+            "username": "grneyedgrl420"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sPaGuIbcIjKwcF8O7kQXXoAFJ6s=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fkfmswExdS0yqeEmdLkUQ_nerd-green.png",
+            "id": 1587287,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "This is my favorite strain of ALL TIME. I am an artist and this strain makes me immediately want my colors. I\u2019ve made some very colorful and beautiful art and still had energy to do more. Please make more of this ",
+            "username": "foxbird"
+        }
+    ],
+    "id": 241647,
+    "name": "Sun Ra",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 16.666666666666664
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/sunburn",
+            "category": "Sativa",
+            "name": "Sunburn",
+            "permalink": "https://mobileapi.leafly.com/sativa/sunburn",
+            "slug": "sunburn",
+            "subtitle": null,
+            "symbol": "Sbn"
+        },
+        {
+            "applink": "leafly://strain/rebel-god-smoke",
+            "category": "Sativa",
+            "name": "Rebel God Smoke",
+            "permalink": "https://mobileapi.leafly.com/sativa/rebel-god-smoke",
+            "slug": "rebel-god-smoke",
+            "subtitle": null,
+            "symbol": "Rgs"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/sativa/sun-ra",
+    "photoTotalCount": 1,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/1002389/b/sun-ra__primary_46f6.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/sun-ra_100x100_f318.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Nelson, BC",
+        "Spokane, WA"
+    ],
+    "rating": 4.71,
+    "relatedStrains": [],
+    "reviewCount": 7,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "sun-ra",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.71428571428571/240",
+    "subtitle": null,
+    "symbol": "Snr",
+    "symptoms": [
+        {
+            "name": "Insomnia",
+            "score": 5
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 5
+        },
+        {
+            "name": "Stress",
+            "score": 5
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

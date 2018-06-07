@@ -1,1 +1,156 @@
-{"sl_translate":"description,descriptionPlain,category","id":246257,"slug":"tango-kush","name":"Tango Kush","subtitle":null,"symbol":"Tgk","category":"Hybrid","description":"\u003cp\u003eTango Kush by Potbox is a \u003ca href=\"https://www.leafly.com/hybrid/mango-kush\"\u003eMango Kush\u003c/a\u003e cross offering sweet funkiness in droves. With random forest aromas mixed in with the tart fruit, the smell of this strain is complex and pleasant. In traditional Kush fashion, Tango Kush offers a mid-level cerebral introspection alongside easy body effects. This strain remains functional in small to medium doses, but leans back into deep relaxation with heavy use. \u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Tango Kush by Potbox is a Mango Kush cross offering sweet funkiness in droves. With random forest aromas mixed in with the tart fruit, the smell of this strain is complex and pleasant. In traditional Kush fashion, Tango Kush offers a mid-level cerebral introspection alongside easy body effects. This strain remains functional in small to medium doses, but leans back into deep relaxation with heavy use. \u0026nbsp;\n","aka":null,"rating":4.43,"highlightedReviews":[{"id":1382901,"username":"NareshG","text":"Gives off an wonderful aroma and it\u0027ll have you floating if your not careful!","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/5DsWrIpoq-56NpD59UXAqpoVN88=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fqSLuo6zNRCeIia1paBYS_wayfarers-purple.png"},{"id":1619443,"username":"Mrdanky2018","text":"One of my favorite strains,  taste like straight up tangerines , definitely will have you on the moon , relaxing aroma , hits hard but the taste will mellow things down , favorite strain to sit back and relax , 10 stars of I could","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/lJ2VY3JcKjYut_50Yn5tnVlftCU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fGkYePhpuTiO6OltZh89O_wide-brim-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":7,"flavors":[{"name":"Mango","score":26.666666666666664},{"name":"Sweet","score":21.666666666666664},{"name":"Citrus","score":21.666666666666664},{"name":"Tree Fruit","score":16.666666666666664},{"name":"Earthy","score":16.666666666666664}],"effects":[{"name":"Focused","score":126.66666666666666},{"name":"Happy","score":121.66666666666666},{"name":"Relaxed","score":121.66666666666666},{"name":"Creative","score":105},{"name":"Giggly","score":100}],"symptoms":[{"name":"Depression","score":21.666666666666664},{"name":"Pain","score":21.666666666666664},{"name":"Stress","score":21.666666666666664},{"name":"Insomnia","score":16.666666666666664},{"name":"Fatigue","score":5}],"conditions":[{"name":"ADD/ADHD","score":16.666666666666664}],"negatives":[{"name":"Paranoid","score":10},{"name":"Anxious","score":10},{"name":"Dizzy","score":5},{"name":"Dry Mouth","score":5}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Denver, CO","Englewood, CO"],"permalink":"https://mobileapi.leafly.com/hybrid/tango-kush","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.42857142857143/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Mango Kush","subtitle":null,"slug":"mango-kush","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/mango-kush","symbol":"Mgk","applink":"leafly://strain/mango-kush"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "ADD/ADHD",
+            "score": 16.666666666666664
+        }
+    ],
+    "description": "<p>Tango Kush by Potbox is a <a href=\"https://www.leafly.com/hybrid/mango-kush\">Mango Kush</a> cross offering sweet funkiness in droves. With random forest aromas mixed in with the tart fruit, the smell of this strain is complex and pleasant. In traditional Kush fashion, Tango Kush offers a mid-level cerebral introspection alongside easy body effects. This strain remains functional in small to medium doses, but leans back into deep relaxation with heavy use. &nbsp;</p>\n",
+    "descriptionPlain": "Tango Kush by Potbox is a Mango Kush cross offering sweet funkiness in droves. With random forest aromas mixed in with the tart fruit, the smell of this strain is complex and pleasant. In traditional Kush fashion, Tango Kush offers a mid-level cerebral introspection alongside easy body effects. This strain remains functional in small to medium doses, but leans back into deep relaxation with heavy use. &nbsp;\n",
+    "effects": [
+        {
+            "name": "Focused",
+            "score": 126.66666666666666
+        },
+        {
+            "name": "Happy",
+            "score": 121.66666666666666
+        },
+        {
+            "name": "Relaxed",
+            "score": 121.66666666666666
+        },
+        {
+            "name": "Creative",
+            "score": 105
+        },
+        {
+            "name": "Giggly",
+            "score": 100
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Mango",
+            "score": 26.666666666666664
+        },
+        {
+            "name": "Sweet",
+            "score": 21.666666666666664
+        },
+        {
+            "name": "Citrus",
+            "score": 21.666666666666664
+        },
+        {
+            "name": "Tree Fruit",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Earthy",
+            "score": 16.666666666666664
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/5DsWrIpoq-56NpD59UXAqpoVN88=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fqSLuo6zNRCeIia1paBYS_wayfarers-purple.png",
+            "id": 1382901,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Gives off an wonderful aroma and it'll have you floating if your not careful!",
+            "username": "NareshG"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/lJ2VY3JcKjYut_50Yn5tnVlftCU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fGkYePhpuTiO6OltZh89O_wide-brim-purple.png",
+            "id": 1619443,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "One of my favorite strains,  taste like straight up tangerines , definitely will have you on the moon , relaxing aroma , hits hard but the taste will mellow things down , favorite strain to sit back and relax , 10 stars of I could",
+            "username": "Mrdanky2018"
+        }
+    ],
+    "id": 246257,
+    "name": "Tango Kush",
+    "negatives": [
+        {
+            "name": "Paranoid",
+            "score": 10
+        },
+        {
+            "name": "Anxious",
+            "score": 10
+        },
+        {
+            "name": "Dizzy",
+            "score": 5
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 5
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/mango-kush",
+            "category": "Hybrid",
+            "name": "Mango Kush",
+            "permalink": "https://mobileapi.leafly.com/hybrid/mango-kush",
+            "slug": "mango-kush",
+            "subtitle": null,
+            "symbol": "Mgk"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/tango-kush",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Denver, CO",
+        "Englewood, CO"
+    ],
+    "rating": 4.43,
+    "relatedStrains": [],
+    "reviewCount": 7,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "tango-kush",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.42857142857143/240",
+    "subtitle": null,
+    "symbol": "Tgk",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 21.666666666666664
+        },
+        {
+            "name": "Pain",
+            "score": 21.666666666666664
+        },
+        {
+            "name": "Stress",
+            "score": 21.666666666666664
+        },
+        {
+            "name": "Insomnia",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Fatigue",
+            "score": 5
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

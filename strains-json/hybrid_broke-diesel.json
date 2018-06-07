@@ -1,1 +1,124 @@
-{"sl_translate":"description,descriptionPlain,category","id":327,"slug":"broke-diesel","name":"Broke Diesel","subtitle":null,"symbol":"Bro","category":"Hybrid","description":"\u003cp\u003eBroke Diesel is a 50/50 hybrid marijuana strain with exceptionally strong psychoactivity that many cannabis connoisseurs seek out. This perfect balance of sativa and indica delivers powerful effects to both the mind and body, resulting in a holistic medicine with the ability to treat sleep disorders, headaches, nausea, pain, and stress. Broke Diesel comes with a woody pine scent under the sour overtones inherited from its\u0026nbsp;\u003ca href=\"http://www.leafly.com/sativa/sour-diesel\"\u003eSour Diesel\u003c/a\u003e ancestor.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Broke Diesel is a 50/50 hybrid marijuana strain with exceptionally strong psychoactivity that many cannabis connoisseurs seek out. This perfect balance of sativa and indica delivers powerful effects to both the mind and body, resulting in a holistic medicine with the ability to treat sleep disorders, headaches, nausea, pain, and stress. Broke Diesel comes with a woody pine scent under the sour overtones inherited from its\u0026nbsp;Sour Diesel ancestor.\u0026nbsp;\n","aka":null,"rating":5,"highlightedReviews":[{"id":1062251,"username":"DRBryce2","text":"A staunch 50/50 sativa/indica hybrid, Broke Diesel is by far the most hallucinogenic weed I\u0027ve ever smoked, and I\u0027d say one of the most potent ever. After just one puff of this smooth-hitting cannabis strain from my sneak-a-toke, I was already seeing kaleidoscopes in the air. A bong sesh gave me major body rushes and mind-warps, and also leant a discernible ecstasy-induced nature to my perception. As far as scent and taste go, the best way I can think of to describe Broke Diesel is to compare it to the wafting aroma of diesel rising from the fuel tank of my tractor, superimposed upon the dewy scent of morning tumble weeds and creosote. This strain definitely falls amongst my top three favorite tokes of all time. And the best part of it all? I picked it up for just $260 an ounce.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/YEN1LqXiYCOvWiFhmP-4p67iqDM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fY9fB9qHySLml8016ysgJ_goggles-green.png"},{"id":1060000,"username":"pdaddy","text":"very great good crisp taste and is super powerful (probably the best bud i ever had","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/8AEOnyObscLzPEdm7ERjYOUx4RU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fP4YFTRznSDCEVP7Fycg7_nerd-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":2,"flavors":[],"effects":[{"name":"Uplifted","score":5.5555555555555554},{"name":"Euphoric","score":5.5555555555555554},{"name":"Creative","score":2.7777777777777777},{"name":"Energetic","score":2.7777777777777777},{"name":"Happy","score":2.7777777777777777}],"symptoms":[{"name":"Nausea","score":5.5555555555555554},{"name":"Stress","score":5.5555555555555554},{"name":"Insomnia","score":2.7777777777777777},{"name":"Pain","score":2.7777777777777777}],"conditions":[{"name":"Anxiety","score":5.5555555555555554},{"name":"Migraines","score":5.5555555555555554},{"name":"PMS","score":2.7777777777777777}],"negatives":[{"name":"Dry Eyes","score":2.7777777777777777},{"name":"Headache","score":2.7777777777777777}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/broke-diesel_100x100_onehf1ht.2pf.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/12402/b/broke-diesel_825x550_b3vn5nte.lac.jpg"}],"photoTotalCount":1,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/broke-diesel","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 5.555555555555555
+        },
+        {
+            "name": "Migraines",
+            "score": 5.555555555555555
+        },
+        {
+            "name": "PMS",
+            "score": 2.7777777777777777
+        }
+    ],
+    "description": "<p>Broke Diesel is a 50/50 hybrid marijuana strain with exceptionally strong psychoactivity that many cannabis connoisseurs seek out. This perfect balance of sativa and indica delivers powerful effects to both the mind and body, resulting in a holistic medicine with the ability to treat sleep disorders, headaches, nausea, pain, and stress. Broke Diesel comes with a woody pine scent under the sour overtones inherited from its&nbsp;<a href=\"http://www.leafly.com/sativa/sour-diesel\">Sour Diesel</a> ancestor.&nbsp;</p>\n",
+    "descriptionPlain": "Broke Diesel is a 50/50 hybrid marijuana strain with exceptionally strong psychoactivity that many cannabis connoisseurs seek out. This perfect balance of sativa and indica delivers powerful effects to both the mind and body, resulting in a holistic medicine with the ability to treat sleep disorders, headaches, nausea, pain, and stress. Broke Diesel comes with a woody pine scent under the sour overtones inherited from its&nbsp;Sour Diesel ancestor.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Uplifted",
+            "score": 5.555555555555555
+        },
+        {
+            "name": "Euphoric",
+            "score": 5.555555555555555
+        },
+        {
+            "name": "Creative",
+            "score": 2.7777777777777777
+        },
+        {
+            "name": "Energetic",
+            "score": 2.7777777777777777
+        },
+        {
+            "name": "Happy",
+            "score": 2.7777777777777777
+        }
+    ],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/YEN1LqXiYCOvWiFhmP-4p67iqDM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fY9fB9qHySLml8016ysgJ_goggles-green.png",
+            "id": 1062251,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "A staunch 50/50 sativa/indica hybrid, Broke Diesel is by far the most hallucinogenic weed I've ever smoked, and I'd say one of the most potent ever. After just one puff of this smooth-hitting cannabis strain from my sneak-a-toke, I was already seeing kaleidoscopes in the air. A bong sesh gave me major body rushes and mind-warps, and also leant a discernible ecstasy-induced nature to my perception. As far as scent and taste go, the best way I can think of to describe Broke Diesel is to compare it to the wafting aroma of diesel rising from the fuel tank of my tractor, superimposed upon the dewy scent of morning tumble weeds and creosote. This strain definitely falls amongst my top three favorite tokes of all time. And the best part of it all? I picked it up for just $260 an ounce.",
+            "username": "DRBryce2"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/8AEOnyObscLzPEdm7ERjYOUx4RU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fP4YFTRznSDCEVP7Fycg7_nerd-red.png",
+            "id": 1060000,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "very great good crisp taste and is super powerful (probably the best bud i ever had",
+            "username": "pdaddy"
+        }
+    ],
+    "id": 327,
+    "name": "Broke Diesel",
+    "negatives": [
+        {
+            "name": "Dry Eyes",
+            "score": 2.7777777777777777
+        },
+        {
+            "name": "Headache",
+            "score": 2.7777777777777777
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/hybrid/broke-diesel",
+    "photoTotalCount": 1,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/12402/b/broke-diesel_825x550_b3vn5nte.lac.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/broke-diesel_100x100_onehf1ht.2pf.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 2,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "broke-diesel",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Bro",
+    "symptoms": [
+        {
+            "name": "Nausea",
+            "score": 5.555555555555555
+        },
+        {
+            "name": "Stress",
+            "score": 5.555555555555555
+        },
+        {
+            "name": "Insomnia",
+            "score": 2.7777777777777777
+        },
+        {
+            "name": "Pain",
+            "score": 2.7777777777777777
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

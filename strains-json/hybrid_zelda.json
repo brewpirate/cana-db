@@ -1,1 +1,172 @@
-{"sl_translate":"description,descriptionPlain,category","id":500950,"slug":"zelda","name":"Zelda","subtitle":null,"symbol":"Zda","category":"Hybrid","description":"\u003cp\u003eZelda by Swamp Boys Seeds is a balanced mixture of \u003ca href=\"https://www.leafly.com/indica/legend-og\"\u003eLegend OG\u003c/a\u003e and Orange Blossom Trail. With both soothing and relaxing effects, Zelda lays into the body, calming and centering sporadic thoughts while tempering minor aches and pains. Its aroma is compelling and intricate, offering notes of anise, rose, and sandalwood. Enjoy Zelda throughout the day to minimize stress and mute \u0026ldquo;monkey mind.\u0026rdquo;\u003c/p\u003e\n","descriptionPlain":"Zelda by Swamp Boys Seeds is a balanced mixture of Legend OG and Orange Blossom Trail. With both soothing and relaxing effects, Zelda lays into the body, calming and centering sporadic thoughts while tempering minor aches and pains. Its aroma is compelling and intricate, offering notes of anise, rose, and sandalwood. Enjoy Zelda throughout the day to minimize stress and mute \u0026ldquo;monkey mind.\u0026rdquo;\n","aka":null,"rating":5,"highlightedReviews":[{"id":1552182,"username":"aaliyah420","text":"Very uplifting, a bit of a tired feeling but it feels as if it’s pushing you to get up and do something. highly recommend if you have trouble sleeping or want to be active because it can help with both depending on dosage ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png"},{"id":1602915,"username":"DW123","text":"Definitely lightened the mood. Relaxing body buzz. Enjoyable daytime smoke.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/5DsWrIpoq-56NpD59UXAqpoVN88=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fqSLuo6zNRCeIia1paBYS_wayfarers-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":7,"flavors":[{"name":"Earthy","score":28.571428571428569},{"name":"Sweet","score":25},{"name":"Spicy/Herbal","score":14.285714285714285},{"name":"Sage","score":14.285714285714285},{"name":"Citrus","score":14.285714285714285}],"effects":[{"name":"Relaxed","score":94.642857142857139},{"name":"Happy","score":69.642857142857139},{"name":"Euphoric","score":66.071428571428569},{"name":"Creative","score":55.357142857142854},{"name":"Tingly","score":53.571428571428569}],"symptoms":[{"name":"Stress","score":41.071428571428569},{"name":"Fatigue","score":28.571428571428569},{"name":"Depression","score":26.785714285714285},{"name":"Pain","score":26.785714285714285},{"name":"Cramps","score":14.285714285714285}],"conditions":[{"name":"Anxiety","score":26.785714285714285},{"name":"PTSD","score":26.785714285714285},{"name":"Hypertension","score":14.285714285714285},{"name":"ADD/ADHD","score":12.5},{"name":"PMS","score":12.5}],"negatives":[{"name":"Dry Mouth","score":41.071428571428569},{"name":"Dry Eyes","score":39.285714285714285}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Los Angeles, CA","Anacortes, WA","Anaheim, CA","Beverly Hills, CA","Burbank, CA","Denver, CO","Gold Bar, WA","Lakewood, CA","Las Vegas, NV","Mission Viejo, CA"],"permalink":"https://mobileapi.leafly.com/hybrid/zelda","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Legend OG","subtitle":null,"slug":"legend-og","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/legend-og","symbol":"Lgn","applink":"leafly://strain/legend-og"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 26.785714285714285
+        },
+        {
+            "name": "PTSD",
+            "score": 26.785714285714285
+        },
+        {
+            "name": "Hypertension",
+            "score": 14.285714285714285
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 12.5
+        },
+        {
+            "name": "PMS",
+            "score": 12.5
+        }
+    ],
+    "description": "<p>Zelda by Swamp Boys Seeds is a balanced mixture of <a href=\"https://www.leafly.com/indica/legend-og\">Legend OG</a> and Orange Blossom Trail. With both soothing and relaxing effects, Zelda lays into the body, calming and centering sporadic thoughts while tempering minor aches and pains. Its aroma is compelling and intricate, offering notes of anise, rose, and sandalwood. Enjoy Zelda throughout the day to minimize stress and mute &ldquo;monkey mind.&rdquo;</p>\n",
+    "descriptionPlain": "Zelda by Swamp Boys Seeds is a balanced mixture of Legend OG and Orange Blossom Trail. With both soothing and relaxing effects, Zelda lays into the body, calming and centering sporadic thoughts while tempering minor aches and pains. Its aroma is compelling and intricate, offering notes of anise, rose, and sandalwood. Enjoy Zelda throughout the day to minimize stress and mute &ldquo;monkey mind.&rdquo;\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 94.64285714285714
+        },
+        {
+            "name": "Happy",
+            "score": 69.64285714285714
+        },
+        {
+            "name": "Euphoric",
+            "score": 66.07142857142857
+        },
+        {
+            "name": "Creative",
+            "score": 55.357142857142854
+        },
+        {
+            "name": "Tingly",
+            "score": 53.57142857142857
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Earthy",
+            "score": 28.57142857142857
+        },
+        {
+            "name": "Sweet",
+            "score": 25
+        },
+        {
+            "name": "Spicy/Herbal",
+            "score": 14.285714285714285
+        },
+        {
+            "name": "Sage",
+            "score": 14.285714285714285
+        },
+        {
+            "name": "Citrus",
+            "score": 14.285714285714285
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png",
+            "id": 1552182,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Very uplifting, a bit of a tired feeling but it feels as if it\u2019s pushing you to get up and do something. highly recommend if you have trouble sleeping or want to be active because it can help with both depending on dosage ",
+            "username": "aaliyah420"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/5DsWrIpoq-56NpD59UXAqpoVN88=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fqSLuo6zNRCeIia1paBYS_wayfarers-purple.png",
+            "id": 1602915,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Definitely lightened the mood. Relaxing body buzz. Enjoyable daytime smoke.",
+            "username": "DW123"
+        }
+    ],
+    "id": 500950,
+    "name": "Zelda",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 41.07142857142857
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 39.285714285714285
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/legend-og",
+            "category": "Indica",
+            "name": "Legend OG",
+            "permalink": "https://mobileapi.leafly.com/indica/legend-og",
+            "slug": "legend-og",
+            "subtitle": null,
+            "symbol": "Lgn"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/zelda",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Los Angeles, CA",
+        "Anacortes, WA",
+        "Anaheim, CA",
+        "Beverly Hills, CA",
+        "Burbank, CA",
+        "Denver, CO",
+        "Gold Bar, WA",
+        "Lakewood, CA",
+        "Las Vegas, NV",
+        "Mission Viejo, CA"
+    ],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 7,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "zelda",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Zda",
+    "symptoms": [
+        {
+            "name": "Stress",
+            "score": 41.07142857142857
+        },
+        {
+            "name": "Fatigue",
+            "score": 28.57142857142857
+        },
+        {
+            "name": "Depression",
+            "score": 26.785714285714285
+        },
+        {
+            "name": "Pain",
+            "score": 26.785714285714285
+        },
+        {
+            "name": "Cramps",
+            "score": 14.285714285714285
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

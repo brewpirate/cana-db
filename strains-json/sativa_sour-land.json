@@ -1,1 +1,123 @@
-{"sl_translate":"description,descriptionPlain,category","id":500908,"slug":"sour-land","name":"Sour Land","subtitle":null,"symbol":"Sri","category":"Sativa","description":"\u003cp\u003eSour Land (a.k.a. Sour Patch Kids) is a sativa-dominant crossing of \u003ca href=\"https://www.leafly.com/sativa/sour-diesel\"\u003eSour Diesel\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/sativa/candyland\"\u003eCandyland\u003c/a\u003e. Created by Dark Heart Nursery, Sour Land emits a pungent aroma of diesel and sweet earth. This strain\u0026rsquo;s effects tend to be happy and uplifting, making it well-suited for consumers suffering from stress and depression. Sour Land grows in a similar fashion to Candyland, expressing tangled golden stigmas and subtle purple hues in its dense, frosty foliage.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Sour Land (a.k.a. Sour Patch Kids) is a sativa-dominant crossing of Sour Diesel and Candyland. Created by Dark Heart Nursery, Sour Land emits a pungent aroma of diesel and sweet earth. This strain\u0026rsquo;s effects tend to be happy and uplifting, making it well-suited for consumers suffering from stress and depression. Sour Land grows in a similar fashion to Candyland, expressing tangled golden stigmas and subtle purple hues in its dense, frosty foliage.\u0026nbsp;\n","aka":null,"rating":4,"highlightedReviews":[{"id":1538572,"username":"mostcondensedclouds","text":"Its hits hard and has a lot of visible keef","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/YEN1LqXiYCOvWiFhmP-4p67iqDM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fY9fB9qHySLml8016ysgJ_goggles-green.png"},{"id":1538572,"username":"mostcondensedclouds","text":"Its hits hard and has a lot of visible keef","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/YEN1LqXiYCOvWiFhmP-4p67iqDM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fY9fB9qHySLml8016ysgJ_goggles-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":1,"flavors":[{"name":"Berry","score":50},{"name":"Tree Fruit","score":50},{"name":"Earthy","score":50},{"name":"Tea","score":50}],"effects":[{"name":"Sleepy","score":50},{"name":"Euphoric","score":50},{"name":"Giggly","score":50}],"symptoms":[{"name":"Spasticity","score":50}],"conditions":[{"name":"Anxiety","score":50},{"name":"Bipolar Disorder","score":50}],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Detroit, MI"],"permalink":"https://mobileapi.leafly.com/sativa/sour-land","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Sour Diesel","subtitle":null,"slug":"sour-diesel","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/sour-diesel","symbol":"Sd","applink":"leafly://strain/sour-diesel"},{"name":"Candyland","subtitle":null,"slug":"candyland","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/candyland","symbol":"Cld","applink":"leafly://strain/candyland"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Sativa",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 50
+        },
+        {
+            "name": "Bipolar Disorder",
+            "score": 50
+        }
+    ],
+    "description": "<p>Sour Land (a.k.a. Sour Patch Kids) is a sativa-dominant crossing of <a href=\"https://www.leafly.com/sativa/sour-diesel\">Sour Diesel</a> and <a href=\"https://www.leafly.com/sativa/candyland\">Candyland</a>. Created by Dark Heart Nursery, Sour Land emits a pungent aroma of diesel and sweet earth. This strain&rsquo;s effects tend to be happy and uplifting, making it well-suited for consumers suffering from stress and depression. Sour Land grows in a similar fashion to Candyland, expressing tangled golden stigmas and subtle purple hues in its dense, frosty foliage.&nbsp;</p>\n",
+    "descriptionPlain": "Sour Land (a.k.a. Sour Patch Kids) is a sativa-dominant crossing of Sour Diesel and Candyland. Created by Dark Heart Nursery, Sour Land emits a pungent aroma of diesel and sweet earth. This strain&rsquo;s effects tend to be happy and uplifting, making it well-suited for consumers suffering from stress and depression. Sour Land grows in a similar fashion to Candyland, expressing tangled golden stigmas and subtle purple hues in its dense, frosty foliage.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Sleepy",
+            "score": 50
+        },
+        {
+            "name": "Euphoric",
+            "score": 50
+        },
+        {
+            "name": "Giggly",
+            "score": 50
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Berry",
+            "score": 50
+        },
+        {
+            "name": "Tree Fruit",
+            "score": 50
+        },
+        {
+            "name": "Earthy",
+            "score": 50
+        },
+        {
+            "name": "Tea",
+            "score": 50
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/YEN1LqXiYCOvWiFhmP-4p67iqDM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fY9fB9qHySLml8016ysgJ_goggles-green.png",
+            "id": 1538572,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Its hits hard and has a lot of visible keef",
+            "username": "mostcondensedclouds"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/YEN1LqXiYCOvWiFhmP-4p67iqDM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fY9fB9qHySLml8016ysgJ_goggles-green.png",
+            "id": 1538572,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Its hits hard and has a lot of visible keef",
+            "username": "mostcondensedclouds"
+        }
+    ],
+    "id": 500908,
+    "name": "Sour Land",
+    "negatives": [],
+    "parents": [
+        {
+            "applink": "leafly://strain/sour-diesel",
+            "category": "Sativa",
+            "name": "Sour Diesel",
+            "permalink": "https://mobileapi.leafly.com/sativa/sour-diesel",
+            "slug": "sour-diesel",
+            "subtitle": null,
+            "symbol": "Sd"
+        },
+        {
+            "applink": "leafly://strain/candyland",
+            "category": "Sativa",
+            "name": "Candyland",
+            "permalink": "https://mobileapi.leafly.com/sativa/candyland",
+            "slug": "candyland",
+            "subtitle": null,
+            "symbol": "Cld"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/sativa/sour-land",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Detroit, MI"
+    ],
+    "rating": 4,
+    "relatedStrains": [],
+    "reviewCount": 1,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "sour-land",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+    "subtitle": null,
+    "symbol": "Sri",
+    "symptoms": [
+        {
+            "name": "Spasticity",
+            "score": 50
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

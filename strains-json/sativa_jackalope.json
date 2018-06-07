@@ -1,1 +1,200 @@
-{"sl_translate":"description,descriptionPlain,category","id":103407,"slug":"jackalope","name":"Jackalope","subtitle":null,"symbol":"Jlp","category":"Sativa","description":"\u003cp\u003eJackalope is a mostly \u003ca href=\"http://leafly.com/sativa\"\u003esativa\u003c/a\u003e strain that crosses \u003ca href=\"http://www.leafly.com/sativa/chocolope\"\u003eChocolope\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/hybrid/black-jack\"\u003eBlack Jack\u003c/a\u003e in a flavorful\u0026nbsp;combination of \u003ca href=\"http://www.leafly.com/explore#!/explore/flavors-berry\"\u003eberry\u003c/a\u003e and chocolate confection. \u003ca href=\"http://www.leafly.com/sativa/jack-herer\"\u003eJack Herer\u003c/a\u003e ancestry reveals itself\u0026nbsp;through this strain\u0026#39;s \u003ca href=\"http://www.leafly.com/explore#!/explore/tags-energetic\"\u003eenergized\u003c/a\u003e and \u003ca href=\"http://www.leafly.com/explore#!/explore/tags-happy\"\u003ehappy\u003c/a\u003e effects, which slowly taper\u0026nbsp;down to\u0026nbsp;mellow \u003ca href=\"http://www.leafly.com/explore#!/explore/tags-relaxed\"\u003erelaxation\u003c/a\u003e over time.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Jackalope is a mostly sativa strain that crosses Chocolope and Black Jack in a flavorful\u0026nbsp;combination of berry and chocolate confection. Jack Herer ancestry reveals itself\u0026nbsp;through this strain\u0026#39;s energized and happy effects, which slowly taper\u0026nbsp;down to\u0026nbsp;mellow relaxation over time.\u0026nbsp;\n","aka":"Jackolope, Jackelope","rating":4.18,"highlightedReviews":[{"id":1346878,"username":"Th3rd3y3","text":"(Chocolope x Black Jack) Super sweet Chocolope pollinated by a super tasty Black Jack father. Expect either a more sativa influenced chocolate pheno or a darker, more dense, fruitier Black Jack pheno. Both share the same taste and high but the sativa pheno is less fruity. Taste is slight raw chocolate with some berries and a hint of incense/opium. High is speedy with a slight sedative after effect. Never waste this in a blunt or joint, this is a plant worth tasting.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/EsB9lXCri57tN17h49dVOnCDkFI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fTBeeQQk0TGeLYj4SjC6Z_old-school-red.png"},{"id":1386965,"username":"VanIslandCannabis","text":"Amazing smell - earthy, piney, subtle hints of diesel. The trichomes were so abundant it made the Bud look almost wet. This strain felt like an indica to me - it starts out with a hazy feeling that eases into eventual couchlock, very good stuff.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":11,"flavors":[{"name":"Citrus","score":4.6875},{"name":"Earthy","score":4.6875},{"name":"Flowery","score":3.125},{"name":"Pungent","score":3.125},{"name":"Pepper","score":1.5625}],"effects":[{"name":"Happy","score":10.9375},{"name":"Talkative","score":7.8125},{"name":"Energetic","score":7.8125},{"name":"Euphoric","score":7.8125},{"name":"Uplifted","score":6.25}],"symptoms":[{"name":"Depression","score":9.375},{"name":"Stress","score":7.8125},{"name":"Fatigue","score":4.6875},{"name":"Headaches","score":4.6875},{"name":"Insomnia","score":3.125}],"conditions":[{"name":"Anxiety","score":9.375},{"name":"ADD/ADHD","score":4.6875},{"name":"Crohn\u0027s Disease","score":1.5625},{"name":"Fibromyalgia","score":1.5625},{"name":"Gastrointestinal Disorder","score":1.5625}],"negatives":[{"name":"Dizzy","score":6.25},{"name":"Dry Mouth","score":4.6875},{"name":"Dry Eyes","score":3.125},{"name":"Paranoid","score":3.125},{"name":"Headache","score":1.5625}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/jackalope_100x100_a5bf.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/401494/b/jackalope__primary_82f8.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/jackalope_100x100_d830.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/221776/b/jackalope__primary_3470.jpg"}],"photoTotalCount":2,"popularCities":["Calgary, AB","Hamilton, ON","Montréal, QC","Toronto, ON","Vancouver, BC","Winnipeg, MB"],"permalink":"https://mobileapi.leafly.com/sativa/jackalope","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.18181818181818/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Chocolope","subtitle":null,"slug":"chocolope","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/chocolope","symbol":"Chc","applink":"leafly://strain/chocolope"},{"name":"Black Jack","subtitle":null,"slug":"black-jack","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/black-jack","symbol":"Bj","applink":"leafly://strain/black-jack"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": "Jackolope, Jackelope",
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Sativa",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 9.375
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 4.6875
+        },
+        {
+            "name": "Crohn's Disease",
+            "score": 1.5625
+        },
+        {
+            "name": "Fibromyalgia",
+            "score": 1.5625
+        },
+        {
+            "name": "Gastrointestinal Disorder",
+            "score": 1.5625
+        }
+    ],
+    "description": "<p>Jackalope is a mostly <a href=\"http://leafly.com/sativa\">sativa</a> strain that crosses <a href=\"http://www.leafly.com/sativa/chocolope\">Chocolope</a> and <a href=\"https://www.leafly.com/hybrid/black-jack\">Black Jack</a> in a flavorful&nbsp;combination of <a href=\"http://www.leafly.com/explore#!/explore/flavors-berry\">berry</a> and chocolate confection. <a href=\"http://www.leafly.com/sativa/jack-herer\">Jack Herer</a> ancestry reveals itself&nbsp;through this strain&#39;s <a href=\"http://www.leafly.com/explore#!/explore/tags-energetic\">energized</a> and <a href=\"http://www.leafly.com/explore#!/explore/tags-happy\">happy</a> effects, which slowly taper&nbsp;down to&nbsp;mellow <a href=\"http://www.leafly.com/explore#!/explore/tags-relaxed\">relaxation</a> over time.&nbsp;</p>\n",
+    "descriptionPlain": "Jackalope is a mostly sativa strain that crosses Chocolope and Black Jack in a flavorful&nbsp;combination of berry and chocolate confection. Jack Herer ancestry reveals itself&nbsp;through this strain&#39;s energized and happy effects, which slowly taper&nbsp;down to&nbsp;mellow relaxation over time.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Happy",
+            "score": 10.9375
+        },
+        {
+            "name": "Talkative",
+            "score": 7.8125
+        },
+        {
+            "name": "Energetic",
+            "score": 7.8125
+        },
+        {
+            "name": "Euphoric",
+            "score": 7.8125
+        },
+        {
+            "name": "Uplifted",
+            "score": 6.25
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Citrus",
+            "score": 4.6875
+        },
+        {
+            "name": "Earthy",
+            "score": 4.6875
+        },
+        {
+            "name": "Flowery",
+            "score": 3.125
+        },
+        {
+            "name": "Pungent",
+            "score": 3.125
+        },
+        {
+            "name": "Pepper",
+            "score": 1.5625
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/EsB9lXCri57tN17h49dVOnCDkFI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fTBeeQQk0TGeLYj4SjC6Z_old-school-red.png",
+            "id": 1346878,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "(Chocolope x Black Jack) Super sweet Chocolope pollinated by a super tasty Black Jack father. Expect either a more sativa influenced chocolate pheno or a darker, more dense, fruitier Black Jack pheno. Both share the same taste and high but the sativa pheno is less fruity. Taste is slight raw chocolate with some berries and a hint of incense/opium. High is speedy with a slight sedative after effect. Never waste this in a blunt or joint, this is a plant worth tasting.",
+            "username": "Th3rd3y3"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png",
+            "id": 1386965,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Amazing smell - earthy, piney, subtle hints of diesel. The trichomes were so abundant it made the Bud look almost wet. This strain felt like an indica to me - it starts out with a hazy feeling that eases into eventual couchlock, very good stuff.",
+            "username": "VanIslandCannabis"
+        }
+    ],
+    "id": 103407,
+    "name": "Jackalope",
+    "negatives": [
+        {
+            "name": "Dizzy",
+            "score": 6.25
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 4.6875
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 3.125
+        },
+        {
+            "name": "Paranoid",
+            "score": 3.125
+        },
+        {
+            "name": "Headache",
+            "score": 1.5625
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/chocolope",
+            "category": "Sativa",
+            "name": "Chocolope",
+            "permalink": "https://mobileapi.leafly.com/sativa/chocolope",
+            "slug": "chocolope",
+            "subtitle": null,
+            "symbol": "Chc"
+        },
+        {
+            "applink": "leafly://strain/black-jack",
+            "category": "Hybrid",
+            "name": "Black Jack",
+            "permalink": "https://mobileapi.leafly.com/hybrid/black-jack",
+            "slug": "black-jack",
+            "subtitle": null,
+            "symbol": "Bj"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/sativa/jackalope",
+    "photoTotalCount": 2,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/401494/b/jackalope__primary_82f8.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/jackalope_100x100_a5bf.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/221776/b/jackalope__primary_3470.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/jackalope_100x100_d830.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Calgary, AB",
+        "Hamilton, ON",
+        "Montr\u00e9al, QC",
+        "Toronto, ON",
+        "Vancouver, BC",
+        "Winnipeg, MB"
+    ],
+    "rating": 4.18,
+    "relatedStrains": [],
+    "reviewCount": 11,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "jackalope",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.18181818181818/240",
+    "subtitle": null,
+    "symbol": "Jlp",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 9.375
+        },
+        {
+            "name": "Stress",
+            "score": 7.8125
+        },
+        {
+            "name": "Fatigue",
+            "score": 4.6875
+        },
+        {
+            "name": "Headaches",
+            "score": 4.6875
+        },
+        {
+            "name": "Insomnia",
+            "score": 3.125
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

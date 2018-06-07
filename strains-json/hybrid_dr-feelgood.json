@@ -1,1 +1,157 @@
-{"sl_translate":"description,descriptionPlain,category","id":233615,"slug":"dr-feelgood","name":"Dr. Feelgood","subtitle":null,"symbol":"Dfg","category":"Hybrid","description":"\u003cp\u003eDr. Feelgood is a beautiful blend of flavors and effects that possesses a tangible medical bent. This cross developed by \u003ca href=\"https://coloradoseedinc.com/\"\u003eColorado Seed Inc.\u003c/a\u003e is a blend of \u003ca href=\"https://www.leafly.com/sativa/harlequin\"\u003eHarlequin\u003c/a\u003e and Gupta Kush. Mixing the powerful CBD generation of Harlequin with the medical-grade body effects of Dr. Sanjay Gupta Kush creates a strain focused on physical wellness. With equal parts anti-inflammatory and analgesic effects, Dr. Feelgood abates anxiety and culls chronic pain with confidence.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Dr. Feelgood is a beautiful blend of flavors and effects that possesses a tangible medical bent. This cross developed by Colorado Seed Inc. is a blend of Harlequin and Gupta Kush. Mixing the powerful CBD generation of Harlequin with the medical-grade body effects of Dr. Sanjay Gupta Kush creates a strain focused on physical wellness. With equal parts anti-inflammatory and analgesic effects, Dr. Feelgood abates anxiety and culls chronic pain with confidence.\u0026nbsp;\n","aka":null,"rating":4.5,"highlightedReviews":[{"id":1381702,"username":"nikolaistroya","text":"Its has very mellow high feeling in my  head. The dr. feel good strain is relaxing and euphoric nice body buzz. I\u0027m happy and peaceful. Harsh taste is not pleasing. worth smoking though. brain melter.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/3/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png"},{"id":1364778,"username":"Karynsart","text":"Very light brain buzz. First strain that has made me peppy and wanting to get shit done without melting into the couch and falling asleep or make me eat the entire fridge. Great for crafting time.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":4,"flavors":[{"name":"Earthy","score":10},{"name":"Woody","score":10},{"name":"Nutty","score":5}],"effects":[{"name":"Happy","score":15},{"name":"Relaxed","score":15},{"name":"Tingly","score":10},{"name":"Euphoric","score":10},{"name":"Sleepy","score":5}],"symptoms":[{"name":"Stress","score":10},{"name":"Cramps","score":5},{"name":"Depression","score":5},{"name":"Eye Pressure","score":5},{"name":"Insomnia","score":5}],"conditions":[{"name":"Anxiety","score":10},{"name":"Arthritis","score":5},{"name":"Crohn\u0027s Disease","score":5},{"name":"Fibromyalgia","score":5},{"name":"PMS","score":5}],"negatives":[{"name":"Dry Mouth","score":5}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/dr--feelgood_100x100_d4ba.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/553066/b/dr--feelgood__primary_39b2.jpg"}],"photoTotalCount":1,"popularCities":["Los Angeles, CA"],"permalink":"https://mobileapi.leafly.com/hybrid/dr-feelgood","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Harlequin","subtitle":null,"slug":"harlequin","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/harlequin","symbol":"Har","applink":"leafly://strain/harlequin"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 10
+        },
+        {
+            "name": "Arthritis",
+            "score": 5
+        },
+        {
+            "name": "Crohn's Disease",
+            "score": 5
+        },
+        {
+            "name": "Fibromyalgia",
+            "score": 5
+        },
+        {
+            "name": "PMS",
+            "score": 5
+        }
+    ],
+    "description": "<p>Dr. Feelgood is a beautiful blend of flavors and effects that possesses a tangible medical bent. This cross developed by <a href=\"https://coloradoseedinc.com/\">Colorado Seed Inc.</a> is a blend of <a href=\"https://www.leafly.com/sativa/harlequin\">Harlequin</a> and Gupta Kush. Mixing the powerful CBD generation of Harlequin with the medical-grade body effects of Dr. Sanjay Gupta Kush creates a strain focused on physical wellness. With equal parts anti-inflammatory and analgesic effects, Dr. Feelgood abates anxiety and culls chronic pain with confidence.&nbsp;</p>\n",
+    "descriptionPlain": "Dr. Feelgood is a beautiful blend of flavors and effects that possesses a tangible medical bent. This cross developed by Colorado Seed Inc. is a blend of Harlequin and Gupta Kush. Mixing the powerful CBD generation of Harlequin with the medical-grade body effects of Dr. Sanjay Gupta Kush creates a strain focused on physical wellness. With equal parts anti-inflammatory and analgesic effects, Dr. Feelgood abates anxiety and culls chronic pain with confidence.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Happy",
+            "score": 15
+        },
+        {
+            "name": "Relaxed",
+            "score": 15
+        },
+        {
+            "name": "Tingly",
+            "score": 10
+        },
+        {
+            "name": "Euphoric",
+            "score": 10
+        },
+        {
+            "name": "Sleepy",
+            "score": 5
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Earthy",
+            "score": 10
+        },
+        {
+            "name": "Woody",
+            "score": 10
+        },
+        {
+            "name": "Nutty",
+            "score": 5
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png",
+            "id": 1381702,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/3/240",
+            "text": "Its has very mellow high feeling in my  head. The dr. feel good strain is relaxing and euphoric nice body buzz. I'm happy and peaceful. Harsh taste is not pleasing. worth smoking though. brain melter.",
+            "username": "nikolaistroya"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png",
+            "id": 1364778,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Very light brain buzz. First strain that has made me peppy and wanting to get shit done without melting into the couch and falling asleep or make me eat the entire fridge. Great for crafting time.",
+            "username": "Karynsart"
+        }
+    ],
+    "id": 233615,
+    "name": "Dr. Feelgood",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 5
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/harlequin",
+            "category": "Sativa",
+            "name": "Harlequin",
+            "permalink": "https://mobileapi.leafly.com/sativa/harlequin",
+            "slug": "harlequin",
+            "subtitle": null,
+            "symbol": "Har"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/dr-feelgood",
+    "photoTotalCount": 1,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/553066/b/dr--feelgood__primary_39b2.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/dr--feelgood_100x100_d4ba.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Los Angeles, CA"
+    ],
+    "rating": 4.5,
+    "relatedStrains": [],
+    "reviewCount": 4,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "dr-feelgood",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.5/240",
+    "subtitle": null,
+    "symbol": "Dfg",
+    "symptoms": [
+        {
+            "name": "Stress",
+            "score": 10
+        },
+        {
+            "name": "Cramps",
+            "score": 5
+        },
+        {
+            "name": "Depression",
+            "score": 5
+        },
+        {
+            "name": "Eye Pressure",
+            "score": 5
+        },
+        {
+            "name": "Insomnia",
+            "score": 5
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

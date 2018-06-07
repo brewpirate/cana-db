@@ -1,1 +1,125 @@
-{"sl_translate":"description,descriptionPlain,category","id":500529,"slug":"royal-tree-sherbet","name":"Royal Tree Sherbet","subtitle":null,"symbol":"Sht","category":"Hybrid","description":"\u003cp\u003eSherbet by Royal Tree Gardens is another genetically distinct strain under a familiar name. Royal Tree\u0026rsquo;s Sherbet cut is close to the original, crossing an unknown Purple Cookies with \u003ca href=\"https://www.leafly.com/hybrid/platinum-girl-scout-cookies\"\u003ePlatinum Girl Scout Cookies\u003c/a\u003e. This twice-deep mixture of Cookies genetics gives the plant a sweet, sugary aroma that is as alluring on the nose as it is on the palate. Sherbet provides a clear-headed and uplifting mental state, and a pleasant \u003ca href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\"\u003eterpene profile\u003c/a\u003e that is sure to excite novice and seasoned consumers alike.\u0026nbsp;\u003c/p\u003e\n\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Sherbet by Royal Tree Gardens is another genetically distinct strain under a familiar name. Royal Tree\u0026rsquo;s Sherbet cut is close to the original, crossing an unknown Purple Cookies with Platinum Girl Scout Cookies. This twice-deep mixture of Cookies genetics gives the plant a sweet, sugary aroma that is as alluring on the nose as it is on the palate. Sherbet provides a clear-headed and uplifting mental state, and a pleasant terpene profile that is sure to excite novice and seasoned consumers alike.\u0026nbsp;\n\n\u0026nbsp;\n","aka":null,"rating":5,"highlightedReviews":[{"id":1558687,"username":"Rensalier","text":"I had the opportunity to try on of the Royal Tree Sherbet cartridges recently and it was a real treat. \n\nLike all the Royal Tree products that I have tried the flavor was great. Their products always taste very \"rich\" to me - full flavored. \n\nSherbet had a distinct woodsy taste kind of like a fine whiskey - if you have ever had the opportunity to sip some good stuff. There was a little citrus in the background as well. It drew well and was very smooth. No sharp or burnt taste at all and no coughing. \n\nIf you have the opportunity to try it, I would give it a shot. It\u0027s great for a relaxing evening around the house.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"},{"id":1558687,"username":"Rensalier","text":"I had the opportunity to try on of the Royal Tree Sherbet cartridges recently and it was a real treat. \n\nLike all the Royal Tree products that I have tried the flavor was great. Their products always taste very \"rich\" to me - full flavored. \n\nSherbet had a distinct woodsy taste kind of like a fine whiskey - if you have ever had the opportunity to sip some good stuff. There was a little citrus in the background as well. It drew well and was very smooth. No sharp or burnt taste at all and no coughing. \n\nIf you have the opportunity to try it, I would give it a shot. It\u0027s great for a relaxing evening around the house.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":2,"flavors":[{"name":"Tropical","score":50},{"name":"Sweet","score":25},{"name":"Berry","score":25},{"name":"Grape","score":25},{"name":"Orange","score":25}],"effects":[{"name":"Relaxed","score":125},{"name":"Uplifted","score":100},{"name":"Happy","score":100}],"symptoms":[{"name":"Inflammation","score":25},{"name":"Lack of Appetite","score":25},{"name":"Stress","score":25}],"conditions":[{"name":"Crohn\u0027s Disease","score":25}],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Spokane, WA","Bellevue, WA","Seattle, WA","Tacoma, WA"],"permalink":"https://mobileapi.leafly.com/hybrid/royal-tree-sherbet","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Platinum Girl Scout Cookies","subtitle":null,"slug":"platinum-girl-scout-cookies","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/platinum-girl-scout-cookies","symbol":"Pgs","applink":"leafly://strain/platinum-girl-scout-cookies"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Crohn's Disease",
+            "score": 25
+        }
+    ],
+    "description": "<p>Sherbet by Royal Tree Gardens is another genetically distinct strain under a familiar name. Royal Tree&rsquo;s Sherbet cut is close to the original, crossing an unknown Purple Cookies with <a href=\"https://www.leafly.com/hybrid/platinum-girl-scout-cookies\">Platinum Girl Scout Cookies</a>. This twice-deep mixture of Cookies genetics gives the plant a sweet, sugary aroma that is as alluring on the nose as it is on the palate. Sherbet provides a clear-headed and uplifting mental state, and a pleasant <a href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\">terpene profile</a> that is sure to excite novice and seasoned consumers alike.&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+    "descriptionPlain": "Sherbet by Royal Tree Gardens is another genetically distinct strain under a familiar name. Royal Tree&rsquo;s Sherbet cut is close to the original, crossing an unknown Purple Cookies with Platinum Girl Scout Cookies. This twice-deep mixture of Cookies genetics gives the plant a sweet, sugary aroma that is as alluring on the nose as it is on the palate. Sherbet provides a clear-headed and uplifting mental state, and a pleasant terpene profile that is sure to excite novice and seasoned consumers alike.&nbsp;\n\n&nbsp;\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 125
+        },
+        {
+            "name": "Uplifted",
+            "score": 100
+        },
+        {
+            "name": "Happy",
+            "score": 100
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Tropical",
+            "score": 50
+        },
+        {
+            "name": "Sweet",
+            "score": 25
+        },
+        {
+            "name": "Berry",
+            "score": 25
+        },
+        {
+            "name": "Grape",
+            "score": 25
+        },
+        {
+            "name": "Orange",
+            "score": 25
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1558687,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "I had the opportunity to try on of the Royal Tree Sherbet cartridges recently and it was a real treat. \n\nLike all the Royal Tree products that I have tried the flavor was great. Their products always taste very \"rich\" to me - full flavored. \n\nSherbet had a distinct woodsy taste kind of like a fine whiskey - if you have ever had the opportunity to sip some good stuff. There was a little citrus in the background as well. It drew well and was very smooth. No sharp or burnt taste at all and no coughing. \n\nIf you have the opportunity to try it, I would give it a shot. It's great for a relaxing evening around the house.",
+            "username": "Rensalier"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1558687,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "I had the opportunity to try on of the Royal Tree Sherbet cartridges recently and it was a real treat. \n\nLike all the Royal Tree products that I have tried the flavor was great. Their products always taste very \"rich\" to me - full flavored. \n\nSherbet had a distinct woodsy taste kind of like a fine whiskey - if you have ever had the opportunity to sip some good stuff. There was a little citrus in the background as well. It drew well and was very smooth. No sharp or burnt taste at all and no coughing. \n\nIf you have the opportunity to try it, I would give it a shot. It's great for a relaxing evening around the house.",
+            "username": "Rensalier"
+        }
+    ],
+    "id": 500529,
+    "name": "Royal Tree Sherbet",
+    "negatives": [],
+    "parents": [
+        {
+            "applink": "leafly://strain/platinum-girl-scout-cookies",
+            "category": "Hybrid",
+            "name": "Platinum Girl Scout Cookies",
+            "permalink": "https://mobileapi.leafly.com/hybrid/platinum-girl-scout-cookies",
+            "slug": "platinum-girl-scout-cookies",
+            "subtitle": null,
+            "symbol": "Pgs"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/royal-tree-sherbet",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Spokane, WA",
+        "Bellevue, WA",
+        "Seattle, WA",
+        "Tacoma, WA"
+    ],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 2,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "royal-tree-sherbet",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Sht",
+    "symptoms": [
+        {
+            "name": "Inflammation",
+            "score": 25
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 25
+        },
+        {
+            "name": "Stress",
+            "score": 25
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

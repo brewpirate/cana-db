@@ -1,1 +1,205 @@
-{"sl_translate":"description,descriptionPlain,category","id":8608,"slug":"frosty","name":"Frosty","subtitle":null,"symbol":"Fro","category":"Indica","description":null,"descriptionPlain":"","aka":null,"rating":4.39,"highlightedReviews":[{"id":1341917,"username":"Dinosaurworld","text":"Very heady high.  I agree with one of the other reviews; this doesn\u0027t hit your body at all.  I got pretty chatty, relaxed and focused.  A good reading strain.  Also, I didn\u0027t get much of a dry mouth.\n","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png"},{"id":1635142,"username":"ClydeFr0g87","text":"This strain, this...Frosty...is a dynamic strain. \n\nThe smooth and extremely relaxing high was surprisingly euphoric. Very good for relaxing I hear. \n\nThere’s just the softest kiss of a body high, but that’s real good for tense muscles I hear. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":33,"flavors":[{"name":"Earthy","score":66.34615384615384},{"name":"Sweet","score":64.42307692307692},{"name":"Skunk","score":13.141025641025641},{"name":"Pungent","score":1.9230769230769231},{"name":"Sage","score":1.2820512820512819}],"effects":[{"name":"Relaxed","score":125.32051282051282},{"name":"Euphoric","score":58.974358974358978},{"name":"Uplifted","score":57.051282051282051},{"name":"Giggly","score":53.205128205128204},{"name":"Sleepy","score":31.410256410256409}],"symptoms":[{"name":"Fatigue","score":50.641025641025642},{"name":"Lack of Appetite","score":14.423076923076923},{"name":"Stress","score":6.41025641025641},{"name":"Insomnia","score":4.4871794871794872},{"name":"Pain","score":4.4871794871794872}],"conditions":[{"name":"Anxiety","score":52.564102564102562},{"name":"Arthritis","score":1.2820512820512819},{"name":"Cancer","score":1.2820512820512819},{"name":"Gastrointestinal Disorder","score":0.641025641025641},{"name":"Glaucoma","score":0.641025641025641}],"negatives":[{"name":"Anxious","score":63.782051282051285},{"name":"Dry Mouth","score":53.205128205128204},{"name":"Dry Eyes","score":51.92307692307692},{"name":"Paranoid","score":15.064102564102564},{"name":"Dizzy","score":0.641025641025641}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/frosty_100x100_1f0d.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/531515/b/frosty__primary_c60b.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/frosty_100x100_437a.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/499934/b/frosty__primary_55d8.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/frosty_100x100_4c9a.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/399231/b/frosty__primary_2b80.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/frosty_100x100_58ab.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/150156/b/frosty_825x550_9597.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/frosty_100x100_e4a5.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/61450/b/frosty_825x550_77e2.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/Frosty_100x100_e12f.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/48341/b/frosty_825x550_59be.jpg"}],"photoTotalCount":10,"popularCities":["Montréal, QC","Portland, OR","Vancouver, BC","Barrie, ON","Brampton, ON","Calgary, AB","Colorado Springs, CO","Coquitlam, BC","Cottage Grove, OR","Edmonton, AB"],"permalink":"https://mobileapi.leafly.com/indica/frosty","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.39393939393939/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 52.56410256410256
+        },
+        {
+            "name": "Arthritis",
+            "score": 1.282051282051282
+        },
+        {
+            "name": "Cancer",
+            "score": 1.282051282051282
+        },
+        {
+            "name": "Gastrointestinal Disorder",
+            "score": 0.641025641025641
+        },
+        {
+            "name": "Glaucoma",
+            "score": 0.641025641025641
+        }
+    ],
+    "description": null,
+    "descriptionPlain": "",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 125.32051282051282
+        },
+        {
+            "name": "Euphoric",
+            "score": 58.97435897435898
+        },
+        {
+            "name": "Uplifted",
+            "score": 57.05128205128205
+        },
+        {
+            "name": "Giggly",
+            "score": 53.205128205128204
+        },
+        {
+            "name": "Sleepy",
+            "score": 31.41025641025641
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Earthy",
+            "score": 66.34615384615384
+        },
+        {
+            "name": "Sweet",
+            "score": 64.42307692307692
+        },
+        {
+            "name": "Skunk",
+            "score": 13.14102564102564
+        },
+        {
+            "name": "Pungent",
+            "score": 1.9230769230769231
+        },
+        {
+            "name": "Sage",
+            "score": 1.282051282051282
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png",
+            "id": 1341917,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Very heady high.  I agree with one of the other reviews; this doesn't hit your body at all.  I got pretty chatty, relaxed and focused.  A good reading strain.  Also, I didn't get much of a dry mouth.\n",
+            "username": "Dinosaurworld"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1635142,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "This strain, this...Frosty...is a dynamic strain. \n\nThe smooth and extremely relaxing high was surprisingly euphoric. Very good for relaxing I hear. \n\nThere\u2019s just the softest kiss of a body high, but that\u2019s real good for tense muscles I hear. ",
+            "username": "ClydeFr0g87"
+        }
+    ],
+    "id": 8608,
+    "name": "Frosty",
+    "negatives": [
+        {
+            "name": "Anxious",
+            "score": 63.782051282051285
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 53.205128205128204
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 51.92307692307692
+        },
+        {
+            "name": "Paranoid",
+            "score": 15.064102564102564
+        },
+        {
+            "name": "Dizzy",
+            "score": 0.641025641025641
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/indica/frosty",
+    "photoTotalCount": 10,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/531515/b/frosty__primary_c60b.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/frosty_100x100_1f0d.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/499934/b/frosty__primary_55d8.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/frosty_100x100_437a.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/399231/b/frosty__primary_2b80.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/frosty_100x100_4c9a.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/150156/b/frosty_825x550_9597.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/frosty_100x100_58ab.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/61450/b/frosty_825x550_77e2.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/frosty_100x100_e4a5.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/48341/b/frosty_825x550_59be.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/Frosty_100x100_e12f.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Montr\u00e9al, QC",
+        "Portland, OR",
+        "Vancouver, BC",
+        "Barrie, ON",
+        "Brampton, ON",
+        "Calgary, AB",
+        "Colorado Springs, CO",
+        "Coquitlam, BC",
+        "Cottage Grove, OR",
+        "Edmonton, AB"
+    ],
+    "rating": 4.39,
+    "relatedStrains": [],
+    "reviewCount": 33,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "frosty",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.39393939393939/240",
+    "subtitle": null,
+    "symbol": "Fro",
+    "symptoms": [
+        {
+            "name": "Fatigue",
+            "score": 50.64102564102564
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 14.423076923076923
+        },
+        {
+            "name": "Stress",
+            "score": 6.41025641025641
+        },
+        {
+            "name": "Insomnia",
+            "score": 4.487179487179487
+        },
+        {
+            "name": "Pain",
+            "score": 4.487179487179487
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

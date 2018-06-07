@@ -1,1 +1,164 @@
-{"sl_translate":"description,descriptionPlain,category","id":500865,"slug":"russian-doll","name":"Russian Doll","subtitle":null,"symbol":"Rdo","category":"Sativa","description":"\u003cp\u003eRussian Doll by Kannabia Seed Company is a sativa-dominant strain that blooms densely like an indica while offering the balanced effects of a hybrid. Created by crossing \u003ca href=\"https://www.leafly.com/indica/northern-lights\"\u003eNorthern Lights\u003c/a\u003e x \u003ca href=\"https://www.leafly.com/hybrid/ak-47\"\u003eAK-47\u003c/a\u003e x Kuban Sativa, this lemon-scented plant grows to an average height and produces dense, resinous flowers ideal for extraction. Russian Doll\u0026rsquo;s spicy flavor lingers alongside the strain\u0026rsquo;s mellow physical buzz and steady, heady euphoria.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Russian Doll by Kannabia Seed Company is a sativa-dominant strain that blooms densely like an indica while offering the balanced effects of a hybrid. Created by crossing Northern Lights x AK-47 x Kuban Sativa, this lemon-scented plant grows to an average height and produces dense, resinous flowers ideal for extraction. Russian Doll\u0026rsquo;s spicy flavor lingers alongside the strain\u0026rsquo;s mellow physical buzz and steady, heady euphoria.\u0026nbsp;\n","aka":null,"rating":5,"highlightedReviews":[{"id":1630341,"username":"derr86","text":"Picked this up at the Rez and really enjoying it so far. Keeps me focused, creative and pretty talkative. Puts me in a great mood and can definitely see myself purchasing this strain again. Not great for before bed as it kept my mind active all night. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/5DsWrIpoq-56NpD59UXAqpoVN88=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fqSLuo6zNRCeIia1paBYS_wayfarers-purple.png"},{"id":1630341,"username":"derr86","text":"Picked this up at the Rez and really enjoying it so far. Keeps me focused, creative and pretty talkative. Puts me in a great mood and can definitely see myself purchasing this strain again. Not great for before bed as it kept my mind active all night. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/5DsWrIpoq-56NpD59UXAqpoVN88=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fqSLuo6zNRCeIia1paBYS_wayfarers-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":2,"flavors":[{"name":"Citrus","score":20},{"name":"Lime","score":20},{"name":"Pine","score":20},{"name":"Tobacco","score":20}],"effects":[{"name":"Focused","score":80},{"name":"Creative","score":60},{"name":"Relaxed","score":60},{"name":"Sleepy","score":45},{"name":"Talkative","score":40}],"symptoms":[{"name":"Depression","score":40},{"name":"Stress","score":20}],"conditions":[{"name":"Anxiety","score":40},{"name":"Anorexia","score":20},{"name":"Asthma","score":20},{"name":"Crohn\u0027s Disease","score":20},{"name":"Fibromyalgia","score":20}],"negatives":[{"name":"Dizzy","score":40},{"name":"Dry Eyes","score":20},{"name":"Dry Mouth","score":20},{"name":"Anxious","score":20}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Nelson, BC"],"permalink":"https://mobileapi.leafly.com/sativa/russian-doll","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Northern Lights","subtitle":null,"slug":"northern-lights","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/northern-lights","symbol":"Nl","applink":"leafly://strain/northern-lights"},{"name":"AK-47","subtitle":null,"slug":"ak-47","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/ak-47","symbol":"Ak","applink":"leafly://strain/ak-47"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Sativa",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 40
+        },
+        {
+            "name": "Anorexia",
+            "score": 20
+        },
+        {
+            "name": "Asthma",
+            "score": 20
+        },
+        {
+            "name": "Crohn's Disease",
+            "score": 20
+        },
+        {
+            "name": "Fibromyalgia",
+            "score": 20
+        }
+    ],
+    "description": "<p>Russian Doll by Kannabia Seed Company is a sativa-dominant strain that blooms densely like an indica while offering the balanced effects of a hybrid. Created by crossing <a href=\"https://www.leafly.com/indica/northern-lights\">Northern Lights</a> x <a href=\"https://www.leafly.com/hybrid/ak-47\">AK-47</a> x Kuban Sativa, this lemon-scented plant grows to an average height and produces dense, resinous flowers ideal for extraction. Russian Doll&rsquo;s spicy flavor lingers alongside the strain&rsquo;s mellow physical buzz and steady, heady euphoria.&nbsp;</p>\n",
+    "descriptionPlain": "Russian Doll by Kannabia Seed Company is a sativa-dominant strain that blooms densely like an indica while offering the balanced effects of a hybrid. Created by crossing Northern Lights x AK-47 x Kuban Sativa, this lemon-scented plant grows to an average height and produces dense, resinous flowers ideal for extraction. Russian Doll&rsquo;s spicy flavor lingers alongside the strain&rsquo;s mellow physical buzz and steady, heady euphoria.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Focused",
+            "score": 80
+        },
+        {
+            "name": "Creative",
+            "score": 60
+        },
+        {
+            "name": "Relaxed",
+            "score": 60
+        },
+        {
+            "name": "Sleepy",
+            "score": 45
+        },
+        {
+            "name": "Talkative",
+            "score": 40
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Citrus",
+            "score": 20
+        },
+        {
+            "name": "Lime",
+            "score": 20
+        },
+        {
+            "name": "Pine",
+            "score": 20
+        },
+        {
+            "name": "Tobacco",
+            "score": 20
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/5DsWrIpoq-56NpD59UXAqpoVN88=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fqSLuo6zNRCeIia1paBYS_wayfarers-purple.png",
+            "id": 1630341,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Picked this up at the Rez and really enjoying it so far. Keeps me focused, creative and pretty talkative. Puts me in a great mood and can definitely see myself purchasing this strain again. Not great for before bed as it kept my mind active all night. ",
+            "username": "derr86"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/5DsWrIpoq-56NpD59UXAqpoVN88=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fqSLuo6zNRCeIia1paBYS_wayfarers-purple.png",
+            "id": 1630341,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Picked this up at the Rez and really enjoying it so far. Keeps me focused, creative and pretty talkative. Puts me in a great mood and can definitely see myself purchasing this strain again. Not great for before bed as it kept my mind active all night. ",
+            "username": "derr86"
+        }
+    ],
+    "id": 500865,
+    "name": "Russian Doll",
+    "negatives": [
+        {
+            "name": "Dizzy",
+            "score": 40
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 20
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 20
+        },
+        {
+            "name": "Anxious",
+            "score": 20
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/northern-lights",
+            "category": "Indica",
+            "name": "Northern Lights",
+            "permalink": "https://mobileapi.leafly.com/indica/northern-lights",
+            "slug": "northern-lights",
+            "subtitle": null,
+            "symbol": "Nl"
+        },
+        {
+            "applink": "leafly://strain/ak-47",
+            "category": "Hybrid",
+            "name": "AK-47",
+            "permalink": "https://mobileapi.leafly.com/hybrid/ak-47",
+            "slug": "ak-47",
+            "subtitle": null,
+            "symbol": "Ak"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/sativa/russian-doll",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Nelson, BC"
+    ],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 2,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "russian-doll",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Rdo",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 40
+        },
+        {
+            "name": "Stress",
+            "score": 20
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

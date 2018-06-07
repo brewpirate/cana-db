@@ -1,1 +1,145 @@
-{"sl_translate":"description,descriptionPlain,category","id":500587,"slug":"bright-moments","name":"Bright Moments","subtitle":null,"symbol":"Brm","category":"Hybrid","description":"\u003cp\u003eBright Moments by Gage Green Group is a delicious cross of heirloom Grape Stomper genetics. Created by crossing \u003ca href=\"https://www.leafly.com/hybrid/sour-grapes\"\u003eGrape Stomper\u003c/a\u003e and Grape Stomper OG, Gage Green fashions an incredibly frosty and potent strain with a generous yield for attentive growers. This strain\u0026rsquo;s loud grape fragrance is as alluring as it is pungent, and the effects hit strong, rushing directly to the head. These effects expel stress and clear the mind, replacing cares and concerns with bright euphoria.\u0026nbsp;\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Bright Moments by Gage Green Group is a delicious cross of heirloom Grape Stomper genetics. Created by crossing Grape Stomper and Grape Stomper OG, Gage Green fashions an incredibly frosty and potent strain with a generous yield for attentive growers. This strain\u0026rsquo;s loud grape fragrance is as alluring as it is pungent, and the effects hit strong, rushing directly to the head. These effects expel stress and clear the mind, replacing cares and concerns with bright euphoria.\u0026nbsp;\u0026nbsp;\n","aka":null,"rating":4,"highlightedReviews":[{"id":1529990,"username":"octodrone","text":"it\u0027s not bad. gives me a slight headache but it starts out with a nice bubbly high then slowly mellows out to a couch lock.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png"},{"id":1529990,"username":"octodrone","text":"it\u0027s not bad. gives me a slight headache but it starts out with a nice bubbly high then slowly mellows out to a couch lock.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":1,"flavors":[{"name":"Earthy","score":25},{"name":"Pungent","score":25},{"name":"Pine","score":25}],"effects":[{"name":"Energetic","score":50},{"name":"Aroused","score":25},{"name":"Sleepy","score":25},{"name":"Euphoric","score":25},{"name":"Focused","score":25}],"symptoms":[{"name":"Insomnia","score":25},{"name":"Muscle Spasms","score":25},{"name":"Pain","score":25},{"name":"Stress","score":25}],"conditions":[{"name":"Anxiety","score":50},{"name":"PTSD","score":25},{"name":"Bipolar Disorder","score":25}],"negatives":[{"name":"Dry Mouth","score":50},{"name":"Headache","score":25}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Freeland, WA","Phoenix, AZ","Wayne, MI"],"permalink":"https://mobileapi.leafly.com/hybrid/bright-moments","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Grape Stomper","subtitle":null,"slug":"sour-grapes","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/sour-grapes","symbol":"Gsp","applink":"leafly://strain/sour-grapes"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 50
+        },
+        {
+            "name": "PTSD",
+            "score": 25
+        },
+        {
+            "name": "Bipolar Disorder",
+            "score": 25
+        }
+    ],
+    "description": "<p>Bright Moments by Gage Green Group is a delicious cross of heirloom Grape Stomper genetics. Created by crossing <a href=\"https://www.leafly.com/hybrid/sour-grapes\">Grape Stomper</a> and Grape Stomper OG, Gage Green fashions an incredibly frosty and potent strain with a generous yield for attentive growers. This strain&rsquo;s loud grape fragrance is as alluring as it is pungent, and the effects hit strong, rushing directly to the head. These effects expel stress and clear the mind, replacing cares and concerns with bright euphoria.&nbsp;&nbsp;</p>\n",
+    "descriptionPlain": "Bright Moments by Gage Green Group is a delicious cross of heirloom Grape Stomper genetics. Created by crossing Grape Stomper and Grape Stomper OG, Gage Green fashions an incredibly frosty and potent strain with a generous yield for attentive growers. This strain&rsquo;s loud grape fragrance is as alluring as it is pungent, and the effects hit strong, rushing directly to the head. These effects expel stress and clear the mind, replacing cares and concerns with bright euphoria.&nbsp;&nbsp;\n",
+    "effects": [
+        {
+            "name": "Energetic",
+            "score": 50
+        },
+        {
+            "name": "Aroused",
+            "score": 25
+        },
+        {
+            "name": "Sleepy",
+            "score": 25
+        },
+        {
+            "name": "Euphoric",
+            "score": 25
+        },
+        {
+            "name": "Focused",
+            "score": 25
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Earthy",
+            "score": 25
+        },
+        {
+            "name": "Pungent",
+            "score": 25
+        },
+        {
+            "name": "Pine",
+            "score": 25
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png",
+            "id": 1529990,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "it's not bad. gives me a slight headache but it starts out with a nice bubbly high then slowly mellows out to a couch lock.",
+            "username": "octodrone"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png",
+            "id": 1529990,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "it's not bad. gives me a slight headache but it starts out with a nice bubbly high then slowly mellows out to a couch lock.",
+            "username": "octodrone"
+        }
+    ],
+    "id": 500587,
+    "name": "Bright Moments",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 50
+        },
+        {
+            "name": "Headache",
+            "score": 25
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/sour-grapes",
+            "category": "Hybrid",
+            "name": "Grape Stomper",
+            "permalink": "https://mobileapi.leafly.com/hybrid/sour-grapes",
+            "slug": "sour-grapes",
+            "subtitle": null,
+            "symbol": "Gsp"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/bright-moments",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Freeland, WA",
+        "Phoenix, AZ",
+        "Wayne, MI"
+    ],
+    "rating": 4,
+    "relatedStrains": [],
+    "reviewCount": 1,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "bright-moments",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+    "subtitle": null,
+    "symbol": "Brm",
+    "symptoms": [
+        {
+            "name": "Insomnia",
+            "score": 25
+        },
+        {
+            "name": "Muscle Spasms",
+            "score": 25
+        },
+        {
+            "name": "Pain",
+            "score": 25
+        },
+        {
+            "name": "Stress",
+            "score": 25
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

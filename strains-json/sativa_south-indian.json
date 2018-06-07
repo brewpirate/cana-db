@@ -1,1 +1,174 @@
-{"sl_translate":"description,descriptionPlain,category","id":98703,"slug":"south-indian","name":"South Indian Sativa","subtitle":null,"symbol":"Sin","category":"Sativa","description":"\u003cp\u003eSouth Indian refers to\u0026nbsp;the indigenous varieties of cannabis (or \u003ca href=\"http://www.leafly.com/knowledge-center/cannabis-101/the-cannabis-origin-what-is-a-landrace-strain\"\u003elandraces\u003c/a\u003e) that grow natively in this region of the world.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"South Indian refers to\u0026nbsp;the indigenous varieties of cannabis (or landraces) that grow natively in this region of the world.\u0026nbsp;\n","aka":"South India","rating":4.27,"highlightedReviews":[{"id":1411111,"username":"vickkushlover","text":"there r many awesome weed strain found in south India  like idduki gold found in kerela ,Mysore mango in Mysore Karnataka","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png"},{"id":1524680,"username":"hashblazer420","text":"This strain AKA mysore mango is one of the best indigenous strain in the south of India. The peak season is in december and that’s when the supply is the best.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":11,"flavors":[{"name":"Skunk","score":19.642857142857142},{"name":"Mango","score":14.285714285714285},{"name":"Sweet","score":12.5},{"name":"Citrus","score":12.5},{"name":"Earthy","score":5.3571428571428568}],"effects":[{"name":"Relaxed","score":133.92857142857142},{"name":"Happy","score":130.35714285714286},{"name":"Hungry","score":128.57142857142858},{"name":"Euphoric","score":123.21428571428571},{"name":"Uplifted","score":119.64285714285714}],"symptoms":[{"name":"Pain","score":17.857142857142858},{"name":"Depression","score":16.071428571428569},{"name":"Inflammation","score":16.071428571428569},{"name":"Muscle Spasms","score":16.071428571428569},{"name":"Cramps","score":14.285714285714285}],"conditions":[{"name":"Anxiety","score":14.285714285714285},{"name":"Arthritis","score":12.5},{"name":"Asthma","score":12.5},{"name":"Migraines","score":12.5},{"name":"PTSD","score":7.1428571428571423}],"negatives":[{"name":"Dry Mouth","score":119.64285714285714},{"name":"Dry Eyes","score":112.5},{"name":"Anxious","score":112.5},{"name":"Dizzy","score":100},{"name":"Headache","score":1.7857142857142856}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/south-indian-sativa_100x100_ea87.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/501871/b/south-indian-sativa__primary_845c.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/south-indian_100x100_2423.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/279508/b/south-indian__primary_c98b.jpg"}],"photoTotalCount":2,"popularCities":[],"permalink":"https://mobileapi.leafly.com/sativa/south-indian","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.27272727272727/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": "South India",
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Sativa",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 14.285714285714285
+        },
+        {
+            "name": "Arthritis",
+            "score": 12.5
+        },
+        {
+            "name": "Asthma",
+            "score": 12.5
+        },
+        {
+            "name": "Migraines",
+            "score": 12.5
+        },
+        {
+            "name": "PTSD",
+            "score": 7.142857142857142
+        }
+    ],
+    "description": "<p>South Indian refers to&nbsp;the indigenous varieties of cannabis (or <a href=\"http://www.leafly.com/knowledge-center/cannabis-101/the-cannabis-origin-what-is-a-landrace-strain\">landraces</a>) that grow natively in this region of the world.&nbsp;</p>\n",
+    "descriptionPlain": "South Indian refers to&nbsp;the indigenous varieties of cannabis (or landraces) that grow natively in this region of the world.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 133.92857142857142
+        },
+        {
+            "name": "Happy",
+            "score": 130.35714285714286
+        },
+        {
+            "name": "Hungry",
+            "score": 128.57142857142858
+        },
+        {
+            "name": "Euphoric",
+            "score": 123.21428571428571
+        },
+        {
+            "name": "Uplifted",
+            "score": 119.64285714285714
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Skunk",
+            "score": 19.642857142857142
+        },
+        {
+            "name": "Mango",
+            "score": 14.285714285714285
+        },
+        {
+            "name": "Sweet",
+            "score": 12.5
+        },
+        {
+            "name": "Citrus",
+            "score": 12.5
+        },
+        {
+            "name": "Earthy",
+            "score": 5.357142857142857
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png",
+            "id": 1411111,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "there r many awesome weed strain found in south India  like idduki gold found in kerela ,Mysore mango in Mysore Karnataka",
+            "username": "vickkushlover"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1524680,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "This strain AKA mysore mango is one of the best indigenous strain in the south of India. The peak season is in december and that\u2019s when the supply is the best.",
+            "username": "hashblazer420"
+        }
+    ],
+    "id": 98703,
+    "name": "South Indian Sativa",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 119.64285714285714
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 112.5
+        },
+        {
+            "name": "Anxious",
+            "score": 112.5
+        },
+        {
+            "name": "Dizzy",
+            "score": 100
+        },
+        {
+            "name": "Headache",
+            "score": 1.7857142857142856
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/sativa/south-indian",
+    "photoTotalCount": 2,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/501871/b/south-indian-sativa__primary_845c.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/south-indian-sativa_100x100_ea87.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/279508/b/south-indian__primary_c98b.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/south-indian_100x100_2423.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [],
+    "rating": 4.27,
+    "relatedStrains": [],
+    "reviewCount": 11,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "south-indian",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.27272727272727/240",
+    "subtitle": null,
+    "symbol": "Sin",
+    "symptoms": [
+        {
+            "name": "Pain",
+            "score": 17.857142857142858
+        },
+        {
+            "name": "Depression",
+            "score": 16.07142857142857
+        },
+        {
+            "name": "Inflammation",
+            "score": 16.07142857142857
+        },
+        {
+            "name": "Muscle Spasms",
+            "score": 16.07142857142857
+        },
+        {
+            "name": "Cramps",
+            "score": 14.285714285714285
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

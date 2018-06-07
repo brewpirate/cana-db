@@ -1,1 +1,80 @@
-{"sl_translate":"description,descriptionPlain,category","id":501177,"slug":"22","name":"22","subtitle":null,"symbol":"22","category":"Hybrid","description":"\u003cp\u003e22 is a Jack Herer cross from Cali Connection. This extremely pungent fortification of \u003ca href=\"https://www.leafly.com/sativa/jack-herer\"\u003eJack Herer\u003c/a\u003e yields fat buds packed with cannabinoids, making them prime starting material for extractors. Its aroma is a mixture of pine and floral notes with touches of spice on the finish. 22 benefits from a slightly longer flowering time, giving way to an abundant and flavorful yield just on the other side of 10 weeks.\u0026nbsp; \u0026nbsp; \u0026nbsp;\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"22 is a Jack Herer cross from Cali Connection. This extremely pungent fortification of Jack Herer yields fat buds packed with cannabinoids, making them prime starting material for extractors. Its aroma is a mixture of pine and floral notes with touches of spice on the finish. 22 benefits from a slightly longer flowering time, giving way to an abundant and flavorful yield just on the other side of 10 weeks.\u0026nbsp; \u0026nbsp; \u0026nbsp;\u0026nbsp;\n","aka":null,"rating":2.5,"highlightedReviews":[{"id":1580009,"username":"DAREDAN","text":"If you like a piney weed with very mild effects this is the strain for you a definite day time smoke.I personally don\u0027t like it but ideal for first time participants.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/1/240","avatar":"https://ddd33q3967xhi.cloudfront.net/EsB9lXCri57tN17h49dVOnCDkFI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fTBeeQQk0TGeLYj4SjC6Z_old-school-red.png"},{"id":1616376,"username":"Big_Homie254","text":"Walked in Nairobi and found this. Best feeling ever.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":2,"flavors":[{"name":"Skunk","score":33.333333333333329},{"name":"Pine","score":33.333333333333329}],"effects":[{"name":"Talkative","score":33.333333333333329},{"name":"Energetic","score":33.333333333333329},{"name":"Focused","score":33.333333333333329}],"symptoms":[],"conditions":[],"negatives":[],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/22","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/2.5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [],
+    "description": "<p>22 is a Jack Herer cross from Cali Connection. This extremely pungent fortification of <a href=\"https://www.leafly.com/sativa/jack-herer\">Jack Herer</a> yields fat buds packed with cannabinoids, making them prime starting material for extractors. Its aroma is a mixture of pine and floral notes with touches of spice on the finish. 22 benefits from a slightly longer flowering time, giving way to an abundant and flavorful yield just on the other side of 10 weeks.&nbsp; &nbsp; &nbsp;&nbsp;</p>\n",
+    "descriptionPlain": "22 is a Jack Herer cross from Cali Connection. This extremely pungent fortification of Jack Herer yields fat buds packed with cannabinoids, making them prime starting material for extractors. Its aroma is a mixture of pine and floral notes with touches of spice on the finish. 22 benefits from a slightly longer flowering time, giving way to an abundant and flavorful yield just on the other side of 10 weeks.&nbsp; &nbsp; &nbsp;&nbsp;\n",
+    "effects": [
+        {
+            "name": "Talkative",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Energetic",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Focused",
+            "score": 33.33333333333333
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Skunk",
+            "score": 33.33333333333333
+        },
+        {
+            "name": "Pine",
+            "score": 33.33333333333333
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/EsB9lXCri57tN17h49dVOnCDkFI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fTBeeQQk0TGeLYj4SjC6Z_old-school-red.png",
+            "id": 1580009,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/1/240",
+            "text": "If you like a piney weed with very mild effects this is the strain for you a definite day time smoke.I personally don't like it but ideal for first time participants.",
+            "username": "DAREDAN"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png",
+            "id": 1616376,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Walked in Nairobi and found this. Best feeling ever.",
+            "username": "Big_Homie254"
+        }
+    ],
+    "id": 501177,
+    "name": "22",
+    "negatives": [],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/hybrid/22",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 2.5,
+    "relatedStrains": [],
+    "reviewCount": 2,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "22",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/2.5/240",
+    "subtitle": null,
+    "symbol": "22",
+    "symptoms": [],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

@@ -1,1 +1,180 @@
-{"sl_translate":"description,descriptionPlain,category","id":500141,"slug":"bear-dance","name":"Bear Dance","subtitle":null,"symbol":"Bda","category":"Hybrid","description":"\u003cp\u003eBear Dance is a sativa-dominant hybrid created by 303 Seeds. A cross between a Humboldt Snowcap mother (Humboldt Snow x Haze) and a \u003ca href=\"https://www.leafly.com/indica/pure-kush\"\u003ePure Kush\u003c/a\u003e x Uzbeki Hashplant father, this strain delivers a truly funky aroma and flavor that is dominated by lemon zest and herbal undertones. Bear Dance has a tendency to significantly stretch over its 9-11 week flowering period, so make sure you\u0026rsquo;ve got the canopy space.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Bear Dance is a sativa-dominant hybrid created by 303 Seeds. A cross between a Humboldt Snowcap mother (Humboldt Snow x Haze) and a Pure Kush x Uzbeki Hashplant father, this strain delivers a truly funky aroma and flavor that is dominated by lemon zest and herbal undertones. Bear Dance has a tendency to significantly stretch over its 9-11 week flowering period, so make sure you\u0026rsquo;ve got the canopy space.\u0026nbsp;\n","aka":null,"rating":4.82,"highlightedReviews":[{"id":1467798,"username":"gubdabs","text":"Holy crap. I managed to get 32.7% flower from Sweet Leaf and it\u0027s some of the best flower I\u0027ve tried in a long time. Smells good, tastes nice, and the high is phenomenal. Would highly recommend to anyone looking for a \"fun\" hybrid. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png"},{"id":1638073,"username":"Slytherizzy","text":"This is a great strain! Made me super talkative and happy","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":17,"flavors":[{"name":"Earthy","score":29.444444444444446},{"name":"Mint","score":18.333333333333332},{"name":"Nutty","score":12.777777777777779},{"name":"Menthol","score":10},{"name":"Tobacco","score":10}],"effects":[{"name":"Happy","score":85},{"name":"Uplifted","score":80.555555555555557},{"name":"Euphoric","score":62.222222222222221},{"name":"Energetic","score":56.666666666666664},{"name":"Focused","score":56.666666666666664}],"symptoms":[{"name":"Depression","score":29.444444444444446},{"name":"Stress","score":26.666666666666664},{"name":"Fatigue","score":15.555555555555555},{"name":"Pain","score":12.777777777777779},{"name":"Eye Pressure","score":8.3333333333333321}],"conditions":[{"name":"Anxiety","score":18.333333333333332},{"name":"Muscular Dystrophy","score":10},{"name":"ADD/ADHD","score":5.5555555555555554},{"name":"PMS","score":2.7777777777777777},{"name":"PTSD","score":2.7777777777777777}],"negatives":[{"name":"Dry Mouth","score":28.333333333333332},{"name":"Paranoid","score":20},{"name":"Dizzy","score":10},{"name":"Dry Eyes","score":2.7777777777777777}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Denver, CO","Trinidad, CO","Gunnison, CO","Aspen, CO","Boulder, CO","Chicago, IL","Colorado Springs, CO","De Beque, CO","Highland Park, IL","Homewood, IL"],"permalink":"https://mobileapi.leafly.com/hybrid/bear-dance","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.82352941176471/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Pure Kush","subtitle":null,"slug":"pure-kush","category":"Indica","permalink":"https://mobileapi.leafly.com/indica/pure-kush","symbol":"Pur","applink":"leafly://strain/pure-kush"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":77,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 18.333333333333332
+        },
+        {
+            "name": "Muscular Dystrophy",
+            "score": 10
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 5.555555555555555
+        },
+        {
+            "name": "PMS",
+            "score": 2.7777777777777777
+        },
+        {
+            "name": "PTSD",
+            "score": 2.7777777777777777
+        }
+    ],
+    "description": "<p>Bear Dance is a sativa-dominant hybrid created by 303 Seeds. A cross between a Humboldt Snowcap mother (Humboldt Snow x Haze) and a <a href=\"https://www.leafly.com/indica/pure-kush\">Pure Kush</a> x Uzbeki Hashplant father, this strain delivers a truly funky aroma and flavor that is dominated by lemon zest and herbal undertones. Bear Dance has a tendency to significantly stretch over its 9-11 week flowering period, so make sure you&rsquo;ve got the canopy space.&nbsp;</p>\n",
+    "descriptionPlain": "Bear Dance is a sativa-dominant hybrid created by 303 Seeds. A cross between a Humboldt Snowcap mother (Humboldt Snow x Haze) and a Pure Kush x Uzbeki Hashplant father, this strain delivers a truly funky aroma and flavor that is dominated by lemon zest and herbal undertones. Bear Dance has a tendency to significantly stretch over its 9-11 week flowering period, so make sure you&rsquo;ve got the canopy space.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Happy",
+            "score": 85
+        },
+        {
+            "name": "Uplifted",
+            "score": 80.55555555555556
+        },
+        {
+            "name": "Euphoric",
+            "score": 62.22222222222222
+        },
+        {
+            "name": "Energetic",
+            "score": 56.666666666666664
+        },
+        {
+            "name": "Focused",
+            "score": 56.666666666666664
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Earthy",
+            "score": 29.444444444444446
+        },
+        {
+            "name": "Mint",
+            "score": 18.333333333333332
+        },
+        {
+            "name": "Nutty",
+            "score": 12.777777777777779
+        },
+        {
+            "name": "Menthol",
+            "score": 10
+        },
+        {
+            "name": "Tobacco",
+            "score": 10
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 77,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/kJc1LyLawlfeJ9xGeaJMdVhCp9U=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fmstpXGgRuu3rPFHmtQHb_aviator-green.png",
+            "id": 1467798,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Holy crap. I managed to get 32.7% flower from Sweet Leaf and it's some of the best flower I've tried in a long time. Smells good, tastes nice, and the high is phenomenal. Would highly recommend to anyone looking for a \"fun\" hybrid. ",
+            "username": "gubdabs"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png",
+            "id": 1638073,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "This is a great strain! Made me super talkative and happy",
+            "username": "Slytherizzy"
+        }
+    ],
+    "id": 500141,
+    "name": "Bear Dance",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 28.333333333333332
+        },
+        {
+            "name": "Paranoid",
+            "score": 20
+        },
+        {
+            "name": "Dizzy",
+            "score": 10
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 2.7777777777777777
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/pure-kush",
+            "category": "Indica",
+            "name": "Pure Kush",
+            "permalink": "https://mobileapi.leafly.com/indica/pure-kush",
+            "slug": "pure-kush",
+            "subtitle": null,
+            "symbol": "Pur"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/bear-dance",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Denver, CO",
+        "Trinidad, CO",
+        "Gunnison, CO",
+        "Aspen, CO",
+        "Boulder, CO",
+        "Chicago, IL",
+        "Colorado Springs, CO",
+        "De Beque, CO",
+        "Highland Park, IL",
+        "Homewood, IL"
+    ],
+    "rating": 4.82,
+    "relatedStrains": [],
+    "reviewCount": 17,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "bear-dance",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.82352941176471/240",
+    "subtitle": null,
+    "symbol": "Bda",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 29.444444444444446
+        },
+        {
+            "name": "Stress",
+            "score": 26.666666666666664
+        },
+        {
+            "name": "Fatigue",
+            "score": 15.555555555555555
+        },
+        {
+            "name": "Pain",
+            "score": 12.777777777777779
+        },
+        {
+            "name": "Eye Pressure",
+            "score": 8.333333333333332
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

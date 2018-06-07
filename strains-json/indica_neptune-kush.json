@@ -1,1 +1,185 @@
-{"sl_translate":"description,descriptionPlain,category","id":1437,"slug":"neptune-kush","name":"Neptune Kush","subtitle":null,"symbol":"Nk","category":"Indica","description":"\u003cp\u003eNeptune Kush is a classic indica strain, inducing a relaxing sedation optimal for stress and anxiety relief. Due to these powerful effects, moderate elation is often experienced followed by a deep, physical sensation. The plant\u0026rsquo;s dense flowers are sticky when parsed; its smooth delivery to the body and longer high make it a great choice for the experienced consumer.\u003c/p\u003e\n","descriptionPlain":"Neptune Kush is a classic indica strain, inducing a relaxing sedation optimal for stress and anxiety relief. Due to these powerful effects, moderate elation is often experienced followed by a deep, physical sensation. The plant\u0026rsquo;s dense flowers are sticky when parsed; its smooth delivery to the body and longer high make it a great choice for the experienced consumer.\n","aka":null,"rating":4.27,"highlightedReviews":[{"id":1328949,"username":"Anonymous","text":"i died from smokin it","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/1/240","avatar":"https://ddd33q3967xhi.cloudfront.net/XRYqzYK3o4q7eiqa4tRKs0rwo7Q=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fW7fVX5AQLmXra7zAGlYf_wayfarers-red.png"},{"id":1386465,"username":"frankie23","text":"got the giggles","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/XRYqzYK3o4q7eiqa4tRKs0rwo7Q=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fW7fVX5AQLmXra7zAGlYf_wayfarers-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":15,"flavors":[{"name":"Citrus","score":26.25},{"name":"Pine","score":25},{"name":"Honey","score":5},{"name":"Sweet","score":3.75},{"name":"Apple","score":2.5}],"effects":[{"name":"Relaxed","score":35},{"name":"Uplifted","score":32.5},{"name":"Happy","score":32.5},{"name":"Hungry","score":31.25},{"name":"Giggly","score":30}],"symptoms":[{"name":"Stress","score":10},{"name":"Depression","score":8.75},{"name":"Insomnia","score":6.25},{"name":"Pain","score":5},{"name":"Lack of Appetite","score":2.5}],"conditions":[{"name":"Anxiety","score":3.75},{"name":"PMS","score":3.75},{"name":"Migraines","score":2.5},{"name":"Arthritis","score":1.25}],"negatives":[{"name":"Dry Mouth","score":31.25},{"name":"Headache","score":5},{"name":"Dry Eyes","score":3.75},{"name":"Dizzy","score":1.25},{"name":"Paranoid","score":1.25}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/neptune-kush_100x100_e17a.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/514507/b/neptune-kush__primary_e975.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/neptune-kush_100x100_0fb2.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/326350/b/neptune-kush__primary_d5a2.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/neptune-kush_100x100_b378.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/168270/b/neptune-kush_825x550_ab44.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/neptune-kush_100x100_1310.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/168207/b/neptune-kush_825x550_c133.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/Neptune-Kush_100x100_pjhab3bj.wog.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/4941/b/neptune-kush_825x550_zrub3glc.jyu.jpg"}],"photoTotalCount":5,"popularCities":[],"permalink":"https://mobileapi.leafly.com/indica/neptune-kush","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.26666666666667/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 3.75
+        },
+        {
+            "name": "PMS",
+            "score": 3.75
+        },
+        {
+            "name": "Migraines",
+            "score": 2.5
+        },
+        {
+            "name": "Arthritis",
+            "score": 1.25
+        }
+    ],
+    "description": "<p>Neptune Kush is a classic indica strain, inducing a relaxing sedation optimal for stress and anxiety relief. Due to these powerful effects, moderate elation is often experienced followed by a deep, physical sensation. The plant&rsquo;s dense flowers are sticky when parsed; its smooth delivery to the body and longer high make it a great choice for the experienced consumer.</p>\n",
+    "descriptionPlain": "Neptune Kush is a classic indica strain, inducing a relaxing sedation optimal for stress and anxiety relief. Due to these powerful effects, moderate elation is often experienced followed by a deep, physical sensation. The plant&rsquo;s dense flowers are sticky when parsed; its smooth delivery to the body and longer high make it a great choice for the experienced consumer.\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 35
+        },
+        {
+            "name": "Uplifted",
+            "score": 32.5
+        },
+        {
+            "name": "Happy",
+            "score": 32.5
+        },
+        {
+            "name": "Hungry",
+            "score": 31.25
+        },
+        {
+            "name": "Giggly",
+            "score": 30
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Citrus",
+            "score": 26.25
+        },
+        {
+            "name": "Pine",
+            "score": 25
+        },
+        {
+            "name": "Honey",
+            "score": 5
+        },
+        {
+            "name": "Sweet",
+            "score": 3.75
+        },
+        {
+            "name": "Apple",
+            "score": 2.5
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/XRYqzYK3o4q7eiqa4tRKs0rwo7Q=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fW7fVX5AQLmXra7zAGlYf_wayfarers-red.png",
+            "id": 1328949,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/1/240",
+            "text": "i died from smokin it",
+            "username": "Anonymous"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/XRYqzYK3o4q7eiqa4tRKs0rwo7Q=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fW7fVX5AQLmXra7zAGlYf_wayfarers-red.png",
+            "id": 1386465,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "got the giggles",
+            "username": "frankie23"
+        }
+    ],
+    "id": 1437,
+    "name": "Neptune Kush",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 31.25
+        },
+        {
+            "name": "Headache",
+            "score": 5
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 3.75
+        },
+        {
+            "name": "Dizzy",
+            "score": 1.25
+        },
+        {
+            "name": "Paranoid",
+            "score": 1.25
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/indica/neptune-kush",
+    "photoTotalCount": 5,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/514507/b/neptune-kush__primary_e975.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/neptune-kush_100x100_e17a.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/326350/b/neptune-kush__primary_d5a2.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/neptune-kush_100x100_0fb2.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/168270/b/neptune-kush_825x550_ab44.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/neptune-kush_100x100_b378.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/168207/b/neptune-kush_825x550_c133.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/neptune-kush_100x100_1310.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/4941/b/neptune-kush_825x550_zrub3glc.jyu.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/Neptune-Kush_100x100_pjhab3bj.wog.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [],
+    "rating": 4.27,
+    "relatedStrains": [],
+    "reviewCount": 15,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "neptune-kush",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.26666666666667/240",
+    "subtitle": null,
+    "symbol": "Nk",
+    "symptoms": [
+        {
+            "name": "Stress",
+            "score": 10
+        },
+        {
+            "name": "Depression",
+            "score": 8.75
+        },
+        {
+            "name": "Insomnia",
+            "score": 6.25
+        },
+        {
+            "name": "Pain",
+            "score": 5
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 2.5
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

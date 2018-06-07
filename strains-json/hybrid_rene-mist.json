@@ -1,1 +1,172 @@
-{"sl_translate":"description,descriptionPlain,category","id":105551,"slug":"rene-mist","name":"Rene Mist","subtitle":null,"symbol":"Rm","category":"Hybrid","description":"\u003cp\u003eRene Mist is a \u003ca href=\"http://www.leafly.com/explore#!/explore/tags-energetic\"\u003ehigh-energy\u003c/a\u003e \u003ca href=\"http://leafly.com/hybrid\"\u003ehybrid\u003c/a\u003e cross between \u003ca href=\"http://www.leafly.com/hybrid/cannatonic\"\u003eCannatonic\u003c/a\u003e and \u003ca href=\"http://www.leafly.com/sativa/rene\"\u003eRene\u003c/a\u003e. With an \u003ca href=\"http://www.leafly.com/explore#!/explore/flavors-earthy\"\u003eearthy\u003c/a\u003e and \u003ca href=\"http://www.leafly.com/explore#!/explore/flavors-rose\"\u003erose\u003c/a\u003e aroma, Rene Mist delivers an array of functional, \u003ca href=\"http://www.leafly.com/explore#!/explore/tags-focused\"\u003efocused\u003c/a\u003e effects preferred for daytime use. Patients treating \u003ca href=\"http://www.leafly.com/explore#!/explore/symptoms-pain\"\u003epain\u003c/a\u003e, \u003ca href=\"http://www.leafly.com/explore#!/explore/symptoms-muscle-spasms\"\u003emuscle spasms\u003c/a\u003e, \u003ca href=\"http://www.leafly.com/explore#!/explore/symptoms-headaches\"\u003eheadaches\u003c/a\u003e, and \u003ca href=\"http://www.leafly.com/explore#!/explore/symptoms-nausea\"\u003enausea\u003c/a\u003e may choose to medicate with\u0026nbsp;this hybrid if mental clarity is a necessity.\u003c/p\u003e\n","descriptionPlain":"Rene Mist is a high-energy hybrid cross between Cannatonic and Rene. With an earthy and rose aroma, Rene Mist delivers an array of functional, focused effects preferred for daytime use. Patients treating pain, muscle spasms, headaches, and nausea may choose to medicate with\u0026nbsp;this hybrid if mental clarity is a necessity.\n","aka":null,"rating":3.71,"highlightedReviews":[{"id":1416031,"username":"numb3r9","text":"CBD Rene is a strain that has a nice floral and skunky smell. I found it very smooth, uplifting, arousing and relaxing. Great medicinal strain that takes the edge off a stressful day. Not much euphoria and no paranoia.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png"},{"id":1416031,"username":"numb3r9","text":"CBD Rene is a strain that has a nice floral and skunky smell. I found it very smooth, uplifting, arousing and relaxing. Great medicinal strain that takes the edge off a stressful day. Not much euphoria and no paranoia.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":7,"flavors":[{"name":"Flowery","score":11.111111111111111},{"name":"Earthy","score":11.111111111111111},{"name":"Rose","score":8.3333333333333321},{"name":"Pungent","score":5.5555555555555554},{"name":"Diesel","score":2.7777777777777777}],"effects":[{"name":"Happy","score":19.444444444444446},{"name":"Hungry","score":16.666666666666664},{"name":"Relaxed","score":16.666666666666664},{"name":"Uplifted","score":11.111111111111111},{"name":"Aroused","score":8.3333333333333321}],"symptoms":[{"name":"Pain","score":13.888888888888889},{"name":"Stress","score":13.888888888888889},{"name":"Depression","score":8.3333333333333321},{"name":"Lack of Appetite","score":8.3333333333333321},{"name":"Muscle Spasms","score":5.5555555555555554}],"conditions":[{"name":"Anxiety","score":8.3333333333333321},{"name":"Tinnitus","score":5.5555555555555554},{"name":"PTSD","score":2.7777777777777777}],"negatives":[{"name":"Dizzy","score":8.3333333333333321},{"name":"Dry Eyes","score":5.5555555555555554},{"name":"Dry Mouth","score":5.5555555555555554}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/rene-mist_100x100_1818.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/211404/b/rene-mist__primary_513e.jpg"}],"photoTotalCount":1,"popularCities":[],"permalink":"https://mobileapi.leafly.com/hybrid/rene-mist","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/3.71428571428571/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Cannatonic","subtitle":null,"slug":"cannatonic","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/cannatonic","symbol":"Ct","applink":"leafly://strain/cannatonic"},{"name":"Rene","subtitle":null,"slug":"rene","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/rene","symbol":"Ren","applink":"leafly://strain/rene"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Tinnitus",
+            "score": 5.555555555555555
+        },
+        {
+            "name": "PTSD",
+            "score": 2.7777777777777777
+        }
+    ],
+    "description": "<p>Rene Mist is a <a href=\"http://www.leafly.com/explore#!/explore/tags-energetic\">high-energy</a> <a href=\"http://leafly.com/hybrid\">hybrid</a> cross between <a href=\"http://www.leafly.com/hybrid/cannatonic\">Cannatonic</a> and <a href=\"http://www.leafly.com/sativa/rene\">Rene</a>. With an <a href=\"http://www.leafly.com/explore#!/explore/flavors-earthy\">earthy</a> and <a href=\"http://www.leafly.com/explore#!/explore/flavors-rose\">rose</a> aroma, Rene Mist delivers an array of functional, <a href=\"http://www.leafly.com/explore#!/explore/tags-focused\">focused</a> effects preferred for daytime use. Patients treating <a href=\"http://www.leafly.com/explore#!/explore/symptoms-pain\">pain</a>, <a href=\"http://www.leafly.com/explore#!/explore/symptoms-muscle-spasms\">muscle spasms</a>, <a href=\"http://www.leafly.com/explore#!/explore/symptoms-headaches\">headaches</a>, and <a href=\"http://www.leafly.com/explore#!/explore/symptoms-nausea\">nausea</a> may choose to medicate with&nbsp;this hybrid if mental clarity is a necessity.</p>\n",
+    "descriptionPlain": "Rene Mist is a high-energy hybrid cross between Cannatonic and Rene. With an earthy and rose aroma, Rene Mist delivers an array of functional, focused effects preferred for daytime use. Patients treating pain, muscle spasms, headaches, and nausea may choose to medicate with&nbsp;this hybrid if mental clarity is a necessity.\n",
+    "effects": [
+        {
+            "name": "Happy",
+            "score": 19.444444444444446
+        },
+        {
+            "name": "Hungry",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Relaxed",
+            "score": 16.666666666666664
+        },
+        {
+            "name": "Uplifted",
+            "score": 11.11111111111111
+        },
+        {
+            "name": "Aroused",
+            "score": 8.333333333333332
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Flowery",
+            "score": 11.11111111111111
+        },
+        {
+            "name": "Earthy",
+            "score": 11.11111111111111
+        },
+        {
+            "name": "Rose",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Pungent",
+            "score": 5.555555555555555
+        },
+        {
+            "name": "Diesel",
+            "score": 2.7777777777777777
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png",
+            "id": 1416031,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "CBD Rene is a strain that has a nice floral and skunky smell. I found it very smooth, uplifting, arousing and relaxing. Great medicinal strain that takes the edge off a stressful day. Not much euphoria and no paranoia.",
+            "username": "numb3r9"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png",
+            "id": 1416031,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "CBD Rene is a strain that has a nice floral and skunky smell. I found it very smooth, uplifting, arousing and relaxing. Great medicinal strain that takes the edge off a stressful day. Not much euphoria and no paranoia.",
+            "username": "numb3r9"
+        }
+    ],
+    "id": 105551,
+    "name": "Rene Mist",
+    "negatives": [
+        {
+            "name": "Dizzy",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 5.555555555555555
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 5.555555555555555
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/cannatonic",
+            "category": "Hybrid",
+            "name": "Cannatonic",
+            "permalink": "https://mobileapi.leafly.com/hybrid/cannatonic",
+            "slug": "cannatonic",
+            "subtitle": null,
+            "symbol": "Ct"
+        },
+        {
+            "applink": "leafly://strain/rene",
+            "category": "Sativa",
+            "name": "Rene",
+            "permalink": "https://mobileapi.leafly.com/sativa/rene",
+            "slug": "rene",
+            "subtitle": null,
+            "symbol": "Ren"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/rene-mist",
+    "photoTotalCount": 1,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/211404/b/rene-mist__primary_513e.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/rene-mist_100x100_1818.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [],
+    "rating": 3.71,
+    "relatedStrains": [],
+    "reviewCount": 7,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "rene-mist",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/3.71428571428571/240",
+    "subtitle": null,
+    "symbol": "Rm",
+    "symptoms": [
+        {
+            "name": "Pain",
+            "score": 13.88888888888889
+        },
+        {
+            "name": "Stress",
+            "score": 13.88888888888889
+        },
+        {
+            "name": "Depression",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Muscle Spasms",
+            "score": 5.555555555555555
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

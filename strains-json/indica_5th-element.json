@@ -1,1 +1,211 @@
-{"sl_translate":"description,descriptionPlain,category","id":226415,"slug":"5th-element","name":"5th Element","subtitle":null,"symbol":"5e","category":"Indica","description":"\u003cp\u003eElemental Seeds crossed \u003ca href=\"https://www.leafly.com/hybrid/blackberry\"\u003eBlackberry\u003c/a\u003e with All Spark OG to create this impressive strain. 5th Element produces huge yields of sticky buds that feature a powerful earthy, lemony smell and flavor. The effects are quite strong with a good mix of cerebral and body highs.\u003c/p\u003e\n","descriptionPlain":"Elemental Seeds crossed Blackberry with All Spark OG to create this impressive strain. 5th Element produces huge yields of sticky buds that feature a powerful earthy, lemony smell and flavor. The effects are quite strong with a good mix of cerebral and body highs.\n","aka":"Fifth Element","rating":4.56,"highlightedReviews":[{"id":1362380,"username":"highpineapple","text":"Earthy sweet taste, with a smooth draw, this strain had me feeling amazing! \nMelted my muscle tensions and anxiety while not producing any negative mental effects. A heavy hitting relaxer for this one so best use would be in the evening. \n\nOverall, very lovely strain.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/bn1HUI7tvLyn0Fkk1dLIMSCvROQ=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fUxAMHptTuuQR3BjlU2Hc_nerd-purple.png"},{"id":1621157,"username":"paulgmcn","text":"I hope you have your Multi-pass waiting cuss this Super Green bud will have you on board to the nearest  solar system.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/5DsWrIpoq-56NpD59UXAqpoVN88=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fqSLuo6zNRCeIia1paBYS_wayfarers-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":34,"flavors":[{"name":"Pungent","score":34.283625730994146},{"name":"Woody","score":25.950292397660817},{"name":"Earthy","score":23.026315789473678},{"name":"Nutty","score":13.596491228070175},{"name":"Sweet","score":12.499999999999998}],"effects":[{"name":"Relaxed","score":88.669590643274859},{"name":"Sleepy","score":67.324561403508767},{"name":"Euphoric","score":65.643274853801174},{"name":"Happy","score":53.435672514619874},{"name":"Hungry","score":34.283625730994146}],"symptoms":[{"name":"Muscle Spasms","score":29.970760233918128},{"name":"Pain","score":20.39473684210526},{"name":"Stress","score":20.39473684210526},{"name":"Insomnia","score":18.859649122807014},{"name":"Inflammation","score":17.616959064327485}],"conditions":[{"name":"Anxiety","score":17.616959064327485},{"name":"ADD/ADHD","score":10.964912280701753},{"name":"Bipolar Disorder","score":7.8947368421052628},{"name":"Phantom Limb Pain","score":1.3888888888888888}],"negatives":[{"name":"Dry Mouth","score":32.89473684210526},{"name":"Dry Eyes","score":16.374269005847953},{"name":"Paranoid","score":10.964912280701753},{"name":"Headache","score":8.3333333333333321},{"name":"Dizzy","score":2.6315789473684208}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/5th-element_100x100_b06a.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/592362/b/5th-element__primary_10f2.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/5th-element_100x100_3cc0.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/574634/b/5th-element__primary_8711.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/5th-element_100x100_11eb.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/559341/b/5th-element__primary_1f25.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/5th-element_100x100_1d48.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/559213/b/5th-element__primary_9f3e.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/5th-element_100x100_f38a.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/503279/b/5th-element__primary_7a49.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/5th-element_100x100_d2d4.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/497364/b/5th-element__primary_2ea3.jpg"}],"photoTotalCount":6,"popularCities":["Medford, OR","Phoenix, AZ","Tucson, AZ","Avondale, AZ","Everett, WA","McMinnville, OR","Myrtle Creek, OR","Portland, OR","Seaside, OR","Seattle, WA"],"permalink":"https://mobileapi.leafly.com/indica/5th-element","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.55882352941176/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Blackberry","subtitle":null,"slug":"blackberry","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/blackberry","symbol":"Bbr","applink":"leafly://strain/blackberry"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": "Fifth Element",
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 17.616959064327485
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 10.964912280701753
+        },
+        {
+            "name": "Bipolar Disorder",
+            "score": 7.894736842105263
+        },
+        {
+            "name": "Phantom Limb Pain",
+            "score": 1.3888888888888888
+        }
+    ],
+    "description": "<p>Elemental Seeds crossed <a href=\"https://www.leafly.com/hybrid/blackberry\">Blackberry</a> with All Spark OG to create this impressive strain. 5th Element produces huge yields of sticky buds that feature a powerful earthy, lemony smell and flavor. The effects are quite strong with a good mix of cerebral and body highs.</p>\n",
+    "descriptionPlain": "Elemental Seeds crossed Blackberry with All Spark OG to create this impressive strain. 5th Element produces huge yields of sticky buds that feature a powerful earthy, lemony smell and flavor. The effects are quite strong with a good mix of cerebral and body highs.\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 88.66959064327486
+        },
+        {
+            "name": "Sleepy",
+            "score": 67.32456140350877
+        },
+        {
+            "name": "Euphoric",
+            "score": 65.64327485380117
+        },
+        {
+            "name": "Happy",
+            "score": 53.435672514619874
+        },
+        {
+            "name": "Hungry",
+            "score": 34.283625730994146
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Pungent",
+            "score": 34.283625730994146
+        },
+        {
+            "name": "Woody",
+            "score": 25.950292397660817
+        },
+        {
+            "name": "Earthy",
+            "score": 23.026315789473678
+        },
+        {
+            "name": "Nutty",
+            "score": 13.596491228070175
+        },
+        {
+            "name": "Sweet",
+            "score": 12.499999999999998
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/bn1HUI7tvLyn0Fkk1dLIMSCvROQ=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fUxAMHptTuuQR3BjlU2Hc_nerd-purple.png",
+            "id": 1362380,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Earthy sweet taste, with a smooth draw, this strain had me feeling amazing! \nMelted my muscle tensions and anxiety while not producing any negative mental effects. A heavy hitting relaxer for this one so best use would be in the evening. \n\nOverall, very lovely strain.",
+            "username": "highpineapple"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/5DsWrIpoq-56NpD59UXAqpoVN88=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fqSLuo6zNRCeIia1paBYS_wayfarers-purple.png",
+            "id": 1621157,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "I hope you have your Multi-pass waiting cuss this Super Green bud will have you on board to the nearest  solar system.",
+            "username": "paulgmcn"
+        }
+    ],
+    "id": 226415,
+    "name": "5th Element",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 32.89473684210526
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 16.374269005847953
+        },
+        {
+            "name": "Paranoid",
+            "score": 10.964912280701753
+        },
+        {
+            "name": "Headache",
+            "score": 8.333333333333332
+        },
+        {
+            "name": "Dizzy",
+            "score": 2.631578947368421
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/blackberry",
+            "category": "Hybrid",
+            "name": "Blackberry",
+            "permalink": "https://mobileapi.leafly.com/hybrid/blackberry",
+            "slug": "blackberry",
+            "subtitle": null,
+            "symbol": "Bbr"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/indica/5th-element",
+    "photoTotalCount": 6,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/592362/b/5th-element__primary_10f2.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/5th-element_100x100_b06a.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/574634/b/5th-element__primary_8711.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/5th-element_100x100_3cc0.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/559341/b/5th-element__primary_1f25.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/5th-element_100x100_11eb.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/559213/b/5th-element__primary_9f3e.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/5th-element_100x100_1d48.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/503279/b/5th-element__primary_7a49.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/5th-element_100x100_f38a.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/497364/b/5th-element__primary_2ea3.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/5th-element_100x100_d2d4.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Medford, OR",
+        "Phoenix, AZ",
+        "Tucson, AZ",
+        "Avondale, AZ",
+        "Everett, WA",
+        "McMinnville, OR",
+        "Myrtle Creek, OR",
+        "Portland, OR",
+        "Seaside, OR",
+        "Seattle, WA"
+    ],
+    "rating": 4.56,
+    "relatedStrains": [],
+    "reviewCount": 34,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "5th-element",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.55882352941176/240",
+    "subtitle": null,
+    "symbol": "5e",
+    "symptoms": [
+        {
+            "name": "Muscle Spasms",
+            "score": 29.970760233918128
+        },
+        {
+            "name": "Pain",
+            "score": 20.39473684210526
+        },
+        {
+            "name": "Stress",
+            "score": 20.39473684210526
+        },
+        {
+            "name": "Insomnia",
+            "score": 18.859649122807014
+        },
+        {
+            "name": "Inflammation",
+            "score": 17.616959064327485
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

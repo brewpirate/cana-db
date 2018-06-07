@@ -1,1 +1,205 @@
-{"sl_translate":"description,descriptionPlain,category","id":5049,"slug":"green-hornet","name":"Green Hornet","subtitle":null,"symbol":"Gh","category":"Hybrid","description":null,"descriptionPlain":"","aka":null,"rating":4.13,"highlightedReviews":[{"id":1395619,"username":"Anonymous","text":"that shit is fire. Bye bye headache .","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/XRYqzYK3o4q7eiqa4tRKs0rwo7Q=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fW7fVX5AQLmXra7zAGlYf_wayfarers-red.png"},{"id":1596012,"username":"Diane57","text":"I love this Strain ....It gets you in a good mood and get your head and body into one a very nice day  time meds . Again another amazing strain  from the Medicine Wheel Naturel .Amazing crew L","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/GEtHqRvcLixj2OsxtSEc504cRSE=/fit-in/300x300/https%3a%2f%2fs3-us-west-2.amazonaws.com%2fleafly-images%2fuser-profile%2fvjiAEprhRMyG4ul8blLT_DSCN3022.JPG"}],"relatedStrains":[],"articles":[],"reviewCount":45,"flavors":[{"name":"Citrus","score":57.5},{"name":"Tropical","score":50.833333333333336},{"name":"Sweet","score":8.75},{"name":"Woody","score":5.833333333333333},{"name":"Pine","score":5.416666666666667}],"effects":[{"name":"Giggly","score":129.16666666666666},{"name":"Uplifted","score":127.91666666666667},{"name":"Relaxed","score":85.416666666666671},{"name":"Euphoric","score":82.083333333333329},{"name":"Happy","score":75.833333333333329}],"symptoms":[{"name":"Depression","score":128.75},{"name":"Pain","score":114.16666666666667},{"name":"Stress","score":72.083333333333329},{"name":"Insomnia","score":67.083333333333329},{"name":"Fatigue","score":17.083333333333332}],"conditions":[{"name":"Bipolar Disorder","score":51.25},{"name":"PTSD","score":50.416666666666664},{"name":"Anxiety","score":20.833333333333332},{"name":"ADD/ADHD","score":11.666666666666666},{"name":"Hypertension","score":10}],"negatives":[{"name":"Dry Eyes","score":23.333333333333332},{"name":"Dry Mouth","score":16.666666666666668},{"name":"Paranoid","score":12.5},{"name":"Anxious","score":11.25},{"name":"Headache","score":6.25}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/green-hornet_100x100_8437.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/574171/b/green-hornet__primary_c497.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/green-hornet_100x100_10bd.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/496640/b/green-hornet__primary_47e7.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/green-hornet_100x100_83ff.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/487922/b/green-hornet__primary_4386.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/green-hornet_100x100_e1d4.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/472363/b/green-hornet__primary_b10e.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/green-hornet_100x100_abd7.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/465211/b/green-hornet__primary_3d74.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/green-hornet_100x100_b6aa.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/258416/b/green-hornet__primary_396f.jpg"}],"photoTotalCount":9,"popularCities":["Denver, CO","Los Angeles, CA","Colorado Springs, CO","Boulder, CO","Aurora, CO","Trinidad, CO","Glenwood Springs, CO","Salida, CO","San Diego, CA","Vancouver, BC"],"permalink":"https://mobileapi.leafly.com/hybrid/green-hornet","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.13333333333333/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Bipolar Disorder",
+            "score": 51.25
+        },
+        {
+            "name": "PTSD",
+            "score": 50.416666666666664
+        },
+        {
+            "name": "Anxiety",
+            "score": 20.833333333333332
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 11.666666666666666
+        },
+        {
+            "name": "Hypertension",
+            "score": 10
+        }
+    ],
+    "description": null,
+    "descriptionPlain": "",
+    "effects": [
+        {
+            "name": "Giggly",
+            "score": 129.16666666666666
+        },
+        {
+            "name": "Uplifted",
+            "score": 127.91666666666667
+        },
+        {
+            "name": "Relaxed",
+            "score": 85.41666666666667
+        },
+        {
+            "name": "Euphoric",
+            "score": 82.08333333333333
+        },
+        {
+            "name": "Happy",
+            "score": 75.83333333333333
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Citrus",
+            "score": 57.5
+        },
+        {
+            "name": "Tropical",
+            "score": 50.833333333333336
+        },
+        {
+            "name": "Sweet",
+            "score": 8.75
+        },
+        {
+            "name": "Woody",
+            "score": 5.833333333333333
+        },
+        {
+            "name": "Pine",
+            "score": 5.416666666666667
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/XRYqzYK3o4q7eiqa4tRKs0rwo7Q=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fW7fVX5AQLmXra7zAGlYf_wayfarers-red.png",
+            "id": 1395619,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "that shit is fire. Bye bye headache .",
+            "username": "Anonymous"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/GEtHqRvcLixj2OsxtSEc504cRSE=/fit-in/300x300/https%3a%2f%2fs3-us-west-2.amazonaws.com%2fleafly-images%2fuser-profile%2fvjiAEprhRMyG4ul8blLT_DSCN3022.JPG",
+            "id": 1596012,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "I love this Strain ....It gets you in a good mood and get your head and body into one a very nice day  time meds . Again another amazing strain  from the Medicine Wheel Naturel .Amazing crew L",
+            "username": "Diane57"
+        }
+    ],
+    "id": 5049,
+    "name": "Green Hornet",
+    "negatives": [
+        {
+            "name": "Dry Eyes",
+            "score": 23.333333333333332
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 16.666666666666668
+        },
+        {
+            "name": "Paranoid",
+            "score": 12.5
+        },
+        {
+            "name": "Anxious",
+            "score": 11.25
+        },
+        {
+            "name": "Headache",
+            "score": 6.25
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/hybrid/green-hornet",
+    "photoTotalCount": 9,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/574171/b/green-hornet__primary_c497.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/green-hornet_100x100_8437.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/496640/b/green-hornet__primary_47e7.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/green-hornet_100x100_10bd.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/487922/b/green-hornet__primary_4386.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/green-hornet_100x100_83ff.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/472363/b/green-hornet__primary_b10e.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/green-hornet_100x100_e1d4.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/465211/b/green-hornet__primary_3d74.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/green-hornet_100x100_abd7.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/258416/b/green-hornet__primary_396f.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/green-hornet_100x100_b6aa.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Denver, CO",
+        "Los Angeles, CA",
+        "Colorado Springs, CO",
+        "Boulder, CO",
+        "Aurora, CO",
+        "Trinidad, CO",
+        "Glenwood Springs, CO",
+        "Salida, CO",
+        "San Diego, CA",
+        "Vancouver, BC"
+    ],
+    "rating": 4.13,
+    "relatedStrains": [],
+    "reviewCount": 45,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "green-hornet",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.13333333333333/240",
+    "subtitle": null,
+    "symbol": "Gh",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 128.75
+        },
+        {
+            "name": "Pain",
+            "score": 114.16666666666667
+        },
+        {
+            "name": "Stress",
+            "score": 72.08333333333333
+        },
+        {
+            "name": "Insomnia",
+            "score": 67.08333333333333
+        },
+        {
+            "name": "Fatigue",
+            "score": 17.083333333333332
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

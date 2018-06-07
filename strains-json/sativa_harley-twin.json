@@ -1,1 +1,108 @@
-{"sl_translate":"description,descriptionPlain,category","id":254641,"slug":"harley-twin","name":"Harley Twin","subtitle":null,"symbol":"Htw","category":"Sativa","description":"\u003cp\u003eHarley Twin is a \u003ca href=\"https://www.leafly.com/news/cannabis-101/whats-the-deal-with-these-high-cbd-strains\"\u003eCBD\u003c/a\u003e-rich, sativa-dominant strain that inherits genetics from \u003ca href=\"https://www.leafly.com/hybrid/harle-tsu\"\u003eHarle-Tsu\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/sativa/harlequin\"\u003eHarlequin\u003c/a\u003e. This wellness oriented combination has an alert buzz that is maintained by its balanced THC/CBD ratio, encompassing the mind in soft haze while gently stimulating the body. These effects coupled with the natural anti-inflammatory qualities inherent to Harley Twin can help turn down the dial on minor physical pain, stress, and nausea. Anticipate a grassy aroma with a hint of cherry sweetness after combustion/vaporization.\u003c/p\u003e\n\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Harley Twin is a CBD-rich, sativa-dominant strain that inherits genetics from Harle-Tsu and Harlequin. This wellness oriented combination has an alert buzz that is maintained by its balanced THC/CBD ratio, encompassing the mind in soft haze while gently stimulating the body. These effects coupled with the natural anti-inflammatory qualities inherent to Harley Twin can help turn down the dial on minor physical pain, stress, and nausea. Anticipate a grassy aroma with a hint of cherry sweetness after combustion/vaporization.\n\n\u0026nbsp;\n","aka":null,"rating":5,"highlightedReviews":[{"id":1376003,"username":"surfingramps","text":"rocked me hard. Strong sativa \npain gone\nstress gone","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png"},{"id":1376003,"username":"surfingramps","text":"rocked me hard. Strong sativa \npain gone\nstress gone","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":1,"flavors":[{"name":"Sweet","score":3.5714285714285712}],"effects":[{"name":"Uplifted","score":3.5714285714285712},{"name":"Creative","score":3.5714285714285712},{"name":"Energetic","score":3.5714285714285712},{"name":"Euphoric","score":3.5714285714285712},{"name":"Relaxed","score":3.5714285714285712}],"symptoms":[],"conditions":[],"negatives":[{"name":"Dry Mouth","score":3.5714285714285712}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/sativa/harley-twin","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Harlequin","subtitle":null,"slug":"harlequin","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/harlequin","symbol":"Har","applink":"leafly://strain/harlequin"},{"name":"Harle-Tsu","subtitle":null,"slug":"harle-tsu","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/harle-tsu","symbol":"Hts","applink":"leafly://strain/harle-tsu"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Sativa",
+    "conditions": [],
+    "description": "<p>Harley Twin is a <a href=\"https://www.leafly.com/news/cannabis-101/whats-the-deal-with-these-high-cbd-strains\">CBD</a>-rich, sativa-dominant strain that inherits genetics from <a href=\"https://www.leafly.com/hybrid/harle-tsu\">Harle-Tsu</a> and <a href=\"https://www.leafly.com/sativa/harlequin\">Harlequin</a>. This wellness oriented combination has an alert buzz that is maintained by its balanced THC/CBD ratio, encompassing the mind in soft haze while gently stimulating the body. These effects coupled with the natural anti-inflammatory qualities inherent to Harley Twin can help turn down the dial on minor physical pain, stress, and nausea. Anticipate a grassy aroma with a hint of cherry sweetness after combustion/vaporization.</p>\n\n<p>&nbsp;</p>\n",
+    "descriptionPlain": "Harley Twin is a CBD-rich, sativa-dominant strain that inherits genetics from Harle-Tsu and Harlequin. This wellness oriented combination has an alert buzz that is maintained by its balanced THC/CBD ratio, encompassing the mind in soft haze while gently stimulating the body. These effects coupled with the natural anti-inflammatory qualities inherent to Harley Twin can help turn down the dial on minor physical pain, stress, and nausea. Anticipate a grassy aroma with a hint of cherry sweetness after combustion/vaporization.\n\n&nbsp;\n",
+    "effects": [
+        {
+            "name": "Uplifted",
+            "score": 3.571428571428571
+        },
+        {
+            "name": "Creative",
+            "score": 3.571428571428571
+        },
+        {
+            "name": "Energetic",
+            "score": 3.571428571428571
+        },
+        {
+            "name": "Euphoric",
+            "score": 3.571428571428571
+        },
+        {
+            "name": "Relaxed",
+            "score": 3.571428571428571
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Sweet",
+            "score": 3.571428571428571
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png",
+            "id": 1376003,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "rocked me hard. Strong sativa \npain gone\nstress gone",
+            "username": "surfingramps"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/ZtQxS6XT_MjOwMadRkRsU9ZNU-I=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fX2q7eTOS7WxMAnwrLSBM_wide-brim-green.png",
+            "id": 1376003,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "rocked me hard. Strong sativa \npain gone\nstress gone",
+            "username": "surfingramps"
+        }
+    ],
+    "id": 254641,
+    "name": "Harley Twin",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 3.571428571428571
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/harlequin",
+            "category": "Sativa",
+            "name": "Harlequin",
+            "permalink": "https://mobileapi.leafly.com/sativa/harlequin",
+            "slug": "harlequin",
+            "subtitle": null,
+            "symbol": "Har"
+        },
+        {
+            "applink": "leafly://strain/harle-tsu",
+            "category": "Hybrid",
+            "name": "Harle-Tsu",
+            "permalink": "https://mobileapi.leafly.com/hybrid/harle-tsu",
+            "slug": "harle-tsu",
+            "subtitle": null,
+            "symbol": "Hts"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/sativa/harley-twin",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 1,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "harley-twin",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Htw",
+    "symptoms": [],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

@@ -1,1 +1,148 @@
-{"sl_translate":"description,descriptionPlain,category","id":251185,"slug":"purple-pinecone","name":"Purple Pinecone","subtitle":null,"symbol":"Ppi","category":"Indica","description":"\u003cp\u003ePurple Pinecone by Sagarmatha Seeds is a dense indica known for its heavy effects and generous \u003ca href=\"https://www.leafly.com/news/cannabis-101/what-are-trichomes-on-cannabis\"\u003etrichome\u003c/a\u003e production. Though its genetics remain unknown, this deep purple strain reeks of pine and earth, hinting at its indica parentage. The weighted effects lay into the body, offering a classic stony sensation that locks you to the couch. This powerful relaxation makes Purple Pinecone ideal for consumers seeking relief from insomnia, stress, and pain.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Purple Pinecone by Sagarmatha Seeds is a dense indica known for its heavy effects and generous trichome production. Though its genetics remain unknown, this deep purple strain reeks of pine and earth, hinting at its indica parentage. The weighted effects lay into the body, offering a classic stony sensation that locks you to the couch. This powerful relaxation makes Purple Pinecone ideal for consumers seeking relief from insomnia, stress, and pain.\u0026nbsp;\n","aka":null,"rating":4.5,"highlightedReviews":[{"id":1376767,"username":"thadnoll","text":"Absolutely the best sleep aid EVER!  Beautiful, stony, happy high, followed by deep, restful sleep.  Great dreams too. ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/8AEOnyObscLzPEdm7ERjYOUx4RU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fP4YFTRznSDCEVP7Fycg7_nerd-red.png"},{"id":1577837,"username":"sm0kr","text":"If you are on a budget it will do. Unique taste (not so pleasant), pleasant body and mind effects.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/3/240","avatar":"https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":12,"flavors":[{"name":"Diesel","score":50},{"name":"Citrus","score":50},{"name":"Pineapple","score":50},{"name":"Earthy","score":50}],"effects":[{"name":"Focused","score":89.285714285714292},{"name":"Happy","score":76.785714285714292},{"name":"Euphoric","score":66.071428571428569},{"name":"Relaxed","score":66.071428571428569},{"name":"Tingly","score":51.785714285714285}],"symptoms":[{"name":"Stress","score":62.5},{"name":"Insomnia","score":12.5},{"name":"Lack of Appetite","score":12.5}],"conditions":[{"name":"Anxiety","score":50},{"name":"Migraines","score":50},{"name":"PTSD","score":50}],"negatives":[{"name":"Anxious","score":12.5},{"name":"Dry Eyes","score":1.7857142857142856},{"name":"Dry Mouth","score":1.7857142857142856}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/purple-pinecone_100x100_347a.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/585708/b/purple-pinecone__primary_58db.jpg"}],"photoTotalCount":1,"popularCities":["Spokane, WA","Burnaby, BC","Denver, CO","Trinidad, CO","Vancouver, BC","WA"],"permalink":"https://mobileapi.leafly.com/indica/purple-pinecone","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 50
+        },
+        {
+            "name": "Migraines",
+            "score": 50
+        },
+        {
+            "name": "PTSD",
+            "score": 50
+        }
+    ],
+    "description": "<p>Purple Pinecone by Sagarmatha Seeds is a dense indica known for its heavy effects and generous <a href=\"https://www.leafly.com/news/cannabis-101/what-are-trichomes-on-cannabis\">trichome</a> production. Though its genetics remain unknown, this deep purple strain reeks of pine and earth, hinting at its indica parentage. The weighted effects lay into the body, offering a classic stony sensation that locks you to the couch. This powerful relaxation makes Purple Pinecone ideal for consumers seeking relief from insomnia, stress, and pain.&nbsp;</p>\n",
+    "descriptionPlain": "Purple Pinecone by Sagarmatha Seeds is a dense indica known for its heavy effects and generous trichome production. Though its genetics remain unknown, this deep purple strain reeks of pine and earth, hinting at its indica parentage. The weighted effects lay into the body, offering a classic stony sensation that locks you to the couch. This powerful relaxation makes Purple Pinecone ideal for consumers seeking relief from insomnia, stress, and pain.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Focused",
+            "score": 89.28571428571429
+        },
+        {
+            "name": "Happy",
+            "score": 76.78571428571429
+        },
+        {
+            "name": "Euphoric",
+            "score": 66.07142857142857
+        },
+        {
+            "name": "Relaxed",
+            "score": 66.07142857142857
+        },
+        {
+            "name": "Tingly",
+            "score": 51.785714285714285
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Diesel",
+            "score": 50
+        },
+        {
+            "name": "Citrus",
+            "score": 50
+        },
+        {
+            "name": "Pineapple",
+            "score": 50
+        },
+        {
+            "name": "Earthy",
+            "score": 50
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/8AEOnyObscLzPEdm7ERjYOUx4RU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fP4YFTRznSDCEVP7Fycg7_nerd-red.png",
+            "id": 1376767,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Absolutely the best sleep aid EVER!  Beautiful, stony, happy high, followed by deep, restful sleep.  Great dreams too. ",
+            "username": "thadnoll"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png",
+            "id": 1577837,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/3/240",
+            "text": "If you are on a budget it will do. Unique taste (not so pleasant), pleasant body and mind effects.",
+            "username": "sm0kr"
+        }
+    ],
+    "id": 251185,
+    "name": "Purple Pinecone",
+    "negatives": [
+        {
+            "name": "Anxious",
+            "score": 12.5
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 1.7857142857142856
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 1.7857142857142856
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/indica/purple-pinecone",
+    "photoTotalCount": 1,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/585708/b/purple-pinecone__primary_58db.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/purple-pinecone_100x100_347a.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Spokane, WA",
+        "Burnaby, BC",
+        "Denver, CO",
+        "Trinidad, CO",
+        "Vancouver, BC",
+        "WA"
+    ],
+    "rating": 4.5,
+    "relatedStrains": [],
+    "reviewCount": 12,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "purple-pinecone",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.5/240",
+    "subtitle": null,
+    "symbol": "Ppi",
+    "symptoms": [
+        {
+            "name": "Stress",
+            "score": 62.5
+        },
+        {
+            "name": "Insomnia",
+            "score": 12.5
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 12.5
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

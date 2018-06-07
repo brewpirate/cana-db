@@ -1,1 +1,75 @@
-{"sl_translate":"description,descriptionPlain,category","id":500385,"slug":"blizzard-bush","name":"Blizzard Bush","subtitle":null,"symbol":"Bzz","category":"Hybrid","description":"\u003cp\u003eBlizzard Bush by Greenpoint Seeds is a resinous hybrid cross of Pura Vida and \u003ca href=\"https://www.leafly.com/hybrid/stardawg\"\u003eStardawg\u003c/a\u003e. This beautiful strain\u0026rsquo;s copious coating of resin gives the plant\u0026rsquo;s lush foliage a diamond-like shimmer. It offers larger-than-average yields with creamy marshmallow aromas smeared with fuel and, oddly enough, cured meats. Enjoy Blizzard Bush\u0026rsquo;s mood elevation and stress relief throughout the day to combat lethargy and depression.\u0026nbsp;\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Blizzard Bush by Greenpoint Seeds is a resinous hybrid cross of Pura Vida and Stardawg. This beautiful strain\u0026rsquo;s copious coating of resin gives the plant\u0026rsquo;s lush foliage a diamond-like shimmer. It offers larger-than-average yields with creamy marshmallow aromas smeared with fuel and, oddly enough, cured meats. Enjoy Blizzard Bush\u0026rsquo;s mood elevation and stress relief throughout the day to combat lethargy and depression.\u0026nbsp;\u0026nbsp;\n","aka":null,"rating":0,"highlightedReviews":[],"relatedStrains":[],"articles":[],"reviewCount":0,"flavors":[],"effects":[{"name":"Hungry","score":100},{"name":"Relaxed","score":100}],"symptoms":[],"conditions":[],"negatives":[{"name":"Dry Eyes","score":100},{"name":"Dry Mouth","score":100}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Denver, CO","Phoenix, AZ","Scottsdale, AZ"],"permalink":"https://mobileapi.leafly.com/hybrid/blizzard-bush","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/0/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Stardawg","subtitle":null,"slug":"stardawg","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/stardawg","symbol":"Sta","applink":"leafly://strain/stardawg"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [],
+    "description": "<p>Blizzard Bush by Greenpoint Seeds is a resinous hybrid cross of Pura Vida and <a href=\"https://www.leafly.com/hybrid/stardawg\">Stardawg</a>. This beautiful strain&rsquo;s copious coating of resin gives the plant&rsquo;s lush foliage a diamond-like shimmer. It offers larger-than-average yields with creamy marshmallow aromas smeared with fuel and, oddly enough, cured meats. Enjoy Blizzard Bush&rsquo;s mood elevation and stress relief throughout the day to combat lethargy and depression.&nbsp;&nbsp;</p>\n",
+    "descriptionPlain": "Blizzard Bush by Greenpoint Seeds is a resinous hybrid cross of Pura Vida and Stardawg. This beautiful strain&rsquo;s copious coating of resin gives the plant&rsquo;s lush foliage a diamond-like shimmer. It offers larger-than-average yields with creamy marshmallow aromas smeared with fuel and, oddly enough, cured meats. Enjoy Blizzard Bush&rsquo;s mood elevation and stress relief throughout the day to combat lethargy and depression.&nbsp;&nbsp;\n",
+    "effects": [
+        {
+            "name": "Hungry",
+            "score": 100
+        },
+        {
+            "name": "Relaxed",
+            "score": 100
+        }
+    ],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [],
+    "id": 500385,
+    "name": "Blizzard Bush",
+    "negatives": [
+        {
+            "name": "Dry Eyes",
+            "score": 100
+        },
+        {
+            "name": "Dry Mouth",
+            "score": 100
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/stardawg",
+            "category": "Hybrid",
+            "name": "Stardawg",
+            "permalink": "https://mobileapi.leafly.com/hybrid/stardawg",
+            "slug": "stardawg",
+            "subtitle": null,
+            "symbol": "Sta"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/blizzard-bush",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Denver, CO",
+        "Phoenix, AZ",
+        "Scottsdale, AZ"
+    ],
+    "rating": 0,
+    "relatedStrains": [],
+    "reviewCount": 0,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "blizzard-bush",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/0/240",
+    "subtitle": null,
+    "symbol": "Bzz",
+    "symptoms": [],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

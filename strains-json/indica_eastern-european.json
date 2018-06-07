@@ -1,1 +1,139 @@
-{"sl_translate":"description,descriptionPlain,category","id":101871,"slug":"eastern-european","name":"Eastern European","subtitle":null,"symbol":"Eeu","category":"Indica","description":"\u003cp\u003eEastern European refers to any strain that grows natively in this\u0026nbsp;region of the world. These indigenous vareities (also called \u003ca href=\"http://www.leafly.com/knowledge-center/cannabis-101/the-cannabis-origin-what-is-a-landrace-strain\"\u003elandraces\u003c/a\u003e) tend to be \u003ca href=\"http://leafly.com/indica\"\u003eindica\u003c/a\u003e in structure and effect due to Eastern Europe\u0026#39;s latitude and climate.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Eastern European refers to any strain that grows natively in this\u0026nbsp;region of the world. These indigenous vareities (also called landraces) tend to be indica in structure and effect due to Eastern Europe\u0026#39;s latitude and climate.\u0026nbsp;\n","aka":"Eastern Europe","rating":3.67,"highlightedReviews":[{"id":1265353,"username":"Bleujay","text":"A good clean landrace in Albania will have a skunky smell and you will rapidly feel the indica affects!\n","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png"},{"id":1562485,"username":"erlindh","text":"Not your typical Indica strain. I tried this strain a couple years back and all I can remember is that i couldn\u0027t stop laughing. If you\u0027re looking for somethong to just kick back and chill this might not be a good option for you. It has a strong odor smell as well.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/3/240","avatar":"https://ddd33q3967xhi.cloudfront.net/8AEOnyObscLzPEdm7ERjYOUx4RU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fP4YFTRznSDCEVP7Fycg7_nerd-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":3,"flavors":[{"name":"Earthy","score":75},{"name":"Woody","score":25},{"name":"Pine","score":25}],"effects":[{"name":"Energetic","score":50},{"name":"Euphoric","score":50},{"name":"Giggly","score":50},{"name":"Sleepy","score":25},{"name":"Happy","score":25}],"symptoms":[{"name":"Lack of Appetite","score":75},{"name":"Fatigue","score":25},{"name":"Headaches","score":25},{"name":"Insomnia","score":25},{"name":"Muscle Spasms","score":25}],"conditions":[{"name":"Anxiety","score":75},{"name":"Cancer","score":25},{"name":"Fibromyalgia","score":25},{"name":"Gastrointestinal Disorder","score":25},{"name":"Glaucoma","score":25}],"negatives":[{"name":"Dizzy","score":25}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":[],"permalink":"https://mobileapi.leafly.com/indica/eastern-european","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/3.66666666666667/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": "Eastern Europe",
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 75
+        },
+        {
+            "name": "Cancer",
+            "score": 25
+        },
+        {
+            "name": "Fibromyalgia",
+            "score": 25
+        },
+        {
+            "name": "Gastrointestinal Disorder",
+            "score": 25
+        },
+        {
+            "name": "Glaucoma",
+            "score": 25
+        }
+    ],
+    "description": "<p>Eastern European refers to any strain that grows natively in this&nbsp;region of the world. These indigenous vareities (also called <a href=\"http://www.leafly.com/knowledge-center/cannabis-101/the-cannabis-origin-what-is-a-landrace-strain\">landraces</a>) tend to be <a href=\"http://leafly.com/indica\">indica</a> in structure and effect due to Eastern Europe&#39;s latitude and climate.&nbsp;</p>\n",
+    "descriptionPlain": "Eastern European refers to any strain that grows natively in this&nbsp;region of the world. These indigenous vareities (also called landraces) tend to be indica in structure and effect due to Eastern Europe&#39;s latitude and climate.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Energetic",
+            "score": 50
+        },
+        {
+            "name": "Euphoric",
+            "score": 50
+        },
+        {
+            "name": "Giggly",
+            "score": 50
+        },
+        {
+            "name": "Sleepy",
+            "score": 25
+        },
+        {
+            "name": "Happy",
+            "score": 25
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Earthy",
+            "score": 75
+        },
+        {
+            "name": "Woody",
+            "score": 25
+        },
+        {
+            "name": "Pine",
+            "score": 25
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/LN9qqi4LLaHMKnh02esy-mIM7HY=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2f81c50UjRtmwRXtUVVQKw_aviator-purple.png",
+            "id": 1265353,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "A good clean landrace in Albania will have a skunky smell and you will rapidly feel the indica affects!\n",
+            "username": "Bleujay"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/8AEOnyObscLzPEdm7ERjYOUx4RU=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fP4YFTRznSDCEVP7Fycg7_nerd-red.png",
+            "id": 1562485,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/3/240",
+            "text": "Not your typical Indica strain. I tried this strain a couple years back and all I can remember is that i couldn't stop laughing. If you're looking for somethong to just kick back and chill this might not be a good option for you. It has a strong odor smell as well.",
+            "username": "erlindh"
+        }
+    ],
+    "id": 101871,
+    "name": "Eastern European",
+    "negatives": [
+        {
+            "name": "Dizzy",
+            "score": 25
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/indica/eastern-european",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [],
+    "rating": 3.67,
+    "relatedStrains": [],
+    "reviewCount": 3,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "eastern-european",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/3.66666666666667/240",
+    "subtitle": null,
+    "symbol": "Eeu",
+    "symptoms": [
+        {
+            "name": "Lack of Appetite",
+            "score": 75
+        },
+        {
+            "name": "Fatigue",
+            "score": 25
+        },
+        {
+            "name": "Headaches",
+            "score": 25
+        },
+        {
+            "name": "Insomnia",
+            "score": 25
+        },
+        {
+            "name": "Muscle Spasms",
+            "score": 25
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

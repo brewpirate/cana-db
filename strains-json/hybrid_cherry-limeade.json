@@ -1,1 +1,197 @@
-{"sl_translate":"description,descriptionPlain,category","id":65590,"slug":"cherry-limeade","name":"Cherry Limeade","subtitle":null,"symbol":"Chl","category":"Hybrid","description":"\u003cp class=\"p1\"\u003eCherry Limeade is a hybrid strain that competed in the \u003ca href=\"http://www.leafly.com/news/events/come-find-leafly-at-the-los-angeles-cannabis-cup\"\u003e\u003cspan class=\"s1\"\u003e2014 L.A. Cannabis Cup\u003c/span\u003e\u003c/a\u003e.\u003c/p\u003e\n","descriptionPlain":"Cherry Limeade is a hybrid strain that competed in the 2014 L.A. Cannabis Cup.\n","aka":null,"rating":4.21,"highlightedReviews":[{"id":1380393,"username":"hi2","text":"Very nice.   Erases a bad mood ... quickly.  You feel positive about being alive.  I would buy this again.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png"},{"id":1613101,"username":"savvy2","text":"Perfect for wake and bake👽 definitely is a great weed to be productive on✨","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":34,"flavors":[{"name":"Lime","score":25.78125},{"name":"Berry","score":19.53125},{"name":"Sweet","score":18.75},{"name":"Citrus","score":17.96875},{"name":"Tropical","score":14.0625}],"effects":[{"name":"Relaxed","score":104.16666666666666},{"name":"Euphoric","score":59.895833333333329},{"name":"Happy","score":54.427083333333329},{"name":"Focused","score":48.958333333333329},{"name":"Sleepy","score":40.364583333333329}],"symptoms":[{"name":"Depression","score":41.927083333333329},{"name":"Pain","score":41.927083333333329},{"name":"Inflammation","score":40.364583333333329},{"name":"Nausea","score":36.458333333333329},{"name":"Stress","score":21.875}],"conditions":[{"name":"Anxiety","score":14.0625},{"name":"ADD/ADHD","score":6.25},{"name":"PMS","score":6.25},{"name":"Arthritis","score":0.78125},{"name":"Asthma","score":0.78125}],"negatives":[{"name":"Dry Mouth","score":42.708333333333329},{"name":"Dry Eyes","score":34.114583333333329},{"name":"Headache","score":0.78125}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-limeade_100x100_28f8.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/493198/b/cherry-limeade__primary_6aae.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-limeade_100x100_a10a.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/310156/b/cherry-limeade__primary_21cd.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-limeade_100x100_d456.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/296504/b/cherry-limeade__primary_2801.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-limeade_100x100_7597.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/266572/b/cherry-limeade__primary_0d39.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-limeade_100x100_daff.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/243628/b/cherry-limeade__primary_d024.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-limeade_100x100_c842.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/180173/b/cherry-limeade_825x550_5752.jpg"}],"photoTotalCount":7,"popularCities":["Denver, CO","Las Vegas, NV","Carson City, NV","Seattle, WA","Vancouver, BC","Boulder, CO","Brampton, ON","Calgary, AB","Chicago, IL","Dundee, OR"],"permalink":"https://mobileapi.leafly.com/hybrid/cherry-limeade","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.20588235294118/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 14.0625
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 6.25
+        },
+        {
+            "name": "PMS",
+            "score": 6.25
+        },
+        {
+            "name": "Arthritis",
+            "score": 0.78125
+        },
+        {
+            "name": "Asthma",
+            "score": 0.78125
+        }
+    ],
+    "description": "<p class=\"p1\">Cherry Limeade is a hybrid strain that competed in the <a href=\"http://www.leafly.com/news/events/come-find-leafly-at-the-los-angeles-cannabis-cup\"><span class=\"s1\">2014 L.A. Cannabis Cup</span></a>.</p>\n",
+    "descriptionPlain": "Cherry Limeade is a hybrid strain that competed in the 2014 L.A. Cannabis Cup.\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 104.16666666666666
+        },
+        {
+            "name": "Euphoric",
+            "score": 59.89583333333333
+        },
+        {
+            "name": "Happy",
+            "score": 54.42708333333333
+        },
+        {
+            "name": "Focused",
+            "score": 48.95833333333333
+        },
+        {
+            "name": "Sleepy",
+            "score": 40.36458333333333
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Lime",
+            "score": 25.78125
+        },
+        {
+            "name": "Berry",
+            "score": 19.53125
+        },
+        {
+            "name": "Sweet",
+            "score": 18.75
+        },
+        {
+            "name": "Citrus",
+            "score": 17.96875
+        },
+        {
+            "name": "Tropical",
+            "score": 14.0625
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png",
+            "id": 1380393,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Very nice.   Erases a bad mood ... quickly.  You feel positive about being alive.  I would buy this again.",
+            "username": "hi2"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1613101,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Perfect for wake and bake\ud83d\udc7d definitely is a great weed to be productive on\u2728",
+            "username": "savvy2"
+        }
+    ],
+    "id": 65590,
+    "name": "Cherry Limeade",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 42.70833333333333
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 34.11458333333333
+        },
+        {
+            "name": "Headache",
+            "score": 0.78125
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/hybrid/cherry-limeade",
+    "photoTotalCount": 7,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/493198/b/cherry-limeade__primary_6aae.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-limeade_100x100_28f8.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/310156/b/cherry-limeade__primary_21cd.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-limeade_100x100_a10a.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/296504/b/cherry-limeade__primary_2801.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-limeade_100x100_d456.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/266572/b/cherry-limeade__primary_0d39.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-limeade_100x100_7597.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/243628/b/cherry-limeade__primary_d024.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-limeade_100x100_daff.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/180173/b/cherry-limeade_825x550_5752.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/cherry-limeade_100x100_c842.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Denver, CO",
+        "Las Vegas, NV",
+        "Carson City, NV",
+        "Seattle, WA",
+        "Vancouver, BC",
+        "Boulder, CO",
+        "Brampton, ON",
+        "Calgary, AB",
+        "Chicago, IL",
+        "Dundee, OR"
+    ],
+    "rating": 4.21,
+    "relatedStrains": [],
+    "reviewCount": 34,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "cherry-limeade",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.20588235294118/240",
+    "subtitle": null,
+    "symbol": "Chl",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 41.92708333333333
+        },
+        {
+            "name": "Pain",
+            "score": 41.92708333333333
+        },
+        {
+            "name": "Inflammation",
+            "score": 40.36458333333333
+        },
+        {
+            "name": "Nausea",
+            "score": 36.45833333333333
+        },
+        {
+            "name": "Stress",
+            "score": 21.875
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

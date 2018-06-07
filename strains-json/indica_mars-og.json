@@ -1,1 +1,203 @@
-{"sl_translate":"description,descriptionPlain,category","id":886,"slug":"mars-og","name":"Mars OG","subtitle":null,"symbol":"Mar","category":"Indica","description":"\u003cp\u003eMars OG is one spacey indica. Coming out of the California Bay Area, Mars OG has been given its planetary name in reference to its growing conditions. Planetary strains refer to strains which began indoors and were moved outdoors to complete the grow cycle in more natural conditions. The end result is a dense bud with a high flower-to-leaf ratio that produces a heavy-handed body buzz. With a hearty, thick taste and pungent smell, Mars OG will take away your pains and easily put you to sleep.\u003c/p\u003e\n","descriptionPlain":"Mars OG is one spacey indica. Coming out of the California Bay Area, Mars OG has been given its planetary name in reference to its growing conditions. Planetary strains refer to strains which began indoors and were moved outdoors to complete the grow cycle in more natural conditions. The end result is a dense bud with a high flower-to-leaf ratio that produces a heavy-handed body buzz. With a hearty, thick taste and pungent smell, Mars OG will take away your pains and easily put you to sleep.\n","aka":null,"rating":4.39,"highlightedReviews":[{"id":1415608,"username":"gurren_lynx","text":"Such a fun strain! But don\u0027t plan to do anything important on it. Within 10 minutes of smoking this strain i had lost my keys, phone and shoes. It was just a chain of losing things and searching for them. Once I was able to locate everything I settled into a relaxing and cerebral high. Definitely out of this world!","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/tAHHcVjF5EvieYWgrsxPA0WBCr8=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fRAbBXkNBSHOIMMxhio7k_wide-brim-red.png"},{"id":1629699,"username":"13Gawd","text":"Amazing skunkyness using while I broke my wrist just great fir pain and sleep new favorite ","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":148,"flavors":[{"name":"Skunk","score":29.469632164242942},{"name":"Pine","score":23.924129762453116},{"name":"Woody","score":5.043758636573008},{"name":"Citrus","score":4.4449562413634274},{"name":"Earthy","score":3.44311377245509}],"effects":[{"name":"Relaxed","score":106.88458248338488},{"name":"Happy","score":83.059156412449823},{"name":"Sleepy","score":68.720800157925908},{"name":"Hungry","score":45.499111666776344},{"name":"Euphoric","score":43.748766203856022}],"symptoms":[{"name":"Insomnia","score":72.320194775284591},{"name":"Stress","score":62.778837928538522},{"name":"Pain","score":54.338027242218857},{"name":"Depression","score":53.693163124300845},{"name":"Lack of Appetite","score":38.509245245772192}],"conditions":[{"name":"Anxiety","score":41.65295782062249},{"name":"PTSD","score":33.016384812792},{"name":"Migraines","score":30.966638152266892},{"name":"Bipolar Disorder","score":29.319931565440545},{"name":"ADD/ADHD","score":15.03421727972626}],"negatives":[{"name":"Dry Mouth","score":35.757057313943541},{"name":"Dry Eyes","score":18.627031650983746},{"name":"Dizzy","score":1.7964071856287425},{"name":"Headache","score":0.89820359281437123},{"name":"Paranoid","score":0.5988023952095809}],"articlesAvailable":false,"articleTotalCount":0,"photos":[{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/mars-og_100x100_b06e.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/548879/b/mars-og__primary_537a.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/mars-og_100x100_a4e3.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/500120/b/mars-og__primary_4a0b.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/mars-og_100x100_964d.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/437809/b/mars-og__primary_5906.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/mars-og_100x100_e07a.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/409325/b/mars-og__primary_2293.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/mars-og_100x100_5c82.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/408323/b/mars-og__primary_757b.jpg"},{"uploaded":"\/Date(-62135596800000)\/","thumb":"https://leafly-s3.s3.amazonaws.com/leafly/reviews/mars-og_100x100_ca68.jpg","fullsize":"https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/394026/b/mars-og__primary_2120.jpg"}],"photoTotalCount":28,"popularCities":["Los Angeles, CA","Santa Ana, CA","Chandler, AZ","Detroit, MI","Mesa, AZ","Portland, OR","San Diego, CA","West Hollywood, CA"],"permalink":"https://mobileapi.leafly.com/indica/mars-og","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.38513513513514/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Indica",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 41.65295782062249
+        },
+        {
+            "name": "PTSD",
+            "score": 33.016384812792
+        },
+        {
+            "name": "Migraines",
+            "score": 30.966638152266892
+        },
+        {
+            "name": "Bipolar Disorder",
+            "score": 29.319931565440545
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 15.03421727972626
+        }
+    ],
+    "description": "<p>Mars OG is one spacey indica. Coming out of the California Bay Area, Mars OG has been given its planetary name in reference to its growing conditions. Planetary strains refer to strains which began indoors and were moved outdoors to complete the grow cycle in more natural conditions. The end result is a dense bud with a high flower-to-leaf ratio that produces a heavy-handed body buzz. With a hearty, thick taste and pungent smell, Mars OG will take away your pains and easily put you to sleep.</p>\n",
+    "descriptionPlain": "Mars OG is one spacey indica. Coming out of the California Bay Area, Mars OG has been given its planetary name in reference to its growing conditions. Planetary strains refer to strains which began indoors and were moved outdoors to complete the grow cycle in more natural conditions. The end result is a dense bud with a high flower-to-leaf ratio that produces a heavy-handed body buzz. With a hearty, thick taste and pungent smell, Mars OG will take away your pains and easily put you to sleep.\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 106.88458248338488
+        },
+        {
+            "name": "Happy",
+            "score": 83.05915641244982
+        },
+        {
+            "name": "Sleepy",
+            "score": 68.72080015792591
+        },
+        {
+            "name": "Hungry",
+            "score": 45.499111666776344
+        },
+        {
+            "name": "Euphoric",
+            "score": 43.74876620385602
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Skunk",
+            "score": 29.46963216424294
+        },
+        {
+            "name": "Pine",
+            "score": 23.924129762453116
+        },
+        {
+            "name": "Woody",
+            "score": 5.043758636573008
+        },
+        {
+            "name": "Citrus",
+            "score": 4.444956241363427
+        },
+        {
+            "name": "Earthy",
+            "score": 3.44311377245509
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/tAHHcVjF5EvieYWgrsxPA0WBCr8=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fRAbBXkNBSHOIMMxhio7k_wide-brim-red.png",
+            "id": 1415608,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Such a fun strain! But don't plan to do anything important on it. Within 10 minutes of smoking this strain i had lost my keys, phone and shoes. It was just a chain of losing things and searching for them. Once I was able to locate everything I settled into a relaxing and cerebral high. Definitely out of this world!",
+            "username": "gurren_lynx"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/iR6IuKvNS4kfUN8_zPVWuv2RQhI=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fzZcIzCLFRUK1wTKghrMN_aviator-red.png",
+            "id": 1629699,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Amazing skunkyness using while I broke my wrist just great fir pain and sleep new favorite ",
+            "username": "13Gawd"
+        }
+    ],
+    "id": 886,
+    "name": "Mars OG",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 35.75705731394354
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 18.627031650983746
+        },
+        {
+            "name": "Dizzy",
+            "score": 1.7964071856287425
+        },
+        {
+            "name": "Headache",
+            "score": 0.8982035928143712
+        },
+        {
+            "name": "Paranoid",
+            "score": 0.5988023952095809
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/indica/mars-og",
+    "photoTotalCount": 28,
+    "photos": [
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/548879/b/mars-og__primary_537a.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/mars-og_100x100_b06e.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/500120/b/mars-og__primary_4a0b.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/mars-og_100x100_a4e3.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/437809/b/mars-og__primary_5906.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/mars-og_100x100_964d.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/409325/b/mars-og__primary_2293.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/mars-og_100x100_e07a.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/408323/b/mars-og__primary_757b.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/mars-og_100x100_5c82.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        },
+        {
+            "fullsize": "https://d3ix816x6wuc0d.cloudfront.net/cdn/strain-photo/394026/b/mars-og__primary_2120.jpg",
+            "thumb": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/mars-og_100x100_ca68.jpg",
+            "uploaded": "/Date(-62135596800000)/"
+        }
+    ],
+    "popularCities": [
+        "Los Angeles, CA",
+        "Santa Ana, CA",
+        "Chandler, AZ",
+        "Detroit, MI",
+        "Mesa, AZ",
+        "Portland, OR",
+        "San Diego, CA",
+        "West Hollywood, CA"
+    ],
+    "rating": 4.39,
+    "relatedStrains": [],
+    "reviewCount": 148,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "mars-og",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.38513513513514/240",
+    "subtitle": null,
+    "symbol": "Mar",
+    "symptoms": [
+        {
+            "name": "Insomnia",
+            "score": 72.32019477528459
+        },
+        {
+            "name": "Stress",
+            "score": 62.77883792853852
+        },
+        {
+            "name": "Pain",
+            "score": 54.33802724221886
+        },
+        {
+            "name": "Depression",
+            "score": 53.693163124300845
+        },
+        {
+            "name": "Lack of Appetite",
+            "score": 38.50924524577219
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

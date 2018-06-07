@@ -1,1 +1,146 @@
-{"sl_translate":"description,descriptionPlain,category","id":500952,"slug":"summer-breeze","name":"Summer Breeze","subtitle":null,"symbol":"Sbz","category":"Hybrid","description":"\u003cp\u003eSummer Breeze is a cross of original genetics created in part by Swamp Boys Seeds collaborator, Cornbread Ricky. This strain is a synthesis of Cornbread Ricky\u0026rsquo;s McFly strain (Sour Queen x \u003ca href=\"https://www.leafly.com/hybrid/cinderella-99\"\u003eCinderella 99\u003c/a\u003e) and SBS\u0026rsquo;s Orange Blossom Trail. Summer Breeze emits an uplifting tropical aroma that calls out to sunny days and long afternoons. The buzz is happy and inspiring, elevating the mood and disintegrating stress with each rich exhale.\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Summer Breeze is a cross of original genetics created in part by Swamp Boys Seeds collaborator, Cornbread Ricky. This strain is a synthesis of Cornbread Ricky\u0026rsquo;s McFly strain (Sour Queen x Cinderella 99) and SBS\u0026rsquo;s Orange Blossom Trail. Summer Breeze emits an uplifting tropical aroma that calls out to sunny days and long afternoons. The buzz is happy and inspiring, elevating the mood and disintegrating stress with each rich exhale.\u0026nbsp;\n","aka":null,"rating":5,"highlightedReviews":[{"id":1538354,"username":"BongBomb","text":"Great flavor, citrusy and floral. Really happy high.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png"},{"id":1574469,"username":"Stoner863","text":"What a wonderful strain. Quick onset relaxing more Indica than sativa feel to it but the flavors are tremendously satisfying. Bag appeal beautiful. Sticky icky sweet floral aroma. 👍🏾👍🏾👍🏾👍🏾👍🏾👍🏾","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png"}],"relatedStrains":[],"articles":[],"reviewCount":3,"flavors":[{"name":"Citrus","score":25},{"name":"Orange","score":25},{"name":"Pineapple","score":25},{"name":"Apple","score":25},{"name":"Flowery","score":25}],"effects":[{"name":"Uplifted","score":50},{"name":"Euphoric","score":50},{"name":"Talkative","score":25},{"name":"Creative","score":25},{"name":"Giggly","score":25}],"symptoms":[{"name":"Depression","score":75},{"name":"Stress","score":50},{"name":"Fatigue","score":25},{"name":"Pain","score":25}],"conditions":[{"name":"ADD/ADHD","score":25},{"name":"Anxiety","score":25},{"name":"Arthritis","score":25},{"name":"PMS","score":25}],"negatives":[{"name":"Dry Mouth","score":50}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Phoenix, AZ","Spokane, WA","Airway Heights, WA","Prescott Valley, AZ","Spokane Valley, WA","Springfield, OR"],"permalink":"https://mobileapi.leafly.com/hybrid/summer-breeze","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "ADD/ADHD",
+            "score": 25
+        },
+        {
+            "name": "Anxiety",
+            "score": 25
+        },
+        {
+            "name": "Arthritis",
+            "score": 25
+        },
+        {
+            "name": "PMS",
+            "score": 25
+        }
+    ],
+    "description": "<p>Summer Breeze is a cross of original genetics created in part by Swamp Boys Seeds collaborator, Cornbread Ricky. This strain is a synthesis of Cornbread Ricky&rsquo;s McFly strain (Sour Queen x <a href=\"https://www.leafly.com/hybrid/cinderella-99\">Cinderella 99</a>) and SBS&rsquo;s Orange Blossom Trail. Summer Breeze emits an uplifting tropical aroma that calls out to sunny days and long afternoons. The buzz is happy and inspiring, elevating the mood and disintegrating stress with each rich exhale.&nbsp;</p>\n",
+    "descriptionPlain": "Summer Breeze is a cross of original genetics created in part by Swamp Boys Seeds collaborator, Cornbread Ricky. This strain is a synthesis of Cornbread Ricky&rsquo;s McFly strain (Sour Queen x Cinderella 99) and SBS&rsquo;s Orange Blossom Trail. Summer Breeze emits an uplifting tropical aroma that calls out to sunny days and long afternoons. The buzz is happy and inspiring, elevating the mood and disintegrating stress with each rich exhale.&nbsp;\n",
+    "effects": [
+        {
+            "name": "Uplifted",
+            "score": 50
+        },
+        {
+            "name": "Euphoric",
+            "score": 50
+        },
+        {
+            "name": "Talkative",
+            "score": 25
+        },
+        {
+            "name": "Creative",
+            "score": 25
+        },
+        {
+            "name": "Giggly",
+            "score": 25
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Citrus",
+            "score": 25
+        },
+        {
+            "name": "Orange",
+            "score": 25
+        },
+        {
+            "name": "Pineapple",
+            "score": 25
+        },
+        {
+            "name": "Apple",
+            "score": 25
+        },
+        {
+            "name": "Flowery",
+            "score": 25
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/sEr1lLSsigAbtuUqOjDw7XiLHMg=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fjZ9suBanRKGAwRQasGRx_wayfarers-green.png",
+            "id": 1538354,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "Great flavor, citrusy and floral. Really happy high.",
+            "username": "BongBomb"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/zpAejlDOaSOf3oYP9foiJu8Grk4=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fwRzDidxTTBOUgBueztBj_goggles-purple.png",
+            "id": 1574469,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "What a wonderful strain. Quick onset relaxing more Indica than sativa feel to it but the flavors are tremendously satisfying. Bag appeal beautiful. Sticky icky sweet floral aroma. \ud83d\udc4d\ud83c\udffe\ud83d\udc4d\ud83c\udffe\ud83d\udc4d\ud83c\udffe\ud83d\udc4d\ud83c\udffe\ud83d\udc4d\ud83c\udffe\ud83d\udc4d\ud83c\udffe",
+            "username": "Stoner863"
+        }
+    ],
+    "id": 500952,
+    "name": "Summer Breeze",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 50
+        }
+    ],
+    "parents": [],
+    "permalink": "https://mobileapi.leafly.com/hybrid/summer-breeze",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Phoenix, AZ",
+        "Spokane, WA",
+        "Airway Heights, WA",
+        "Prescott Valley, AZ",
+        "Spokane Valley, WA",
+        "Springfield, OR"
+    ],
+    "rating": 5,
+    "relatedStrains": [],
+    "reviewCount": 3,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "summer-breeze",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+    "subtitle": null,
+    "symbol": "Sbz",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 75
+        },
+        {
+            "name": "Stress",
+            "score": 50
+        },
+        {
+            "name": "Fatigue",
+            "score": 25
+        },
+        {
+            "name": "Pain",
+            "score": 25
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

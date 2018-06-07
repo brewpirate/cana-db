@@ -1,1 +1,124 @@
-{"sl_translate":"description,descriptionPlain,category","id":500787,"slug":"dr-quantum","name":"Dr. Quantum","subtitle":null,"symbol":"Drq","category":"Hybrid","description":"\u003cp\u003eDr. Quantum is an indica-dominant cross of \u003ca href=\"https://www.leafly.com/hybrid/dr-who\"\u003eDr. Who\u003c/a\u003e and \u003ca href=\"https://www.leafly.com/sativa/quantum-kush\"\u003eQuantum Kush\u003c/a\u003e, and it strikes a balance between potency and playfulness. The strain hits fast with a heady, giggly buzz that is easy on the body. Dr. Quantum has a deep citrus perfume aroma with earthy, floral undertones. Utilize this strain to release stress and indulge in the carefree whimsy only cannabis can offer.\u0026nbsp; \u0026nbsp;\u0026nbsp;\u003c/p\u003e\n\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Dr. Quantum is an indica-dominant cross of Dr. Who and Quantum Kush, and it strikes a balance between potency and playfulness. The strain hits fast with a heady, giggly buzz that is easy on the body. Dr. Quantum has a deep citrus perfume aroma with earthy, floral undertones. Utilize this strain to release stress and indulge in the carefree whimsy only cannabis can offer.\u0026nbsp; \u0026nbsp;\u0026nbsp;\n\n\u0026nbsp;\n","aka":null,"rating":4,"highlightedReviews":[{"id":1550013,"username":"Rexhungus","text":"Nice relaxing high. Can give you a strong head high and pressure behind the eyes; however, you will feel nice and relaxed. I recently bought some and tried it on it\u0027s own and found that it shared some similarities with Sunset Sherbet. Now I grind up both strains and make a cocktail, which I smoke at night and everything slows down and life becomes more peaceful.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/YEN1LqXiYCOvWiFhmP-4p67iqDM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fY9fB9qHySLml8016ysgJ_goggles-green.png"},{"id":1550013,"username":"Rexhungus","text":"Nice relaxing high. Can give you a strong head high and pressure behind the eyes; however, you will feel nice and relaxed. I recently bought some and tried it on it\u0027s own and found that it shared some similarities with Sunset Sherbet. Now I grind up both strains and make a cocktail, which I smoke at night and everything slows down and life becomes more peaceful.","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/YEN1LqXiYCOvWiFhmP-4p67iqDM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fY9fB9qHySLml8016ysgJ_goggles-green.png"}],"relatedStrains":[],"articles":[],"reviewCount":1,"flavors":[],"effects":[{"name":"Sleepy","score":100},{"name":"Relaxed","score":100}],"symptoms":[{"name":"Depression","score":100},{"name":"Insomnia","score":100},{"name":"Stress","score":100}],"conditions":[{"name":"Anxiety","score":100},{"name":"PTSD","score":100}],"negatives":[{"name":"Dry Mouth","score":100}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Montréal, QC","Vancouver, BC","Barrie, ON","Brampton, ON","Calgary, AB","Coquitlam, BC","Edmonton, AB","Fredericton, NB","Halifax, NS","Hamilton, ON"],"permalink":"https://mobileapi.leafly.com/hybrid/dr-quantum","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"Dr. Who","subtitle":null,"slug":"dr-who","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/dr-who","symbol":"Drw","applink":"leafly://strain/dr-who"},{"name":"Quantum Kush","subtitle":null,"slug":"quantum-kush","category":"Sativa","permalink":"https://mobileapi.leafly.com/sativa/quantum-kush","symbol":"Quk","applink":"leafly://strain/quantum-kush"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 100
+        },
+        {
+            "name": "PTSD",
+            "score": 100
+        }
+    ],
+    "description": "<p>Dr. Quantum is an indica-dominant cross of <a href=\"https://www.leafly.com/hybrid/dr-who\">Dr. Who</a> and <a href=\"https://www.leafly.com/sativa/quantum-kush\">Quantum Kush</a>, and it strikes a balance between potency and playfulness. The strain hits fast with a heady, giggly buzz that is easy on the body. Dr. Quantum has a deep citrus perfume aroma with earthy, floral undertones. Utilize this strain to release stress and indulge in the carefree whimsy only cannabis can offer.&nbsp; &nbsp;&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+    "descriptionPlain": "Dr. Quantum is an indica-dominant cross of Dr. Who and Quantum Kush, and it strikes a balance between potency and playfulness. The strain hits fast with a heady, giggly buzz that is easy on the body. Dr. Quantum has a deep citrus perfume aroma with earthy, floral undertones. Utilize this strain to release stress and indulge in the carefree whimsy only cannabis can offer.&nbsp; &nbsp;&nbsp;\n\n&nbsp;\n",
+    "effects": [
+        {
+            "name": "Sleepy",
+            "score": 100
+        },
+        {
+            "name": "Relaxed",
+            "score": 100
+        }
+    ],
+    "flavors": [],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/YEN1LqXiYCOvWiFhmP-4p67iqDM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fY9fB9qHySLml8016ysgJ_goggles-green.png",
+            "id": 1550013,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Nice relaxing high. Can give you a strong head high and pressure behind the eyes; however, you will feel nice and relaxed. I recently bought some and tried it on it's own and found that it shared some similarities with Sunset Sherbet. Now I grind up both strains and make a cocktail, which I smoke at night and everything slows down and life becomes more peaceful.",
+            "username": "Rexhungus"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/YEN1LqXiYCOvWiFhmP-4p67iqDM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fY9fB9qHySLml8016ysgJ_goggles-green.png",
+            "id": 1550013,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "Nice relaxing high. Can give you a strong head high and pressure behind the eyes; however, you will feel nice and relaxed. I recently bought some and tried it on it's own and found that it shared some similarities with Sunset Sherbet. Now I grind up both strains and make a cocktail, which I smoke at night and everything slows down and life becomes more peaceful.",
+            "username": "Rexhungus"
+        }
+    ],
+    "id": 500787,
+    "name": "Dr. Quantum",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 100
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/dr-who",
+            "category": "Hybrid",
+            "name": "Dr. Who",
+            "permalink": "https://mobileapi.leafly.com/hybrid/dr-who",
+            "slug": "dr-who",
+            "subtitle": null,
+            "symbol": "Drw"
+        },
+        {
+            "applink": "leafly://strain/quantum-kush",
+            "category": "Sativa",
+            "name": "Quantum Kush",
+            "permalink": "https://mobileapi.leafly.com/sativa/quantum-kush",
+            "slug": "quantum-kush",
+            "subtitle": null,
+            "symbol": "Quk"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/dr-quantum",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Montr\u00e9al, QC",
+        "Vancouver, BC",
+        "Barrie, ON",
+        "Brampton, ON",
+        "Calgary, AB",
+        "Coquitlam, BC",
+        "Edmonton, AB",
+        "Fredericton, NB",
+        "Halifax, NS",
+        "Hamilton, ON"
+    ],
+    "rating": 4,
+    "relatedStrains": [],
+    "reviewCount": 1,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "dr-quantum",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+    "subtitle": null,
+    "symbol": "Drq",
+    "symptoms": [
+        {
+            "name": "Depression",
+            "score": 100
+        },
+        {
+            "name": "Insomnia",
+            "score": 100
+        },
+        {
+            "name": "Stress",
+            "score": 100
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}

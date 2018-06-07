@@ -1,1 +1,172 @@
-{"sl_translate":"description,descriptionPlain,category","id":240532,"slug":"legalized-og","name":"Legalized OG","subtitle":null,"symbol":"Llg","category":"Hybrid","description":"\u003cp\u003eLegalized OG is a popularized cut of the famous \u003ca href=\"https://www.leafly.com/hybrid/og-kush\"\u003eOG Kush\u003c/a\u003e. This strain\u0026rsquo;s flavor is piney with fruity nuances that some might describe as grape or berry. The effects set in immediately and envelop the body from the head down with a sedating buzz that lingers and weighs on the body. Legalized OG stays true to its OG roots and would be an ideal cut for patients seeking relief from chronic pain, nausea, or restlessness. \u0026nbsp;\u003c/p\u003e\n","descriptionPlain":"Legalized OG is a popularized cut of the famous OG Kush. This strain\u0026rsquo;s flavor is piney with fruity nuances that some might describe as grape or berry. The effects set in immediately and envelop the body from the head down with a sedating buzz that lingers and weighs on the body. Legalized OG stays true to its OG roots and would be an ideal cut for patients seeking relief from chronic pain, nausea, or restlessness. \u0026nbsp;\n","aka":null,"rating":4.79,"highlightedReviews":[{"id":1394605,"username":"ashlielizabeth1","text":"competes for #1 in my book. hit to the dome and instant relaxation. I overthink and have anxiety and this is the true cure my friends! 😊","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/5/240","avatar":"https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png"},{"id":1625439,"username":"Saucelord710","text":"I had this strain in terp wax and it was very flavorful (hints of pine and diesel)  and the high from one 0.15 dab lasted about 2 hours and the overall calmness lasted about 4. I have a tolerance of smoking about a gram a day of concentrate","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4/240","avatar":"https://ddd33q3967xhi.cloudfront.net/XRYqzYK3o4q7eiqa4tRKs0rwo7Q=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fW7fVX5AQLmXra7zAGlYf_wayfarers-red.png"}],"relatedStrains":[],"articles":[],"reviewCount":14,"flavors":[{"name":"Pine","score":105},{"name":"Diesel","score":102.5},{"name":"Pungent","score":10},{"name":"Chemical","score":7.5},{"name":"Spicy/Herbal","score":5}],"effects":[{"name":"Relaxed","score":137.5},{"name":"Happy","score":125},{"name":"Focused","score":30},{"name":"Uplifted","score":20},{"name":"Sleepy","score":17.5}],"symptoms":[{"name":"Pain","score":127.5},{"name":"Depression","score":120},{"name":"Stress","score":117.5},{"name":"Inflammation","score":22.5},{"name":"Insomnia","score":15}],"conditions":[{"name":"Anxiety","score":117.5},{"name":"Arthritis","score":15},{"name":"PTSD","score":15},{"name":"Fibromyalgia","score":12.5},{"name":"ADD/ADHD","score":5}],"negatives":[{"name":"Dry Mouth","score":15},{"name":"Dry Eyes","score":2.5}],"articlesAvailable":false,"articleTotalCount":0,"photos":[],"photoTotalCount":0,"popularCities":["Everett, WA","Arlington, WA","Edmonds, WA","George, WA","Granite Falls, WA","Lynden, WA","Lynnwood, WA","Moses Lake, WA","Mount Vernon, WA","Oak Harbor, WA"],"permalink":"https://mobileapi.leafly.com/hybrid/legalized-og","starImage":"https://d3ix816x6wuc0d.cloudfront.net/stars/4.78571428571429/240","testGraph":null,"weakDescription":false,"videoUrl":null,"parents":[{"name":"OG Kush","subtitle":null,"slug":"og-kush","category":"Hybrid","permalink":"https://mobileapi.leafly.com/hybrid/og-kush","symbol":"Ogk","applink":"leafly://strain/og-kush"}],"growInfo":{"difficulty":null,"preferredMedium":null,"floweringDays":0,"outdoorFinish":null,"height":null,"averageYield":null,"environment":null,"growNotes":""}}
+{
+    "aka": null,
+    "articleTotalCount": 0,
+    "articles": [],
+    "articlesAvailable": false,
+    "category": "Hybrid",
+    "conditions": [
+        {
+            "name": "Anxiety",
+            "score": 117.5
+        },
+        {
+            "name": "Arthritis",
+            "score": 15
+        },
+        {
+            "name": "PTSD",
+            "score": 15
+        },
+        {
+            "name": "Fibromyalgia",
+            "score": 12.5
+        },
+        {
+            "name": "ADD/ADHD",
+            "score": 5
+        }
+    ],
+    "description": "<p>Legalized OG is a popularized cut of the famous <a href=\"https://www.leafly.com/hybrid/og-kush\">OG Kush</a>. This strain&rsquo;s flavor is piney with fruity nuances that some might describe as grape or berry. The effects set in immediately and envelop the body from the head down with a sedating buzz that lingers and weighs on the body. Legalized OG stays true to its OG roots and would be an ideal cut for patients seeking relief from chronic pain, nausea, or restlessness. &nbsp;</p>\n",
+    "descriptionPlain": "Legalized OG is a popularized cut of the famous OG Kush. This strain&rsquo;s flavor is piney with fruity nuances that some might describe as grape or berry. The effects set in immediately and envelop the body from the head down with a sedating buzz that lingers and weighs on the body. Legalized OG stays true to its OG roots and would be an ideal cut for patients seeking relief from chronic pain, nausea, or restlessness. &nbsp;\n",
+    "effects": [
+        {
+            "name": "Relaxed",
+            "score": 137.5
+        },
+        {
+            "name": "Happy",
+            "score": 125
+        },
+        {
+            "name": "Focused",
+            "score": 30
+        },
+        {
+            "name": "Uplifted",
+            "score": 20
+        },
+        {
+            "name": "Sleepy",
+            "score": 17.5
+        }
+    ],
+    "flavors": [
+        {
+            "name": "Pine",
+            "score": 105
+        },
+        {
+            "name": "Diesel",
+            "score": 102.5
+        },
+        {
+            "name": "Pungent",
+            "score": 10
+        },
+        {
+            "name": "Chemical",
+            "score": 7.5
+        },
+        {
+            "name": "Spicy/Herbal",
+            "score": 5
+        }
+    ],
+    "growInfo": {
+        "averageYield": null,
+        "difficulty": null,
+        "environment": null,
+        "floweringDays": 0,
+        "growNotes": "",
+        "height": null,
+        "outdoorFinish": null,
+        "preferredMedium": null
+    },
+    "highlightedReviews": [
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/Y7BSixzkNSIjwGyJmmVeYdOkdXM=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fgcfM1zHxS6e5qNX7cx4M_goggles-red.png",
+            "id": 1394605,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/5/240",
+            "text": "competes for #1 in my book. hit to the dome and instant relaxation. I overthink and have anxiety and this is the true cure my friends! \ud83d\ude0a",
+            "username": "ashlielizabeth1"
+        },
+        {
+            "avatar": "https://ddd33q3967xhi.cloudfront.net/XRYqzYK3o4q7eiqa4tRKs0rwo7Q=/fit-in/300x300/https%3a%2f%2fs3.amazonaws.com%2fleafly%2fbin%2fW7fVX5AQLmXra7zAGlYf_wayfarers-red.png",
+            "id": 1625439,
+            "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4/240",
+            "text": "I had this strain in terp wax and it was very flavorful (hints of pine and diesel)  and the high from one 0.15 dab lasted about 2 hours and the overall calmness lasted about 4. I have a tolerance of smoking about a gram a day of concentrate",
+            "username": "Saucelord710"
+        }
+    ],
+    "id": 240532,
+    "name": "Legalized OG",
+    "negatives": [
+        {
+            "name": "Dry Mouth",
+            "score": 15
+        },
+        {
+            "name": "Dry Eyes",
+            "score": 2.5
+        }
+    ],
+    "parents": [
+        {
+            "applink": "leafly://strain/og-kush",
+            "category": "Hybrid",
+            "name": "OG Kush",
+            "permalink": "https://mobileapi.leafly.com/hybrid/og-kush",
+            "slug": "og-kush",
+            "subtitle": null,
+            "symbol": "Ogk"
+        }
+    ],
+    "permalink": "https://mobileapi.leafly.com/hybrid/legalized-og",
+    "photoTotalCount": 0,
+    "photos": [],
+    "popularCities": [
+        "Everett, WA",
+        "Arlington, WA",
+        "Edmonds, WA",
+        "George, WA",
+        "Granite Falls, WA",
+        "Lynden, WA",
+        "Lynnwood, WA",
+        "Moses Lake, WA",
+        "Mount Vernon, WA",
+        "Oak Harbor, WA"
+    ],
+    "rating": 4.79,
+    "relatedStrains": [],
+    "reviewCount": 14,
+    "sl_translate": "description,descriptionPlain,category",
+    "slug": "legalized-og",
+    "starImage": "https://d3ix816x6wuc0d.cloudfront.net/stars/4.78571428571429/240",
+    "subtitle": null,
+    "symbol": "Llg",
+    "symptoms": [
+        {
+            "name": "Pain",
+            "score": 127.5
+        },
+        {
+            "name": "Depression",
+            "score": 120
+        },
+        {
+            "name": "Stress",
+            "score": 117.5
+        },
+        {
+            "name": "Inflammation",
+            "score": 22.5
+        },
+        {
+            "name": "Insomnia",
+            "score": 15
+        }
+    ],
+    "testGraph": null,
+    "videoUrl": null,
+    "weakDescription": false
+}
